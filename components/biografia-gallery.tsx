@@ -1,71 +1,56 @@
 "use client"
 
-import { useState, useEffect } from "react"
+import React, { useMemo, useState } from "react"
 
-interface GalleryImage {
-  src: string
-  alt: string
-}
+type GalleryImage = { src: string; alt?: string }
+type Category = { name: string; images: GalleryImage[] }
 
-const images: GalleryImage[] = [
-  {
-    src: "/images/biografia.png",
-    alt: "P. Diego Fares SJ"
-  },
-  {
-    src: "/images/carousel1.png",
-    alt: "P. Diego Fares SJ con el Papa Francisco"
-  },
-  {
-    src: "/images/carousel2.png",
-    alt: "P. Diego Fares SJ con el Papa Francisco"
-  },
-  {
-    src: "/images/carousel3.png",
-    alt: "P. Diego Fares SJ con el Papa Francisco"
-  },
-  {
-    src: "/images/carousel.png",
-    alt: "P. Diego Fares SJ"
-  },
-  {
-    src: "/images/logo.svg",
-    alt: "Logo P. Diego Fares SJ"
-  }
-]
+export default function BiografiaGallery({ categories }: { categories: Category[] }) {
+  const [active, setActive] = useState<string>("All")
 
-export default function BiografiaGallery() {
-  const [startIndex, setStartIndex] = useState(0)
+  const flat = useMemo(() => {
+    return categories.flatMap((c) =>
+      c.images.map((img) => ({ ...img, category: c.name }))
+    )
+  }, [categories])
 
-  // Auto-advance every 5 seconds
-  useEffect(() => {
-    const interval = setInterval(() => {
-      setStartIndex((prev) => (prev + 1) % images.length)
-    }, 5000)
-
-    return () => clearInterval(interval)
-  }, [])
-
-  // Create rotated array based on startIndex
-  const rotatedImages = [
-    ...images.slice(startIndex),
-    ...images.slice(0, startIndex)
-  ]
+  const displayed = active === "All" ? flat : flat.filter((i) => i.category === active)
 
   return (
-    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-      {rotatedImages.map((image, index) => (
-        <div
-          key={`${startIndex}-${index}`}
-          className="aspect-square bg-white rounded-lg shadow-sm overflow-hidden transition-all duration-500"
+    <div>
+      <div className="flex flex-wrap gap-2 justify-center mb-6">
+        <button
+          onClick={() => setActive("All")}
+          className={`px-4 py-2 rounded-md font-medium transition-colors ${
+            active === "All" ? "bg-slate-700 text-white" : "bg-white border"
+          }`}
         >
-          <img
-            src={image.src}
-            alt={image.alt}
-            className="w-full h-full object-cover"
-          />
-        </div>
-      ))}
+          Todas
+        </button>
+
+        {categories.map((c) => (
+          <button
+            key={c.name}
+            onClick={() => setActive(c.name)}
+            className={`px-4 py-2 rounded-md font-medium transition-colors ${
+              active === c.name ? "bg-slate-700 text-white" : "bg-white border"
+            }`}
+          >
+            {c.name}
+          </button>
+        ))}
+      </div>
+
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {displayed.map((img, idx) => (
+          <div
+            key={`${img.src}-${idx}`}
+            className="aspect-square bg-white rounded-lg shadow-sm overflow-hidden"
+          >
+            <img src={img.src} alt={img.alt ?? ""} loading="lazy" className="w-full h-full object-cover" />
+          </div>
+        ))}
+      </div>
     </div>
   )
 }
