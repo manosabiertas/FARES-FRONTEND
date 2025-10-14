@@ -128,17 +128,6 @@ const documents = [
   },
 ]
 
-const categories = [
-  { name: "Todos", icon: FileTextIcon, active: true },
-  { name: "Artículos", icon: FileTextIcon, active: false },
-  { name: "Contemplaciones", icon: BookIcon, active: false },
-  { name: "Ejercicios Espirituales", icon: FileTextIcon, active: false },
-  { name: "Artículos de Revista", icon: FileTextIcon, active: false },
-  { name: "Libros", icon: BookIcon, active: false },
-  { name: "Audios", icon: VolumeIcon, active: false },
-  { name: "Videos", icon: PlayIcon, active: false },
-]
-
 export default function DocumentosPage() {
   const {
     query,
