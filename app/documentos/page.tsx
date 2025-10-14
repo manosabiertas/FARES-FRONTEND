@@ -137,6 +137,7 @@ export default function DocumentosPage() {
     error,
     setQuery,
     setActiveCategory,
+    showSearchBar,
   } = useSearch() // Add your API endpoint here when ready: useSearch("/api/search")
 
   // Function to highlight search terms in text
@@ -197,26 +198,28 @@ export default function DocumentosPage() {
                 </div>
 
                 {/* Search Bar */}
-                <div className="bg-white rounded-2xl p-4 lg:p-6 shadow-sm mb-6">
-                  <div className="relative">
-                    <div className="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-400">
-                      <SearchIcon />
+                {showSearchBar && (
+                  <div className="bg-white rounded-2xl p-4 lg:p-6 shadow-sm mb-6">
+                    <div className="relative">
+                      <div className="absolute left-4 top-1/2 transform -translate-y-1/2 text-gray-400">
+                        <SearchIcon />
+                      </div>
+                      <input
+                        type="text"
+                        value={query}
+                        onChange={(e) => setQuery(e.target.value)}
+                        placeholder="Buscar en documentos, títulos, contenido..."
+                        className="w-full pl-12 pr-4 py-3 bg-gray-100 rounded-lg border-0 focus:ring-2 focus:ring-slate-400 focus:bg-white transition-colors"
+                      />
                     </div>
-                    <input
-                      type="text"
-                      value={query}
-                      onChange={(e) => setQuery(e.target.value)}
-                      placeholder="Buscar en documentos, títulos, contenido..."
-                      className="w-full pl-12 pr-4 py-3 bg-gray-100 rounded-lg border-0 focus:ring-2 focus:ring-slate-400 focus:bg-white transition-colors"
-                    />
+                    <p className="text-sm text-slate-500 mt-3">
+                      {loading ? "Buscando..." : `${results.length} documentos encontrados`}
+                    </p>
+                    {error && (
+                      <p className="text-sm text-red-500 mt-1">Error: {error}</p>
+                    )}
                   </div>
-                  <p className="text-sm text-slate-500 mt-3">
-                    {loading ? "Buscando..." : `${results.length} documentos encontrados`}
-                  </p>
-                  {error && (
-                    <p className="text-sm text-red-500 mt-1">Error: {error}</p>
-                  )}
-                </div>
+                )}
 
                 {/* Documents List */}
                 <div className="space-y-4">

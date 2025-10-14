@@ -29,6 +29,7 @@ export interface SearchState {
   results: SearchResult[]
   loading: boolean
   error: string | null
+  showSearchBar: boolean
 }
 
 export function useSearch(apiEndpoint?: string) {
@@ -44,6 +45,7 @@ export function useSearch(apiEndpoint?: string) {
     results: [],
     loading: false,
     error: null,
+    showSearchBar: true, // Initialize showSearchBar to true
   })
 
   const setQuery = (query: string) => {
@@ -51,6 +53,7 @@ export function useSearch(apiEndpoint?: string) {
   }
 
   const setActiveCategory = (categoryId: string) => {
+    const shouldShowSearchBar = categoryId !== "audios" && categoryId !== "videos";
     setState(prev => ({
       ...prev,
       query: "",
@@ -59,6 +62,7 @@ export function useSearch(apiEndpoint?: string) {
         ...cat,
         active: cat.id === categoryId,
       })),
+      showSearchBar: shouldShowSearchBar,
     }));
   };
 
