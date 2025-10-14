@@ -64,7 +64,7 @@ export function useSearch(apiEndpoint?: string) {
 
   const search = async () => {
     try {
-      setState((prev) => ({ ...prev, loading: true, error: null }))
+      setState((prev) => ({ ...prev, loading: true, error: null, results: [] }))
 
       const activeCategory = state.categories.find(c => c.active)
       const carpeta = activeCategory?.id
@@ -111,7 +111,7 @@ export function useSearch(apiEndpoint?: string) {
   // Load all documents for the selected category
   const loadCategoryDocuments = async () => {
     try {
-      setState((prev) => ({ ...prev, loading: true, error: null }))
+      setState((prev) => ({ ...prev, loading: true, error: null, results: [] }))
 
       const activeCategory = state.categories.find(c => c.active)
       const carpeta = activeCategory?.id
