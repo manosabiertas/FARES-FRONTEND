@@ -156,10 +156,10 @@ export default function DocumentosPage() {
   }
 
   return (
-    <div className="min-h-screen" style={{backgroundColor: '#F7F2EF'}}>
+    <div className="min-h-screen flex flex-col" style={{backgroundColor: '#F7F2EF'}}>
       <Header />
 
-      <main>
+      <main className="flex-grow">
         {/* Hero Section */}
         <section className="py-16 px-4">
           <div className="max-w-6xl mx-auto text-center">

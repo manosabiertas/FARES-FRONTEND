@@ -49,7 +49,7 @@ export default function ChatSection() {
               </div>
 
               {/* Chat Messages */}
-              <div className="min-h-[250px] lg:min-h-[400px] mb-6 space-y-4">
+              <div className="h-[250px] lg:h-[400px] mb-6 space-y-4 overflow-y-auto">
                 {messages.map((msg) => (
                   <div key={msg.id} className={`flex ${msg.sender === 'user' ? 'justify-end' : 'justify-start'}`}>
                     <div className={`max-w-[85%] lg:max-w-[80%] rounded-lg p-3 text-sm ${
