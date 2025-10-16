@@ -19,8 +19,7 @@ export default function HomePage() {
               Legado del P. Diego Fares SJ
             </h1>
             <p className="subtitle-lato max-w-2xl mx-auto text-pretty" style={{color: '#5D5D5D'}}>
-              Un testimonio visual de la vida, enseñanzas y legado espiritual que nos dejó como guía para las
-              generaciones futuras.
+              Vida, obra y enseñanzas que nos dejó como guía.
             </p>
           </div>
         </section>
