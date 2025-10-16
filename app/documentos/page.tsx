@@ -165,7 +165,8 @@ export default function DocumentosPage() {
           <div className="max-w-6xl mx-auto text-center">
             <h1 className="title-playfair mb-6 text-balance text-slate-700">Documentos y Obras</h1>
             <p className="subtitle-lato max-w-2xl mx-auto text-pretty" style={{color: '#5D5D5D'}}>
-              Explorá la rica biblioteca de escritos, contemplaciones y enseñanzas del Padre Diego Fares SJ
+              Explorá los escritos, contemplaciones y enseñanzas del Padre Diego
+Fares SJ
             </p>
           </div>
         </section>

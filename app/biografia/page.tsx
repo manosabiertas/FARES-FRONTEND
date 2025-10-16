@@ -48,8 +48,8 @@ export default async function BiografiaPage() {
         <section className="py-16 px-4">
           <div className="max-w-6xl mx-auto text-center">
             <h1 className="title-playfair mb-6 text-balance text-slate-700">
-              Una vida dedicada al servicio de Dios
-              <br />y la Iglesia Argentina
+              Una vida dedicada al servicio de Dios y su Pueblo
+              <br />
             </h1>
             <p className="subtitle-lato max-w-2xl mx-auto text-pretty" style={{color: '#5D5D5D'}}>
               Conocé la historia del Padre Diego Fares SJ y su legado espiritual
@@ -59,7 +59,7 @@ export default async function BiografiaPage() {
 
         <BiographyCard image="/images/carousel.png" title="Biografía">
           <p>
-            El Padre Diego Fares SJ nació en Buenos Aires en 1955 y dedicó su vida al servicio de Dios y la
+            El Padre Diego Fares SJ nació en Mendoza en 1955 y dedicó su vida al servicio de Dios y la
             Iglesia Argentina. Ingresó a la Compañía de Jesús siendo joven, donde desarrolló una profunda vocación
             por la contemplación y la enseñanza espiritual.
           </p>
@@ -100,7 +100,7 @@ export default async function BiografiaPage() {
         {/* Gallery Section */}
         <section className="px-4 mb-16">
           <div className="max-w-6xl mx-auto">
-            <h2 className="title-playfair-medium text-center mb-8 text-slate-700">Galería de Recuerdos</h2>
+            <h2 className="title-playfair-medium text-center mb-8 text-slate-700">Su vida en imágenes</h2>
 
             <BiografiaGallery categories={categories} />
           </div>

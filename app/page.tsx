@@ -16,7 +16,7 @@ export default function HomePage() {
         <section className="py-16 px-4">
           <div className="max-w-6xl mx-auto text-center">
             <h1 className="title-playfair mb-6 text-balance text-slate-700">
-              Legado del P. Diego Fares SJ
+              Legado Espiritual del P. Diego Javier Fares SJ
             </h1>
             <p className="subtitle-lato max-w-2xl mx-auto text-pretty" style={{color: '#5D5D5D'}}>
               Un testimonio visual de la vida, enseñanzas y legado espiritual que nos dejó como guía para las
@@ -24,7 +24,6 @@ export default function HomePage() {
             </p>
           </div>
         </section>
-
         {/* Video Section */}
         <section className="px-4 mb-16">
           <div className="max-w-6xl mx-auto">
