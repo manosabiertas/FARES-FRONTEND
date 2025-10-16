@@ -32,7 +32,7 @@ export default function ChatSection() {
           <div className="bg-slate-600 px-4 lg:px-6 py-4 flex items-center gap-3">
             <MessageCircle className="w-6 h-6 text-white" />
             <div>
-              <h2 className="title-playfair-medium text-white">Conversá sobre el legado del P. Diego Fares SJ</h2>
+              <h2 className="title-playfair-medium text-white">Profundizá el legado del P. Diego Fares SJ</h2>
               <p className="text-slate-200 text-xs lg:text-sm">Explora sus enseñanzas, contemplaciones y sabiduría espiritual</p>
             </div>
           </div>
@@ -43,8 +43,7 @@ export default function ChatSection() {
             <div className="p-4 lg:p-6">
               <div className="bg-gray-100 rounded-lg p-4 mb-6">
                 <p className="text-sm text-slate-700">
-                  Bienvenido. Estoy aquí para ayudarte a explorar las enseñanzas y el legado del P. Diego Fares SJ. ¿En
-                  qué puedo asistirte hoy?
+                  ¡Bienvenido! Estoy aquí para ayudarte.
                 </p>
               </div>
 
@@ -131,7 +130,7 @@ export default function ChatSection() {
                   value={currentMessage}
                   onChange={(e) => setCurrentMessage(e.target.value)}
                   onKeyPress={handleKeyPress}
-                  placeholder="Escribí tu pregunta sobre el P. Diego Fares SJ y sus enseñanzas..."
+                  placeholder="Escribí tu pregunta"
                   className="flex-1 px-4 py-2 lg:py-3 rounded-lg bg-gray-100 text-gray-900 placeholder-gray-500 border-0 focus:ring-2 focus:ring-slate-400 focus:bg-white transition-colors text-sm lg:text-base"
                   disabled={loading}
                 />

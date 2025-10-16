@@ -15,20 +15,20 @@ const slides: CarouselSlide[] = [
   {
     src: "/images/carousel1.png",
     alt: "P. Diego Fares SJ con el Papa Francisco",
-    title: "Con el Papa Francisco",
-    description: "Encuentro espiritual"
+    title: "Encuentro con el Papa Francisco",
+    description: "Amigos en el Señor"
   },
   {
     src: "/images/carousel2.png",
     alt: "P. Diego Fares SJ con el Papa Francisco",
-    title: "Momento de diálogo",
-    description: "Conversación pastoral"
+    title: "Encuentro con el Papa Francisco",
+    description: "Amigos en el Señor"
   },
   {
     src: "/images/carousel3.png",
     alt: "P. Diego Fares SJ con el Papa Francisco",
-    title: "Bendición papal",
-    description: "Momento de gracia"
+    title: "Encuentro con el Papa Francisco",
+    description: "Amigos en el Señor"
   }
 ]
 
