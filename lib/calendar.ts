@@ -1,4 +1,83 @@
 // Calculos litúrgicos básicos en TypeScript
+/**
+ * 🕊️ 1. El Año Litúrgico
+
+El año litúrgico no coincide con el calendario civil.
+Comienza con el Primer Domingo de Adviento y se divide en:
+
+Adviento (4 semanas antes de Navidad)
+
+Navidad (hasta el Bautismo del Señor)
+
+Tiempo Ordinario I (hasta Cuaresma)
+
+Cuaresma (desde Miércoles de Ceniza hasta Pascua)
+
+Pascua (50 días desde la Resurrección hasta Pentecostés)
+
+Tiempo Ordinario II (desde Pentecostés hasta Adviento)
+
+Cada día dentro de estos tiempos tiene lecturas específicas.
+
+📖 2. Ciclos de Lectura
+
+Domingos y solemnidades:
+Se dividen en tres años:
+
+Año A → Evangelio según Mateo
+
+Año B → Evangelio según Marcos
+
+Año C → Evangelio según Lucas
+(Juan se lee en momentos especiales como Pascua o Cuaresma)
+
+Días feriales (de lunes a sábado):
+Se dividen en dos años:
+
+Año I → años impares
+
+Año II → años pares
+
+⛪ 3. Fuentes de las lecturas
+
+Las lecturas provienen de:
+
+El Leccionario Romano, que tiene varios volúmenes:
+
+Leccionario dominical y festivo
+
+Leccionario ferial
+
+Leccionarios para misas de santos, difuntos y ocasiones especiales
+
+Los textos se basan en la Biblia de la Iglesia (traducción oficial según la conferencia episcopal de cada país).
+
+📅 4. Cómo se determina cada día
+
+Se identifica el tiempo litúrgico y el día específico.
+
+Se consulta el Leccionario correspondiente:
+
+Si es domingo, se usa el ciclo A, B o C.
+
+Si es día de semana, se usa el año I o II.
+
+Si coincide con una fiesta o solemnidad, esta tiene prioridad sobre la lectura ferial.
+
+Algunas memorias opcionales permiten elegir entre las lecturas del día o las del santo.
+
+🪔 5. Ejemplo
+
+Supongamos que hoy es 22 de octubre de 2025:
+
+Tiempo ordinario (segundo bloque)
+
+Año litúrgico B
+
+Año ferial I (porque 2025 es impar)
+
+Por tanto, las lecturas diarias se tomarán del Leccionario ferial del Año I, y si coincide con la memoria de San Juan Pablo II, se pueden usar sus lecturas propias.
+ */
 const contemplacionesData  =[
   {
     "id": 8397,
@@ -7142,31 +7221,29 @@ function mapSeasonToSpanish(season: Season): string {
 
 /**
  * Obtiene las contemplaciones para la semana actual
- * Busca contemplaciones que coincidan con la temporada litúrgica y ciclo actual
+ * Genera contemplaciones para cada día de la semana usando getContemplacionesDia
  */
 export function getContemplacionesSemana(fecha?: Date): ContemplacionesSemana {
   const hoy = fecha || new Date()
   const seasonInfo = getLiturgicalSeason(hoy)
   const year = liturgicalYearForDate(hoy)
   const ciclo = getCicloLiturgico(year)
-  const temporadaEspanol = mapSeasonToSpanish(seasonInfo.season)
   
-  // Filtrar contemplaciones por temporada y ciclo
-  const contemplaciones = (contemplacionesData as Contemplacion[]).filter(cont => {
-    return cont.tiempo_liturgico === temporadaEspanol && cont.ciclo === ciclo
-  })
+  // Calcular el inicio de la semana (domingo)
+  const inicioSemana = new Date(hoy)
+  const diaActual = inicioSemana.getDay() // 0 = domingo, 1 = lunes, etc.
+  inicioSemana.setDate(inicioSemana.getDate() - diaActual)
   
-  // Si no hay contemplaciones para esta temporada específica, buscar solo por ciclo
-  if (contemplaciones.length === 0) {
-    const fallbackContemplaciones = (contemplacionesData as Contemplacion[]).filter(cont => {
-      return cont.ciclo === ciclo
-    })
+  // Generar contemplaciones para cada día de la semana (7 días)
+  const contemplacionesSemana: Contemplacion[] = []
+  
+  for (let i = 0; i < 7; i++) {
+    const fechaDia = new Date(inicioSemana)
+    fechaDia.setDate(inicioSemana.getDate() + i)
     
-    return {
-      fecha: hoy,
-      temporada: seasonInfo.season,
-      ciclo,
-      contemplaciones: fallbackContemplaciones.slice(0, 5) // Limitar a 5 resultados
+    const contemplacionesDia = getContemplacionesDia(fechaDia)
+    if (contemplacionesDia !== null) {
+      contemplacionesSemana.push(...contemplacionesDia)
     }
   }
   
@@ -7174,6 +7251,33 @@ export function getContemplacionesSemana(fecha?: Date): ContemplacionesSemana {
     fecha: hoy,
     temporada: seasonInfo.season,
     ciclo,
-    contemplaciones: contemplaciones.slice(0, 5) // Limitar a 5 resultados
+    contemplaciones: contemplacionesSemana
   }
+}
+
+/**
+ * Obtiene las contemplaciones para un día específico
+ * Busca contemplaciones que coincidan con la temporada litúrgica y ciclo del día dado
+ * Retorna null si no se encuentran contemplaciones
+ */
+export function getContemplacionesDia(fecha: Date): Contemplacion[] | null {
+  const seasonInfo = getLiturgicalSeason(fecha)
+  const year = liturgicalYearForDate(fecha)
+  const ciclo = getCicloLiturgico(year)
+  const temporadaEspanol = mapSeasonToSpanish(seasonInfo.season)
+
+  // Filtrar contemplaciones por temporada y ciclo
+  let contemplaciones = (contemplacionesData as Contemplacion[]).filter(cont => {
+    return cont.tiempo_liturgico === temporadaEspanol && cont.ciclo === ciclo
+  })
+
+  // Si no hay contemplaciones para esta temporada específica, buscar solo por ciclo
+  if (contemplaciones.length === 0) {
+    contemplaciones = (contemplacionesData as Contemplacion[]).filter(cont => {
+      return cont.ciclo === ciclo
+    })
+  }
+
+  // Retornar las contemplaciones encontradas o null si no hay ninguna
+  return contemplaciones.length > 0 ? contemplaciones : null
 }
