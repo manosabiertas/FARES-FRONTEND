@@ -81,53 +81,6 @@ const DownloadIcon = () => (
     />
   </svg>
 )
-
-const documents = [
-  {
-    id: 1,
-    title: "La Oración Contemplativa en la Vida Cristiana",
-    description:
-      "Una reflexión profunda sobre la importancia de la contemplación en el camino espiritual del cristiano moderno",
-    type: "Artículo",
-    icon: FileTextIcon,
-  },
-  {
-    id: 2,
-    title: "Ejercicio de Cuaresma - Primera Semana",
-    description: "Guía completa de ejercicios espirituales para la preparación cuaresmal.",
-    type: "Ejercicio",
-    icon: FileTextIcon,
-  },
-  {
-    id: 3,
-    title: "Contemplación del Domingo de Ramos",
-    description: "Meditación sobre la entrada triunfal de Jesús en Jerusalén y su significado para nuestra fe.",
-    type: "Contemplación",
-    icon: BookIcon,
-  },
-  {
-    id: 4,
-    title: "El Sacerdote y la Comunidad Moderna",
-    description: "Artículo publicado en la revista diocesana sobre el rol del sacerdote en la sociedad contemporánea.",
-    type: "Revista",
-    icon: FileTextIcon,
-  },
-  {
-    id: 5,
-    title: "Caminos de Santidad",
-    description: "Libro completo sobre diversos senderos hacia la santidad en la vida cotidiana.",
-    type: "Libro",
-    icon: BookIcon,
-  },
-  {
-    id: 6,
-    title: "Homilía de Pascua 1998",
-    description: "Registro audio de la homilía pascual pronunciada en la Catedral.",
-    type: "Audio",
-    icon: VolumeIcon,
-  },
-]
-
 export default function DocumentosPage() {
   const {
     query,

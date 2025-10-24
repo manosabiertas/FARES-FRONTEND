@@ -36,10 +36,11 @@ export function useSearch(apiEndpoint?: string) {
   const [state, setState] = useState<SearchState>({
     query: "",
     categories: [
-      { id: "articulos", name: "Artículos", active: true },
+      { id: "articulos", name: "Artículos en Revistas", active: true },
+      { id: "audios", name: "Audios", active: false },
       { id: "contemplaciones", name: "Contemplaciones", active: false },
       { id: "libros", name: "Libros", active: false },
-      { id: "audios", name: "Audios", active: false },
+      { id: "talleres", name: "Talleres E.E", active: false },
       { id: "videos", name: "Videos", active: false },
     ],
     results: [],

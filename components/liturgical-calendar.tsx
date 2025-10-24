@@ -31,9 +31,6 @@ export default function LiturgicalCalendar() {
     contemplaciones: Contemplacion[]
   } | null>(null)
 
-  const today = new Date()
-  const dayNamesShort = ["Dom", "Lun", "Mar", "Mié", "Jue", "Vie", "Sáb"]
-
   // Obtener las contemplaciones de la semana cuando cambia la fecha
   useEffect(() => {
     const contemplaciones = getContemplacionesSemana(currentDate)
@@ -64,28 +61,6 @@ export default function LiturgicalCalendar() {
   }
 
   const weekRange = getWeekRange()
-
-  // Generar los días de la semana con fechas
-  const getWeekDays = () => {
-    const days = []
-    const startOfWeek = new Date(weekRange.start)
-
-    for (let i = 0; i < 7; i++) {
-      const day = new Date(startOfWeek)
-      day.setDate(startOfWeek.getDate() + i)
-      days.push(day)
-    }
-
-    return days
-  }
-
-  const weekDays = getWeekDays()
-
-  const isSameDay = (date1: Date, date2: Date) => {
-    return date1.getDate() === date2.getDate() &&
-           date1.getMonth() === date2.getMonth() &&
-           date1.getFullYear() === date2.getFullYear()
-  }
 
   return (
     <div className="bg-white rounded-lg shadow-sm border p-4 lg:p-6 w-full h-full">
@@ -129,42 +104,16 @@ export default function LiturgicalCalendar() {
           </div>
 
           {/* Información del ciclo y temporada */}
-          <div className="mb-6 flex items-center justify-center gap-3">
-            <div className={`px-4 py-2 rounded-lg border ${seasonColors[contemplacionesSemana.temporada]}`}>
-              <span className="text-sm font-semibold">
+          <div className="mb-6 flex items-center justify-center gap-2">
+            <div className={`px-3 py-1 rounded-md border ${seasonColors[contemplacionesSemana.temporada]}`}>
+              <span className="text-xs font-semibold">
                 {seasonNamesSpanish[contemplacionesSemana.temporada]}
               </span>
             </div>
-            <div className="px-4 py-2 rounded-lg border bg-slate-100 text-slate-700 border-slate-300">
-              <span className="text-sm font-semibold">
+            <div className="px-3 py-1 rounded-md border bg-slate-100 text-slate-700 border-slate-300">
+              <span className="text-xs font-semibold">
                 Ciclo {contemplacionesSemana.ciclo}
               </span>
-            </div>
-          </div>
-
-          {/* Vista de la semana con días */}
-          <div className="mb-6">
-            <div className="grid grid-cols-7 gap-2">
-              {weekDays.map((day, index) => {
-                const isCurrentDay = isSameDay(day, today)
-                return (
-                  <div
-                    key={index}
-                    className={`text-center p-2 rounded-lg border transition-all ${
-                      isCurrentDay
-                        ? 'bg-slate-700 text-white border-slate-800 shadow-md'
-                        : 'bg-slate-50 border-slate-200 hover:border-slate-300'
-                    }`}
-                  >
-                    <div className={`text-xs font-medium mb-1 ${isCurrentDay ? 'text-white' : 'text-slate-600'}`}>
-                      {dayNamesShort[index]}
-                    </div>
-                    <div className={`text-lg font-bold ${isCurrentDay ? 'text-white' : 'text-slate-800'}`}>
-                      {day.getDate()}
-                    </div>
-                  </div>
-                )
-              })}
             </div>
           </div>
 
