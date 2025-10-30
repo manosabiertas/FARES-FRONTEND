@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from "react"
 import { apiClient, type DriveFile } from "@/lib/api-client"
+import { findBookInfo } from "@/lib/books-purchase-links"
 
 export interface SearchCategory {
   id: string
@@ -18,6 +19,7 @@ export interface SearchResult {
   url?: string
   viewLink?: string
   downloadLink?: string
+  purchaseLink?: string
   mimeType?: string
   size?: string
   modifiedTime?: string
@@ -77,18 +79,33 @@ export function useSearch(apiEndpoint?: string) {
       const response = await apiClient.searchDrive(state.query, carpeta)
 
       // Convert DriveFile to SearchResult
-      const results: SearchResult[] = response.archivos.map((file: DriveFile) => ({
-        id: file.id,
-        title: file.name,
-        description: `Archivo ${file.mime_type.includes('pdf') ? 'PDF' : file.mime_type.includes('audio') ? 'de Audio' : file.mime_type.includes('video') ? 'de Video' : 'de Texto'}`,
-        type: getFileType(file.mime_type),
-        category: carpeta || activeCategory?.id || "articulos",
-        viewLink: file.view_link,
-        downloadLink: file.download_link,
-        mimeType: file.mime_type,
-        size: file.size,
-        modifiedTime: file.modified_time
-      }))
+      const results: SearchResult[] = response.archivos.map((file: DriveFile) => {
+        const result: SearchResult = {
+          id: file.id,
+          title: file.name,
+          description: `Archivo ${file.mime_type.includes('pdf') ? 'PDF' : file.mime_type.includes('audio') ? 'de Audio' : file.mime_type.includes('video') ? 'de Video' : 'de Texto'}`,
+          type: getFileType(file.mime_type),
+          category: carpeta || activeCategory?.id || "articulos",
+          viewLink: file.view_link,
+          downloadLink: file.download_link,
+          mimeType: file.mime_type,
+          size: file.size,
+          modifiedTime: file.modified_time
+        }
+
+        // For books, replace title with bibliographic info and add purchase link
+        if (carpeta === "libros") {
+          const bookInfo = findBookInfo(file.name)
+          if (bookInfo) {
+            result.title = bookInfo.bibliographicInfo
+            if (bookInfo.purchaseLink) {
+              result.purchaseLink = bookInfo.purchaseLink
+            }
+          }
+        }
+
+        return result
+      })
 
       setState((prev) => ({
         ...prev,
@@ -125,18 +142,33 @@ export function useSearch(apiEndpoint?: string) {
       const response = await apiClient.searchDrive("*", carpeta)
 
       // Convert DriveFile to SearchResult
-      const results: SearchResult[] = response.archivos.map((file: DriveFile) => ({
-        id: file.id,
-        title: file.name,
-        description: `Archivo ${file.mime_type.includes('pdf') ? 'PDF' : file.mime_type.includes('audio') ? 'de Audio' : file.mime_type.includes('video') ? 'de Video' : 'de Texto'}`,
-        type: getFileType(file.mime_type),
-        category: carpeta || activeCategory?.id || "articulos",
-        viewLink: file.view_link,
-        downloadLink: file.download_link,
-        mimeType: file.mime_type,
-        size: file.size,
-        modifiedTime: file.modified_time
-      }))
+      const results: SearchResult[] = response.archivos.map((file: DriveFile) => {
+        const result: SearchResult = {
+          id: file.id,
+          title: file.name,
+          description: `Archivo ${file.mime_type.includes('pdf') ? 'PDF' : file.mime_type.includes('audio') ? 'de Audio' : file.mime_type.includes('video') ? 'de Video' : 'de Texto'}`,
+          type: getFileType(file.mime_type),
+          category: carpeta || activeCategory?.id || "articulos",
+          viewLink: file.view_link,
+          downloadLink: file.download_link,
+          mimeType: file.mime_type,
+          size: file.size,
+          modifiedTime: file.modified_time
+        }
+
+        // For books, replace title with bibliographic info and add purchase link
+        if (carpeta === "libros") {
+          const bookInfo = findBookInfo(file.name)
+          if (bookInfo) {
+            result.title = bookInfo.bibliographicInfo
+            if (bookInfo.purchaseLink) {
+              result.purchaseLink = bookInfo.purchaseLink
+            }
+          }
+        }
+
+        return result
+      })
 
       setState((prev) => ({
         ...prev,

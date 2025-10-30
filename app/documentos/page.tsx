@@ -81,6 +81,17 @@ const DownloadIcon = () => (
     />
   </svg>
 )
+
+const ShoppingCartIcon = () => (
+  <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+    <path
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth={2}
+      d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z"
+    />
+  </svg>
+)
 export default function DocumentosPage() {
   const {
     query,
@@ -189,11 +200,11 @@ Fares SJ
                             </div>
                             <div className="flex-1 min-w-0 overflow-hidden">
                               <h3
-                                className="title-playfair-small text-slate-700 line-clamp-2 break-words min-w-0 mb-2"
+                                className="text-slate-700 text-sm lg:text-base leading-relaxed break-words min-w-0 mb-2"
                                 dangerouslySetInnerHTML={{ __html: highlightText(doc.title, query) }}
                               />
                               <p
-                                className="text-slate-600 text-sm leading-relaxed line-clamp-1 break-words"
+                                className="text-slate-500 text-xs lg:text-sm leading-relaxed break-words"
                                 dangerouslySetInnerHTML={{ __html: highlightText(doc.description, query) }}
                               />
                             </div>
@@ -208,6 +219,17 @@ Fares SJ
                               >
                                 <EyeIcon />
                                 <span className="text-sm">Ver</span>
+                              </a>
+                            )}
+                            {doc.purchaseLink && (
+                              <a
+                                href={doc.purchaseLink}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="px-3 lg:px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors flex items-center justify-center gap-2 whitespace-nowrap"
+                              >
+                                <ShoppingCartIcon />
+                                <span className="text-sm">Comprar</span>
                               </a>
                             )}
                           </div>
