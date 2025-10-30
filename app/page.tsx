@@ -27,15 +27,17 @@ export default function HomePage() {
         <section className="px-4 mb-16">
           <div className="max-w-6xl mx-auto">
             <div className="relative rounded-2xl overflow-hidden shadow-lg">
-              {/* YouTube embed container with custom poster */}
-              <div className="relative w-full h-130 bg-gray-900">
-                <iframe
-                  className="absolute inset-0 w-full h-full"
-                  src="https://www.youtube.com/embed/cORPrnrQh_0"
-                  title="Video testimonial del Padre Diego Fares SJ"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                />
+              {/* Video local */}
+              <div className="relative w-full bg-gray-900">
+                <video
+                  className="w-full h-auto"
+                  controls
+                  preload="metadata"
+                  poster="images/biografia.png"
+                >
+                  <source src="/images/video.mp4" type="video/mp4" />
+                  Tu navegador no soporta el elemento de video.
+                </video>
               </div>
             </div>
             <p className="text-center text-sm text-slate-600 mt-4">Video homenaje</p>
