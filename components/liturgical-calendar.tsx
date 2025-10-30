@@ -134,6 +134,11 @@ export default function LiturgicalCalendar() {
                       <h5 className="text-sm font-semibold text-slate-800 mb-2">
                         {cont.titulo}
                       </h5>
+                      {cont.fecha && (
+                        <p className="text-xs text-slate-500 mb-2 font-medium">
+                          {cont.fecha}
+                        </p>
+                      )}
                       {cont.resumen && (
                         <p className="text-xs text-slate-600 mb-3 line-clamp-3">
                           {cont.resumen}

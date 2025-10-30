@@ -104,6 +104,7 @@ export interface Contemplacion {
   resumen: string
   link: string
   dominical: boolean
+  fecha?: string
 }
 
 export interface ContemplacionesSemana {
@@ -276,12 +277,53 @@ function mapSeasonToSpanish(season: Season): string {
   return mapping[season]
 }
 
+/**
+ * Obtiene la fecha del domingo de la semana dada
+ * Si la fecha es de lunes a miércoles, retorna el domingo anterior
+ * Si la fecha es de jueves a sábado, retorna el domingo siguiente
+ * Si ya es domingo, retorna la misma fecha
+ */
+function getDomingoDeEstaSemana(fecha: Date): Date {
+  const fechaCopia = new Date(fecha.getTime())
+  const diaSemana = fechaCopia.getUTCDay() // 0 = Domingo, 1 = Lunes, etc.
+  
+  // Si ya es domingo, retornar la misma fecha
+  if (diaSemana === 0) {
+    return fechaCopia
+  }
+  
+  // Si es lunes, martes o miércoles (1, 2, 3), ir al domingo anterior
+  if (diaSemana <= 3) {
+    return subDays(fechaCopia, diaSemana)
+  }
+  
+  // Si es jueves, viernes o sábado (4, 5, 6), ir al domingo siguiente
+  const diasHastaDomingo = 7 - diaSemana
+  return addDays(fechaCopia, diasHastaDomingo)
+}
+
+/**
+ * Formatea una fecha en español
+ */
+function formatearFechaEspanol(fecha: Date): string {
+  const opciones: Intl.DateTimeFormatOptions = {
+    weekday: 'long',
+    year: 'numeric', 
+    month: 'long',
+    day: 'numeric'
+  }
+  
+  const fechaFormateada = fecha.toLocaleDateString('es-ES', opciones)
+  // Capitalizar la primera letra
+  return fechaFormateada.charAt(0).toUpperCase() + fechaFormateada.slice(1)
+}
+
 
 
 /**
  * Obtiene las contemplaciones para la semana actual
- * Busca contemplaciones dominicales que coincidan con la temporada litúrgica y ciclo actual
- * Prioriza contemplaciones que contengan referencias específicas al domingo de la semana
+ * Busca contemplaciones dominicales específicas que coincidan exactamente con el domingo de la fecha dada
+ * No retorna contemplaciones duplicadas entre semanas diferentes
  */
 export function getContemplacionesSemana(fecha?: Date): ContemplacionesSemana {
   const hoy = fecha || new Date()
@@ -290,60 +332,79 @@ export function getContemplacionesSemana(fecha?: Date): ContemplacionesSemana {
   const ciclo = getCicloLiturgico(year)
   const temporadaEspanol = mapSeasonToSpanish(seasonInfo.season)
   
-  // Calcular el número del domingo en Tiempo Ordinario si aplica
-  let numeroDomingo: number | null = null
+  // Calcular la fecha del domingo correspondiente
+  const fechaDomingo = getDomingoDeEstaSemana(hoy)
+  const fechaFormateada = formatearFechaEspanol(fechaDomingo)
+  
+  let contemplaciones: Contemplacion[] = []
+  
   if (seasonInfo.season === 'Ordinary Time') {
-    // Lógica simplificada para obtener aproximadamente el domingo del Tiempo Ordinario
+    // Para Tiempo Ordinario, calcular el número exacto del domingo
     const inicioTiempoOrdinario2 = addDays(seasonInfo.keyDates.pentecost, 1)
-    const domingoActual = new Date(hoy)
-    const diasPasados = Math.floor((domingoActual.getTime() - inicioTiempoOrdinario2.getTime()) / (1000 * 60 * 60 * 24))
-    numeroDomingo = Math.floor(diasPasados / 7) + 1
+    const diasPasados = Math.floor((fechaDomingo.getTime() - inicioTiempoOrdinario2.getTime()) / (1000 * 60 * 60 * 24))
+    const numeroDomingo = Math.floor(diasPasados / 7) + 2 // +2 porque el primer domingo es el 2
     
-    // Ajustar para estar en rango válido (aproximadamente domingos 2-34)
-    if (numeroDomingo < 2) numeroDomingo = 2
-    if (numeroDomingo > 34) numeroDomingo = 34
-  }
-  
-  // Filtrar contemplaciones por temporada, ciclo y que sean dominicales
-  let contemplaciones = (contemplacionesData as Contemplacion[]).filter(cont => {
-    return cont.tiempo_liturgico === temporadaEspanol && 
-           cont.ciclo === ciclo &&
-           cont.dominical === true
-  })
-  
-  // Si estamos en Tiempo Ordinario, intentar encontrar la contemplación específica para este domingo
-  if (seasonInfo.season === 'Ordinary Time' && numeroDomingo) {
-    const contemplacionEspecifica = contemplaciones.filter(cont => {
-      // Buscar referencias al número del domingo en el título
-      const patronDomingo = new RegExp(`domingo\\s*${numeroDomingo}(?:\\s|$|[^\\d])`, 'i')
-      const patronNumerico = new RegExp(`\\b${numeroDomingo}\\s*A\\b`, 'i') // Formato "30 A"
-      return patronDomingo.test(cont.titulo) || patronNumerico.test(cont.titulo)
-    })
-    
-    if (contemplacionEspecifica.length > 0) {
-      contemplaciones = contemplacionEspecifica
-    } else {
-      // Si no hay contemplación específica, limitar a máximo 5 contemplaciones más relevantes
-      contemplaciones = contemplaciones.slice(0, 5)
+    // Solo buscar si está en rango válido
+    if (numeroDomingo >= 2 && numeroDomingo <= 34) {
+      contemplaciones = (contemplacionesData as Contemplacion[]).filter(cont => {
+        if (cont.tiempo_liturgico !== temporadaEspanol || cont.ciclo !== ciclo || !cont.dominical) {
+          return false
+        }
+        
+        // Buscar referencias exactas al número del domingo en el título
+        const patronDomingo = new RegExp(`domingo\\s+${numeroDomingo}\\s+${ciclo}`, 'i')
+        const patronNumerico = new RegExp(`${numeroDomingo}\\s+${ciclo}\\s+(\\d{4})`, 'i')
+        
+        return patronDomingo.test(cont.titulo) || patronNumerico.test(cont.titulo)
+      })
     }
   } else {
-    // Para otras temporadas, limitar a contemplaciones más relevantes
-    contemplaciones = contemplaciones.slice(0, 3)
+    // Para otras temporadas (Adviento, Cuaresma, Pascua, etc.)
+    const domingoActual = fechaDomingo.getUTCDate()
+    const mesActual = fechaDomingo.getUTCMonth() + 1
+    const añoActual = fechaDomingo.getUTCFullYear()
+    
+    // Buscar contemplaciones que mencionen fechas específicas o sean del año actual
+    contemplaciones = (contemplacionesData as Contemplacion[]).filter(cont => {
+      if (cont.tiempo_liturgico !== temporadaEspanol || cont.ciclo !== ciclo || !cont.dominical) {
+        return false
+      }
+      
+      // Para temporadas especiales, buscar contemplaciones que mencionen el año actual
+      // o que sean específicas para la temporada
+      const añoEnTitulo = cont.titulo.match(/(\d{4})/g)
+      if (añoEnTitulo) {
+        // Si hay años mencionados, preferir contemplaciones del año actual o año litúrgico
+        return añoEnTitulo.includes(añoActual.toString()) || añoEnTitulo.includes((añoActual - 1).toString())
+      }
+      
+      // Si no hay año específico, es una contemplación genérica para la temporada
+      return true
+    }).slice(0, 1) // Máximo 1 contemplación para evitar repeticiones
   }
   
-  // Si no hay contemplaciones dominicales para esta temporada específica, 
-  // buscar dominicales solo por ciclo (máximo 3)
+  // Si no se encontraron contemplaciones específicas, no retornar ninguna
+  // (en lugar de usar contemplaciones genéricas que se repetirían)
   if (contemplaciones.length === 0) {
-    contemplaciones = (contemplacionesData as Contemplacion[]).filter(cont => {
-      return cont.ciclo === ciclo && cont.dominical === true
-    }).slice(0, 3)
+    return {
+      fecha: hoy,
+      temporada: seasonInfo.season,
+      ciclo,
+      contemplaciones: []
+    }
   }
+  
+  // Agregar la fecha a cada contemplación
+  const contemplacionesConFecha = contemplaciones.map(cont => ({
+    ...cont,
+    fecha: fechaFormateada
+  }))
     
   return {
     fecha: hoy,
     temporada: seasonInfo.season,
     ciclo,
-    contemplaciones: contemplaciones
+    contemplaciones: contemplacionesConFecha
   }
 }
 
