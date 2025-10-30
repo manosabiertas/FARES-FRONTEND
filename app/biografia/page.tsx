@@ -71,7 +71,7 @@ export default async function BiografiaPage() {
 
                 <div className="lg:col-span-2">
                   <h2 className="title-playfair-medium text-slate-700 text-2xl lg:text-3xl mb-4">Biografía</h2>
-                  <div className="prose prose-slate max-w-none text-sm leading-relaxed space-y-4">
+                  <div className="prose prose-slate max-w-none text-sm leading-relaxed space-y-4 text-justify [&_p]:text-justify">
                     <p>
                       Diego Javier Fares nació el 9 de agosto de 1955 en la ciudad de Mendoza,
                       Argentina, hijo de Raimundo y María Olga. Creció junto a sus hermanos
@@ -93,7 +93,7 @@ export default async function BiografiaPage() {
               </div>
 
               {/* Rest of the paragraphs - full width */}
-              <div className="prose prose-slate max-w-none text-sm leading-relaxed space-y-4">
+              <div className="prose prose-slate max-w-none text-sm leading-relaxed space-y-4 text-justify [&_p]:text-justify">
                 <p>
                   En septiembre del año 1975 decide viajar a Buenos Aires para realizar los
                   Ejercicios de san Ignacio, conocer el noviciado jesuita y, de este modo,

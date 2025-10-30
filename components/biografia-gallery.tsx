@@ -1,6 +1,11 @@
 "use client"
 
 import React, { useMemo, useState } from "react"
+import {
+  Dialog,
+  DialogContent,
+  DialogTrigger,
+} from "@/components/ui/dialog"
 
 type GalleryImage = { src: string; alt?: string }
 type Category = { name: string; images: GalleryImage[] }
@@ -43,12 +48,24 @@ export default function BiografiaGallery({ categories }: { categories: Category[
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
         {displayed.map((img, idx) => (
-          <div
-            key={`${img.src}-${idx}`}
-            className="aspect-square bg-white rounded-lg shadow-sm overflow-hidden"
-          >
-            <img src={img.src} alt={img.alt ?? ""} loading="lazy" className="w-full h-full object-cover" />
-          </div>
+          <Dialog key={`${img.src}-${idx}`}>
+            <DialogTrigger asChild>
+              <div
+                className="aspect-square bg-white rounded-lg shadow-sm overflow-hidden cursor-pointer hover:shadow-md transition-shadow"
+              >
+                <img src={img.src} alt={img.alt ?? ""} loading="lazy" className="w-full h-full object-cover" />
+              </div>
+            </DialogTrigger>
+            <DialogContent className="max-w-7xl w-full p-0 bg-black/95 border-0 [&_button[data-slot='dialog-close']]:text-white [&_button[data-slot='dialog-close']]:hover:text-white/80">
+              <div className="relative w-full h-[90vh] flex items-center justify-center p-4">
+                <img
+                  src={img.src}
+                  alt={img.alt ?? ""}
+                  className="max-w-full max-h-full object-contain"
+                />
+              </div>
+            </DialogContent>
+          </Dialog>
         ))}
       </div>
     </div>
