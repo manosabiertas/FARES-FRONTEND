@@ -3,8 +3,6 @@ import Footer from "@/components/footer"
 import LiturgicalCalendar from "@/components/liturgical-calendar"
 import ChatSection from "@/components/chat-section"
 import PhotoCarousel from "@/components/photo-carousel"
-import { Play } from "lucide-react"
-import Image from "next/image"
 
 export default function HomePage() {
   return (
@@ -33,7 +31,7 @@ export default function HomePage() {
                   className="w-full h-auto"
                   controls
                   preload="metadata"
-                  poster="images/biografia.png"
+                  poster="images/library/Eventos destacados/Pastoral Social.jpg"
                 >
                   <source src="/images/video.mp4" type="video/mp4" />
                   Tu navegador no soporta el elemento de video.
