@@ -52,7 +52,10 @@ export default function LiturgicalCalendar() {
   // Obtener el rango de la semana actual para mostrar
   const getWeekRange = () => {
     const startOfWeek = new Date(currentDate)
-    startOfWeek.setDate(currentDate.getDate() - currentDate.getDay())
+    // Ajustar para que la semana empiece en lunes
+    const dayOfWeek = currentDate.getDay()
+    const daysToSubtract = dayOfWeek === 0 ? 6 : dayOfWeek - 1
+    startOfWeek.setDate(currentDate.getDate() - daysToSubtract)
 
     const endOfWeek = new Date(startOfWeek)
     endOfWeek.setDate(startOfWeek.getDate() + 6)
