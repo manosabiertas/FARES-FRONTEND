@@ -31,7 +31,7 @@ export default function HomePage() {
                   className="w-full h-auto"
                   controls
                   preload="metadata"
-                  poster="images/library/Eventos destacados/Pastoral Social.jpg"
+                  poster="images/caratula.jpg"
                 >
                   <source src="/images/video.mp4" type="video/mp4" />
                   Tu navegador no soporta el elemento de video.
