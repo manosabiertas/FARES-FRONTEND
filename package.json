@@ -6,7 +6,9 @@
     "build": "next build",
     "dev": "next dev",
     "lint": "next lint",
-    "start": "next start"
+    "start": "next start",
+    "test": "tsx test/calendar.test.ts",
+    "test:manual": "node test/calendar.manual-test.js"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
