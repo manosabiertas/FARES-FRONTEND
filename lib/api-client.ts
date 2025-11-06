@@ -41,7 +41,7 @@ class DiegoFaresAPI {
   private baseURL: string
   private currentThreadId: string | null = null
 
-  constructor(baseURL = 'https://fares-backend-production.up.railway.app') {
+  constructor(baseURL = process.env.NEXT_PUBLIC_API_BASE_URL!) {
     this.baseURL = baseURL
   }
 
