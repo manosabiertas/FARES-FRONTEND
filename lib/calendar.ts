@@ -129,7 +129,7 @@ const contemplacionesData = contemplacionesJson.map((c: any) => ({
 /**
  * Calcula la fecha de Pascua (domingo de Pascua) para un año dado usando el algoritmo de Meeus/Jones.
  */
-export function easterDate(year: number): Date {
+function easterDate(year: number): Date {
   const a = year % 19
   const b = Math.floor(year / 100)
   const c = year % 100
@@ -147,20 +147,20 @@ export function easterDate(year: number): Date {
   return new Date(Date.UTC(year, month - 1, day))
 }
 
-export function addDays(d: Date, days: number): Date {
+function addDays(d: Date, days: number): Date {
   const nd = new Date(d.getTime())
   nd.setUTCDate(nd.getUTCDate() + days)
   return nd
 }
 
-export function subDays(d: Date, days: number): Date {
+function subDays(d: Date, days: number): Date {
   return addDays(d, -days)
 }
 
 /**
  * Calcula el inicio del Adviento para un año calendario: cuarto domingo antes de Navidad (25 de diciembre).
  */
-export function adventStart(year: number): Date {
+function adventStart(year: number): Date {
   // Start from Dec 25
   const dec25 = new Date(Date.UTC(year, 11, 25))
   // find the fourth Sunday before Dec 25: go back to the nearest Sunday on or before Dec 25, then go back 3 more weeks
@@ -174,12 +174,12 @@ export function adventStart(year: number): Date {
 /**
  * Calcula el Miércoles de Ceniza (46 días antes de Pascua)
  */
-export function ashWednesday(year: number): Date {
+function ashWednesday(year: number): Date {
   const e = easterDate(year)
   return subDays(e, 46)
 }
 
-export function pentecost(year: number): Date {
+function pentecost(year: number): Date {
   const e = easterDate(year)
   return addDays(e, 49)
 }
@@ -188,7 +188,7 @@ export function pentecost(year: number): Date {
  * Determina el año litúrgico para una fecha determinada.
  * El año litúrgico comienza el primer día del Adviento, que es el cuarto domingo antes de Navidad.
  */
-export function liturgicalYearForDate(date: Date): number {
+function liturgicalYearForDate(date: Date): number {
   const year = date.getUTCFullYear()
   const advStart = adventStart(year)
   if (date >= advStart) return year + 1
@@ -198,7 +198,7 @@ export function liturgicalYearForDate(date: Date): number {
 /**
  * Devuelve información de la temporada litúrgica para una fecha dada.
  */
-export function getLiturgicalSeason(date: Date): SeasonInfo {
+function getLiturgicalSeason(date: Date): SeasonInfo {
   // Work in UTC dates for consistency
   const d = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()))
   const ly = liturgicalYearForDate(d)
@@ -257,7 +257,7 @@ export function getLiturgicalSeason(date: Date): SeasonInfo {
 /**
  * Obtiene el ciclo litúrgico (A, B, C) para un año litúrgico dado
  */
-export function getCicloLiturgico(year: number): 'A' | 'B' | 'C' {
+function getCicloLiturgico(year: number): 'A' | 'B' | 'C' {
   const cycles = ['C', 'A', 'B'] as const
   return cycles[year % 3]
 }
@@ -360,8 +360,8 @@ export function getContemplacionesSemana(fecha?: Date): ContemplacionesSemana {
     }
   } else {
     // Para otras temporadas (Adviento, Cuaresma, Pascua, etc.)
-    const domingoActual = fechaDomingo.getUTCDate()
-    const mesActual = fechaDomingo.getUTCMonth() + 1
+    //const domingoActual = fechaDomingo.getUTCDate()
+    //const mesActual = fechaDomingo.getUTCMonth() + 1
     const añoActual = fechaDomingo.getUTCFullYear()
     
     // Buscar contemplaciones que mencionen fechas específicas o sean del año actual
