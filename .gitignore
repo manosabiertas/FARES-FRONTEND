@@ -25,3 +25,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+test_fecha.js
+analyze_contemplaciones.js
+debug_adviento.js
+fix_contemplaciones.js
+lib/contemplaciones_original_backup.json
+lib/contemplaciones_corregidas.json
+lib/contemplaciones.json
