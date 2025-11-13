@@ -322,6 +322,21 @@ function formatearFechaEspanol(fecha: Date): string {
 
 
 /**
+ * Mapeo de domingos específicos a IDs de contemplaciones
+ * Formato: 'YYYY-MM-DD': [id1, id2, ...]
+ */
+const DOMINGOS_ESPECIFICOS: Record<string, number[]> = {
+  '2025-11-09': [75502],
+  '2025-11-16': [76626],
+  '2025-11-23': [69729, 40394],
+  '2025-11-30': [97251, 72864, 20640, 75502],
+  '2025-12-07': [15233, 93052],
+  '2025-12-14': [60128, 79652],
+  '2025-12-21': [3842, 56283],
+  '2025-12-28': [61208, 76284]
+}
+
+/**
  * Obtiene las contemplaciones para la semana actual
  * Busca contemplaciones dominicales específicas que coincidan exactamente con el domingo de la fecha dada
  * No retorna contemplaciones duplicadas entre semanas diferentes
@@ -336,10 +351,19 @@ export function getContemplacionesSemana(fecha?: Date): ContemplacionesSemana {
   // Calcular la fecha del domingo correspondiente
   const fechaDomingo = getDomingoDeEstaSemana(hoy)
   const fechaFormateada = formatearFechaEspanol(fechaDomingo)
+  const fechaDomingoStr = fechaDomingo.toISOString().split('T')[0] // YYYY-MM-DD
   
   let contemplaciones: Contemplacion[] = []
   
-  if (seasonInfo.season === 'Ordinary Time') {
+  // PRIORIDAD 1: Verificar si este domingo tiene contemplaciones específicas asignadas
+  if (DOMINGOS_ESPECIFICOS[fechaDomingoStr]) {
+    const idsEspecificos = DOMINGOS_ESPECIFICOS[fechaDomingoStr]
+    contemplaciones = (contemplacionesData as Contemplacion[]).filter(cont => 
+      idsEspecificos.includes(cont.id)
+    )
+  }
+  // PRIORIDAD 2: Si no hay contemplaciones específicas, usar la lógica normal
+  else if (seasonInfo.season === 'Ordinary Time') {
     // Para Tiempo Ordinario, usar la misma lógica de fallback que otras temporadas
     // ya que los números de domingo son complicados de calcular y pueden variar
     
