@@ -38,3 +38,5 @@ METADATA_CORRECTION_REPORT.md
 ciclo_validation_report.csv
 validate_ciclo_by_fecha.js
 lib/contemplaciones_corrected.json
+test/missing-contemplaciones.test.js
+test/missing-contemplaciones.test.js

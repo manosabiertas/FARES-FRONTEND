@@ -1,7 +1,7 @@
 "use client"
 import { ChevronLeft, ChevronRight, Calendar as CalendarIcon, BookOpen, ExternalLink } from "lucide-react"
 import { useState, useEffect } from "react"
-import { getContemplacionesSemana, type Contemplacion, type Season } from "@/lib/calendar"
+import { traerContemplacionesSemana, type Contemplacion, type Season } from "@/lib/calendar_title_based"
 
 // Mapeo de colores para las temporadas litúrgicas
 const seasonColors: Record<Season, string> = {
@@ -26,14 +26,16 @@ export default function LiturgicalCalendar() {
   const [currentDate, setCurrentDate] = useState(new Date())
   const [contemplacionesSemana, setContemplacionesSemana] = useState<{
     fecha: Date
+    fechaDomingo: string
     temporada: Season
     ciclo: 'A' | 'B' | 'C'
+    celebracion_clave: string | null
     contemplaciones: Contemplacion[]
   } | null>(null)
 
   // Obtener las contemplaciones de la semana cuando cambia la fecha
   useEffect(() => {
-    const contemplaciones = getContemplacionesSemana(currentDate)
+    const contemplaciones = traerContemplacionesSemana(currentDate)
     console.log('Contemplaciones para:', currentDate, contemplaciones)
     setContemplacionesSemana(contemplaciones)
   }, [currentDate])
@@ -151,7 +153,7 @@ export default function LiturgicalCalendar() {
                         {cont.lecturas && (
                           <span className="text-xs text-slate-500 italic flex items-center gap-1">
                             <BookOpen className="w-3 h-3" />
-                            {cont.lecturas}
+                            {Array.isArray(cont.lecturas) ? cont.lecturas.join('; ') : cont.lecturas}
                           </span>
                         )}
                         <a
