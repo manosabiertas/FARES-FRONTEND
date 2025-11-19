@@ -421,34 +421,59 @@ function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo): string | null
 
 /**
  * Busca contemplaciones adicionales por IDs específicos
- * para fiestas litúrgicas que caen en días específicos (independientes del ciclo)
+ * para fechas exactas según Calendario Fares Lecturas
  */
-function buscarContemplacionesPorFiesta(mes: number, dia: number): Contemplacion[] {
-  // Mapa de fiestas fijas por fecha (mes-día) con IDs de contemplaciones
-  const fiestasPorFecha: Record<string, number[]> = {
-    '11-9': [68580],  // 9 de noviembre - Dedicación de la Basílica de Letrán
-    '6-24': [78774],  // 24 de junio - Sagrado Corazón
-    '8-15': [59118],  // 15 de agosto - Asunción
-    '11-1': [58851],  // 1 de noviembre - Todos los Santos
-    '12-8': [12505],  // 8 de diciembre - Inmaculada
+function buscarContemplacionesPorFecha(año: number, mes: number, dia: number): Contemplacion[] {
+  // Mapa de contemplaciones por fecha exacta (año-mes-día) con IDs
+  // Basado en Calendario Fares Lecturas
+  const contemplacionesPorFecha: Record<string, number[]> = {
+    // 2025
+    '2025-11-23': [69729, 31911, 84587, 40394],  // Cristo Rey C
+    '2025-11-30': [97251, 72864, 20640, 75502],  // Adviento 1 A
+    '2025-12-7': [66726, 15233, 93052],  // Adviento 2 A
+    '2025-12-8': [66726, 17615],  // Inmaculada Concepción
+    '2025-12-14': [72698, 79652, 68874, 60128],  // Adviento 3 A
+    '2025-12-21': [85000, 88395, 56283],  // Adviento 4 A
+    '2025-12-25': [98245, 33270, 49797, 12905],  // Navidad
+    '2025-12-28': [61208, 74938, 76284],  // Sagrada Familia
+    
+    // 2026
+    '2026-1-1': [11221, 37297, 86378],  // Santa María Madre de Dios
+    '2026-1-4': [20911, 52798],  // 2º Domingo después de Navidad
+    '2026-1-11': [7610, 71816, 66432],  // Bautismo del Señor
+    '2026-1-18': [94897, 98210, 90919, 22007],  // 2º Domingo Tiempo Ordinario
+    '2026-1-25': [55225, 71889, 40127, 49415],  // 3er Domingo Tiempo Ordinario
+    
+    // Fiestas fijas que se repiten cada año
+    '11-1': [58851],  // Todos los Santos
+    '11-9': [68580],  // Dedicación Basílica de Letrán
+    '6-24': [78774],  // Sagrado Corazón
+    '8-15': [59118],  // Asunción
   }
   
-  const clave = `${mes}-${dia}`
-  const idsABuscar = fiestasPorFecha[clave]
-  console.log(idsABuscar)  
+  // Buscar primero por fecha exacta (año-mes-día)
+  const claveCompleta = `${año}-${mes}-${dia}`
+  let idsABuscar = contemplacionesPorFecha[claveCompleta]
+  
+  // Si no hay fecha exacta, buscar por fecha fija (mes-día)
+  if (!idsABuscar) {
+    const claveFija = `${mes}-${dia}`
+    idsABuscar = contemplacionesPorFecha[claveFija]
+  }
+  
   if (typeof window !== 'undefined') {
-    console.log(`[buscarContemplacionesPorFiesta] Buscando fiesta para ${dia}/${mes}, clave: ${clave}`)
+    console.log(`[buscarContemplacionesPorFecha] Buscando para ${dia}/${mes}/${año}, clave: ${claveCompleta}`)
   }
   
   if (!idsABuscar || !contemplacionesData?.entries) {
     if (typeof window !== 'undefined') {
-      console.log(`[buscarContemplacionesPorFiesta] No hay fiesta configurada para ${clave}`)
+      console.log(`[buscarContemplacionesPorFecha] No hay contemplaciones configuradas para esta fecha`)
     }
     return []
   }
   
   if (typeof window !== 'undefined') {
-    console.log(`[buscarContemplacionesPorFiesta] IDs a buscar:`, idsABuscar)
+    console.log(`[buscarContemplacionesPorFecha] IDs a buscar:`, idsABuscar)
   }
   
   // Buscar contemplaciones por ID
@@ -457,7 +482,7 @@ function buscarContemplacionesPorFiesta(mes: number, dia: number): Contemplacion
     .map((c: any) => ({ ...c }))
   
   if (typeof window !== 'undefined') {
-    console.log(`[buscarContemplacionesPorFiesta] Contemplaciones encontradas: ${resultados.length}`, resultados.map((r: any) => r.titulo))
+    console.log(`[buscarContemplacionesPorFecha] Contemplaciones encontradas: ${resultados.length}`, resultados.map((r: any) => r.titulo))
   }
   
   return resultados
@@ -487,6 +512,32 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
     console.log('[traerContemplacionesSemana] Entries disponibles:', contemplacionesData?.entries?.length || 0)
   }
   
+  // Primero verificar si hay contemplaciones específicas para esta fecha exacta
+  const año = fechaDomingo.getUTCFullYear()
+  const mes = fechaDomingo.getUTCMonth() + 1
+  const dia = fechaDomingo.getUTCDate()
+  const contemplacionesFechaExacta = buscarContemplacionesPorFecha(año, mes, dia)
+  
+  // Si hay contemplaciones para fecha exacta, SOLO usar esas
+  if (contemplacionesFechaExacta.length > 0) {
+    if (typeof window !== 'undefined') {
+      console.log(`[traerContemplacionesSemana] Usando SOLO contemplaciones de fecha exacta: ${contemplacionesFechaExacta.length}`)
+    }
+    
+    return {
+      fecha: hoy,
+      fechaDomingo: fechaDomingoFormateada,
+      temporada: seasonInfo.season,
+      ciclo,
+      celebracion_clave: celebracionClave,
+      contemplaciones: contemplacionesFechaExacta.map((c: any) => ({
+        ...c,
+        fecha: fechaDomingoFormateada
+      }))
+    }
+  }
+  
+  // Si no hay fecha exacta, continuar con la búsqueda normal por celebracion_clave
   let contemplaciones: Contemplacion[] = []
   
   if (celebracionClave) {
@@ -550,32 +601,7 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
       }))
   }
   
-  // Buscar contemplaciones adicionales por fiestas fijas del domingo (no del día actual)
-  const mes = fechaDomingo.getUTCMonth() + 1 // getUTCMonth() retorna 0-11
-  const dia = fechaDomingo.getUTCDate()
-  const contemplacionesFiesta = buscarContemplacionesPorFiesta(mes, dia)
-  
-  if (contemplacionesFiesta.length > 0) {
-    if (typeof window !== 'undefined') {
-      console.log(`[traerContemplacionesSemana] Encontradas ${contemplacionesFiesta.length} contemplaciones para fiesta del ${dia}/${mes}`)
-    }
-    
-    // Agregar contemplaciones de fiestas AL INICIO sin duplicar
-    const idsExistentes = new Set(contemplaciones.map(c => c.id))
-    const fiestasNuevas: Contemplacion[] = []
-    
-    contemplacionesFiesta.forEach(c => {
-      if (!idsExistentes.has(c.id)) {
-        fiestasNuevas.push({
-          ...c,
-          fecha: formatearFechaEspanol(fechaDomingo) // Usar la fecha del domingo
-        })
-      }
-    })
-    
-    // Colocar las fiestas primero, luego las contemplaciones dominicales
-    contemplaciones = [...fiestasNuevas, ...contemplaciones]
-  }
+
   
   return {
     fecha: hoy,

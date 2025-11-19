@@ -40,3 +40,5 @@ validate_ciclo_by_fecha.js
 lib/contemplaciones_corrected.json
 test/missing-contemplaciones.test.js
 test/missing-contemplaciones.test.js
+test/Calendario Fares Lecturas.txt
+find_contemplation_ids.js
