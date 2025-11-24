@@ -1,12 +1,16 @@
 // Cálculos litúrgicos usando contemplaciones_clean_title_based.json
 // Este archivo implementa la lógica basada en títulos y metadatos limpios
 
-import contemplacionesDataRaw from './contemplaciones_clean_title_based.json'
+import contemplacionesDataRaw from './contemplaciones.json'
+import celebrationIndexRaw from './celebration_index.json'
+import gospelIndexRaw from './gospel_index.json'
 
 // Verificar que los datos se cargaron correctamente
 const contemplacionesData = contemplacionesDataRaw as any
-if (!contemplacionesData || !contemplacionesData.entries) {
-  console.error('ERROR: contemplaciones_clean_title_based.json no se cargó correctamente')
+const celebrationIndex = celebrationIndexRaw as Record<string, number[]>
+const gospelIndex = gospelIndexRaw as Record<string, number[]>
+if (!contemplacionesData ) {
+  console.error('ERROR: contemplaciones.json no se cargó correctamente')
 }
 
 export type Season = 'Advent' | 'Christmas' | 'Lent' | 'Easter' | 'Ordinary Time' | 'Triduum'
@@ -431,8 +435,7 @@ export function consoleLog(...parameters: any[]): void {
  */
 export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana {
   const celebracionesFijas: Contemplacion[] = [];
-  const celebrationIndex = (contemplacionesData.indexes?.celebration_index || {}) as Record<string, number[]>;
-  const entries = contemplacionesData.entries;
+  //const entries = contemplacionesData;
   //inicializa la datos de tiempo 
   const hoy = fecha || new Date()
   //calcular la temporada 
@@ -441,45 +444,13 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
   const year = liturgicalYearForDate(hoy)
   //calcula el ciclo del año liturgico 
   const ciclo = getCicloLiturgico(year)
-  /*
-    // Calcular el domingo de la semana
-    const domingo = getDomingoDeEstaSemana(hoy);
-    // Buscar el lunes anterior (o el mismo domingo si es lunes)
-    const lunes = new Date(domingo.getTime());
-    lunes.setUTCDate(domingo.getUTCDate() - 6);
-    // Recorrer cada día de la semana
-    for (let i = 0; i < 7; i++) {
-      const d = new Date(lunes.getTime());
-      d.setUTCDate(lunes.getUTCDate() + i);
-      const dia = d.getUTCDate();
-      const mes = d.getUTCMonth() + 1; // 1-12
-      // Buscar claves de celebration_index que sean fiestas fijas (por ejemplo, "INMACULADA", "ASUNCION", etc.)
-      Object.keys(celebrationIndex).forEach(clave => {
-        // Buscar en entries una contemplación con esa clave y fecha que coincida en día y mes
-        const ids = celebrationIndex[clave] || [];
-        ids.forEach(id => {
-          const c = entries.find((e: any) => e.id === id && e.ciclo === ciclo);
-          if (c && c.fecha) {
-            const [anio, mesStr, diaStr] = c.fecha.split('-');
-            if (parseInt(mesStr) === mes && parseInt(diaStr) === dia) {
-              // Evitar duplicados
-              if (!celebracionesFijas.some(cf => cf.id === c.id)) {
-                celebracionesFijas.push({ ...c, fecha: formatearFechaEspanol(d) });
-              }
-            }
-          }
-        });
-      });
-    }
-    */
-
   // Calcular el domingo correspondiente
   const fechaDomingo = getDomingoDeEstaSemana(hoy)
   const fechaDomingoFormateada = formatearFechaEspanol(fechaDomingo)
   const mes = fechaDomingo.getUTCMonth() + 1
   const dia = fechaDomingo.getUTCDate()
   consoleLog('[traerContemplacionesSemana] Fecha:' + hoy.toISOString().split('T')[0])
-  consoleLog('[traerContemplacionesSemana] Entries disponibles:', contemplacionesData?.entries?.length || 0)
+  consoleLog('[traerContemplacionesSemana] Entries disponibles:', contemplacionesData?.length || 0)
 
   let contemplaciones: Contemplacion[] = [];
   // Buscar IDs en el índice
@@ -494,7 +465,7 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
   consoleLog('[traerContemplacionesSemana] Clave:', celebracionClave, 'Ciclo:', ciclo)
   if (celebracionClave) {
     // Usar el índice de celebraciones del JSON
-    const celebrationIndex = (contemplacionesData.indexes?.celebration_index || {}) as Record<string, number[]>
+    // celebrationIndex is now imported from celebration_index.json
     // Para Cristo Rey, buscar también por ORD34
     // Para Adviento, buscar también por ORD1, ORD2, ORD3, ORD4 según corresponda
     let clavesABuscar = [celebracionClave]
@@ -515,7 +486,7 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
 
     consoleLog('[traerContemplacionesSemana] IDs encontrados:', idsEncontrados.length)
     //buscar las contemplaciones 
-    contemplaciones = contemplacionesData.entries
+    contemplaciones = contemplacionesData
       .filter((c: any) =>
         (
           idsEncontrados.includes(c.id) &&
@@ -545,7 +516,7 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
         clavesABuscar.push('ORD34')
       }
   
-      contemplaciones = contemplacionesData.entries
+      contemplaciones = contemplacionesData
         .filter((c: any) =>
           clavesABuscar.includes(c.celebracion_clave) &&
           c.ciclo === ciclo &&
@@ -574,10 +545,10 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
  * Busca contemplaciones por evangelio (usando el índice de evangelios)
  
 export function buscarPorEvangelio(evangelio: string): Contemplacion[] {
-  const gospelIndex = (contemplacionesData.indexes?.gospel_index || {}) as Record<string, number[]>
+  // gospelIndex is now imported from gospel_index.json
   const ids = gospelIndex[evangelio] || []
   
-  return contemplacionesData.entries
+  return contemplacionesData
     .filter((c: any) => ids.includes(c.id))
     .map((c: any) => ({ ...c }))
 }
@@ -586,10 +557,10 @@ export function buscarPorEvangelio(evangelio: string): Contemplacion[] {
  * Busca contemplaciones por clave de celebración
  
 export function buscarPorCelebracion(clave: string, ciclo?: 'A' | 'B' | 'C'): Contemplacion[] {
-  const celebrationIndex = (contemplacionesData.indexes?.celebration_index || {}) as Record<string, number[]>
+  const celebrationIndex = (celebration_index || {}) as Record<string, number[]>
   const ids = celebrationIndex[clave] || []
   
-  let contemplaciones = contemplacionesData.entries
+  let contemplaciones = contemplacionesData
     .filter((c: any) => ids.includes(c.id))
   
   if (ciclo) {
