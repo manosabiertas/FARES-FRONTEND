@@ -11,6 +11,7 @@ if (!contemplacionesData || !contemplacionesData.entries) {
 
 export type Season = 'Advent' | 'Christmas' | 'Lent' | 'Easter' | 'Ordinary Time' | 'Triduum'
 
+
 export interface SeasonInfo {
   season: Season
   start: Date
@@ -24,16 +25,16 @@ export interface SeasonInfo {
 
 export interface Contemplacion {
   id: number
-  ciclo: 'A' | 'B' | 'C'
-  tiempo_liturgico: string
+  // ciclo: 'A' | 'B' | 'C'
+  // tiempo_liturgico: string
   titulo: string
-  lecturas: string[]
-  lecturas_normalizadas: string[]
+  // lecturas: string[]
+  // lecturas_normalizadas: string[]
   resumen: string
   link: string
-  dominical: boolean
-  fecha?: string
-  celebracion_clave?: string
+  //dominical: boolean
+  //fecha?: string
+  //celebracion_clave?: string
 }
 
 export interface ContemplacionesSemana {
@@ -78,18 +79,19 @@ function subDays(d: Date, days: number): Date {
 
 /**
  * Normaliza una fecha a medianoche UTC para comparaciones
- */
+ 
 function normalizeDate(d: Date): Date {
   return new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()))
 }
+  */
 
 /**
  * Compara si dos fechas son el mismo día (ignorando horas)
  */
 function isSameDay(d1: Date, d2: Date): boolean {
   return d1.getUTCFullYear() === d2.getUTCFullYear() &&
-         d1.getUTCMonth() === d2.getUTCMonth() &&
-         d1.getUTCDate() === d2.getUTCDate()
+    d1.getUTCMonth() === d2.getUTCMonth() &&
+    d1.getUTCDate() === d2.getUTCDate()
 }
 
 /**
@@ -112,6 +114,9 @@ function ashWednesday(year: number): Date {
   return subDays(e, 46)
 }
 
+/**
+ * Calcula pentecostes  (49 días despues de Pascuas)
+ */
 function pentecost(year: number): Date {
   const e = easterDate(year)
   return addDays(e, 49)
@@ -171,7 +176,7 @@ function getLiturgicalSeason(date: Date): SeasonInfo {
   if (d >= easterStart && d <= easterEnd) {
     return { season: 'Easter', start: easterStart, end: easterEnd, keyDates: { easter, ashWednesday: ash, pentecost: pent } }
   }
-  
+
   if ((d >= ordinary1Start && d <= ordinary1End) || (d >= ordinary2Start && d <= ordinary2End)) {
     const start = d <= ordinary1End ? ordinary1Start : ordinary2Start
     const end = d <= ordinary1End ? ordinary1End : ordinary2End
@@ -195,7 +200,7 @@ function getCicloLiturgico(year: number): 'A' | 'B' | 'C' {
 function mapSeasonToSpanish(season: Season): string {
   const mapping: Record<Season, string> = {
     'Advent': 'Adviento',
-    'Christmas': 'Navidad', 
+    'Christmas': 'Navidad',
     'Lent': 'Cuaresma',
     'Easter': 'Pascua',
     'Ordinary Time': 'Tiempo Ordinario',
@@ -212,11 +217,11 @@ function mapSeasonToSpanish(season: Season): string {
 function getDomingoDeEstaSemana(fecha: Date): Date {
   const fechaCopia = new Date(fecha.getTime())
   const diaSemana = fechaCopia.getUTCDay() // 0 = Domingo, 1 = Lunes, etc.
-  
+
   if (diaSemana === 0) {
     return fechaCopia
   }
-  
+
   const diasHastaDomingo = 7 - diaSemana
   return addDays(fechaCopia, diasHastaDomingo)
 }
@@ -227,12 +232,12 @@ function getDomingoDeEstaSemana(fecha: Date): Date {
 function formatearFechaEspanol(fecha: Date): string {
   const dias = ['domingo', 'lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado']
   const meses = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre']
-  
+
   const diaSemana = dias[fecha.getUTCDay()]
   const dia = fecha.getUTCDate()
   const mes = meses[fecha.getUTCMonth()]
   const año = fecha.getUTCFullYear()
-  
+
   // Capitalizar primera letra
   return `${diaSemana.charAt(0).toUpperCase() + diaSemana.slice(1)}, ${dia} de ${mes} de ${año}`
 }
@@ -244,7 +249,7 @@ function calcularDomingoAdviento(fecha: Date, seasonInfo: SeasonInfo): number | 
   const inicio = seasonInfo.start
   const diasDesdeInicio = Math.floor((fecha.getTime() - inicio.getTime()) / (1000 * 60 * 60 * 24))
   const semanas = Math.floor(diasDesdeInicio / 7)
-  
+
   if (semanas >= 0 && semanas < 4) {
     return semanas + 1 // 1, 2, 3, 4
   }
@@ -253,66 +258,66 @@ function calcularDomingoAdviento(fecha: Date, seasonInfo: SeasonInfo): number | 
 
 /**
  * Calcula el número de domingo dentro de Cuaresma (1-5) o domingos especiales
- */
+*/
 function calcularDomingoCuaresma(fecha: Date, seasonInfo: SeasonInfo): string | null {
   const ashWed = seasonInfo.keyDates.ashWednesday
   const easter = seasonInfo.keyDates.easter
-  
+
   // Domingo de Ramos es el domingo antes de Pascua
   const domingoRamos = subDays(easter, 7)
   if (isSameDay(fecha, domingoRamos)) {
     return 'DOMINGO_RAMOS'
   }
-  
+
   // Calcular domingos desde Miércoles de Ceniza
   const primerDomingoCuaresma = addDays(ashWed, 4 - ashWed.getUTCDay() + (ashWed.getUTCDay() === 0 ? 7 : 0))
   const diasDesdePrimero = Math.floor((fecha.getTime() - primerDomingoCuaresma.getTime()) / (1000 * 60 * 60 * 24))
   const semanas = Math.floor(diasDesdePrimero / 7)
-  
+
   if (semanas >= 0 && semanas < 5) {
     return `CUA${semanas + 1}` // CUA1, CUA2, CUA3, CUA4, CUA5
   }
-  
+
   return null
 }
 
 /**
  * Calcula el número de domingo dentro de Pascua (2-7) o solemnidades especiales
- */
+*/
 function calcularDomingoPascua(fecha: Date, seasonInfo: SeasonInfo): string | null {
   const easter = seasonInfo.keyDates.easter
   const pentecost = seasonInfo.keyDates.pentecost
-  
+
   // Domingo de Pascua (Resurrección)
   if (isSameDay(fecha, easter)) {
     return 'PASCUA'
   }
-  
+
   // Pentecostés
   if (isSameDay(fecha, pentecost)) {
     return 'PENTECOSTES'
   }
-  
+
   // Domingos entre Pascua y Pentecostés
   const diasDesdePascua = Math.floor((fecha.getTime() - easter.getTime()) / (1000 * 60 * 60 * 24))
   const semanas = Math.floor(diasDesdePascua / 7)
-  
+
   if (semanas > 0 && semanas < 7) {
     return `PAS${semanas + 1}` // PAS2, PAS3, PAS4, PAS5, PAS6, PAS7
   }
-  
+
   return null
 }
 
 /**
  * Calcula el número de domingo en Tiempo Ordinario
- */
+*/
 function calcularDomingoOrdinario(fecha: Date, seasonInfo: SeasonInfo): string | null {
   const ly = liturgicalYearForDate(fecha)
   const easter = easterDate(ly)
   const pent = pentecost(ly)
   const ash = ashWednesday(ly)
-  
+
   // Verificar solemnidades especiales
   // Cristo Rey: último domingo antes de Adviento
   const advStart = adventStart(ly)
@@ -320,7 +325,7 @@ function calcularDomingoOrdinario(fecha: Date, seasonInfo: SeasonInfo): string |
   if (isSameDay(fecha, cristoRey)) {
     return 'CRISTO_REY'
   }
-  
+
   // Verificar si estamos en TO antes o después de Pascua
   if (fecha < ash) {
     // Tiempo Ordinario I (después de Navidad/Bautismo, antes de Cuaresma)
@@ -335,11 +340,11 @@ function calcularDomingoOrdinario(fecha: Date, seasonInfo: SeasonInfo): string |
     if (isSameDay(bautismoSenor, epifania)) {
       bautismoSenor = addDays(bautismoSenor, 7)
     }
-    
+
     // Contar domingos desde el Bautismo del Señor
     let domingo = bautismoSenor
     let numeroDomingo = 1
-    
+
     while (domingo < ash) {
       if (isSameDay(fecha, domingo)) {
         return `ORD${numeroDomingo}`
@@ -352,15 +357,15 @@ function calcularDomingoOrdinario(fecha: Date, seasonInfo: SeasonInfo): string |
     // La numeración litúrgica cuenta DESDE EL FINAL hacia atrás
     // Cristo Rey es siempre el Domingo 34 del Tiempo Ordinario
     // El domingo anterior a Cristo Rey es el 33, etc.
-    
+
     const advientoInicio = adventStart(ly)
-    
+
     // Encontrar el primer domingo después de Pentecostés
     let primerDomingoTO2 = addDays(pent, 1)
     while (primerDomingoTO2.getUTCDay() !== 0) {
       primerDomingoTO2 = addDays(primerDomingoTO2, 1)
     }
-    
+
     // Contar TODOS los domingos del TO II (desde Pentecostés hasta Adviento)
     let domingosTOII: Date[] = []
     let domingo = primerDomingoTO2
@@ -368,124 +373,64 @@ function calcularDomingoOrdinario(fecha: Date, seasonInfo: SeasonInfo): string |
       domingosTOII.push(new Date(domingo))
       domingo = addDays(domingo, 7)
     }
-    
+
     // La numeración termina en 34 (Cristo Rey) y cuenta hacia atrás
     const totalDomingosTOII = domingosTOII.length
     const numeroFinal = 34 // Cristo Rey es siempre el último
     const numeroInicial = numeroFinal - totalDomingosTOII + 1
-    
+
     // Buscar en qué posición está la fecha
     for (let i = 0; i < domingosTOII.length; i++) {
       if (isSameDay(fecha, domingosTOII[i])) {
         const numeroDomingo = numeroInicial + i
-        
+
         // Cristo Rey tiene su propia clave
         if (numeroDomingo === 34) {
           return 'CRISTO_REY'
         }
-        
+
         return `ORD${numeroDomingo}`
       }
     }
   }
-  
+
   return null
 }
 
 /**
  * Obtiene la clave de celebración para un domingo dado
- */
+*/
 function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo): string | null {
   switch (seasonInfo.season) {
     case 'Advent': {
       const numDomingo = calcularDomingoAdviento(fecha, seasonInfo)
       return numDomingo ? `ADV${numDomingo}` : null
     }
-    
+
     case 'Lent': {
       return calcularDomingoCuaresma(fecha, seasonInfo)
     }
-    
+
     case 'Easter': {
       return calcularDomingoPascua(fecha, seasonInfo)
     }
-    
+
     case 'Ordinary Time': {
       return calcularDomingoOrdinario(fecha, seasonInfo)
     }
-    
+
     default:
       return null
   }
 }
 
-/**
- * Busca contemplaciones adicionales por IDs específicos
- * para fechas exactas según Calendario Fares Lecturas
+/** 
+ * Imprime en la consola 
  */
-function buscarContemplacionesPorFecha(año: number, mes: number, dia: number): Contemplacion[] {
-  // Mapa de contemplaciones por fecha exacta (año-mes-día) con IDs
-  // Basado en Calendario Fares Lecturas
-  const contemplacionesPorFecha: Record<string, number[]> = {
-    // 2025
-    '2025-11-23': [69729, 31911, 84587, 40394],  // Cristo Rey C
-    '2025-11-30': [97251, 72864, 20640, 75502],  // Adviento 1 A
-    '2025-12-7': [66726, 15233, 93052],  // Adviento 2 A
-    '2025-12-8': [66726, 17615],  // Inmaculada Concepción
-    '2025-12-14': [72698, 79652, 68874, 60128],  // Adviento 3 A
-    '2025-12-21': [85000, 88395, 56283],  // Adviento 4 A
-    '2025-12-25': [98245, 33270, 49797, 12905],  // Navidad
-    '2025-12-28': [61208, 74938, 76284],  // Sagrada Familia
-    
-    // 2026
-    '2026-1-1': [11221, 37297, 86378],  // Santa María Madre de Dios
-    '2026-1-4': [20911, 52798],  // 2º Domingo después de Navidad
-    '2026-1-11': [7610, 71816, 66432],  // Bautismo del Señor
-    '2026-1-18': [94897, 98210, 90919, 22007],  // 2º Domingo Tiempo Ordinario
-    '2026-1-25': [55225, 71889, 40127, 49415],  // 3er Domingo Tiempo Ordinario
-    
-    // Fiestas fijas que se repiten cada año
-    '11-1': [58851],  // Todos los Santos
-    '11-9': [68580],  // Dedicación Basílica de Letrán
-    '6-24': [78774],  // Sagrado Corazón
-    '8-15': [59118],  // Asunción
-  }
-  
-  // Buscar primero por fecha exacta (año-mes-día)
-  const claveCompleta = `${año}-${mes}-${dia}`
-  let idsABuscar = contemplacionesPorFecha[claveCompleta]
-  
-  // Si no hay fecha exacta, buscar por fecha fija (mes-día)
-  if (!idsABuscar) {
-    const claveFija = `${mes}-${dia}`
-    idsABuscar = contemplacionesPorFecha[claveFija]
-  }
-  
+export function consoleLog(...parameters: any[]): void {
   if (typeof window !== 'undefined') {
-    console.log(`[buscarContemplacionesPorFecha] Buscando para ${dia}/${mes}/${año}, clave: ${claveCompleta}`)
+    console.log(...parameters);
   }
-  
-  if (!idsABuscar || !contemplacionesData?.entries) {
-    if (typeof window !== 'undefined') {
-      console.log(`[buscarContemplacionesPorFecha] No hay contemplaciones configuradas para esta fecha`)
-    }
-    return []
-  }
-  
-  if (typeof window !== 'undefined') {
-    console.log(`[buscarContemplacionesPorFecha] IDs a buscar:`, idsABuscar)
-  }
-  
-  // Buscar contemplaciones por ID
-  const resultados = contemplacionesData.entries
-    .filter((c: any) => idsABuscar.includes(c.id))
-    .map((c: any) => ({ ...c }))
-  
-  if (typeof window !== 'undefined') {
-    console.log(`[buscarContemplacionesPorFecha] Contemplaciones encontradas: ${resultados.length}`, resultados.map((r: any) => r.titulo))
-  }
-  
-  return resultados
 }
 
 /**
@@ -493,116 +438,127 @@ function buscarContemplacionesPorFecha(año: number, mes: number, dia: number): 
  * Usa el índice de celebraciones del JSON limpio para búsqueda eficiente
  */
 export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana {
+  const celebracionesFijas: Contemplacion[] = [];
+  const celebrationIndex = (contemplacionesData.indexes?.celebration_index || {}) as Record<string, number[]>;
+  const entries = contemplacionesData.entries;
+  //inicializa la datos de tiempo 
   const hoy = fecha || new Date()
+  //calcular la temporada 
   const seasonInfo = getLiturgicalSeason(hoy)
+  //calcula el año en base al calendario liturgico
   const year = liturgicalYearForDate(hoy)
+  //calcula el ciclo del año liturgico 
   const ciclo = getCicloLiturgico(year)
-  
+  /*
+    // Calcular el domingo de la semana
+    const domingo = getDomingoDeEstaSemana(hoy);
+    // Buscar el lunes anterior (o el mismo domingo si es lunes)
+    const lunes = new Date(domingo.getTime());
+    lunes.setUTCDate(domingo.getUTCDate() - 6);
+    // Recorrer cada día de la semana
+    for (let i = 0; i < 7; i++) {
+      const d = new Date(lunes.getTime());
+      d.setUTCDate(lunes.getUTCDate() + i);
+      const dia = d.getUTCDate();
+      const mes = d.getUTCMonth() + 1; // 1-12
+      // Buscar claves de celebration_index que sean fiestas fijas (por ejemplo, "INMACULADA", "ASUNCION", etc.)
+      Object.keys(celebrationIndex).forEach(clave => {
+        // Buscar en entries una contemplación con esa clave y fecha que coincida en día y mes
+        const ids = celebrationIndex[clave] || [];
+        ids.forEach(id => {
+          const c = entries.find((e: any) => e.id === id && e.ciclo === ciclo);
+          if (c && c.fecha) {
+            const [anio, mesStr, diaStr] = c.fecha.split('-');
+            if (parseInt(mesStr) === mes && parseInt(diaStr) === dia) {
+              // Evitar duplicados
+              if (!celebracionesFijas.some(cf => cf.id === c.id)) {
+                celebracionesFijas.push({ ...c, fecha: formatearFechaEspanol(d) });
+              }
+            }
+          }
+        });
+      });
+    }
+    */
+
   // Calcular el domingo correspondiente
   const fechaDomingo = getDomingoDeEstaSemana(hoy)
   const fechaDomingoFormateada = formatearFechaEspanol(fechaDomingo)
-  
-  // Obtener la clave de celebración
-  const celebracionClave = getCelebracionClave(fechaDomingo, seasonInfo)
-  
-  // DEBUG: Log de información
-  if (typeof window !== 'undefined') {
-    console.log('[traerContemplacionesSemana] Fecha:', hoy.toISOString().split('T')[0])
-    console.log('[traerContemplacionesSemana] Clave:', celebracionClave, 'Ciclo:', ciclo)
-    console.log('[traerContemplacionesSemana] Entries disponibles:', contemplacionesData?.entries?.length || 0)
-  }
-  
-  // Primero verificar si hay contemplaciones específicas para esta fecha exacta
-  const año = fechaDomingo.getUTCFullYear()
   const mes = fechaDomingo.getUTCMonth() + 1
   const dia = fechaDomingo.getUTCDate()
-  const contemplacionesFechaExacta = buscarContemplacionesPorFecha(año, mes, dia)
-  
-  // Si hay contemplaciones para fecha exacta, SOLO usar esas
-  if (contemplacionesFechaExacta.length > 0) {
-    if (typeof window !== 'undefined') {
-      console.log(`[traerContemplacionesSemana] Usando SOLO contemplaciones de fecha exacta: ${contemplacionesFechaExacta.length}`)
-    }
-    
-    return {
-      fecha: hoy,
-      fechaDomingo: fechaDomingoFormateada,
-      temporada: seasonInfo.season,
-      ciclo,
-      celebracion_clave: celebracionClave,
-      contemplaciones: contemplacionesFechaExacta.map((c: any) => ({
-        ...c,
-        fecha: fechaDomingoFormateada
-      }))
-    }
+  consoleLog('[traerContemplacionesSemana] Fecha:' + hoy.toISOString().split('T')[0])
+  consoleLog('[traerContemplacionesSemana] Entries disponibles:', contemplacionesData?.entries?.length || 0)
+
+  let contemplaciones: Contemplacion[] = [];
+  // Buscar IDs en el índice
+  let idsEncontrados: number[] = [];
+  // Primero verificar si hay contemplaciones específicas para esta fecha exacta
+  const contemplacionesFecha = buscarContemplacionesPorFecha(mes, dia)
+  if (contemplacionesFecha) {
+    consoleLog('[traerContemplacionesSemana] Por fecha:', contemplacionesFecha)
   }
-  
-  // Si no hay fecha exacta, continuar con la búsqueda normal por celebracion_clave
-  let contemplaciones: Contemplacion[] = []
-  
+  // Obtener la clave de celebración
+  const celebracionClave = getCelebracionClave(fechaDomingo, seasonInfo)
+  consoleLog('[traerContemplacionesSemana] Clave:', celebracionClave, 'Ciclo:', ciclo)
   if (celebracionClave) {
     // Usar el índice de celebraciones del JSON
     const celebrationIndex = (contemplacionesData.indexes?.celebration_index || {}) as Record<string, number[]>
-    
     // Para Cristo Rey, buscar también por ORD34
     let clavesABuscar = [celebracionClave]
-    if (celebracionClave === 'CRISTO_REY') {
-      clavesABuscar.push('ORD34')
-    }
-    
-    // Buscar IDs en el índice
-    let idsEncontrados: number[] = []
     clavesABuscar.forEach(clave => {
       const ids = celebrationIndex[clave] || []
+      consoleLog('[traerContemplacionesSemana] IDs celebraciones claves:', ids.length)
       idsEncontrados = [...idsEncontrados, ...ids]
     })
-    
     // Filtrar por ciclo y obtener las contemplaciones
-    if (typeof window !== 'undefined') {
-      console.log('[traerContemplacionesSemana] IDs encontrados:', idsEncontrados.length)
-    }
-    
-    contemplaciones = contemplacionesData.entries
-      .filter((c: any) => 
-        idsEncontrados.includes(c.id) && 
-        c.ciclo === ciclo &&
-        c.dominical === true
-      )
-      .map((c: any) => ({
-        ...c,
-        fecha: fechaDomingoFormateada
-      }))
-    
-    if (typeof window !== 'undefined') {
-      console.log('[traerContemplacionesSemana] Contemplaciones encontradas:', contemplaciones.length)
-    }
-  }
-  
-  // Si no se encontraron contemplaciones con el índice, buscar por atributos
-  if (contemplaciones.length === 0 && celebracionClave) {
-    const temporadaEspanol = mapSeasonToSpanish(seasonInfo.season)
-    
-    // Para Cristo Rey, buscar también por ORD34
-    let clavesABuscar = [celebracionClave]
-    if (celebracionClave === 'CRISTO_REY') {
-      clavesABuscar.push('ORD34')
-    }
-    
-    contemplaciones = contemplacionesData.entries
-      .filter((c: any) => 
-        clavesABuscar.includes(c.celebracion_clave) &&
-        c.ciclo === ciclo &&
-        c.tiempo_liturgico === temporadaEspanol &&
-        c.dominical === true
-      )
-      .map((c: any) => ({
-        ...c,
-        fecha: fechaDomingoFormateada
-      }))
-  }
-  
 
+    consoleLog('[traerContemplacionesSemana] IDs encontrados:', idsEncontrados.length)
+    //buscar las contemplaciones 
+    contemplaciones = contemplacionesData.entries
+      .filter((c: any) =>
+        (
+          idsEncontrados.includes(c.id) &&
+          c.ciclo === ciclo
+        )
+        ||
+        contemplacionesFecha.includes(c.id)
+      )
+      .map((c: any) => ({
+        ...c,
+        fecha: fechaDomingoFormateada
+      }))
+
+    consoleLog('[traerContemplacionesSemana] Contemplaciones encontradas:', contemplaciones.length)
+
+  }
+
+  /*
+    // Si no se encontraron contemplaciones con el índice, buscar por atributos
+    if (contemplaciones.length === 0 && celebracionClave) {
+      const temporadaEspanol = mapSeasonToSpanish(seasonInfo.season)
   
+      /*
+      // Para Cristo Rey, buscar también por ORD34
+      let clavesABuscar = [celebracionClave]
+      if (celebracionClave === 'CRISTO_REY') {
+        clavesABuscar.push('ORD34')
+      }
+  
+      contemplaciones = contemplacionesData.entries
+        .filter((c: any) =>
+          clavesABuscar.includes(c.celebracion_clave) &&
+          c.ciclo === ciclo &&
+          c.tiempo_liturgico === temporadaEspanol &&
+          c.dominical === true
+        )
+        .map((c: any) => ({
+          ...c,
+          fecha: fechaDomingoFormateada
+        }))
+        }
+  */
+
+
   return {
     fecha: hoy,
     fechaDomingo: fechaDomingoFormateada,
@@ -615,7 +571,7 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
 
 /**
  * Busca contemplaciones por evangelio (usando el índice de evangelios)
- */
+ 
 export function buscarPorEvangelio(evangelio: string): Contemplacion[] {
   const gospelIndex = (contemplacionesData.indexes?.gospel_index || {}) as Record<string, number[]>
   const ids = gospelIndex[evangelio] || []
@@ -624,10 +580,10 @@ export function buscarPorEvangelio(evangelio: string): Contemplacion[] {
     .filter((c: any) => ids.includes(c.id))
     .map((c: any) => ({ ...c }))
 }
-
+*/
 /**
  * Busca contemplaciones por clave de celebración
- */
+ 
 export function buscarPorCelebracion(clave: string, ciclo?: 'A' | 'B' | 'C'): Contemplacion[] {
   const celebrationIndex = (contemplacionesData.indexes?.celebration_index || {}) as Record<string, number[]>
   const ids = celebrationIndex[clave] || []
@@ -640,4 +596,21 @@ export function buscarPorCelebracion(clave: string, ciclo?: 'A' | 'B' | 'C'): Co
   }
   
   return contemplaciones.map((c: any) => ({ ...c }))
+}
+*/
+
+/**
+ * Busca contemplaciones adicionales por IDs específicos
+ * para fechas exactas según Calendario Fares Lecturas
+ */
+function buscarContemplacionesPorFecha(mes: number, dia: number): number[] {
+  const contemplacionesPorFecha: Record<string, number[]> = {
+    // Fiestas fijas que se repiten cada año
+    '11-1': [58851],  // Todos los Santos
+    '11-9': [68580],  // Dedicación Basílica de Letrán
+    '6-24': [78774],  // Sagrado Corazón
+    '8-15': [59118],  // Asunción
+  }
+
+  return contemplacionesPorFecha[`${mes}-${dia}`] ?? []
 }
