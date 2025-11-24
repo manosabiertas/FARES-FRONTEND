@@ -314,17 +314,9 @@ function calcularDomingoPascua(fecha: Date, seasonInfo: SeasonInfo): string | nu
 */
 function calcularDomingoOrdinario(fecha: Date, seasonInfo: SeasonInfo): string | null {
   const ly = liturgicalYearForDate(fecha)
-  const easter = easterDate(ly)
+  //  const easter = easterDate(ly)
   const pent = pentecost(ly)
   const ash = ashWednesday(ly)
-
-  // Verificar solemnidades especiales
-  // Cristo Rey: último domingo antes de Adviento
-  const advStart = adventStart(ly)
-  const cristoRey = subDays(advStart, 7)
-  if (isSameDay(fecha, cristoRey)) {
-    return 'CRISTO_REY'
-  }
 
   // Verificar si estamos en TO antes o después de Pascua
   if (fecha < ash) {
@@ -381,6 +373,7 @@ function calcularDomingoOrdinario(fecha: Date, seasonInfo: SeasonInfo): string |
 
     // Buscar en qué posición está la fecha
     for (let i = 0; i < domingosTOII.length; i++) {
+
       if (isSameDay(fecha, domingosTOII[i])) {
         const numeroDomingo = numeroInicial + i
 
@@ -406,7 +399,6 @@ function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo): string | null
       const numDomingo = calcularDomingoAdviento(fecha, seasonInfo)
       return numDomingo ? `ADV${numDomingo}` : null
     }
-
     case 'Lent': {
       return calcularDomingoCuaresma(fecha, seasonInfo)
     }
@@ -504,7 +496,16 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
     // Usar el índice de celebraciones del JSON
     const celebrationIndex = (contemplacionesData.indexes?.celebration_index || {}) as Record<string, number[]>
     // Para Cristo Rey, buscar también por ORD34
+    // Para Adviento, buscar también por ORD1, ORD2, ORD3, ORD4 según corresponda
     let clavesABuscar = [celebracionClave]
+    if (celebracionClave === 'CRISTO_REY') {
+      clavesABuscar.push('ORD34');
+    }
+    // Si es ADV1, ADV2, ADV3, ADV4, buscar también por ORD1, ORD2, ORD3, ORD4
+    const advMatch = celebracionClave.match(/^ADV([1-4])$/);
+    if (advMatch) {
+      clavesABuscar.push(`ORD${advMatch[1]}`);
+    }
     clavesABuscar.forEach(clave => {
       const ids = celebrationIndex[clave] || []
       consoleLog('[traerContemplacionesSemana] IDs celebraciones claves:', ids.length)
@@ -537,7 +538,7 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
     if (contemplaciones.length === 0 && celebracionClave) {
       const temporadaEspanol = mapSeasonToSpanish(seasonInfo.season)
   
-      /*
+      
       // Para Cristo Rey, buscar también por ORD34
       let clavesABuscar = [celebracionClave]
       if (celebracionClave === 'CRISTO_REY') {
@@ -557,7 +558,7 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
         }))
         }
   */
-
+  //si es cristo rey y el ciclo es B puede entrar osea es una celebracion para tomar en cuenta 
 
   return {
     fecha: hoy,
