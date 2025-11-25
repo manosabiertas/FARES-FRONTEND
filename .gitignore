@@ -42,3 +42,4 @@ test/missing-contemplaciones.test.js
 test/missing-contemplaciones.test.js
 test/Calendario Fares Lecturas.txt
 find_contemplation_ids.js
+limpiar_contemplaciones.js
