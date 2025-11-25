@@ -541,12 +541,9 @@ function buscarContemplacionesPorFechaCompleta(año: number, mes: number, dia: n
     '2025-12-7': [66726, 15233, 93052],  // Adviento 2 A
     '2025-12-14': [66726, 17615, 72698, 79652, 68874, 60128],  // Adviento 3 A
     '2025-12-21': [85000, 88395, 56283],  // Adviento 4 A
-    '2025-12-25': [98245, 33270, 49797, 12905],  // Navidad
-    '2025-12-28': [61208, 74938, 76284],  // Sagrada Familia
-
+    '2025-12-28': [98245, 33270, 49797, 12905,61208, 74938, 76284],  // Sagrada Familia
     // 2026
-    '2026-1-1': [11221, 37297, 86378],  // Santa María Madre de Dios
-    '2026-1-4': [20911, 52798],  // 2º Domingo después de Navidad
+    '2026-1-4': [11221, 37297, 86378, 20911, 52798],  // 2º Domingo después de Navidad
     '2026-1-11': [7610, 71816, 66432],  // Bautismo del Señor
     '2026-1-18': [94897, 98210, 90919, 22007],  // 2º Domingo Tiempo Ordinario
     '2026-1-25': [55225, 71889, 40127, 49415],  // 3er Domingo Tiempo Ordinario
