@@ -424,7 +424,7 @@ function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo): string | null
  * Imprime en la consola 
  */
 export function consoleLog(...parameters: any[]): void {
-  if (typeof window !== 'undefined') {
+ if (typeof window !== 'undefined') {
     console.log(...parameters);
   }
 }
@@ -464,18 +464,9 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
   const celebracionClave = getCelebracionClave(fechaDomingo, seasonInfo)
   consoleLog('[traerContemplacionesSemana] Clave:', celebracionClave, 'Ciclo:', ciclo)
   if (celebracionClave) {
-    // Usar el índice de celebraciones del JSON
-    // celebrationIndex is now imported from celebration_index.json
-    // Para Cristo Rey, buscar también por ORD34
-    // Para Adviento, buscar también por ORD1, ORD2, ORD3, ORD4 según corresponda
     let clavesABuscar = [celebracionClave]
     if (celebracionClave === 'CRISTO_REY') {
       clavesABuscar.push('ORD34');
-    }
-    // Si es ADV1, ADV2, ADV3, ADV4, buscar también por ORD1, ORD2, ORD3, ORD4
-    const advMatch = celebracionClave.match(/^ADV([1-4])$/);
-    if (advMatch) {
-      clavesABuscar.push(`ORD${advMatch[1]}`);
     }
     clavesABuscar.forEach(clave => {
       const ids = celebrationIndex[clave] || []
