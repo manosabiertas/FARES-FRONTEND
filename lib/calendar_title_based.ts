@@ -480,12 +480,13 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
   // Eliminar duplicados
   //idsEncontrados = Array.from(new Set(idsEncontrados));
   consoleLog('[traerContemplacionesSemana] IDs encontrados:', idsEncontrados.length);
-  const contemplaciones: Contemplacion[] = contemplacionesData
-    .filter((c: any) => idsEncontrados.includes(c.id))
-    .map((c: any) => ({
-      ...c,
-      fecha: fechaDomingoFormateada
-    }));
+  // Ordenar las contemplaciones según el orden de idsEncontrados
+  const contemplaciones: Contemplacion[] = idsEncontrados
+    .map((id) => {
+      const c = contemplacionesData.find((c: any) => c.id === id)
+      return c ? { ...c, fecha: fechaDomingoFormateada } : null
+    })
+    .filter((c): c is Contemplacion => c !== null)
   consoleLog('[traerContemplacionesSemana] Contemplaciones encontradas:', contemplaciones.length);
   return {
     fecha: hoy,
