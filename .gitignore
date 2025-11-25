@@ -31,7 +31,6 @@ debug_adviento.js
 fix_contemplaciones.js
 lib/contemplaciones_original_backup.json
 lib/contemplaciones_corregidas.json
-lib/contemplaciones.json
 fix_metadata_report.csv
 fix_metadata.js
 METADATA_CORRECTION_REPORT.md
