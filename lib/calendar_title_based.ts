@@ -1,3 +1,15 @@
+/*
+// Devuelve true si la fecha es el primer domingo después de Navidad
+function esPrimerDomingoDespuesDeNavidad(fechaDomingo: Date): boolean {
+  const año = fechaDomingo.getUTCFullYear();
+  const navidad = new Date(Date.UTC(año, 11, 25));
+  let primerDomingo = addDays(navidad, 1);
+  while (primerDomingo.getUTCDay() !== 0) {
+    primerDomingo = addDays(primerDomingo, 1);
+  }
+  return isSameDay(fechaDomingo, primerDomingo);
+}
+*/
 // Cálculos litúrgicos usando contemplaciones_clean_title_based.json
 // Este archivo implementa la lógica basada en títulos y metadatos limpios
 
@@ -112,6 +124,7 @@ function adventStart(year: number): Date {
   return fourthSundayBefore
 }
 
+
 /**
  * Calcula el Miércoles de Ceniza (46 días antes de Pascua)
  */
@@ -216,20 +229,20 @@ function mapSeasonToSpanish(season: Season): string {
 }
 
 /**
- * Obtiene la fecha del domingo de la semana actual o siguiente
+ * Obtiene la fecha del domingo de la semana actual o anterior
  * Si la fecha es domingo, retorna la misma fecha
- * Si es otro día, retorna el domingo siguiente
+ * Si es otro día, retorna el domingo anterior
  */
 function getDomingoDeEstaSemana(fecha: Date): Date {
-  const fechaCopia = new Date(fecha.getTime())
-  const diaSemana = fechaCopia.getUTCDay() // 0 = Domingo, 1 = Lunes, etc.
-
+  // Retorna el domingo anterior o igual a la fecha dada (domingo como primer día de la semana)
+  const fechaCopia = new Date(fecha.getTime());
+  const diaSemana = fechaCopia.getUTCDay(); // 0 = Domingo, 1 = Lunes, ...
+  // Si es domingo, retorna la misma fecha
   if (diaSemana === 0) {
-    return fechaCopia
+    return fechaCopia;
   }
-
-  const diasHastaDomingo = 7 - diaSemana
-  return addDays(fechaCopia, diasHastaDomingo)
+  // Si no, retrocede hasta el domingo anterior
+  return addDays(fechaCopia, -diaSemana);
 }
 
 /**
@@ -401,6 +414,12 @@ function calcularDomingoOrdinario(fecha: Date, seasonInfo: SeasonInfo): string |
  * Obtiene la clave de celebración para un domingo dado
 */
 function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo, ciclo: Ciclo): string | null {
+  // SAGRADA_FAMILIA: si es el primer domingo después de Navidad
+  // if (seasonInfo.season === 'Christmas' && esPrimerDomingoDespuesDeNavidad(fecha)) {
+  //   return 'SAGRADA_FAMILIA.' + ciclo;
+  // }
+
+  // consoleLog(seasonInfo.season);
   switch (seasonInfo.season) {
     case 'Advent': {
       const numDomingo = calcularDomingoAdviento(fecha, seasonInfo)
@@ -414,6 +433,10 @@ function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo, ciclo: Ciclo):
       return calcularDomingoPascua(fecha, seasonInfo) + '.' + ciclo
     }
 
+    case 'Christmas': {
+      return calcularDomingoNavidad(fecha, seasonInfo) + '.' + ciclo
+    }
+
     case 'Ordinary Time': {
       return calcularDomingoOrdinario(fecha, seasonInfo) + '.' + ciclo
     }
@@ -423,6 +446,30 @@ function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo, ciclo: Ciclo):
   }
 }
 
+
+// ---
+/**
+ * Calcula el número de domingo dentro de Navidad (Christmas)
+ * Devuelve 'SAGRADA_FAMILIA' si corresponde, o NAV1, NAV2, ...
+ */
+function calcularDomingoNavidad(fecha: Date, seasonInfo: SeasonInfo): string | null {
+  // Primer domingo después de Navidad = SAGRADA_FAMILIA
+  //if (esPrimerDomingoDespuesDeNavidad(fecha)) {
+  //  return 'SAGRADA_FAMILIA';
+  //}
+  // Calcular domingos desde el 25 de diciembre
+  const inicio = seasonInfo.start;
+  let domingo = inicio;
+  let numeroDomingo = 1;
+  while (domingo <= seasonInfo.end) {
+    if (isSameDay(fecha, domingo)) {
+      return `NAV${numeroDomingo}`;
+    }
+    domingo = addDays(domingo, 7);
+    numeroDomingo++;
+  }
+  return null;
+}
 /** 
  * Imprime en la consola 
  */
@@ -459,13 +506,13 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
   let idsEncontrados: number[] = buscarContemplacionesPorFechaCompleta(año, mes, dia);
   const celebracionClave = getCelebracionClave(fechaDomingo, seasonInfo, ciclo);
   if (0 === idsEncontrados.length) {
-    // Recorrer todos los días de la semana (lunes a domingo)
+    // Recorrer todos los días de la semana (domingo a sábado)
     const diasSemana: Date[] = [];
     for (let i = 0; i < 7; i++) {
-      const d = addDays(fechaDomingo, -i);
-      diasSemana.unshift(d); // lunes primero, domingo último
+      const d = addDays(fechaDomingo, i); // domingo +0, +1, ..., +6
+      diasSemana.push(d); // domingo primero, sábado último
     }
-    consoleLog("Dias semana:", diasSemana);
+    //consoleLog("Dias semana:", diasSemana);
     // Acumular todos los IDs únicos de cada día
     for (const d of diasSemana) {
       const m = d.getUTCMonth() + 1;
@@ -474,8 +521,8 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
       const idsFecha = buscarContemplacionesPorFecha(m, day);
       idsEncontrados.push(...idsFecha);
     }
+    consoleLog("IDs encontrados por celebraciones de la semana  :", idsEncontrados);
     consoleLog('Celebracion Clave:', celebracionClave);
-    consoleLog("IDs encontrados :", idsEncontrados);
     // Si no hay ninguno, usar la lógica de celebración clave
     if (celebracionClave) {
       const idsCiclo = celebrationIndex[`${celebracionClave}`] || [];
