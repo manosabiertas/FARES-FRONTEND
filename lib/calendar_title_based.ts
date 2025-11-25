@@ -41,11 +41,13 @@ export interface Contemplacion {
   //celebracion_clave?: string
 }
 
+export type Ciclo = 'A' | 'B' | 'C';
+
 export interface ContemplacionesSemana {
   fecha: Date
   fechaDomingo: string
   temporada: Season
-  ciclo: 'A' | 'B' | 'C'
+  ciclo: Ciclo
   celebracion_clave: string | null
   contemplaciones: Contemplacion[]
 }
@@ -193,7 +195,7 @@ function getLiturgicalSeason(date: Date): SeasonInfo {
 /**
  * Obtiene el ciclo litúrgico (A, B, C) para un año litúrgico dado
  */
-function getCicloLiturgico(year: number): 'A' | 'B' | 'C' {
+function getCicloLiturgico(year: number): Ciclo {
   const cycles = ['C', 'A', 'B'] as const
   return cycles[year % 3]
 }
@@ -259,6 +261,7 @@ function calcularDomingoAdviento(fecha: Date, seasonInfo: SeasonInfo): number | 
   }
   return null
 }
+
 
 /**
  * Calcula el número de domingo dentro de Cuaresma (1-5) o domingos especiales
@@ -397,22 +400,22 @@ function calcularDomingoOrdinario(fecha: Date, seasonInfo: SeasonInfo): string |
 /**
  * Obtiene la clave de celebración para un domingo dado
 */
-function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo): string | null {
+function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo, ciclo: Ciclo): string | null {
   switch (seasonInfo.season) {
     case 'Advent': {
       const numDomingo = calcularDomingoAdviento(fecha, seasonInfo)
-      return numDomingo ? `ADV${numDomingo}` : null
+      return numDomingo ? `ADV${numDomingo}.${ciclo}` : null
     }
     case 'Lent': {
-      return calcularDomingoCuaresma(fecha, seasonInfo)
+      return calcularDomingoCuaresma(fecha, seasonInfo) + '.' + ciclo
     }
 
     case 'Easter': {
-      return calcularDomingoPascua(fecha, seasonInfo)
+      return calcularDomingoPascua(fecha, seasonInfo) + '.' + ciclo
     }
 
     case 'Ordinary Time': {
-      return calcularDomingoOrdinario(fecha, seasonInfo)
+      return calcularDomingoOrdinario(fecha, seasonInfo) + '.' + ciclo
     }
 
     default:
@@ -454,7 +457,7 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
   consoleLog('[traerContemplacionesSemana] Entries disponibles:', contemplacionesData?.length || 0)
   // Por fecha exacta
   let idsEncontrados: number[] = buscarContemplacionesPorFechaCompleta(año, mes, dia);
-  const celebracionClave = getCelebracionClave(fechaDomingo, seasonInfo);
+  const celebracionClave = getCelebracionClave(fechaDomingo, seasonInfo, ciclo);
   if (0 === idsEncontrados.length) {
     // Recorrer todos los días de la semana (lunes a domingo)
     const diasSemana: Date[] = [];
@@ -462,7 +465,7 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
       const d = addDays(fechaDomingo, -i);
       diasSemana.unshift(d); // lunes primero, domingo último
     }
- consoleLog("Dias semana:",diasSemana);
+    consoleLog("Dias semana:", diasSemana);
     // Acumular todos los IDs únicos de cada día
     for (const d of diasSemana) {
       const m = d.getUTCMonth() + 1;
@@ -471,11 +474,14 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
       const idsFecha = buscarContemplacionesPorFecha(m, day);
       idsEncontrados.push(...idsFecha);
     }
-consoleLog('Celebracion Clave:',celebracionClave);
- consoleLog("IDs encontrados :",idsEncontrados);
+    consoleLog('Celebracion Clave:', celebracionClave);
+    consoleLog("IDs encontrados :", idsEncontrados);
     // Si no hay ninguno, usar la lógica de celebración clave
     if (celebracionClave) {
-      const idsCiclo = celebrationIndex[`${celebracionClave}.${ciclo}`] || [];
+      const idsCiclo = celebrationIndex[`${celebracionClave}`] || [];
+
+      consoleLog("IDS ciclo :", idsCiclo);
+
       idsEncontrados = [...idsEncontrados, ...idsCiclo];
     }
   }
@@ -544,7 +550,7 @@ function buscarContemplacionesPorFechaCompleta(año: number, mes: number, dia: n
     '2025-12-7': [66726, 15233, 93052],  // Adviento 2 A
     '2025-12-14': [66726, 17615, 72698, 79652, 68874, 60128],  // Adviento 3 A
     '2025-12-21': [85000, 88395, 56283],  // Adviento 4 A
-    '2025-12-28': [98245, 33270, 49797, 12905,61208, 74938, 76284],  // Sagrada Familia
+    '2025-12-28': [98245, 33270, 49797, 12905, 61208, 74938, 76284],  // Sagrada Familia
     // 2026
     '2026-1-4': [11221, 37297, 86378, 20911, 52798],  // 2º Domingo después de Navidad
     '2026-1-11': [7610, 71816, 66432],  // Bautismo del Señor
