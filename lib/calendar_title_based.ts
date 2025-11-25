@@ -434,7 +434,7 @@ export function consoleLog(...parameters: any[]): void {
  * Usa el índice de celebraciones del JSON limpio para búsqueda eficiente
  */
 export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana {
-  const celebracionesFijas: Contemplacion[] = [];
+  //const celebracionesFijas: Contemplacion[] = [];
   //const entries = contemplacionesData;
   //inicializa la datos de tiempo 
   const hoy = fecha || new Date()
@@ -452,31 +452,41 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
   const dia = fechaDomingo.getUTCDate()
   consoleLog('[traerContemplacionesSemana] Fecha:' + hoy.toISOString().split('T')[0])
   consoleLog('[traerContemplacionesSemana] Entries disponibles:', contemplacionesData?.length || 0)
-  let contemplaciones: Contemplacion[] = [];
-  // Buscar IDs en el índice
-  let idsEncontrados: number[] = buscarContemplacionesPorFechaCompleta(año, mes, dia)
-  const celebracionClave = getCelebracionClave(fechaDomingo, seasonInfo)
-  if (idsEncontrados.length === 0) {
-    idsEncontrados = buscarContemplacionesPorFecha(mes, dia)
-    consoleLog('[traerContemplacionesSemana] Por fecha:', idsEncontrados)
-    if (idsEncontrados.length === 0) {
-      // Obtener la clave de celebración y buscar por ciclo
-      consoleLog('[traerContemplacionesSemana] Clave:', celebracionClave, 'Ciclo:', ciclo)
-      if (celebracionClave) {
-        const idsCiclo = celebrationIndex[`${celebracionClave}.${ciclo}`] || []
-        consoleLog('[traerContemplacionesSemana] IDs celebraciones claves:', idsCiclo.length)
-        idsEncontrados = [...idsEncontrados, ...idsCiclo]
-      }
+  // Por fecha exacta
+  let idsEncontrados: number[] = buscarContemplacionesPorFechaCompleta(año, mes, dia);
+  console.log('Encontrados por fecha exacta : ', año, mes, dia, idsEncontrados);
+  const celebracionClave = getCelebracionClave(fechaDomingo, seasonInfo);
+  if (0 === idsEncontrados.length) {
+    // Recorrer todos los días de la semana (lunes a domingo)
+    const diasSemana: Date[] = [];
+    for (let i = 0; i < 7; i++) {
+      const d = addDays(fechaDomingo, -i);
+      diasSemana.unshift(d); // lunes primero, domingo último
+    }
+    // Acumular todos los IDs únicos de cada día
+    for (const d of diasSemana) {
+      const m = d.getUTCMonth() + 1;
+      const day = d.getUTCDate();
+      // Por día-mes
+      const idsFecha = buscarContemplacionesPorFecha(m, day);
+      idsEncontrados.push(...idsFecha);
+    }
+    // Si no hay ninguno, usar la lógica de celebración clave
+    if (idsEncontrados.length === 0 && celebracionClave) {
+      const idsCiclo = celebrationIndex[`${celebracionClave}.${ciclo}`] || [];
+      idsEncontrados = [...idsEncontrados, ...idsCiclo];
     }
   }
-  consoleLog('[traerContemplacionesSemana] IDs encontrados:', idsEncontrados.length)
-  contemplaciones = contemplacionesData
+  // Eliminar duplicados
+  //idsEncontrados = Array.from(new Set(idsEncontrados));
+  consoleLog('[traerContemplacionesSemana] IDs encontrados:', idsEncontrados.length);
+  const contemplaciones: Contemplacion[] = contemplacionesData
     .filter((c: any) => idsEncontrados.includes(c.id))
     .map((c: any) => ({
       ...c,
       fecha: fechaDomingoFormateada
-    }))
-  consoleLog('[traerContemplacionesSemana] Contemplaciones encontradas:', contemplaciones.length)
+    }));
+  consoleLog('[traerContemplacionesSemana] Contemplaciones encontradas:', contemplaciones.length);
   return {
     fecha: hoy,
     fechaDomingo: fechaDomingoFormateada,
@@ -513,6 +523,13 @@ function buscarContemplacionesPorFecha(mes: number, dia: number): number[] {
 }
 
 
+/**
+ * Busca contemplaciones por fecha exacta 
+ * @param año 
+ * @param mes 
+ * @param dia 
+ * @returns 
+ */
 function buscarContemplacionesPorFechaCompleta(año: number, mes: number, dia: number): number[] {
   // Mapa de contemplaciones por fecha exacta (año-mes-día) con IDs
   // Basado en Calendario Fares Lecturas
@@ -521,8 +538,7 @@ function buscarContemplacionesPorFechaCompleta(año: number, mes: number, dia: n
     '2025-11-23': [69729, 31911, 84587, 40394],  // Cristo Rey C
     '2025-11-30': [97251, 72864, 20640, 75502],  // Adviento 1 A
     '2025-12-7': [66726, 15233, 93052],  // Adviento 2 A
-    '2025-12-8': [66726, 17615],  // Inmaculada Concepción
-    '2025-12-14': [72698, 79652, 68874, 60128],  // Adviento 3 A
+    '2025-12-14': [66726, 17615, 72698, 79652, 68874, 60128],  // Adviento 3 A
     '2025-12-21': [85000, 88395, 56283],  // Adviento 4 A
     '2025-12-25': [98245, 33270, 49797, 12905],  // Navidad
     '2025-12-28': [61208, 74938, 76284],  // Sagrada Familia
@@ -534,6 +550,7 @@ function buscarContemplacionesPorFechaCompleta(año: number, mes: number, dia: n
     '2026-1-18': [94897, 98210, 90919, 22007],  // 2º Domingo Tiempo Ordinario
     '2026-1-25': [55225, 71889, 40127, 49415],  // 3er Domingo Tiempo Ordinario
   }
+  consoleLog(`Fecha por dia ${año}-${mes}-${dia}`)
   return contemplacionesPorFechaCompleta[`${año}-${mes}-${dia}`] ?? []
 }
 
