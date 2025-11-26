@@ -549,7 +549,8 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
   consoleLog('[traerContemplacionesSemana] Fecha:' + hoy.toISOString().split('T')[0])
   consoleLog('[traerContemplacionesSemana] Entries disponibles:', contemplacionesData?.length || 0)
   // Por fecha exacta
-  let idsEncontrados: number[] = buscarContemplacionesPorFechaCompleta(año, mes, dia);
+  // let idsEncontrados: number[] = buscarContemplacionesPorFechaCompleta(año, mes, dia);
+  let idsEncontrados: number[] = [];
   const celebracionClave = getCelebracionClave(fechaDomingo, seasonInfo, ciclo);
 
   // IDs de ciclo del domingo
@@ -631,7 +632,7 @@ function buscarContemplacionesPorFecha(mes: number, dia: number): number[] {
  * @param mes 
  * @param dia 
  * @returns 
- */
+ 
 function buscarContemplacionesPorFechaCompleta(año: number, mes: number, dia: number): number[] {
   return [];
   // Mapa de contemplaciones por fecha exacta (año-mes-día) con IDs
@@ -653,4 +654,4 @@ function buscarContemplacionesPorFechaCompleta(año: number, mes: number, dia: n
   consoleLog(`Fecha por dia ${año}-${mes}-${dia}`)
   return contemplacionesPorFechaCompleta[`${año}-${mes}-${dia}`] ?? []
 }
-
+*/
