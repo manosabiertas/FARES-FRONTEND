@@ -86,12 +86,11 @@ export interface Contemplacion {
   // ciclo: 'A' | 'B' | 'C'
   // tiempo_liturgico: string
   titulo: string
-  // lecturas: string[]
-  // lecturas_normalizadas: string[]
   resumen: string
   link: string
   //dominical: boolean
-  //fecha?: string
+  fecha?: string
+  lecturas?: string[] | string
   //celebracion_clave?: string
 }
 

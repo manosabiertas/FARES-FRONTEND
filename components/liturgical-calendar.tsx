@@ -33,10 +33,21 @@ export default function LiturgicalCalendar() {
     contemplaciones: Contemplacion[]
   } | null>(null)
 
-  // Obtener las contemplaciones de la semana cuando cambia la fecha
+  // Obtener el rango de la semana siguiente (próximo domingo a sábado)
+  const getNextWeekRange = () => {
+    const today = new Date(currentDate)
+    const dayOfWeek = today.getDay()
+    const daysToNextSunday = (7 - dayOfWeek) % 7 || 7;
+    const nextSunday = new Date(today)
+    nextSunday.setDate(today.getDate() + daysToNextSunday)
+    return nextSunday
+  }
+
   useEffect(() => {
-    const contemplaciones = traerContemplacionesSemana(currentDate)
-    console.log('Contemplaciones para:', currentDate, contemplaciones)
+    // Usar el próximo domingo como fecha base para la consulta
+    const nextSunday = getNextWeekRange()
+    const contemplaciones = traerContemplacionesSemana(nextSunday)
+    console.log('Contemplaciones para:', nextSunday, contemplaciones)
     setContemplacionesSemana(contemplaciones)
   }, [currentDate])
 
@@ -51,20 +62,19 @@ export default function LiturgicalCalendar() {
     setCurrentDate(new Date())
   }
 
-  // Obtener el rango de la semana actual para mostrar
+  // Obtener el rango de la semana actual para mostrar (domingo a sábado)
   const getWeekRange = () => {
-    const startOfWeek = new Date(currentDate)
-    // Ajustar para que la semana empiece en lunes
-    const dayOfWeek = currentDate.getDay()
-    const daysToSubtract = dayOfWeek === 0 ? 6 : dayOfWeek - 1
-    startOfWeek.setDate(currentDate.getDate() - daysToSubtract)
-
-    const endOfWeek = new Date(startOfWeek)
-    endOfWeek.setDate(startOfWeek.getDate() + 6)
-
-    return { start: startOfWeek, end: endOfWeek }
+    // Siempre mostrar la semana siguiente (domingo próximo al sábado siguiente)
+    const today = new Date(currentDate)
+    const dayOfWeek = today.getDay() // 0=domingo
+    // Calcular el próximo domingo
+    const daysToNextSunday = (7 - dayOfWeek) % 7 || 7;
+    const nextSunday = new Date(today)
+    nextSunday.setDate(today.getDate() + daysToNextSunday)
+    const nextSaturday = new Date(nextSunday)
+    nextSaturday.setDate(nextSunday.getDate() + 6)
+    return { start: nextSunday, end: nextSaturday }
   }
-
   const weekRange = getWeekRange()
 
   return (
