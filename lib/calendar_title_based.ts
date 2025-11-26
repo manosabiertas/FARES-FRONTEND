@@ -1,4 +1,23 @@
 /**
+ * Devuelve true si la fecha es el Bautismo del Señor
+ * (el domingo después del 6 de enero, o el lunes si el 6 cae en domingo)
+ */
+function esBautismoDelSenor(fechaDomingo: Date): boolean {
+  const año = fechaDomingo.getUTCFullYear();
+  // Epifanía: 6 de enero
+  const epifania = new Date(Date.UTC(año, 0, 6));
+  // El Bautismo del Señor es el domingo después de Epifanía
+  let bautismo = addDays(epifania, 1);
+  while (bautismo.getUTCDay() !== 0) {
+    bautismo = addDays(bautismo, 1);
+  }
+  // Si Epifanía cae en domingo, Bautismo es el lunes siguiente (7 de enero)
+  if (epifania.getUTCDay() === 0) {
+    bautismo = addDays(epifania, 1);
+  }
+  return isSameDay(fechaDomingo, bautismo);
+}
+/**
  * Devuelve true si la fecha es el Segundo Domingo después de Navidad
  * (el domingo entre el 2 y el 5 de enero, solo si existe)
  */
@@ -388,11 +407,6 @@ function calcularDomingoOrdinario(fecha: Date, seasonInfo: SeasonInfo): string |
       numeroDomingo++
     }
   } else {
-    // Tiempo Ordinario II (después de Pentecostés)
-    // La numeración litúrgica cuenta DESDE EL FINAL hacia atrás
-    // Cristo Rey es siempre el Domingo 34 del Tiempo Ordinario
-    // El domingo anterior a Cristo Rey es el 33, etc.
-
     const advientoInicio = adventStart(ly)
 
     // Encontrar el primer domingo después de Pentecostés
@@ -457,7 +471,7 @@ function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo, ciclo: Ciclo):
     }
 
     case 'Christmas': {
-      return calcularDomingoNavidad(fecha, seasonInfo) + '.' + ciclo
+      return calcularDomingoNavidad(fecha, seasonInfo) + '.' + ciclo;
     }
 
     case 'Ordinary Time': {
@@ -470,17 +484,22 @@ function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo, ciclo: Ciclo):
 }
 
 
-// ---
 /**
  * Calcula el número de domingo dentro de Navidad (Christmas)
  * Devuelve 'SAGRADA_FAMILIA' si corresponde, o NAV1, NAV2, ...
  */
 function calcularDomingoNavidad(fecha: Date, seasonInfo: SeasonInfo): string | null {
+
   // Primer domingo después de Navidad = SAGRADA_FAMILIA
   if (esPrimerDomingoDespuesDeNavidad(fecha)) {
     return 'SAGRADA_FAMILIA';
-  } else if (esSegundoDomingoDespuesDeNavidad(fecha)) {
+  }
+  if (esSegundoDomingoDespuesDeNavidad(fecha)) {
     return `SEGUNDO_DOMINGO_NAVIDAD`;
+
+  }
+  if (esBautismoDelSenor(fecha)) {
+    return `BAUTISMO_DEL_SEÑOR`;
   }
 
   // Calcular domingos desde el 25 de diciembre
