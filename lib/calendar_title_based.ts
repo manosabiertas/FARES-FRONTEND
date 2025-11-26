@@ -551,32 +551,33 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
   // Por fecha exacta
   let idsEncontrados: number[] = buscarContemplacionesPorFechaCompleta(año, mes, dia);
   const celebracionClave = getCelebracionClave(fechaDomingo, seasonInfo, ciclo);
-  // Verificar si el domingo coincide con una fiesta fija de solemnidad
-  const idsFiestaFijaDomingo = buscarContemplacionesPorFecha(mes, dia);
-  const hayFiestaFijaDomingo = idsFiestaFijaDomingo.length > 0;
-  if (0 === idsEncontrados.length) {
-    // Si el domingo es una fiesta fija de solemnidad, solo mostrar esa contemplación
-    if (hayFiestaFijaDomingo) {
-      idsEncontrados = [...idsFiestaFijaDomingo];
-    } else if (celebracionClave) {
-      // Si hay celebración clave (domingo ordinario u otra), solo mostrar esa contemplación
-      const idsCiclo = celebrationIndex[`${celebracionClave}`] || [];
-      idsEncontrados = [...idsCiclo];
-    } else {
-      // Si no hay celebración clave, recorrer todos los días de la semana (caso raro)
-      const diasSemana: Date[] = [];
-      for (let i = 0; i < 7; i++) {
-        const d = addDays(fechaDomingo, i); // domingo +0, +1, ..., +6
-        diasSemana.push(d); // domingo primero, sábado último
-      }
-      for (const d of diasSemana) {
-        const m = d.getUTCMonth() + 1;
-        const day = d.getUTCDate();
-        const idsFecha = buscarContemplacionesPorFecha(m, day);
-        idsEncontrados.push(...idsFecha);
-      }
-    }
+
+  // IDs de ciclo del domingo
+  let idsCiclo: number[] = [];
+  if (celebracionClave) {
+    idsCiclo = celebrationIndex[`${celebracionClave}`] || [];
   }
+
+  // IDs de fiestas fijas de toda la semana
+  const diasSemana: Date[] = [];
+  for (let i = 0; i < 7; i++) {
+    const d = addDays(fechaDomingo, i);
+    diasSemana.push(d);
+  }
+  let idsFijasSemana: number[] = [];
+  for (const d of diasSemana) {
+    const m = d.getUTCMonth() + 1;
+    const day = d.getUTCDate();
+    const idsFecha = buscarContemplacionesPorFecha(m, day);
+    idsFijasSemana.push(...idsFecha);
+  }
+
+  // Combinar todos los IDs (por fecha exacta, ciclo y fijas de la semana)
+  idsEncontrados = [
+    ...idsEncontrados,
+    ...idsCiclo,
+    ...idsFijasSemana
+  ];
   // Eliminar duplicados manteniendo el primer orden de aparición
   idsEncontrados = Array.from(new Set(idsEncontrados));
   consoleLog('[traerContemplacionesSemana] IDs encontrados:', idsEncontrados.length);
