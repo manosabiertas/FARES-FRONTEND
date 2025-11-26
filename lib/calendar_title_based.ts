@@ -551,29 +551,30 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
   // Por fecha exacta
   let idsEncontrados: number[] = buscarContemplacionesPorFechaCompleta(año, mes, dia);
   const celebracionClave = getCelebracionClave(fechaDomingo, seasonInfo, ciclo);
+  // Verificar si el domingo coincide con una fiesta fija de solemnidad
+  const idsFiestaFijaDomingo = buscarContemplacionesPorFecha(mes, dia);
+  const hayFiestaFijaDomingo = idsFiestaFijaDomingo.length > 0;
   if (0 === idsEncontrados.length) {
-    // Recorrer todos los días de la semana (domingo a sábado)
-    const diasSemana: Date[] = [];
-    for (let i = 0; i < 7; i++) {
-      const d = addDays(fechaDomingo, i); // domingo +0, +1, ..., +6
-      diasSemana.push(d); // domingo primero, sábado último
-    }
-    //consoleLog("Dias semana:", diasSemana);
-    // Acumular todos los IDs únicos de cada día
-    for (const d of diasSemana) {
-      const m = d.getUTCMonth() + 1;
-      const day = d.getUTCDate();
-      // Por día-mes
-      const idsFecha = buscarContemplacionesPorFecha(m, day);
-      idsEncontrados.push(...idsFecha);
-    }
-    consoleLog("IDs encontrados por celebraciones de la semana  :", idsEncontrados);
-    consoleLog('Celebracion Clave:', celebracionClave);
-    // Si no hay ninguno, usar la lógica de celebración clave
-    if (celebracionClave) {
+    // Si el domingo es una fiesta fija de solemnidad, solo mostrar esa contemplación
+    if (hayFiestaFijaDomingo) {
+      idsEncontrados = [...idsFiestaFijaDomingo];
+    } else if (celebracionClave) {
+      // Si hay celebración clave (domingo ordinario u otra), solo mostrar esa contemplación
       const idsCiclo = celebrationIndex[`${celebracionClave}`] || [];
-      consoleLog("IDS ciclo :", idsCiclo);
-      idsEncontrados = [...idsEncontrados, ...idsCiclo];
+      idsEncontrados = [...idsCiclo];
+    } else {
+      // Si no hay celebración clave, recorrer todos los días de la semana (caso raro)
+      const diasSemana: Date[] = [];
+      for (let i = 0; i < 7; i++) {
+        const d = addDays(fechaDomingo, i); // domingo +0, +1, ..., +6
+        diasSemana.push(d); // domingo primero, sábado último
+      }
+      for (const d of diasSemana) {
+        const m = d.getUTCMonth() + 1;
+        const day = d.getUTCDate();
+        const idsFecha = buscarContemplacionesPorFecha(m, day);
+        idsEncontrados.push(...idsFecha);
+      }
     }
   }
   // Eliminar duplicados manteniendo el primer orden de aparición
