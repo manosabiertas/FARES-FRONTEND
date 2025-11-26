@@ -15,12 +15,12 @@ function esPrimerDomingoDespuesDeNavidad(fechaDomingo: Date): boolean {
 
 import contemplacionesDataRaw from './contemplaciones.json'
 import celebrationIndexCiclosRaw from './celebration_index_ciclos.json'
-import gospelIndexRaw from './gospel_index.json'
+//import gospelIndexRaw from './gospel_index.json'
 
 // Verificar que los datos se cargaron correctamente
 const contemplacionesData = contemplacionesDataRaw as any
 const celebrationIndex = celebrationIndexCiclosRaw as Record<string, number[]>
-const gospelIndex = gospelIndexRaw as Record<string, number[]>
+//const gospelIndex = gospelIndexRaw as Record<string, number[]>
 if (!contemplacionesData) {
   console.error('ERROR: contemplaciones.json no se cargó correctamente')
 }
@@ -470,6 +470,7 @@ function calcularDomingoNavidad(fecha: Date, seasonInfo: SeasonInfo): string | n
   }
   return null;
 }
+
 /** 
  * Imprime en la consola 
  */
@@ -526,14 +527,12 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
     // Si no hay ninguno, usar la lógica de celebración clave
     if (celebracionClave) {
       const idsCiclo = celebrationIndex[`${celebracionClave}`] || [];
-
       consoleLog("IDS ciclo :", idsCiclo);
-
       idsEncontrados = [...idsEncontrados, ...idsCiclo];
     }
   }
-  // Eliminar duplicados
-  //idsEncontrados = Array.from(new Set(idsEncontrados));
+  // Eliminar duplicados manteniendo el primer orden de aparición
+  idsEncontrados = Array.from(new Set(idsEncontrados));
   consoleLog('[traerContemplacionesSemana] IDs encontrados:', idsEncontrados.length);
   // Ordenar las contemplaciones según el orden de idsEncontrados
   const contemplaciones: Contemplacion[] = idsEncontrados
