@@ -1,5 +1,6 @@
 /*
 // Devuelve true si la fecha es el primer domingo después de Navidad
+*/
 function esPrimerDomingoDespuesDeNavidad(fechaDomingo: Date): boolean {
   const año = fechaDomingo.getUTCFullYear();
   const navidad = new Date(Date.UTC(año, 11, 25));
@@ -9,7 +10,7 @@ function esPrimerDomingoDespuesDeNavidad(fechaDomingo: Date): boolean {
   }
   return isSameDay(fechaDomingo, primerDomingo);
 }
-*/
+
 // Cálculos litúrgicos usando contemplaciones_clean_title_based.json
 // Este archivo implementa la lógica basada en títulos y metadatos limpios
 
@@ -454,9 +455,9 @@ function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo, ciclo: Ciclo):
  */
 function calcularDomingoNavidad(fecha: Date, seasonInfo: SeasonInfo): string | null {
   // Primer domingo después de Navidad = SAGRADA_FAMILIA
-  //if (esPrimerDomingoDespuesDeNavidad(fecha)) {
-  //  return 'SAGRADA_FAMILIA';
-  //}
+  if (esPrimerDomingoDespuesDeNavidad(fecha)) {
+    return 'SAGRADA_FAMILIA';
+  }
   // Calcular domingos desde el 25 de diciembre
   const inicio = seasonInfo.start;
   let domingo = inicio;
