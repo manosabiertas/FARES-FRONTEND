@@ -8,7 +8,7 @@ describe('traerContemplacionesSemana - fechas exactas', () => {
     { fecha: [2025, 12, 7], ids: [66726, 17615, 15233, 93052], nombre: 'Inmaculada Concepción + Adviento 2 A' }, // originales: 2025-12-07 (Adviento 2 A), 2025-12-07 (Inmaculada Concepción, original: 2025-12-08)
     { fecha: [2025, 12, 14], ids: [72698, 79652, 68874, 60128], nombre: 'Adviento 3 A' },
     { fecha: [2025, 12, 21], ids: [98245, 33270, 49797, 12905, 85000, 88395, 56283], nombre: 'Navidad + Adviento 4 A' }, // originales: 2025-12-21 (Adviento 4 A), 2025-12-21 (Navidad, original: 2025-12-25)
-    { fecha: [2025, 12, 28], ids: [61208, 74938, 76284, 11221, 37297, 86378], nombre: 'Sagrada Familia + Santa María Madre de Dios' }, // originales: 2025-12-28 (Sagrada Familia), 2025-12-28 (Santa María Madre de Dios, original: 2026-01-01)
+    { fecha: [2025, 12, 28], ids: [11221, 37297, 86378, 61208, 74938, 76284], nombre: 'Sagrada Familia + Santa María Madre de Dios' }, // originales: 2025-12-28 (Sagrada Familia), 2025-12-28 (Santa María Madre de Dios, original: 2026-01-01)
 
     // 2026
     { fecha: [2026, 1, 4], ids: [20911, 52798], nombre: '2º Domingo después de Navidad' },

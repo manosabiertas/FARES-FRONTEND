@@ -1,3 +1,25 @@
+/**
+ * Devuelve true si la fecha es el Segundo Domingo después de Navidad
+ * (el domingo entre el 2 y el 5 de enero, solo si existe)
+ */
+function esSegundoDomingoDespuesDeNavidad(fechaDomingo: Date): boolean {
+  const año = fechaDomingo.getUTCFullYear();
+  // Buscar el primer domingo después de Navidad
+  const navidad = new Date(Date.UTC(año - 1, 11, 25));
+  let primerDomingo = addDays(navidad, 1);
+  while (primerDomingo.getUTCDay() !== 0) {
+    primerDomingo = addDays(primerDomingo, 1);
+  }
+  // El segundo domingo es 7 días después
+  const segundoDomingo = addDays(primerDomingo, 7);
+  // Debe estar entre el 2 y el 5 de enero
+  return (
+    isSameDay(fechaDomingo, segundoDomingo) &&
+    fechaDomingo.getUTCMonth() === 0 &&
+    fechaDomingo.getUTCDate() >= 2 &&
+    fechaDomingo.getUTCDate() <= 5
+  );
+}
 /*
 // Devuelve true si la fecha es el primer domingo después de Navidad
 */
@@ -443,7 +465,7 @@ function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo, ciclo: Ciclo):
     }
 
     default:
-      return null
+      return null;
   }
 }
 
@@ -457,7 +479,10 @@ function calcularDomingoNavidad(fecha: Date, seasonInfo: SeasonInfo): string | n
   // Primer domingo después de Navidad = SAGRADA_FAMILIA
   if (esPrimerDomingoDespuesDeNavidad(fecha)) {
     return 'SAGRADA_FAMILIA';
+  } else if (esSegundoDomingoDespuesDeNavidad(fecha)) {
+    return `SEGUNDO_DOMINGO_NAVIDAD`;
   }
+
   // Calcular domingos desde el 25 de diciembre
   const inicio = seasonInfo.start;
   let domingo = inicio;
