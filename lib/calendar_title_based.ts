@@ -1,3 +1,20 @@
+/**
+ * Liturgical Calendar Logic - FARES
+ *
+ * Cómo ejecutar los tests:
+ *
+ * 1. Asegúrate de tener las dependencias instaladas:
+ *    pnpm install   # o npm install
+ *
+ * 2. Ejecuta los tests con:
+ *    npx jest test/calendar_title_based.test.ts --bail
+ *
+ * Esto validará la lógica de calendario y contemplaciones.
+ */
+/**
+ * Determina si la fecha dada es el Bautismo del Señor.
+ * El Bautismo del Señor es el domingo después del 6 de enero, o el lunes si el 6 cae en domingo.
+ */
 function esBautismoDelSenor(fechaDomingo: Date): boolean {
   const año = fechaDomingo.getUTCFullYear();
   const epifania = new Date(Date.UTC(año, 0, 6));
@@ -10,6 +27,10 @@ function esBautismoDelSenor(fechaDomingo: Date): boolean {
   }
   return isSameDay(fechaDomingo, bautismo);
 }
+/**
+ * Determina si la fecha dada es el segundo domingo después de Navidad.
+ * Este domingo ocurre entre el 2 y el 5 de enero, si existe.
+ */
 function esSegundoDomingoDespuesDeNavidad(fechaDomingo: Date): boolean {
   const año = fechaDomingo.getUTCFullYear();
   const navidad = new Date(Date.UTC(año - 1, 11, 25));
@@ -25,6 +46,9 @@ function esSegundoDomingoDespuesDeNavidad(fechaDomingo: Date): boolean {
     fechaDomingo.getUTCDate() <= 5
   );
 }
+/**
+ * Determina si la fecha dada es el primer domingo después de Navidad.
+ */
 function esPrimerDomingoDespuesDeNavidad(fechaDomingo: Date): boolean {
   const año = fechaDomingo.getUTCFullYear();
   const navidad = new Date(Date.UTC(año, 11, 25));
@@ -79,6 +103,9 @@ export interface ContemplacionesSemana {
   contemplaciones: Contemplacion[]
 }
 
+/**
+ * Calcula la fecha de Pascua (domingo de Pascua) para un año dado usando el algoritmo de Meeus/Jones.
+ */
 function easterDate(year: number): Date {
   const a = year % 19
   const b = Math.floor(year / 100)
@@ -97,22 +124,34 @@ function easterDate(year: number): Date {
   return new Date(Date.UTC(year, month - 1, day))
 }
 
+/**
+ * Suma una cantidad de días a una fecha y retorna una nueva instancia de Date.
+ */
 function addDays(d: Date, days: number): Date {
   const nd = new Date(d.getTime())
   nd.setUTCDate(nd.getUTCDate() + days)
   return nd
 }
 
+/**
+ * Resta una cantidad de días a una fecha y retorna una nueva instancia de Date.
+ */
 function subDays(d: Date, days: number): Date {
   return addDays(d, -days)
 }
 
+/**
+ * Compara si dos fechas corresponden al mismo día (ignorando horas).
+ */
 function isSameDay(d1: Date, d2: Date): boolean {
   return d1.getUTCFullYear() === d2.getUTCFullYear() &&
     d1.getUTCMonth() === d2.getUTCMonth() &&
     d1.getUTCDate() === d2.getUTCDate()
 }
 
+/**
+ * Calcula la fecha de inicio del Adviento para un año calendario (cuarto domingo antes de Navidad).
+ */
 function adventStart(year: number): Date {
   const dec25 = new Date(Date.UTC(year, 11, 25))
   const dow = dec25.getUTCDay()
@@ -122,16 +161,24 @@ function adventStart(year: number): Date {
   return fourthSundayBefore
 }
 
+/**
+ * Calcula la fecha del Miércoles de Ceniza (46 días antes de Pascua).
+ */
 function ashWednesday(year: number): Date {
   const e = easterDate(year)
   return subDays(e, 46)
 }
 
+/**
+ * Calcula la fecha de Pentecostés (49 días después de Pascua).
+ */
 function pentecost(year: number): Date {
   const e = easterDate(year)
   return addDays(e, 49)
 }
 
+// Determina el año litúrgico para una fecha determinada.
+// El año litúrgico comienza el primer día del Adviento.
 /**
  * Determina el año litúrgico para una fecha determinada.
  * El año litúrgico comienza el primer día del Adviento.
@@ -143,6 +190,9 @@ function liturgicalYearForDate(date: Date): number {
   return year
 }
 
+/**
+ * Devuelve información de la temporada litúrgica para una fecha dada.
+ */
 /**
  * Devuelve información de la temporada litúrgica para una fecha dada.
  */
@@ -199,6 +249,9 @@ function getLiturgicalSeason(date: Date): SeasonInfo {
 /**
  * Obtiene el ciclo litúrgico (A, B, C) para un año litúrgico dado
  */
+/**
+ * Obtiene el ciclo litúrgico (A, B, C) para un año litúrgico dado.
+ */
 function getCicloLiturgico(year: number): Ciclo {
   const cycles = ['C', 'A', 'B'] as const
   return cycles[year % 3]
@@ -206,6 +259,9 @@ function getCicloLiturgico(year: number): Ciclo {
 
 /**
  * Mapea las temporadas internas a los nombres usados en el JSON de contemplaciones
+ */
+/**
+ * Mapea las temporadas internas a los nombres usados en el JSON de contemplaciones.
  */
 function mapSeasonToSpanish(season: Season): string {
   const mapping: Record<Season, string> = {
@@ -224,6 +280,10 @@ function mapSeasonToSpanish(season: Season): string {
  * Si la fecha es domingo, retorna la misma fecha
  * Si es otro día, retorna el domingo anterior
  */
+/**
+ * Obtiene la fecha del domingo de la semana actual o anterior.
+ * Si la fecha es domingo, retorna la misma fecha; si es otro día, retorna el domingo anterior.
+ */
 function getDomingoDeEstaSemana(fecha: Date): Date {
   // Retorna el domingo anterior o igual a la fecha dada (domingo como primer día de la semana)
   const fechaCopia = new Date(fecha.getTime());
@@ -238,6 +298,9 @@ function getDomingoDeEstaSemana(fecha: Date): Date {
 
 /**
  * Formatea una fecha en español (UTC)
+ */
+/**
+ * Formatea una fecha en español (UTC) en formato: "Domingo, 1 de enero de 2025".
  */
 function formatearFechaEspanol(fecha: Date): string {
   const dias = ['domingo', 'lunes', 'martes', 'miércoles', 'jueves', 'viernes', 'sábado']
@@ -255,6 +318,10 @@ function formatearFechaEspanol(fecha: Date): string {
 /**
  * Calcula el número de domingo dentro de Adviento (1-4)
  */
+/**
+ * Calcula el número de domingo dentro de Adviento (1-4).
+ * Retorna null si la fecha no corresponde a un domingo de Adviento.
+ */
 function calcularDomingoAdviento(fecha: Date, seasonInfo: SeasonInfo): number | null {
   const inicio = seasonInfo.start
   const diasDesdeInicio = Math.floor((fecha.getTime() - inicio.getTime()) / (1000 * 60 * 60 * 24))
@@ -270,6 +337,10 @@ function calcularDomingoAdviento(fecha: Date, seasonInfo: SeasonInfo): number | 
 /**
  * Calcula el número de domingo dentro de Cuaresma (1-5) o domingos especiales
 */
+/**
+ * Calcula el número de domingo dentro de Cuaresma (1-5) o domingos especiales.
+ * Retorna un string identificador o null si no corresponde.
+ */
 function calcularDomingoCuaresma(fecha: Date, seasonInfo: SeasonInfo): string | null {
   const ashWed = seasonInfo.keyDates.ashWednesday
   const easter = seasonInfo.keyDates.easter
@@ -295,6 +366,10 @@ function calcularDomingoCuaresma(fecha: Date, seasonInfo: SeasonInfo): string | 
 /**
  * Calcula el número de domingo dentro de Pascua (2-7) o solemnidades especiales
 */
+/**
+ * Calcula el número de domingo dentro de Pascua (2-7) o solemnidades especiales.
+ * Retorna un string identificador o null si no corresponde.
+ */
 function calcularDomingoPascua(fecha: Date, seasonInfo: SeasonInfo): string | null {
   const easter = seasonInfo.keyDates.easter
   const pentecost = seasonInfo.keyDates.pentecost
@@ -323,6 +398,10 @@ function calcularDomingoPascua(fecha: Date, seasonInfo: SeasonInfo): string | nu
 /**
  * Calcula el número de domingo en Tiempo Ordinario
 */
+/**
+ * Calcula el número de domingo en Tiempo Ordinario.
+ * Retorna un string identificador o null si no corresponde.
+ */
 function calcularDomingoOrdinario(fecha: Date, seasonInfo: SeasonInfo): string | null {
   const ly = liturgicalYearForDate(fecha)
   //  const easter = easterDate(ly)
@@ -399,6 +478,9 @@ function calcularDomingoOrdinario(fecha: Date, seasonInfo: SeasonInfo): string |
 /**
  * Obtiene la clave de celebración para un domingo dado
 */
+/**
+ * Obtiene la clave de celebración para un domingo dado según la temporada y el ciclo.
+ */
 function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo, ciclo: Ciclo): string | null {
   switch (seasonInfo.season) {
     case 'Advent': {
@@ -429,6 +511,10 @@ function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo, ciclo: Ciclo):
 
 /**
  * Calcula el número de domingo dentro de Navidad (Christmas)
+ * Devuelve 'SAGRADA_FAMILIA' si corresponde, o NAV1, NAV2, ...
+ */
+/**
+ * Calcula el número de domingo dentro de Navidad (Christmas).
  * Devuelve 'SAGRADA_FAMILIA' si corresponde, o NAV1, NAV2, ...
  */
 function calcularDomingoNavidad(fecha: Date, seasonInfo: SeasonInfo): string | null {
@@ -464,6 +550,10 @@ function calcularDomingoNavidad(fecha: Date, seasonInfo: SeasonInfo): string | n
 /**
  * Obtiene las contemplaciones para la semana actual basándose en la celebración litúrgica
  * Usa el índice de celebraciones del JSON limpio para búsqueda eficiente
+ */
+/**
+ * Obtiene las contemplaciones para la semana actual basándose en la celebración litúrgica.
+ * Usa el índice de celebraciones del JSON limpio para búsqueda eficiente.
  */
 export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana {
   //const celebracionesFijas: Contemplacion[] = [];
@@ -535,6 +625,9 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
 /**
  * Busca contemplaciones adicionales por IDs específicos
  * para fechas exactas según Calendario Fares Lecturas
+ */
+/**
+ * Busca contemplaciones adicionales por IDs específicos para fechas exactas según el calendario.
  */
 function buscarContemplacionesPorFecha(mes: number, dia: number): number[] {
   const contemplacionesPorFecha: Record<string, number[]> = {
