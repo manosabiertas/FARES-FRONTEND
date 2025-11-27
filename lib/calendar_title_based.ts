@@ -61,10 +61,12 @@ function esPrimerDomingoDespuesDeNavidad(fechaDomingo: Date): boolean {
 
 import contemplacionesDataRaw from './contemplaciones.json'
 import celebrationIndexCiclosRaw from './celebration_index_ciclos.json'
+import gospelIndexRaw from './gospel_index.json'
 
 // Verificar que los datos se cargaron correctamente
 const contemplacionesData = contemplacionesDataRaw as any
 const celebrationIndex = celebrationIndexCiclosRaw as Record<string, number[]>
+const gospelIndex = gospelIndexRaw as Record<string, number[]>
 if (!contemplacionesData) {
   console.error('ERROR: contemplaciones.json no se cargó correctamente')
 }
