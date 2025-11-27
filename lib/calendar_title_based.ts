@@ -106,7 +106,7 @@ export interface ContemplacionesSemana {
 /**
  * Calcula la fecha de Pascua (domingo de Pascua) para un año dado usando el algoritmo de Meeus/Jones.
  */
-function easterDate(year: number): Date {
+export function easterDate(year: number): Date {
   const a = year % 19
   const b = Math.floor(year / 100)
   const c = year % 100
@@ -127,7 +127,7 @@ function easterDate(year: number): Date {
 /**
  * Suma una cantidad de días a una fecha y retorna una nueva instancia de Date.
  */
-function addDays(d: Date, days: number): Date {
+export function addDays(d: Date, days: number): Date {
   const nd = new Date(d.getTime())
   nd.setUTCDate(nd.getUTCDate() + days)
   return nd
@@ -136,14 +136,14 @@ function addDays(d: Date, days: number): Date {
 /**
  * Resta una cantidad de días a una fecha y retorna una nueva instancia de Date.
  */
-function subDays(d: Date, days: number): Date {
+export function subDays(d: Date, days: number): Date {
   return addDays(d, -days)
 }
 
 /**
  * Compara si dos fechas corresponden al mismo día (ignorando horas).
  */
-function isSameDay(d1: Date, d2: Date): boolean {
+export function isSameDay(d1: Date, d2: Date): boolean {
   return d1.getUTCFullYear() === d2.getUTCFullYear() &&
     d1.getUTCMonth() === d2.getUTCMonth() &&
     d1.getUTCDate() === d2.getUTCDate()
@@ -152,7 +152,7 @@ function isSameDay(d1: Date, d2: Date): boolean {
 /**
  * Calcula la fecha de inicio del Adviento para un año calendario (cuarto domingo antes de Navidad).
  */
-function adventStart(year: number): Date {
+export function adventStart(year: number): Date {
   const dec25 = new Date(Date.UTC(year, 11, 25))
   const dow = dec25.getUTCDay()
   const daysToLastSunday = dow
@@ -164,7 +164,7 @@ function adventStart(year: number): Date {
 /**
  * Calcula la fecha del Miércoles de Ceniza (46 días antes de Pascua).
  */
-function ashWednesday(year: number): Date {
+export function ashWednesday(year: number): Date {
   const e = easterDate(year)
   return subDays(e, 46)
 }
@@ -172,7 +172,7 @@ function ashWednesday(year: number): Date {
 /**
  * Calcula la fecha de Pentecostés (49 días después de Pascua).
  */
-function pentecost(year: number): Date {
+export function pentecost(year: number): Date {
   const e = easterDate(year)
   return addDays(e, 49)
 }
@@ -183,7 +183,7 @@ function pentecost(year: number): Date {
  * Determina el año litúrgico para una fecha determinada.
  * El año litúrgico comienza el primer día del Adviento.
  */
-function liturgicalYearForDate(date: Date): number {
+export function liturgicalYearForDate(date: Date): number {
   const year = date.getUTCFullYear()
   const advStart = adventStart(year)
   if (date >= advStart) return year + 1
@@ -196,7 +196,7 @@ function liturgicalYearForDate(date: Date): number {
 /**
  * Devuelve información de la temporada litúrgica para una fecha dada.
  */
-function getLiturgicalSeason(date: Date): SeasonInfo {
+export function getLiturgicalSeason(date: Date): SeasonInfo {
   const d = new Date(Date.UTC(date.getUTCFullYear(), date.getUTCMonth(), date.getUTCDate()))
   const ly = liturgicalYearForDate(d)
   const easter = easterDate(ly)
@@ -252,7 +252,7 @@ function getLiturgicalSeason(date: Date): SeasonInfo {
 /**
  * Obtiene el ciclo litúrgico (A, B, C) para un año litúrgico dado.
  */
-function getCicloLiturgico(year: number): Ciclo {
+export function getCicloLiturgico(year: number): Ciclo {
   const cycles = ['C', 'A', 'B'] as const
   return cycles[year % 3]
 }
@@ -284,7 +284,7 @@ function mapSeasonToSpanish(season: Season): string {
  * Obtiene la fecha del domingo de la semana actual o anterior.
  * Si la fecha es domingo, retorna la misma fecha; si es otro día, retorna el domingo anterior.
  */
-function getDomingoDeEstaSemana(fecha: Date): Date {
+export function getDomingoDeEstaSemana(fecha: Date): Date {
   // Retorna el domingo anterior o igual a la fecha dada (domingo como primer día de la semana)
   const fechaCopia = new Date(fecha.getTime());
   const diaSemana = fechaCopia.getUTCDay(); // 0 = Domingo, 1 = Lunes, ...
@@ -481,7 +481,12 @@ function calcularDomingoOrdinario(fecha: Date, seasonInfo: SeasonInfo): string |
 /**
  * Obtiene la clave de celebración para un domingo dado según la temporada y el ciclo.
  */
-function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo, ciclo: Ciclo): string | null {
+export function getCelebracionClave(fecha: Date, seasonInfo: SeasonInfo, ciclo: Ciclo): string | null {
+  // ASCENSION: jueves 39 días después de Pascua
+  const ascension = addDays(seasonInfo.keyDates.easter, 39);
+  if (isSameDay(fecha, ascension)) {
+    return `ASCENSION.${ciclo}`;
+  }
   switch (seasonInfo.season) {
     case 'Advent': {
       const numDomingo = calcularDomingoAdviento(fecha, seasonInfo)
@@ -582,30 +587,31 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
     idsCiclo = celebrationIndex[`${celebracionClave}`] || [];
   }
 
-  // IDs de fiestas fijas de toda la semana
+  // IDs de contemplaciones de toda la semana (no solo fijas, sino también por ciclo para cada día)
   const diasSemana: Date[] = [];
   for (let i = 0; i < 7; i++) {
-    const d = addDays(fechaDomingo, i);
-    diasSemana.push(d);
+    diasSemana.push(addDays(fechaDomingo, i));
   }
-  let idsFijasSemana: number[] = [];
+  let idsSemana: number[] = [];
   for (const d of diasSemana) {
+    // Por ciclo (si el día es domingo, usar celebracion_clave; si no, calcular la clave para ese día)
+    let claveDia: string | null = null;
+    const seasonInfoDia = getLiturgicalSeason(d);
+    const cicloDia = getCicloLiturgico(liturgicalYearForDate(d));
+    claveDia = getCelebracionClave(d, seasonInfoDia, cicloDia);
+    if (claveDia && celebrationIndex[claveDia]) {
+      idsSemana.push(...celebrationIndex[claveDia]);
+    }
+    // Por fecha exacta (fiestas fijas)
     const m = d.getUTCMonth() + 1;
     const day = d.getUTCDate();
     const idsFecha = buscarContemplacionesPorFecha(m, day);
-    idsFijasSemana.push(...idsFecha);
+    idsSemana.push(...idsFecha);
   }
-
-  // Combinar todos los IDs (por fecha exacta, ciclo y fijas de la semana)
-  idsEncontrados = [
-    ...idsEncontrados,
-    ...idsCiclo,
-    ...idsFijasSemana
-  ];
   // Eliminar duplicados manteniendo el primer orden de aparición
-  idsEncontrados = Array.from(new Set(idsEncontrados));
-  // Ordenar las contemplaciones según el orden de idsEncontrados
-  const contemplaciones: Contemplacion[] = idsEncontrados
+  idsSemana = Array.from(new Set(idsSemana));
+  // Ordenar las contemplaciones según el orden de idsSemana
+  const contemplaciones: Contemplacion[] = idsSemana
     .map((id) => {
       const c = contemplacionesData.find((c: any) => c.id === id)
       return c ? { ...c, fecha: fechaDomingoFormateada } : null
