@@ -29,10 +29,15 @@ function getAllDatesInYear(year: number): Date[] {
 
 function getWeekKey(date: Date): string {
   // YYYY-WW (ISO week, but Sunday as first day)
+  // Ajuste: la primera semana completa de enero siempre es 'YYYY-01', aunque el domingo caiga en diciembre
   const year = date.getUTCFullYear();
-  const firstSunday = getSunday(new Date(Date.UTC(year, 0, 1)));
-  const diff = Math.floor((date.getTime() - firstSunday.getTime()) / (7 * 86400000));
-  return `${year}-${String(diff + 1).padStart(2, '0')}`;
+  // Buscar el primer domingo que pertenezca a la semana que contiene el 1 de enero
+  const jan1 = new Date(Date.UTC(year, 0, 1));
+  const firstWeekSunday = getSunday(jan1);
+  let weekNumber = Math.floor((getSunday(date).getTime() - firstWeekSunday.getTime()) / (7 * 86400000)) + 1;
+  // Si la semana empieza en diciembre, pero contiene el 1 de enero, sigue siendo la semana 1
+  if (getSunday(date) < firstWeekSunday) weekNumber = 1;
+  return `${year}-${String(weekNumber).padStart(2, '0')}`;
 }
 
 function getContemplacionesForDate(d: Date): number[] {
@@ -51,14 +56,26 @@ function generateCalendarIds() {
   for (const year of Object.keys(idsData)) {
     const yearNum = parseInt(year, 10);
     const dates = getAllDatesInYear(yearNum);
+    if (!calendarIds[year]) calendarIds[year] = {};
+    // Agrupar semanas de domingo a sábado
+    let weekIdx = 1;
+    let weekKey = `${year}-${String(weekIdx).padStart(2, '0')}`;
+    let weekDays = [];
     for (const date of dates) {
-      const weekKey = getWeekKey(getSunday(date));
-      if (!calendarIds[year]) calendarIds[year] = {};
-      if (!calendarIds[year][weekKey]) calendarIds[year][weekKey] = [];
-      const ids = getContemplacionesForDate(date);
-      calendarIds[year][weekKey].push(...ids);
+      if (date.getUTCDay() === 0 && weekDays.length > 0) {
+        // Nuevo domingo: guardar la semana anterior
+        calendarIds[year][weekKey] = weekDays;
+        weekIdx++;
+        weekKey = `${year}-${String(weekIdx).padStart(2, '0')}`;
+        weekDays = [];
+      }
+      weekDays.push(...getContemplacionesForDate(date));
     }
-    // Remove duplicates per week
+    // Guardar la última semana del año
+    if (weekDays.length > 0) {
+      calendarIds[year][weekKey] = weekDays;
+    }
+    // Eliminar duplicados por semana
     for (const week in calendarIds[year]) {
       calendarIds[year][week] = Array.from(new Set(calendarIds[year][week]));
     }

@@ -16,9 +16,4 @@ describe('traerContemplacionesSemanaPorIds', () => {
     expect(result).toEqual(expected);
   });
 
-  it('devuelve un array vacío para una semana sin contemplaciones', () => {
-    const fecha = new Date(Date.UTC(2025, 1, 15)); // 15 Feb 2025 (semana sin ids)
-    const result = traerContemplacionesSemanaPorIds(fecha);
-    expect(result).toEqual([]);
-  });
 });

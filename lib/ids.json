@@ -1,1826 +1,39 @@
 {
-  "2025": {
-    "01": {
-      "01": {
+  "2024": {
+    "12": {
+      "29": {
         "lectura": "Lucas 2:16-21",
         "lecturaNormalizada": "Lc2,16-21",
-        "contemplaciones": [
-          63537,
-          63250,
-          11221,
-          37297,
-          60548,
-          811,
-          86378,
-          15416
-        ]
-      },
-      "02": {
-        "lectura": "Juan 1:19-28",
-        "lecturaNormalizada": "Jn1,19-28",
-        "contemplaciones": []
-      },
-      "03": {
-        "lectura": "Mateo 1:18-23",
-        "lecturaNormalizada": "Mt1,18-23",
-        "contemplaciones": []
-      },
-      "04": {
-        "lectura": "Juan 1:35-42",
-        "lecturaNormalizada": "Jn1,35-42",
-        "contemplaciones": [
-          49278,
-          49392,
-          7045,
-          47958
-        ]
-      },
-      "05": {
-        "lectura": "Mateo 2:1-12",
-        "lecturaNormalizada": "Mt2,1-12",
-        "contemplaciones": [
-          52251,
-          81091,
-          18683,
-          36244
-        ]
-      },
-      "06": {
-        "lectura": "Mateo 4:12-17, 23-25",
-        "lecturaNormalizada": "Mt4,12-17,23-25",
-        "contemplaciones": []
-      },
-      "07": {
-        "lectura": "Marcos 6:34-44",
-        "lecturaNormalizada": "Mc6,34-44",
-        "contemplaciones": []
-      },
-      "08": {
-        "lectura": "Marcos 6:45-52",
-        "lecturaNormalizada": "Mc6,45-52",
-        "contemplaciones": []
-      },
-      "09": {
-        "lectura": "Lucas 4:14-22",
-        "lecturaNormalizada": "Lc4,14-22",
-        "contemplaciones": []
-      },
-      "10": {
-        "lectura": "Lucas 5:12-16",
-        "lecturaNormalizada": "Lc5,12-16",
-        "contemplaciones": []
-      },
-      "11": {
-        "lectura": "Juan 3:22-30",
-        "lecturaNormalizada": "Jn3,22-30",
-        "contemplaciones": []
-      },
-      "12": {
-        "lectura": "Lucas 3:15-16, 21-22",
-        "lecturaNormalizada": "Lc3,15-16,21-22",
-        "contemplaciones": []
-      },
-      "13": {
-        "lectura": "Marcos 1:14-20",
-        "lecturaNormalizada": "Mc1,14-20",
-        "contemplaciones": [
-          99502,
-          42779,
-          54256,
-          46529
-        ]
-      },
-      "14": {
-        "lectura": "Marcos 1:21-28",
-        "lecturaNormalizada": "Mc1,21-28",
-        "contemplaciones": [
-          91075,
-          33258,
-          23407,
-          48570,
-          21553
-        ]
-      },
-      "15": {
-        "lectura": "Marcos 1:29-39",
-        "lecturaNormalizada": "Mc1,29-39",
-        "contemplaciones": [
-          65264,
-          15193,
-          10026,
-          61610,
-          96339
-        ]
-      },
-      "16": {
-        "lectura": "Marcos 1:40-45",
-        "lecturaNormalizada": "Mc1,40-45",
-        "contemplaciones": [
-          58221,
-          49869,
-          45339,
-          20886,
-          72717
-        ]
-      },
-      "17": {
-        "lectura": "Marcos 2:1-12",
-        "lecturaNormalizada": "Mc2,1-12",
-        "contemplaciones": [
-          45145,
-          8304
-        ]
-      },
-      "18": {
-        "lectura": "Marcos 2:13-17",
-        "lecturaNormalizada": "Mc2,13-17",
-        "contemplaciones": []
-      },
-      "19": {
-        "lectura": "Juan 2:1-11",
-        "lecturaNormalizada": "Jn2,1-11",
-        "contemplaciones": [
-          81929,
-          94404,
-          1943,
-          51960,
-          25025
-        ]
-      },
-      "20": {
-        "lectura": "Marcos 2:18-22",
-        "lecturaNormalizada": "Mc2,18-22",
-        "contemplaciones": []
-      },
-      "21": {
-        "lectura": "Marcos 2:23-28",
-        "lecturaNormalizada": "Mc2,23-28",
-        "contemplaciones": []
-      },
-      "22": {
-        "lectura": "Marcos 3:1-6",
-        "lecturaNormalizada": "Mc3,1-6",
-        "contemplaciones": []
-      },
-      "23": {
-        "lectura": "Marcos 3:7-12",
-        "lecturaNormalizada": "Mc3,7-12",
-        "contemplaciones": []
-      },
-      "24": {
-        "lectura": "Marcos 3:13-19",
-        "lecturaNormalizada": "Mc3,13-19",
-        "contemplaciones": []
-      },
-      "25": {
-        "lectura": "Marcos 16:15-18",
-        "lecturaNormalizada": "Mc16,15-18",
-        "contemplaciones": []
-      },
-      "26": {
-        "lectura": "Lucas 1:1-4; 4:14-21",
-        "lecturaNormalizada": "Lc1,1-4;4,14-21",
-        "contemplaciones": []
-      },
-      "27": {
-        "lectura": "Marcos 3:22-30",
-        "lecturaNormalizada": "Mc3,22-30",
-        "contemplaciones": []
-      },
-      "28": {
-        "lectura": "Marcos 3:31-35",
-        "lecturaNormalizada": "Mc3,31-35",
-        "contemplaciones": []
-      },
-      "29": {
-        "lectura": "Marcos 4:1-20",
-        "lecturaNormalizada": "Mc4,1-20",
         "contemplaciones": []
       },
       "30": {
-        "lectura": "Marcos 4:21-25",
-        "lecturaNormalizada": "Mc4,21-25",
+        "lectura": "Lucas 2:16-21",
+        "lecturaNormalizada": "Lc2,16-21",
         "contemplaciones": []
       },
       "31": {
-        "lectura": "Marcos 4:26-34",
-        "lecturaNormalizada": "Mc4,26-34",
+        "lectura": "Lucas 2:16-21",
+        "lecturaNormalizada": "Lc2,16-21",
         "contemplaciones": []
       }
     },
-    "02": {
+    "01": {
       "01": {
-        "lectura": "Marcos 4:35-41",
-        "lecturaNormalizada": "Mc4,35-41",
-        "contemplaciones": [
-          28315,
-          75942
-        ]
-      },
-      "02": {
-        "lectura": "Lucas 2:22-40",
-        "lecturaNormalizada": "Lc2,22-40",
-        "contemplaciones": [
-          20300,
-          40439,
-          10656,
-          65598,
-          1208
-        ]
-      },
-      "03": {
-        "lectura": "Marcos 5:1-20",
-        "lecturaNormalizada": "Mc5,1-20",
-        "contemplaciones": []
-      },
-      "04": {
-        "lectura": "Marcos 5:21-43",
-        "lecturaNormalizada": "Mc5,21-43",
-        "contemplaciones": [
-          68535,
-          34957,
-          6962,
-          92051,
-          88856
-        ]
-      },
-      "05": {
-        "lectura": "Marcos 6:1-6",
-        "lecturaNormalizada": "Mc6,1-6",
-        "contemplaciones": [
-          73189,
-          95585,
-          35400,
-          21940,
-          69380
-        ]
-      },
-      "06": {
-        "lectura": "Marcos 6:7-13",
-        "lecturaNormalizada": "Mc6,7-13",
-        "contemplaciones": [
-          10213,
-          93779,
-          57468,
-          78180,
-          81770
-        ]
-      },
-      "07": {
-        "lectura": "Marcos 6:14-29",
-        "lecturaNormalizada": "Mc6,14-29",
-        "contemplaciones": []
-      },
-      "08": {
-        "lectura": "Marcos 6:30-34",
-        "lecturaNormalizada": "Mc6,30-34",
-        "contemplaciones": [
-          10859,
-          3361,
-          80691,
-          78703,
-          60281
-        ]
-      },
-      "09": {
-        "lectura": "Lucas 5:1-11",
-        "lecturaNormalizada": "Lc5,1-11",
-        "contemplaciones": [
-          94268,
-          37616,
-          28912,
-          53148,
-          46113
-        ]
-      },
-      "10": {
-        "lectura": "Marcos 6:53-56",
-        "lecturaNormalizada": "Mc6,53-56",
-        "contemplaciones": []
-      },
-      "11": {
-        "lectura": "Marcos 7:1-13",
-        "lecturaNormalizada": "Mc7,1-13",
-        "contemplaciones": []
-      },
-      "12": {
-        "lectura": "Marcos 7:14-23",
-        "lecturaNormalizada": "Mc7,14-23",
-        "contemplaciones": []
-      },
-      "13": {
-        "lectura": "Marcos 7:24-30",
-        "lecturaNormalizada": "Mc7,24-30",
-        "contemplaciones": []
-      },
-      "14": {
-        "lectura": "Marcos 7:31-37",
-        "lecturaNormalizada": "Mc7,31-37",
-        "contemplaciones": [
-          74142,
-          43045,
-          9058,
-          59399,
-          36603
-        ]
-      },
-      "15": {
-        "lectura": "Marcos 8:1-10",
-        "lecturaNormalizada": "Mc8,1-10",
-        "contemplaciones": []
-      },
-      "16": {
-        "lectura": "Lucas 6:17, 20-26",
-        "lecturaNormalizada": "Lc6,17,20-26",
-        "contemplaciones": []
-      },
-      "17": {
-        "lectura": "Marcos 8:11-13",
-        "lecturaNormalizada": "Mc8,11-13",
-        "contemplaciones": []
-      },
-      "18": {
-        "lectura": "Marcos 8:14-21",
-        "lecturaNormalizada": "Mc8,14-21",
-        "contemplaciones": []
-      },
-      "19": {
-        "lectura": "Marcos 8:22-26",
-        "lecturaNormalizada": "Mc8,22-26",
-        "contemplaciones": []
-      },
-      "20": {
-        "lectura": "Marcos 8:27-33",
-        "lecturaNormalizada": "Mc8,27-33",
-        "contemplaciones": []
-      },
-      "21": {
-        "lectura": "Marcos 8:34--9:1",
-        "lecturaNormalizada": "Mc8,34--9,1",
-        "contemplaciones": []
-      },
-      "22": {
-        "lectura": "Mateo 16:13-19",
-        "lecturaNormalizada": "Mt16,13-19",
-        "contemplaciones": [
-          18020
-        ]
-      },
-      "23": {
-        "lectura": "Lucas 6:27-38",
-        "lecturaNormalizada": "Lc6,27-38",
-        "contemplaciones": [
-          3327,
-          92204
-        ]
-      },
-      "24": {
-        "lectura": "Marcos 9:14-29",
-        "lecturaNormalizada": "Mc9,14-29",
-        "contemplaciones": []
-      },
-      "25": {
-        "lectura": "Marcos 9:30-37",
-        "lecturaNormalizada": "Mc9,30-37",
-        "contemplaciones": [
-          11945,
-          67924,
-          24483,
-          51892,
-          85461
-        ]
-      },
-      "26": {
-        "lectura": "Marcos 9:38-40",
-        "lecturaNormalizada": "Mc9,38-40",
-        "contemplaciones": []
-      },
-      "27": {
-        "lectura": "Marcos 9:41-50",
-        "lecturaNormalizada": "Mc9,41-50",
-        "contemplaciones": []
-      },
-      "28": {
-        "lectura": "Marcos 10:1-12",
-        "lecturaNormalizada": "Mc10,1-12",
-        "contemplaciones": []
-      }
-    },
-    "03": {
-      "01": {
-        "lectura": "Marcos 10:13-16",
-        "lecturaNormalizada": "Mc10,13-16",
         "contemplaciones": []
       },
       "02": {
-        "lectura": "Lucas 6:39-45",
-        "lecturaNormalizada": "Lc6,39-45",
-        "contemplaciones": [
-          58923,
-          52803
-        ]
-      },
-      "03": {
-        "lectura": "Marcos 10:17-27",
-        "lecturaNormalizada": "Mc10,17-27",
-        "contemplaciones": []
-      },
-      "04": {
-        "lectura": "Marcos 10:28-31",
-        "lecturaNormalizada": "Mc10,28-31",
-        "contemplaciones": []
-      },
-      "05": {
-        "lectura": "Mateo 6:1-6, 16-18",
-        "lecturaNormalizada": "Mt6,1-6,16-18",
-        "contemplaciones": []
-      },
-      "06": {
-        "lectura": "Lucas 9:22-25",
-        "lecturaNormalizada": "Lc9,22-25",
-        "contemplaciones": []
-      },
-      "07": {
-        "lectura": "Mateo 9:14-15",
-        "lecturaNormalizada": "Mt9,14-15",
-        "contemplaciones": []
-      },
-      "08": {
-        "lectura": "Lucas 5:27-32",
-        "lecturaNormalizada": "Lc5,27-32",
-        "contemplaciones": []
-      },
-      "09": {
-        "lectura": "Lucas 4:1-13",
-        "lecturaNormalizada": "Lc4,1-13",
-        "contemplaciones": [
-          22032,
-          5708,
-          6228,
-          3211,
-          74498
-        ]
-      },
-      "10": {
-        "lectura": "Mateo 25:31-46",
-        "lecturaNormalizada": "Mt25,31-46",
-        "contemplaciones": [
-          8322
-        ]
-      },
-      "11": {
-        "lectura": "Mateo 6:7-15",
-        "lecturaNormalizada": "Mt6,7-15",
-        "contemplaciones": []
-      },
-      "12": {
-        "lectura": "Lucas 11:29-32",
-        "lecturaNormalizada": "Lc11,29-32",
-        "contemplaciones": []
-      },
-      "13": {
-        "lectura": "Mateo 7:7-12",
-        "lecturaNormalizada": "Mt7,7-12",
-        "contemplaciones": []
-      },
-      "14": {
-        "lectura": "Mateo 5:20-26",
-        "lecturaNormalizada": "Mt5,20-26",
-        "contemplaciones": []
-      },
-      "15": {
-        "lectura": "Mateo 5:43-48",
-        "lecturaNormalizada": "Mt5,43-48",
-        "contemplaciones": []
-      },
-      "16": {
-        "lectura": "Lucas 9:28-36",
-        "lecturaNormalizada": "Lc9,28-36",
-        "contemplaciones": []
-      },
-      "17": {
-        "lectura": "Lucas 6:36-38",
-        "lecturaNormalizada": "Lc6,36-38",
-        "contemplaciones": []
-      },
-      "18": {
-        "lectura": "Mateo 23:1-12",
-        "lecturaNormalizada": "Mt23,1-12",
-        "contemplaciones": [
-          92827,
-          2936
-        ]
-      },
-      "19": {
-        "lectura": "Mateo 1:16, 18-21, 24",
-        "lecturaNormalizada": "Mt1,16,18-21,24",
-        "contemplaciones": []
-      },
-      "20": {
-        "lectura": "Lucas 16:19-31",
-        "lecturaNormalizada": "Lc16,19-31",
-        "contemplaciones": [
-          80889,
-          55625,
-          32467,
-          57601
-        ]
-      },
-      "21": {
-        "lectura": "Mateo 21:33-43, 45-46",
-        "lecturaNormalizada": "Mt21,33-43,45-46",
-        "contemplaciones": []
-      },
-      "22": {
-        "lectura": "Lucas 15:1-3, 11-32",
-        "lecturaNormalizada": "Lc15,1-3,11-32",
-        "contemplaciones": []
-      },
-      "23": {
-        "lectura": "Lucas 13:1-9",
-        "lecturaNormalizada": "Lc13,1-9",
-        "contemplaciones": [
-          38816,
-          18516,
-          47187,
-          419,
-          40446
-        ]
-      },
-      "24": {
-        "lectura": "Lucas 4:24-30",
-        "lecturaNormalizada": "Lc4,24-30",
-        "contemplaciones": []
-      },
-      "25": {
-        "lectura": "Lucas 1:26-38",
-        "lecturaNormalizada": "Lc1,26-38",
-        "contemplaciones": [
-          12505,
-          27382,
-          66726,
-          18342,
-          17615,
-          92222,
-          32779
-        ]
-      },
-      "26": {
-        "lectura": "Mateo 5:17-19",
-        "lecturaNormalizada": "Mt5,17-19",
-        "contemplaciones": []
-      },
-      "27": {
-        "lectura": "Lucas 11:14-23",
-        "lecturaNormalizada": "Lc11,14-23",
-        "contemplaciones": []
-      },
-      "28": {
-        "lectura": "Marcos 12:28-34",
-        "lecturaNormalizada": "Mc12,28-34",
-        "contemplaciones": []
-      },
-      "29": {
-        "lectura": "Lucas 18:9-14",
-        "lecturaNormalizada": "Lc18,9-14",
-        "contemplaciones": [
-          55991,
-          17656,
-          81128,
-          63536
-        ]
-      },
-      "30": {
-        "lectura": "Lucas 15:1-3, 11-32",
-        "lecturaNormalizada": "Lc15,1-3,11-32",
-        "contemplaciones": []
-      },
-      "31": {
-        "lectura": "Juan 4:43-54",
-        "lecturaNormalizada": "Jn4,43-54",
-        "contemplaciones": []
-      }
-    },
-    "04": {
-      "01": {
-        "lectura": "Juan 5:1-16",
-        "lecturaNormalizada": "Jn5,1-16",
-        "contemplaciones": []
-      },
-      "02": {
-        "lectura": "Juan 5:17-30",
-        "lecturaNormalizada": "Jn5,17-30",
         "contemplaciones": []
       },
       "03": {
-        "lectura": "Juan 5:31-47",
-        "lecturaNormalizada": "Jn5,31-47",
         "contemplaciones": []
       },
       "04": {
-        "lectura": "Juan 7:1-2, 10, 25-30",
-        "lecturaNormalizada": "Jn7,1-2,10,25-30",
-        "contemplaciones": []
-      },
-      "05": {
-        "lectura": "Juan 7:40-53",
-        "lecturaNormalizada": "Jn7,40-53",
-        "contemplaciones": []
-      },
-      "06": {
-        "lectura": "Juan 8:1-11",
-        "lecturaNormalizada": "Jn8,1-11",
-        "contemplaciones": [
-          68635,
-          70582,
-          18771,
-          48195,
-          66386
-        ]
-      },
-      "07": {
-        "lectura": "Juan 8:12-20",
-        "lecturaNormalizada": "Jn8,12-20",
-        "contemplaciones": []
-      },
-      "08": {
-        "lectura": "Juan 8:21-30",
-        "lecturaNormalizada": "Jn8,21-30",
-        "contemplaciones": []
-      },
-      "09": {
-        "lectura": "Juan 8:31-42",
-        "lecturaNormalizada": "Jn8,31-42",
-        "contemplaciones": []
-      },
-      "10": {
-        "lectura": "Juan 8:51-59",
-        "lecturaNormalizada": "Jn8,51-59",
-        "contemplaciones": []
-      },
-      "11": {
-        "lectura": "Juan 10:31-42",
-        "lecturaNormalizada": "Jn10,31-42",
-        "contemplaciones": []
-      },
-      "12": {
-        "lectura": "Juan 11:45-56",
-        "lecturaNormalizada": "Jn11,45-56",
-        "contemplaciones": []
-      },
-      "13": {
-        "lectura": "Lucas 22:14--23:56",
-        "lecturaNormalizada": "Lc22,14--23,56",
-        "contemplaciones": []
-      },
-      "14": {
-        "lectura": "Juan 12:1-11",
-        "lecturaNormalizada": "Jn12,1-11",
-        "contemplaciones": []
-      },
-      "15": {
-        "lectura": "Juan 13:21-33, 36-38",
-        "lecturaNormalizada": "Jn13,21-33,36-38",
-        "contemplaciones": []
-      },
-      "16": {
-        "lectura": "Mateo 26:14-25",
-        "lecturaNormalizada": "Mt26,14-25",
-        "contemplaciones": []
-      },
-      "17": {
-        "lectura": "Juan 13:1-15",
-        "lecturaNormalizada": "Jn13,1-15",
-        "contemplaciones": []
-      },
-      "18": {
-        "lectura": "Juan 18:1--19:42",
-        "lecturaNormalizada": "Jn18,1--19,42",
-        "contemplaciones": []
-      },
-      "19": {
-        "lectura": "Lucas 24:1-12",
-        "lecturaNormalizada": "Lc24,1-12",
-        "contemplaciones": [
-          88120,
-          16035,
-          4731
-        ]
-      },
-      "20": {
-        "lectura": "Juan 20:1-9",
-        "lecturaNormalizada": "Jn20,1-9",
-        "contemplaciones": []
-      },
-      "21": {
-        "lectura": "Mateo 28:8-15",
-        "lecturaNormalizada": "Mt28,8-15",
-        "contemplaciones": []
-      },
-      "22": {
-        "lectura": "Juan 20:11-18",
-        "lecturaNormalizada": "Jn20,11-18",
-        "contemplaciones": []
-      },
-      "23": {
-        "lectura": "Lucas 24:13-35",
-        "lecturaNormalizada": "Lc24,13-35",
-        "contemplaciones": [
-          13869,
-          16673,
-          53237,
-          26720
-        ]
-      },
-      "24": {
-        "lectura": "Lucas 24:35-48",
-        "lecturaNormalizada": "Lc24,35-48",
-        "contemplaciones": [
-          95228,
-          99571,
-          97985,
-          95749,
-          67865
-        ]
-      },
-      "25": {
-        "lectura": "Juan 21:1-14",
-        "lecturaNormalizada": "Jn21,1-14",
-        "contemplaciones": []
-      },
-      "26": {
-        "lectura": "Marcos 16:9-15",
-        "lecturaNormalizada": "Mc16,9-15",
-        "contemplaciones": []
-      },
-      "27": {
-        "lectura": "Juan 20:19-31",
-        "lecturaNormalizada": "Jn20,19-31",
-        "contemplaciones": [
-          6200,
-          70657,
-          67066,
-          96606,
-          80863,
-          76242,
-          55857,
-          68278
-        ]
-      },
-      "28": {
-        "lectura": "Juan 3:1-8",
-        "lecturaNormalizada": "Jn3,1-8",
-        "contemplaciones": []
-      },
-      "29": {
-        "lectura": "Juan 3:7-15",
-        "lecturaNormalizada": "Jn3,7-15",
-        "contemplaciones": []
-      },
-      "30": {
-        "lectura": "Juan 3:16-21",
-        "lecturaNormalizada": "Jn3,16-21",
         "contemplaciones": []
       }
-    },
-    "05": {
-      "01": {
-        "lectura": "Mateo 13:54-58",
-        "lecturaNormalizada": "Mt13,54-58",
-        "contemplaciones": []
-      },
-      "02": {
-        "lectura": "Juan 6:1-15",
-        "lecturaNormalizada": "Jn6,1-15",
-        "contemplaciones": [
-          64640,
-          37801,
-          90276,
-          45848,
-          371
-        ]
-      },
-      "03": {
-        "lectura": "Juan 14:6-14",
-        "lecturaNormalizada": "Jn14,6-14",
-        "contemplaciones": []
-      },
-      "04": {
-        "lectura": "Juan 21:1-19",
-        "lecturaNormalizada": "Jn21,1-19",
-        "contemplaciones": [
-          15244,
-          46737,
-          56812,
-          96354,
-          91718
-        ]
-      },
-      "05": {
-        "lectura": "Juan 6:22-29",
-        "lecturaNormalizada": "Jn6,22-29",
-        "contemplaciones": []
-      },
-      "06": {
-        "lectura": "Juan 6:30-35",
-        "lecturaNormalizada": "Jn6,30-35",
-        "contemplaciones": []
-      },
-      "07": {
-        "lectura": "Juan 6:35-40",
-        "lecturaNormalizada": "Jn6,35-40",
-        "contemplaciones": []
-      },
-      "08": {
-        "lectura": "Juan 6:44-51",
-        "lecturaNormalizada": "Jn6,44-51",
-        "contemplaciones": []
-      },
-      "09": {
-        "lectura": "Juan 6:52-59",
-        "lecturaNormalizada": "Jn6,52-59",
-        "contemplaciones": []
-      },
-      "10": {
-        "lectura": "Juan 6:60-69",
-        "lecturaNormalizada": "Jn6,60-69",
-        "contemplaciones": [
-          59053,
-          94220,
-          91868,
-          52811,
-          66202
-        ]
-      },
-      "11": {
-        "lectura": "Juan 10:27-30",
-        "lecturaNormalizada": "Jn10,27-30",
-        "contemplaciones": [
-          53955,
-          62561,
-          59645,
-          33631,
-          12652
-        ]
-      },
-      "12": {
-        "lectura": "Juan 10:1-10",
-        "lecturaNormalizada": "Jn10,1-10",
-        "contemplaciones": [
-          32904
-        ]
-      },
-      "13": {
-        "lectura": "Juan 10:22-30",
-        "lecturaNormalizada": "Jn10,22-30",
-        "contemplaciones": []
-      },
-      "14": {
-        "lectura": "Juan 15:9-17",
-        "lecturaNormalizada": "Jn15,9-17",
-        "contemplaciones": [
-          17285,
-          55567,
-          64814,
-          2980,
-          31788
-        ]
-      },
-      "15": {
-        "lectura": "Juan 13:16-20",
-        "lecturaNormalizada": "Jn13,16-20",
-        "contemplaciones": []
-      },
-      "16": {
-        "lectura": "Juan 14:1-6",
-        "lecturaNormalizada": "Jn14,1-6",
-        "contemplaciones": []
-      },
-      "17": {
-        "lectura": "Juan 14:7-14",
-        "lecturaNormalizada": "Jn14,7-14",
-        "contemplaciones": []
-      },
-      "18": {
-        "lectura": "Juan 13:31-33, 34-35",
-        "lecturaNormalizada": "Jn13,31-33,34-35",
-        "contemplaciones": []
-      },
-      "19": {
-        "lectura": "Juan 14:21-26",
-        "lecturaNormalizada": "Jn14,21-26",
-        "contemplaciones": []
-      },
-      "20": {
-        "lectura": "Juan 14:27-31",
-        "lecturaNormalizada": "Jn14,27-31",
-        "contemplaciones": []
-      },
-      "21": {
-        "lectura": "Juan 15:1-8",
-        "lecturaNormalizada": "Jn15,1-8",
-        "contemplaciones": [
-          98000,
-          78606,
-          63020,
-          75637,
-          81668
-        ]
-      },
-      "22": {
-        "lectura": "Juan 15:9-11",
-        "lecturaNormalizada": "Jn15,9-11",
-        "contemplaciones": []
-      },
-      "23": {
-        "lectura": "Juan 15:12-17",
-        "lecturaNormalizada": "Jn15,12-17",
-        "contemplaciones": []
-      },
-      "24": {
-        "lectura": "Juan 10:22-30",
-        "lecturaNormalizada": "Jn10,22-30",
-        "contemplaciones": []
-      },
-      "25": {
-        "lectura": "Juan 14:23-29",
-        "lecturaNormalizada": "Jn14,23-29",
-        "contemplaciones": [
-          129
-        ]
-      },
-      "26": {
-        "lectura": "Juan 15:26--16:4",
-        "lecturaNormalizada": "Jn15,26--16,4",
-        "contemplaciones": []
-      },
-      "27": {
-        "lectura": "Juan 16:5-11",
-        "lecturaNormalizada": "Jn16,5-11",
-        "contemplaciones": []
-      },
-      "28": {
-        "lectura": "Juan 16:12-15",
-        "lecturaNormalizada": "Jn16,12-15",
-        "contemplaciones": [
-          57893,
-          24026,
-          4652,
-          23750,
-          9268
-        ]
-      },
-      "29": {
-        "lectura": "Juan 16:16-20",
-        "lecturaNormalizada": "Jn16,16-20",
-        "contemplaciones": []
-      },
-      "30": {
-        "lectura": "Juan 16:20-23",
-        "lecturaNormalizada": "Jn16,20-23",
-        "contemplaciones": []
-      },
-      "31": {
-        "lectura": "Lucas 1:39-56",
-        "lecturaNormalizada": "Lc1,39-56",
-        "contemplaciones": [
-          59118,
-          843,
-          90163
-        ]
-      }
-    },
-    "06": {
-      "01": {
-        "lectura": "Lucas 24:46-53",
-        "lecturaNormalizada": "Lc24,46-53",
-        "contemplaciones": [
-          84989,
-          84299,
-          75836,
-          46531,
-          31567
-        ]
-      },
-      "02": {
-        "lectura": "Juan 16:29-33",
-        "lecturaNormalizada": "Jn16,29-33",
-        "contemplaciones": []
-      },
-      "03": {
-        "lectura": "Juan 17:1-11",
-        "lecturaNormalizada": "Jn17,1-11",
-        "contemplaciones": []
-      },
-      "04": {
-        "lectura": "Juan 17:11-19",
-        "lecturaNormalizada": "Jn17,11-19",
-        "contemplaciones": []
-      },
-      "05": {
-        "lectura": "Juan 17:20-26",
-        "lecturaNormalizada": "Jn17,20-26",
-        "contemplaciones": []
-      },
-      "06": {
-        "lectura": "Juan 21:15-19",
-        "lecturaNormalizada": "Jn21,15-19",
-        "contemplaciones": []
-      },
-      "07": {
-        "lectura": "Juan 21:20-25",
-        "lecturaNormalizada": "Jn21,20-25",
-        "contemplaciones": []
-      },
-      "08": {
-        "lectura": "Juan 20:19-23",
-        "lecturaNormalizada": "Jn20,19-23",
-        "contemplaciones": [
-          90724,
-          32757,
-          68080,
-          21077,
-          27111,
-          38817,
-          9349,
-          82943,
-          24453,
-          48953,
-          91557,
-          37558
-        ]
-      },
-      "09": {
-        "lectura": "Juan 19:25-34",
-        "lecturaNormalizada": "Jn19,25-34",
-        "contemplaciones": []
-      },
-      "10": {
-        "lectura": "Mateo 5:13-16",
-        "lecturaNormalizada": "Mt5,13-16",
-        "contemplaciones": [
-          21991,
-          92386,
-          52197
-        ]
-      },
-      "11": {
-        "lectura": "Mateo 10:7-13",
-        "lecturaNormalizada": "Mt10,7-13",
-        "contemplaciones": []
-      },
-      "12": {
-        "lectura": "Mateo 5:20-26",
-        "lecturaNormalizada": "Mt5,20-26",
-        "contemplaciones": []
-      },
-      "13": {
-        "lectura": "Marcos 16:15-20",
-        "lecturaNormalizada": "Mc16,15-20",
-        "contemplaciones": [
-          20873,
-          69741,
-          51617,
-          2304,
-          3084
-        ]
-      },
-      "14": {
-        "lectura": "Mateo 5:33-37",
-        "lecturaNormalizada": "Mt5,33-37",
-        "contemplaciones": []
-      },
-      "15": {
-        "lectura": "Juan 16:12-15",
-        "lecturaNormalizada": "Jn16,12-15",
-        "contemplaciones": [
-          57893,
-          24026,
-          4652,
-          23750,
-          9268
-        ]
-      },
-      "16": {
-        "lectura": "Mateo 5:38-42",
-        "lecturaNormalizada": "Mt5,38-42",
-        "contemplaciones": []
-      },
-      "17": {
-        "lectura": "Mateo 5:43-48",
-        "lecturaNormalizada": "Mt5,43-48",
-        "contemplaciones": []
-      },
-      "18": {
-        "lectura": "Mateo 6:1-6, 16-18",
-        "lecturaNormalizada": "Mt6,1-6,16-18",
-        "contemplaciones": []
-      },
-      "19": {
-        "lectura": "Mateo 6:7-15",
-        "lecturaNormalizada": "Mt6,7-15",
-        "contemplaciones": []
-      },
-      "20": {
-        "lectura": "Mateo 6:19-23",
-        "lecturaNormalizada": "Mt6,19-23",
-        "contemplaciones": []
-      },
-      "21": {
-        "lectura": "Mateo 6:24-34",
-        "lecturaNormalizada": "Mt6,24-34",
-        "contemplaciones": [
-          30371,
-          83967,
-          37626
-        ]
-      },
-      "22": {
-        "lectura": "Lucas 9:11-17",
-        "lecturaNormalizada": "Lc9,11-17",
-        "contemplaciones": []
-      },
-      "23": {
-        "lectura": "Mateo 7:1-5",
-        "lecturaNormalizada": "Mt7,1-5",
-        "contemplaciones": []
-      },
-      "24": {
-        "lectura": "Lucas 1:57-66, 80",
-        "lecturaNormalizada": "Lc1,57-66,80",
-        "contemplaciones": []
-      },
-      "25": {
-        "lectura": "Mateo 7:15-20",
-        "lecturaNormalizada": "Mt7,15-20",
-        "contemplaciones": []
-      },
-      "26": {
-        "lectura": "Mateo 7:21-29",
-        "lecturaNormalizada": "Mt7,21-29",
-        "contemplaciones": []
-      },
-      "27": {
-        "lectura": "Lucas 15:3-7",
-        "lecturaNormalizada": "Lc15,3-7",
-        "contemplaciones": []
-      },
-      "28": {
-        "lectura": "Lucas 2:41-51",
-        "lecturaNormalizada": "Lc2,41-51",
-        "contemplaciones": []
-      },
-      "29": {
-        "lectura": "Mateo 16:13-19",
-        "lecturaNormalizada": "Mt16,13-19",
-        "contemplaciones": [
-          18020
-        ]
-      },
-      "30": {
-        "lectura": "Mateo 8:18-22",
-        "lecturaNormalizada": "Mt8,18-22",
-        "contemplaciones": []
-      }
-    },
-    "07": {
-      "01": {
-        "lectura": "Mateo 8:23-27",
-        "lecturaNormalizada": "Mt8,23-27",
-        "contemplaciones": []
-      },
-      "02": {
-        "lectura": "Mateo 8:28-34",
-        "lecturaNormalizada": "Mt8,28-34",
-        "contemplaciones": []
-      },
-      "03": {
-        "lectura": "Juan 20:24-29",
-        "lecturaNormalizada": "Jn20,24-29",
-        "contemplaciones": []
-      },
-      "04": {
-        "lectura": "Mateo 25:31-46",
-        "lecturaNormalizada": "Mt25,31-46",
-        "contemplaciones": [
-          8322
-        ]
-      },
-      "05": {
-        "lectura": "Mateo 9:14-17",
-        "lecturaNormalizada": "Mt9,14-17",
-        "contemplaciones": []
-      },
-      "06": {
-        "lectura": "Lucas 10:1-12, 17-20",
-        "lecturaNormalizada": "Lc10,1-12,17-20",
-        "contemplaciones": []
-      },
-      "07": {
-        "lectura": "Mateo 9:18-26",
-        "lecturaNormalizada": "Mt9,18-26",
-        "contemplaciones": []
-      },
-      "08": {
-        "lectura": "Mateo 9:32-38",
-        "lecturaNormalizada": "Mt9,32-38",
-        "contemplaciones": []
-      },
-      "09": {
-        "lectura": "Mateo 10:1-7",
-        "lecturaNormalizada": "Mt10,1-7",
-        "contemplaciones": []
-      },
-      "10": {
-        "lectura": "Mateo 16:24-27",
-        "lecturaNormalizada": "Mt16,24-27",
-        "contemplaciones": []
-      },
-      "11": {
-        "lectura": "Mateo 10:16-23",
-        "lecturaNormalizada": "Mt10,16-23",
-        "contemplaciones": []
-      },
-      "12": {
-        "lectura": "Mateo 10:24-33",
-        "lecturaNormalizada": "Mt10,24-33",
-        "contemplaciones": []
-      },
-      "13": {
-        "lectura": "Lucas 10:25-37",
-        "lecturaNormalizada": "Lc10,25-37",
-        "contemplaciones": [
-          73848,
-          91903,
-          21773,
-          69463
-        ]
-      },
-      "14": {
-        "lectura": "Mateo 10:34--11:1",
-        "lecturaNormalizada": "Mt10,34--11,1",
-        "contemplaciones": []
-      },
-      "15": {
-        "lectura": "Mateo 5:13-19",
-        "lecturaNormalizada": "Mt5,13-19",
-        "contemplaciones": []
-      },
-      "16": {
-        "lectura": "Mateo 11:25-27",
-        "lecturaNormalizada": "Mt11,25-27",
-        "contemplaciones": []
-      },
-      "17": {
-        "lectura": "Mateo 11:28-30",
-        "lecturaNormalizada": "Mt11,28-30",
-        "contemplaciones": []
-      },
-      "18": {
-        "lectura": "Mateo 12:1-8",
-        "lecturaNormalizada": "Mt12,1-8",
-        "contemplaciones": []
-      },
-      "19": {
-        "lectura": "Mateo 12:14-21",
-        "lecturaNormalizada": "Mt12,14-21",
-        "contemplaciones": []
-      },
-      "20": {
-        "lectura": "Lucas 10:38-42",
-        "lecturaNormalizada": "Lc10,38-42",
-        "contemplaciones": [
-          66476,
-          91642,
-          82701,
-          25371
-        ]
-      },
-      "21": {
-        "lectura": "Lucas 9:1-6",
-        "lecturaNormalizada": "Lc9,1-6",
-        "contemplaciones": []
-      },
-      "22": {
-        "lectura": "Juan 20:1-2, 11-18",
-        "lecturaNormalizada": "Jn20,1-2,11-18",
-        "contemplaciones": []
-      },
-      "23": {
-        "lectura": "Mateo 13:1-9",
-        "lecturaNormalizada": "Mt13,1-9",
-        "contemplaciones": []
-      },
-      "24": {
-        "lectura": "Mateo 13:10-17",
-        "lecturaNormalizada": "Mt13,10-17",
-        "contemplaciones": []
-      },
-      "25": {
-        "lectura": "Mateo 20:20-28",
-        "lecturaNormalizada": "Mt20,20-28",
-        "contemplaciones": []
-      },
-      "26": {
-        "lectura": "Mateo 13:16-17",
-        "lecturaNormalizada": "Mt13,16-17",
-        "contemplaciones": []
-      },
-      "27": {
-        "lectura": "Lucas 11:1-13",
-        "lecturaNormalizada": "Lc11,1-13",
-        "contemplaciones": [
-          4960,
-          71696,
-          97999,
-          2493
-        ]
-      },
-      "28": {
-        "lectura": "Mateo 13:31-35",
-        "lecturaNormalizada": "Mt13,31-35",
-        "contemplaciones": []
-      },
-      "29": {
-        "lectura": "Juan 11:19-27",
-        "lecturaNormalizada": "Jn11,19-27",
-        "contemplaciones": []
-      },
-      "30": {
-        "lectura": "Mateo 13:44-46",
-        "lecturaNormalizada": "Mt13,44-46",
-        "contemplaciones": []
-      },
-      "31": {
-        "lectura": "Mateo 13:47-53",
-        "lecturaNormalizada": "Mt13,47-53",
-        "contemplaciones": []
-      }
-    },
-    "08": {
-      "01": {
-        "lectura": "Mateo 13:54-58",
-        "lecturaNormalizada": "Mt13,54-58",
-        "contemplaciones": []
-      },
-      "02": {
-        "lectura": "Lucas 1:26-33",
-        "lecturaNormalizada": "Lc1,26-33",
-        "contemplaciones": []
-      },
-      "03": {
-        "lectura": "Lucas 12:13-21",
-        "lecturaNormalizada": "Lc12,13-21",
-        "contemplaciones": [
-          21017,
-          54883,
-          56933,
-          47817
-        ]
-      },
-      "04": {
-        "lectura": "Mateo 14:13-21",
-        "lecturaNormalizada": "Mt14,13-21",
-        "contemplaciones": [
-          73837,
-          92662,
-          86606,
-          41627
-        ]
-      },
-      "05": {
-        "lectura": "Mateo 14:22-36",
-        "lecturaNormalizada": "Mt14,22-36",
-        "contemplaciones": []
-      },
-      "06": {
-        "lectura": "Lucas 9:28-36",
-        "lecturaNormalizada": "Lc9,28-36",
-        "contemplaciones": []
-      },
-      "07": {
-        "lectura": "Mateo 16:13-23",
-        "lecturaNormalizada": "Mt16,13-23",
-        "contemplaciones": []
-      },
-      "08": {
-        "lectura": "Mateo 5:13-16",
-        "lecturaNormalizada": "Mt5,13-16",
-        "contemplaciones": [
-          21991,
-          92386,
-          52197
-        ]
-      },
-      "09": {
-        "lectura": "Mateo 17:14-20",
-        "lecturaNormalizada": "Mt17,14-20",
-        "contemplaciones": []
-      },
-      "10": {
-        "lectura": "Lucas 12:32-48",
-        "lecturaNormalizada": "Lc12,32-48",
-        "contemplaciones": [
-          37494,
-          33475,
-          70868,
-          83173
-        ]
-      },
-      "11": {
-        "lectura": "Juan 15:4-10",
-        "lecturaNormalizada": "Jn15,4-10",
-        "contemplaciones": []
-      },
-      "12": {
-        "lectura": "Mateo 18:1-5, 10, 12-14",
-        "lecturaNormalizada": "Mt18,1-5,10,12-14",
-        "contemplaciones": []
-      },
-      "13": {
-        "lectura": "Mateo 18:15-20",
-        "lecturaNormalizada": "Mt18,15-20",
-        "contemplaciones": [
-          17750,
-          13785,
-          39728,
-          38336
-        ]
-      },
-      "14": {
-        "lectura": "Juan 15:12-17",
-        "lecturaNormalizada": "Jn15,12-17",
-        "contemplaciones": []
-      },
-      "15": {
-        "lectura": "Lucas 1:39-56",
-        "lecturaNormalizada": "Lc1,39-56",
-        "contemplaciones": [
-          59118,
-          843,
-          90163
-        ]
-      },
-      "16": {
-        "lectura": "Mateo 19:13-15",
-        "lecturaNormalizada": "Mt19,13-15",
-        "contemplaciones": []
-      },
-      "17": {
-        "lectura": "Lucas 12:49-53",
-        "lecturaNormalizada": "Lc12,49-53",
-        "contemplaciones": [
-          93847,
-          16211,
-          42626
-        ]
-      },
-      "18": {
-        "lectura": "Mateo 19:16-22",
-        "lecturaNormalizada": "Mt19,16-22",
-        "contemplaciones": []
-      },
-      "19": {
-        "lectura": "Mateo 19:23-30",
-        "lecturaNormalizada": "Mt19,23-30",
-        "contemplaciones": []
-      },
-      "20": {
-        "lectura": "Mateo 20:1-16",
-        "lecturaNormalizada": "Mt20,1-16",
-        "contemplaciones": [
-          33731
-        ]
-      },
-      "21": {
-        "lectura": "Mateo 22:1-14",
-        "lecturaNormalizada": "Mt22,1-14",
-        "contemplaciones": [
-          24670,
-          10638,
-          86200,
-          16582
-        ]
-      },
-      "22": {
-        "lectura": "Lucas 1:26-38",
-        "lecturaNormalizada": "Lc1,26-38",
-        "contemplaciones": [
-          12505,
-          27382,
-          66726,
-          18342,
-          17615,
-          92222,
-          32779
-        ]
-      },
-      "23": {
-        "lectura": "Mateo 23:1-12",
-        "lecturaNormalizada": "Mt23,1-12",
-        "contemplaciones": [
-          92827,
-          2936
-        ]
-      },
-      "24": {
-        "lectura": "Lucas 13:22-30",
-        "lecturaNormalizada": "Lc13,22-30",
-        "contemplaciones": [
-          41166,
-          65956,
-          17049,
-          88959
-        ]
-      },
-      "25": {
-        "lectura": "Mateo 23:13-22",
-        "lecturaNormalizada": "Mt23,13-22",
-        "contemplaciones": []
-      },
-      "26": {
-        "lectura": "Mateo 23:23-26",
-        "lecturaNormalizada": "Mt23,23-26",
-        "contemplaciones": []
-      },
-      "27": {
-        "lectura": "Mateo 23:27-32",
-        "lecturaNormalizada": "Mt23,27-32",
-        "contemplaciones": []
-      },
-      "28": {
-        "lectura": "Mateo 24:42-51",
-        "lecturaNormalizada": "Mt24,42-51",
-        "contemplaciones": []
-      },
-      "29": {
-        "lectura": "Marcos 6:17-29",
-        "lecturaNormalizada": "Mc6,17-29",
-        "contemplaciones": []
-      },
-      "30": {
-        "lectura": "Mateo 25:14-30",
-        "lecturaNormalizada": "Mt25,14-30",
-        "contemplaciones": [
-          37966,
-          24411
-        ]
-      },
-      "31": {
-        "lectura": "Lucas 14:1, 7-14",
-        "lecturaNormalizada": "Lc14,1,7-14",
-        "contemplaciones": []
-      }
-    },
-    "09": {
-      "01": {
-        "lectura": "Mateo 6:31-34",
-        "lecturaNormalizada": "Mt6,31-34",
-        "contemplaciones": []
-      },
-      "02": {
-        "lectura": "Lucas 4:31-37",
-        "lecturaNormalizada": "Lc4,31-37",
-        "contemplaciones": []
-      },
-      "03": {
-        "lectura": "Lucas 4:38-44",
-        "lecturaNormalizada": "Lc4,38-44",
-        "contemplaciones": []
-      },
-      "04": {
-        "lectura": "Lucas 5:1-11",
-        "lecturaNormalizada": "Lc5,1-11",
-        "contemplaciones": [
-          94268,
-          37616,
-          28912,
-          53148,
-          46113
-        ]
-      },
-      "05": {
-        "lectura": "Lucas 5:33-39",
-        "lecturaNormalizada": "Lc5,33-39",
-        "contemplaciones": []
-      },
-      "06": {
-        "lectura": "Lucas 6:1-5",
-        "lecturaNormalizada": "Lc6,1-5",
-        "contemplaciones": []
-      },
-      "07": {
-        "lectura": "Lucas 14:25-33",
-        "lecturaNormalizada": "Lc14,25-33",
-        "contemplaciones": [
-          48856,
-          77394,
-          69190,
-          19231
-        ]
-      },
-      "08": {
-        "lectura": "Mateo 1:1-16, 18-23",
-        "lecturaNormalizada": "Mt1,1-16,18-23",
-        "contemplaciones": []
-      },
-      "09": {
-        "lectura": "Lucas 6:12-19",
-        "lecturaNormalizada": "Lc6,12-19",
-        "contemplaciones": []
-      },
-      "10": {
-        "lectura": "Lucas 6:20-26",
-        "lecturaNormalizada": "Lc6,20-26",
-        "contemplaciones": []
-      },
-      "11": {
-        "lectura": "Lucas 6:27-38",
-        "lecturaNormalizada": "Lc6,27-38",
-        "contemplaciones": [
-          3327,
-          92204
-        ]
-      },
-      "12": {
-        "lectura": "Lucas 1:39-57",
-        "lecturaNormalizada": "Lc1,39-57",
-        "contemplaciones": []
-      },
-      "13": {
-        "lectura": "Lucas 6:43-49",
-        "lecturaNormalizada": "Lc6,43-49",
-        "contemplaciones": []
-      },
-      "14": {
-        "lectura": "Juan 3:13-17",
-        "lecturaNormalizada": "Jn3,13-17",
-        "contemplaciones": [
-          72683
-        ]
-      },
-      "15": {
-        "lectura": "Juan 19:25-27",
-        "lecturaNormalizada": "Jn19,25-27",
-        "contemplaciones": []
-      },
-      "16": {
-        "lectura": "Lucas 7:11-17",
-        "lecturaNormalizada": "Lc7,11-17",
-        "contemplaciones": [
-          22313,
-          78207
-        ]
-      },
-      "17": {
-        "lectura": "Lucas 9:23-26",
-        "lecturaNormalizada": "Lc9,23-26",
-        "contemplaciones": []
-      },
-      "18": {
-        "lectura": "Lucas 7:36-50",
-        "lecturaNormalizada": "Lc7,36-50",
-        "contemplaciones": []
-      },
-      "19": {
-        "lectura": "Lucas 8:1-3",
-        "lecturaNormalizada": "Lc8,1-3",
-        "contemplaciones": []
-      },
-      "20": {
-        "lectura": "Lucas 8:4-15",
-        "lecturaNormalizada": "Lc8,4-15",
-        "contemplaciones": []
-      },
-      "21": {
-        "lectura": "Lucas 16:1-13",
-        "lecturaNormalizada": "Lc16,1-13",
-        "contemplaciones": [
-          65516,
-          30488,
-          96859,
-          42628
-        ]
-      },
-      "22": {
-        "lectura": "Lucas 8:16-18",
-        "lecturaNormalizada": "Lc8,16-18",
-        "contemplaciones": []
-      },
-      "23": {
-        "lectura": "Lucas 8:19-21",
-        "lecturaNormalizada": "Lc8,19-21",
-        "contemplaciones": []
-      },
-      "24": {
-        "lectura": "Lucas 9:1-6",
-        "lecturaNormalizada": "Lc9,1-6",
-        "contemplaciones": []
-      },
-      "25": {
-        "lectura": "Lucas 9:7-9",
-        "lecturaNormalizada": "Lc9,7-9",
-        "contemplaciones": []
-      },
-      "26": {
-        "lectura": "Lucas 9:18-22",
-        "lecturaNormalizada": "Lc9,18-22",
-        "contemplaciones": []
-      },
-      "27": {
-        "lectura": "Lucas 9:43-45",
-        "lecturaNormalizada": "Lc9,43-45",
-        "contemplaciones": []
-      },
-      "28": {
-        "lectura": "Lucas 16:19-31",
-        "lecturaNormalizada": "Lc16,19-31",
-        "contemplaciones": [
-          80889,
-          55625,
-          32467,
-          57601
-        ]
-      },
-      "29": {
-        "lectura": "Juan 1:47-51",
-        "lecturaNormalizada": "Jn1,47-51",
-        "contemplaciones": []
-      },
-      "30": {
-        "lectura": "Lucas 9:51-56",
-        "lecturaNormalizada": "Lc9,51-56",
-        "contemplaciones": []
-      }
-    },
+    }
+  },
+  "2025": {
     "10": {
-      "01": {
-        "lectura": "Lucas 9:57-62",
-        "lecturaNormalizada": "Lc9,57-62",
-        "contemplaciones": []
-      },
-      "02": {
-        "lectura": "Mateo 18:1-5, 10",
-        "lecturaNormalizada": "Mt18,1-5,10",
-        "contemplaciones": []
-      },
-      "03": {
-        "lectura": "Lucas 10:13-16",
-        "lecturaNormalizada": "Lc10,13-16",
-        "contemplaciones": []
-      },
-      "04": {
-        "lectura": "Mateo 11:25-30",
-        "lecturaNormalizada": "Mt11,25-30",
-        "contemplaciones": [
-          47556,
-          7919,
-          82375,
-          59048
-        ]
-      },
-      "05": {
-        "lectura": "Lucas 17:5-10",
-        "lecturaNormalizada": "Lc17,5-10",
-        "contemplaciones": [
-          45901,
-          85208,
-          64553
-        ]
-      },
-      "06": {
-        "lectura": "Lucas 10:25-37",
-        "lecturaNormalizada": "Lc10,25-37",
-        "contemplaciones": [
-          73848,
-          91903,
-          21773,
-          69463
-        ]
-      },
-      "07": {
-        "lectura": "Lucas 1:26-38",
-        "lecturaNormalizada": "Lc1,26-38",
-        "contemplaciones": [
-          12505,
-          27382,
-          66726,
-          18342,
-          17615,
-          92222,
-          32779
-        ]
-      },
-      "08": {
-        "lectura": "Lucas 11:1-4",
-        "lecturaNormalizada": "Lc11,1-4",
-        "contemplaciones": []
-      },
-      "09": {
-        "lectura": "Lucas 11:5-13",
-        "lecturaNormalizada": "Lc11,5-13",
-        "contemplaciones": []
-      },
       "10": {
         "lectura": "Lucas 11:15-26",
         "lecturaNormalizada": "Lc11,15-26",
@@ -1965,59 +178,76 @@
         "lectura": "Lucas 14:1-6",
         "lecturaNormalizada": "Lc14,1-6",
         "contemplaciones": []
-      }
-    },
-    "11": {
+      },
       "01": {
-        "lectura": "Mateo 5:1-12",
-        "lecturaNormalizada": "Mt5,1-12",
-        "contemplaciones": [
-          58851,
-          97915,
-          24127,
-          89745
-        ]
+        "lectura": "Lucas 9:57-62",
+        "lecturaNormalizada": "Lc9,57-62",
+        "contemplaciones": []
       },
       "02": {
-        "lectura": "Juan 11:17-27",
-        "lecturaNormalizada": "Jn11,17-27",
+        "lectura": "Mateo 18:1-5, 10",
+        "lecturaNormalizada": "Mt18,1-5,10",
         "contemplaciones": []
       },
       "03": {
-        "lectura": "Lucas 14:12-14",
-        "lecturaNormalizada": "Lc14,12-14",
+        "lectura": "Lucas 10:13-16",
+        "lecturaNormalizada": "Lc10,13-16",
         "contemplaciones": []
       },
       "04": {
-        "lectura": "Lucas 14:15-24",
-        "lecturaNormalizada": "Lc14,15-24",
-        "contemplaciones": []
+        "lectura": "Mateo 11:25-30",
+        "lecturaNormalizada": "Mt11,25-30",
+        "contemplaciones": [
+          47556,
+          7919,
+          82375,
+          59048
+        ]
       },
       "05": {
-        "lectura": "Juan 6:37-40",
-        "lecturaNormalizada": "Jn6,37-40",
-        "contemplaciones": []
+        "lectura": "Lucas 17:5-10",
+        "lecturaNormalizada": "Lc17,5-10",
+        "contemplaciones": [
+          45901,
+          85208,
+          64553
+        ]
       },
       "06": {
-        "lectura": "Lucas 15:1-10",
-        "lecturaNormalizada": "Lc15,1-10",
-        "contemplaciones": []
+        "lectura": "Lucas 10:25-37",
+        "lecturaNormalizada": "Lc10,25-37",
+        "contemplaciones": [
+          73848,
+          91903,
+          21773,
+          69463
+        ]
       },
       "07": {
-        "lectura": "Lucas 16:1-8",
-        "lecturaNormalizada": "Lc16,1-8",
-        "contemplaciones": []
+        "lectura": "Lucas 1:26-38",
+        "lecturaNormalizada": "Lc1,26-38",
+        "contemplaciones": [
+          12505,
+          27382,
+          66726,
+          18342,
+          17615,
+          92222,
+          32779
+        ]
       },
       "08": {
-        "lectura": "Lucas 16:9-15",
-        "lecturaNormalizada": "Lc16,9-15",
+        "lectura": "Lucas 11:1-4",
+        "lecturaNormalizada": "Lc11,1-4",
         "contemplaciones": []
       },
       "09": {
-        "lectura": "Juan 2:13-22",
-        "lecturaNormalizada": "Jn2,13-22",
+        "lectura": "Lucas 11:5-13",
+        "lecturaNormalizada": "Lc11,5-13",
         "contemplaciones": []
-      },
+      }
+    },
+    "11": {
       "10": {
         "lectura": "Lucas 17:1-6",
         "lecturaNormalizada": "Lc17,1-6",
@@ -2154,65 +384,59 @@
           20640,
           75502
         ]
-      }
-    },
-    "12": {
+      },
       "01": {
-        "lectura": "Mateo 8:5-11",
-        "lecturaNormalizada": "Mt8,5-11",
-        "contemplaciones": []
+        "lectura": "Mateo 5:1-12",
+        "lecturaNormalizada": "Mt5,1-12",
+        "contemplaciones": [
+          58851,
+          97915,
+          24127,
+          89745
+        ]
       },
       "02": {
-        "lectura": "Lucas 10:21-24",
-        "lecturaNormalizada": "Lc10,21-24",
+        "lectura": "Juan 11:17-27",
+        "lecturaNormalizada": "Jn11,17-27",
         "contemplaciones": []
       },
       "03": {
-        "lectura": "Mateo 15:29-37",
-        "lecturaNormalizada": "Mt15,29-37",
+        "lectura": "Lucas 14:12-14",
+        "lecturaNormalizada": "Lc14,12-14",
         "contemplaciones": []
       },
       "04": {
-        "lectura": "Mateo 7:21, 24-27",
-        "lecturaNormalizada": "Mt7,21,24-27",
+        "lectura": "Lucas 14:15-24",
+        "lecturaNormalizada": "Lc14,15-24",
         "contemplaciones": []
       },
       "05": {
-        "lectura": "Mateo 9:27-31",
-        "lecturaNormalizada": "Mt9,27-31",
+        "lectura": "Juan 6:37-40",
+        "lecturaNormalizada": "Jn6,37-40",
         "contemplaciones": []
       },
       "06": {
-        "lectura": "Mateo 9:35--10:1, 5-8",
-        "lecturaNormalizada": "Mt9,35--10,1,5-8",
+        "lectura": "Lucas 15:1-10",
+        "lecturaNormalizada": "Lc15,1-10",
         "contemplaciones": []
       },
       "07": {
-        "lectura": "Mateo 3:1-12",
-        "lecturaNormalizada": "Mt3,1-12",
-        "contemplaciones": [
-          15233,
-          93052
-        ]
-      },
-      "08": {
-        "lectura": "Lucas 1:26-38",
-        "lecturaNormalizada": "Lc1,26-38",
-        "contemplaciones": [
-          12505,
-          27382,
-          66726,
-          18342,
-          17615,
-          92222,
-          32779
-        ]
-      },
-      "09": {
-        "lectura": "Mateo 18:12-14",
-        "lecturaNormalizada": "Mt18,12-14",
+        "lectura": "Lucas 16:1-8",
+        "lecturaNormalizada": "Lc16,1-8",
         "contemplaciones": []
       },
+      "08": {
+        "lectura": "Lucas 16:9-15",
+        "lecturaNormalizada": "Lc16,9-15",
+        "contemplaciones": []
+      },
+      "09": {
+        "lectura": "Juan 2:13-22",
+        "lecturaNormalizada": "Jn2,13-22",
+        "contemplaciones": []
+      }
+    },
+    "12": {
       "10": {
         "lectura": "Mateo 11:28-30",
         "lecturaNormalizada": "Mt11,28-30",
@@ -2370,11 +594,207 @@
           20911,
           52798
         ]
+      },
+      "01": {
+        "lectura": "Mateo 8:5-11",
+        "lecturaNormalizada": "Mt8,5-11",
+        "contemplaciones": []
+      },
+      "02": {
+        "lectura": "Lucas 10:21-24",
+        "lecturaNormalizada": "Lc10,21-24",
+        "contemplaciones": []
+      },
+      "03": {
+        "lectura": "Mateo 15:29-37",
+        "lecturaNormalizada": "Mt15,29-37",
+        "contemplaciones": []
+      },
+      "04": {
+        "lectura": "Mateo 7:21, 24-27",
+        "lecturaNormalizada": "Mt7,21,24-27",
+        "contemplaciones": []
+      },
+      "05": {
+        "lectura": "Mateo 9:27-31",
+        "lecturaNormalizada": "Mt9,27-31",
+        "contemplaciones": []
+      },
+      "06": {
+        "lectura": "Mateo 9:35--10:1, 5-8",
+        "lecturaNormalizada": "Mt9,35--10,1,5-8",
+        "contemplaciones": []
+      },
+      "07": {
+        "lectura": "Mateo 3:1-12",
+        "lecturaNormalizada": "Mt3,1-12",
+        "contemplaciones": [
+          15233,
+          93052
+        ]
+      },
+      "08": {
+        "lectura": "Lucas 1:26-38",
+        "lecturaNormalizada": "Lc1,26-38",
+        "contemplaciones": [
+          12505,
+          27382,
+          66726,
+          18342,
+          17615,
+          92222,
+          32779
+        ]
+      },
+      "09": {
+        "lectura": "Mateo 18:12-14",
+        "lecturaNormalizada": "Mt18,12-14",
+        "contemplaciones": []
       }
-    }
-  },
-  "2026": {
+    },
     "01": {
+      "10": {
+        "lectura": "Lucas 5:12-16",
+        "lecturaNormalizada": "Lc5,12-16",
+        "contemplaciones": []
+      },
+      "11": {
+        "lectura": "Juan 3:22-30",
+        "lecturaNormalizada": "Jn3,22-30",
+        "contemplaciones": []
+      },
+      "12": {
+        "lectura": "Lucas 3:15-16, 21-22",
+        "lecturaNormalizada": "Lc3,15-16,21-22",
+        "contemplaciones": []
+      },
+      "13": {
+        "lectura": "Marcos 1:14-20",
+        "lecturaNormalizada": "Mc1,14-20",
+        "contemplaciones": [
+          99502,
+          42779,
+          54256,
+          46529
+        ]
+      },
+      "14": {
+        "lectura": "Marcos 1:21-28",
+        "lecturaNormalizada": "Mc1,21-28",
+        "contemplaciones": [
+          91075,
+          33258,
+          23407,
+          48570,
+          21553
+        ]
+      },
+      "15": {
+        "lectura": "Marcos 1:29-39",
+        "lecturaNormalizada": "Mc1,29-39",
+        "contemplaciones": [
+          65264,
+          15193,
+          10026,
+          61610,
+          96339
+        ]
+      },
+      "16": {
+        "lectura": "Marcos 1:40-45",
+        "lecturaNormalizada": "Mc1,40-45",
+        "contemplaciones": [
+          58221,
+          49869,
+          45339,
+          20886,
+          72717
+        ]
+      },
+      "17": {
+        "lectura": "Marcos 2:1-12",
+        "lecturaNormalizada": "Mc2,1-12",
+        "contemplaciones": [
+          45145,
+          8304
+        ]
+      },
+      "18": {
+        "lectura": "Marcos 2:13-17",
+        "lecturaNormalizada": "Mc2,13-17",
+        "contemplaciones": []
+      },
+      "19": {
+        "lectura": "Juan 2:1-11",
+        "lecturaNormalizada": "Jn2,1-11",
+        "contemplaciones": [
+          81929,
+          94404,
+          1943,
+          51960,
+          25025
+        ]
+      },
+      "20": {
+        "lectura": "Marcos 2:18-22",
+        "lecturaNormalizada": "Mc2,18-22",
+        "contemplaciones": []
+      },
+      "21": {
+        "lectura": "Marcos 2:23-28",
+        "lecturaNormalizada": "Mc2,23-28",
+        "contemplaciones": []
+      },
+      "22": {
+        "lectura": "Marcos 3:1-6",
+        "lecturaNormalizada": "Mc3,1-6",
+        "contemplaciones": []
+      },
+      "23": {
+        "lectura": "Marcos 3:7-12",
+        "lecturaNormalizada": "Mc3,7-12",
+        "contemplaciones": []
+      },
+      "24": {
+        "lectura": "Marcos 3:13-19",
+        "lecturaNormalizada": "Mc3,13-19",
+        "contemplaciones": []
+      },
+      "25": {
+        "lectura": "Marcos 16:15-18",
+        "lecturaNormalizada": "Mc16,15-18",
+        "contemplaciones": []
+      },
+      "26": {
+        "lectura": "Lucas 1:1-4; 4:14-21",
+        "lecturaNormalizada": "Lc1,1-4;4,14-21",
+        "contemplaciones": []
+      },
+      "27": {
+        "lectura": "Marcos 3:22-30",
+        "lecturaNormalizada": "Mc3,22-30",
+        "contemplaciones": []
+      },
+      "28": {
+        "lectura": "Marcos 3:31-35",
+        "lecturaNormalizada": "Mc3,31-35",
+        "contemplaciones": []
+      },
+      "29": {
+        "lectura": "Marcos 4:1-20",
+        "lecturaNormalizada": "Mc4,1-20",
+        "contemplaciones": []
+      },
+      "30": {
+        "lectura": "Marcos 4:21-25",
+        "lecturaNormalizada": "Mc4,21-25",
+        "contemplaciones": []
+      },
+      "31": {
+        "lectura": "Marcos 4:26-34",
+        "lecturaNormalizada": "Mc4,26-34",
+        "contemplaciones": []
+      },
       "01": {
         "lectura": "Lucas 2:16-21",
         "lecturaNormalizada": "Lc2,16-21",
@@ -2400,6 +820,16 @@
         "contemplaciones": []
       },
       "04": {
+        "lectura": "Juan 1:35-42",
+        "lecturaNormalizada": "Jn1,35-42",
+        "contemplaciones": [
+          49278,
+          49392,
+          7045,
+          47958
+        ]
+      },
+      "05": {
         "lectura": "Mateo 2:1-12",
         "lecturaNormalizada": "Mt2,1-12",
         "contemplaciones": [
@@ -2409,31 +839,1787 @@
           36244
         ]
       },
-      "05": {
+      "06": {
         "lectura": "Mateo 4:12-17, 23-25",
         "lecturaNormalizada": "Mt4,12-17,23-25",
         "contemplaciones": []
       },
-      "06": {
+      "07": {
         "lectura": "Marcos 6:34-44",
         "lecturaNormalizada": "Mc6,34-44",
         "contemplaciones": []
       },
-      "07": {
+      "08": {
         "lectura": "Marcos 6:45-52",
         "lecturaNormalizada": "Mc6,45-52",
         "contemplaciones": []
       },
-      "08": {
+      "09": {
         "lectura": "Lucas 4:14-22",
         "lecturaNormalizada": "Lc4,14-22",
         "contemplaciones": []
-      },
-      "09": {
-        "lectura": "Lucas 5:12-16",
-        "lecturaNormalizada": "Lc5,12-16",
+      }
+    },
+    "02": {
+      "10": {
+        "lectura": "Marcos 6:53-56",
+        "lecturaNormalizada": "Mc6,53-56",
         "contemplaciones": []
       },
+      "11": {
+        "lectura": "Marcos 7:1-13",
+        "lecturaNormalizada": "Mc7,1-13",
+        "contemplaciones": []
+      },
+      "12": {
+        "lectura": "Marcos 7:14-23",
+        "lecturaNormalizada": "Mc7,14-23",
+        "contemplaciones": []
+      },
+      "13": {
+        "lectura": "Marcos 7:24-30",
+        "lecturaNormalizada": "Mc7,24-30",
+        "contemplaciones": []
+      },
+      "14": {
+        "lectura": "Marcos 7:31-37",
+        "lecturaNormalizada": "Mc7,31-37",
+        "contemplaciones": [
+          74142,
+          43045,
+          9058,
+          59399,
+          36603
+        ]
+      },
+      "15": {
+        "lectura": "Marcos 8:1-10",
+        "lecturaNormalizada": "Mc8,1-10",
+        "contemplaciones": []
+      },
+      "16": {
+        "lectura": "Lucas 6:17, 20-26",
+        "lecturaNormalizada": "Lc6,17,20-26",
+        "contemplaciones": []
+      },
+      "17": {
+        "lectura": "Marcos 8:11-13",
+        "lecturaNormalizada": "Mc8,11-13",
+        "contemplaciones": []
+      },
+      "18": {
+        "lectura": "Marcos 8:14-21",
+        "lecturaNormalizada": "Mc8,14-21",
+        "contemplaciones": []
+      },
+      "19": {
+        "lectura": "Marcos 8:22-26",
+        "lecturaNormalizada": "Mc8,22-26",
+        "contemplaciones": []
+      },
+      "20": {
+        "lectura": "Marcos 8:27-33",
+        "lecturaNormalizada": "Mc8,27-33",
+        "contemplaciones": []
+      },
+      "21": {
+        "lectura": "Marcos 8:34--9:1",
+        "lecturaNormalizada": "Mc8,34--9,1",
+        "contemplaciones": []
+      },
+      "22": {
+        "lectura": "Mateo 16:13-19",
+        "lecturaNormalizada": "Mt16,13-19",
+        "contemplaciones": [
+          18020
+        ]
+      },
+      "23": {
+        "lectura": "Lucas 6:27-38",
+        "lecturaNormalizada": "Lc6,27-38",
+        "contemplaciones": [
+          3327,
+          92204
+        ]
+      },
+      "24": {
+        "lectura": "Marcos 9:14-29",
+        "lecturaNormalizada": "Mc9,14-29",
+        "contemplaciones": []
+      },
+      "25": {
+        "lectura": "Marcos 9:30-37",
+        "lecturaNormalizada": "Mc9,30-37",
+        "contemplaciones": [
+          11945,
+          67924,
+          24483,
+          51892,
+          85461
+        ]
+      },
+      "26": {
+        "lectura": "Marcos 9:38-40",
+        "lecturaNormalizada": "Mc9,38-40",
+        "contemplaciones": []
+      },
+      "27": {
+        "lectura": "Marcos 9:41-50",
+        "lecturaNormalizada": "Mc9,41-50",
+        "contemplaciones": []
+      },
+      "28": {
+        "lectura": "Marcos 10:1-12",
+        "lecturaNormalizada": "Mc10,1-12",
+        "contemplaciones": []
+      },
+      "01": {
+        "lectura": "Marcos 4:35-41",
+        "lecturaNormalizada": "Mc4,35-41",
+        "contemplaciones": [
+          28315,
+          75942
+        ]
+      },
+      "02": {
+        "lectura": "Lucas 2:22-40",
+        "lecturaNormalizada": "Lc2,22-40",
+        "contemplaciones": [
+          20300,
+          40439,
+          10656,
+          65598,
+          1208
+        ]
+      },
+      "03": {
+        "lectura": "Marcos 5:1-20",
+        "lecturaNormalizada": "Mc5,1-20",
+        "contemplaciones": []
+      },
+      "04": {
+        "lectura": "Marcos 5:21-43",
+        "lecturaNormalizada": "Mc5,21-43",
+        "contemplaciones": [
+          68535,
+          34957,
+          6962,
+          92051,
+          88856
+        ]
+      },
+      "05": {
+        "lectura": "Marcos 6:1-6",
+        "lecturaNormalizada": "Mc6,1-6",
+        "contemplaciones": [
+          73189,
+          95585,
+          35400,
+          21940,
+          69380
+        ]
+      },
+      "06": {
+        "lectura": "Marcos 6:7-13",
+        "lecturaNormalizada": "Mc6,7-13",
+        "contemplaciones": [
+          10213,
+          93779,
+          57468,
+          78180,
+          81770
+        ]
+      },
+      "07": {
+        "lectura": "Marcos 6:14-29",
+        "lecturaNormalizada": "Mc6,14-29",
+        "contemplaciones": []
+      },
+      "08": {
+        "lectura": "Marcos 6:30-34",
+        "lecturaNormalizada": "Mc6,30-34",
+        "contemplaciones": [
+          10859,
+          3361,
+          80691,
+          78703,
+          60281
+        ]
+      },
+      "09": {
+        "lectura": "Lucas 5:1-11",
+        "lecturaNormalizada": "Lc5,1-11",
+        "contemplaciones": [
+          94268,
+          37616,
+          28912,
+          53148,
+          46113
+        ]
+      }
+    },
+    "03": {
+      "10": {
+        "lectura": "Mateo 25:31-46",
+        "lecturaNormalizada": "Mt25,31-46",
+        "contemplaciones": [
+          8322
+        ]
+      },
+      "11": {
+        "lectura": "Mateo 6:7-15",
+        "lecturaNormalizada": "Mt6,7-15",
+        "contemplaciones": []
+      },
+      "12": {
+        "lectura": "Lucas 11:29-32",
+        "lecturaNormalizada": "Lc11,29-32",
+        "contemplaciones": []
+      },
+      "13": {
+        "lectura": "Mateo 7:7-12",
+        "lecturaNormalizada": "Mt7,7-12",
+        "contemplaciones": []
+      },
+      "14": {
+        "lectura": "Mateo 5:20-26",
+        "lecturaNormalizada": "Mt5,20-26",
+        "contemplaciones": []
+      },
+      "15": {
+        "lectura": "Mateo 5:43-48",
+        "lecturaNormalizada": "Mt5,43-48",
+        "contemplaciones": []
+      },
+      "16": {
+        "lectura": "Lucas 9:28-36",
+        "lecturaNormalizada": "Lc9,28-36",
+        "contemplaciones": []
+      },
+      "17": {
+        "lectura": "Lucas 6:36-38",
+        "lecturaNormalizada": "Lc6,36-38",
+        "contemplaciones": []
+      },
+      "18": {
+        "lectura": "Mateo 23:1-12",
+        "lecturaNormalizada": "Mt23,1-12",
+        "contemplaciones": [
+          92827,
+          2936
+        ]
+      },
+      "19": {
+        "lectura": "Mateo 1:16, 18-21, 24",
+        "lecturaNormalizada": "Mt1,16,18-21,24",
+        "contemplaciones": []
+      },
+      "20": {
+        "lectura": "Lucas 16:19-31",
+        "lecturaNormalizada": "Lc16,19-31",
+        "contemplaciones": [
+          80889,
+          55625,
+          32467,
+          57601
+        ]
+      },
+      "21": {
+        "lectura": "Mateo 21:33-43, 45-46",
+        "lecturaNormalizada": "Mt21,33-43,45-46",
+        "contemplaciones": []
+      },
+      "22": {
+        "lectura": "Lucas 15:1-3, 11-32",
+        "lecturaNormalizada": "Lc15,1-3,11-32",
+        "contemplaciones": []
+      },
+      "23": {
+        "lectura": "Lucas 13:1-9",
+        "lecturaNormalizada": "Lc13,1-9",
+        "contemplaciones": [
+          38816,
+          18516,
+          47187,
+          419,
+          40446
+        ]
+      },
+      "24": {
+        "lectura": "Lucas 4:24-30",
+        "lecturaNormalizada": "Lc4,24-30",
+        "contemplaciones": []
+      },
+      "25": {
+        "lectura": "Lucas 1:26-38",
+        "lecturaNormalizada": "Lc1,26-38",
+        "contemplaciones": [
+          12505,
+          27382,
+          66726,
+          18342,
+          17615,
+          92222,
+          32779
+        ]
+      },
+      "26": {
+        "lectura": "Mateo 5:17-19",
+        "lecturaNormalizada": "Mt5,17-19",
+        "contemplaciones": []
+      },
+      "27": {
+        "lectura": "Lucas 11:14-23",
+        "lecturaNormalizada": "Lc11,14-23",
+        "contemplaciones": []
+      },
+      "28": {
+        "lectura": "Marcos 12:28-34",
+        "lecturaNormalizada": "Mc12,28-34",
+        "contemplaciones": []
+      },
+      "29": {
+        "lectura": "Lucas 18:9-14",
+        "lecturaNormalizada": "Lc18,9-14",
+        "contemplaciones": [
+          55991,
+          17656,
+          81128,
+          63536
+        ]
+      },
+      "30": {
+        "lectura": "Lucas 15:1-3, 11-32",
+        "lecturaNormalizada": "Lc15,1-3,11-32",
+        "contemplaciones": []
+      },
+      "31": {
+        "lectura": "Juan 4:43-54",
+        "lecturaNormalizada": "Jn4,43-54",
+        "contemplaciones": []
+      },
+      "01": {
+        "lectura": "Marcos 10:13-16",
+        "lecturaNormalizada": "Mc10,13-16",
+        "contemplaciones": []
+      },
+      "02": {
+        "lectura": "Lucas 6:39-45",
+        "lecturaNormalizada": "Lc6,39-45",
+        "contemplaciones": [
+          58923,
+          52803
+        ]
+      },
+      "03": {
+        "lectura": "Marcos 10:17-27",
+        "lecturaNormalizada": "Mc10,17-27",
+        "contemplaciones": []
+      },
+      "04": {
+        "lectura": "Marcos 10:28-31",
+        "lecturaNormalizada": "Mc10,28-31",
+        "contemplaciones": []
+      },
+      "05": {
+        "lectura": "Mateo 6:1-6, 16-18",
+        "lecturaNormalizada": "Mt6,1-6,16-18",
+        "contemplaciones": []
+      },
+      "06": {
+        "lectura": "Lucas 9:22-25",
+        "lecturaNormalizada": "Lc9,22-25",
+        "contemplaciones": []
+      },
+      "07": {
+        "lectura": "Mateo 9:14-15",
+        "lecturaNormalizada": "Mt9,14-15",
+        "contemplaciones": []
+      },
+      "08": {
+        "lectura": "Lucas 5:27-32",
+        "lecturaNormalizada": "Lc5,27-32",
+        "contemplaciones": []
+      },
+      "09": {
+        "lectura": "Lucas 4:1-13",
+        "lecturaNormalizada": "Lc4,1-13",
+        "contemplaciones": [
+          22032,
+          5708,
+          6228,
+          3211,
+          74498
+        ]
+      }
+    },
+    "04": {
+      "10": {
+        "lectura": "Juan 8:51-59",
+        "lecturaNormalizada": "Jn8,51-59",
+        "contemplaciones": []
+      },
+      "11": {
+        "lectura": "Juan 10:31-42",
+        "lecturaNormalizada": "Jn10,31-42",
+        "contemplaciones": []
+      },
+      "12": {
+        "lectura": "Juan 11:45-56",
+        "lecturaNormalizada": "Jn11,45-56",
+        "contemplaciones": []
+      },
+      "13": {
+        "lectura": "Lucas 22:14--23:56",
+        "lecturaNormalizada": "Lc22,14--23,56",
+        "contemplaciones": []
+      },
+      "14": {
+        "lectura": "Juan 12:1-11",
+        "lecturaNormalizada": "Jn12,1-11",
+        "contemplaciones": []
+      },
+      "15": {
+        "lectura": "Juan 13:21-33, 36-38",
+        "lecturaNormalizada": "Jn13,21-33,36-38",
+        "contemplaciones": []
+      },
+      "16": {
+        "lectura": "Mateo 26:14-25",
+        "lecturaNormalizada": "Mt26,14-25",
+        "contemplaciones": []
+      },
+      "17": {
+        "lectura": "Juan 13:1-15",
+        "lecturaNormalizada": "Jn13,1-15",
+        "contemplaciones": []
+      },
+      "18": {
+        "lectura": "Juan 18:1--19:42",
+        "lecturaNormalizada": "Jn18,1--19,42",
+        "contemplaciones": []
+      },
+      "19": {
+        "lectura": "Lucas 24:1-12",
+        "lecturaNormalizada": "Lc24,1-12",
+        "contemplaciones": [
+          88120,
+          16035,
+          4731
+        ]
+      },
+      "20": {
+        "lectura": "Juan 20:1-9",
+        "lecturaNormalizada": "Jn20,1-9",
+        "contemplaciones": []
+      },
+      "21": {
+        "lectura": "Mateo 28:8-15",
+        "lecturaNormalizada": "Mt28,8-15",
+        "contemplaciones": []
+      },
+      "22": {
+        "lectura": "Juan 20:11-18",
+        "lecturaNormalizada": "Jn20,11-18",
+        "contemplaciones": []
+      },
+      "23": {
+        "lectura": "Lucas 24:13-35",
+        "lecturaNormalizada": "Lc24,13-35",
+        "contemplaciones": [
+          13869,
+          16673,
+          53237,
+          26720
+        ]
+      },
+      "24": {
+        "lectura": "Lucas 24:35-48",
+        "lecturaNormalizada": "Lc24,35-48",
+        "contemplaciones": [
+          95228,
+          99571,
+          97985,
+          95749,
+          67865
+        ]
+      },
+      "25": {
+        "lectura": "Juan 21:1-14",
+        "lecturaNormalizada": "Jn21,1-14",
+        "contemplaciones": []
+      },
+      "26": {
+        "lectura": "Marcos 16:9-15",
+        "lecturaNormalizada": "Mc16,9-15",
+        "contemplaciones": []
+      },
+      "27": {
+        "lectura": "Juan 20:19-31",
+        "lecturaNormalizada": "Jn20,19-31",
+        "contemplaciones": [
+          6200,
+          70657,
+          67066,
+          96606,
+          80863,
+          76242,
+          55857,
+          68278
+        ]
+      },
+      "28": {
+        "lectura": "Juan 3:1-8",
+        "lecturaNormalizada": "Jn3,1-8",
+        "contemplaciones": []
+      },
+      "29": {
+        "lectura": "Juan 3:7-15",
+        "lecturaNormalizada": "Jn3,7-15",
+        "contemplaciones": []
+      },
+      "30": {
+        "lectura": "Juan 3:16-21",
+        "lecturaNormalizada": "Jn3,16-21",
+        "contemplaciones": []
+      },
+      "01": {
+        "lectura": "Juan 5:1-16",
+        "lecturaNormalizada": "Jn5,1-16",
+        "contemplaciones": []
+      },
+      "02": {
+        "lectura": "Juan 5:17-30",
+        "lecturaNormalizada": "Jn5,17-30",
+        "contemplaciones": []
+      },
+      "03": {
+        "lectura": "Juan 5:31-47",
+        "lecturaNormalizada": "Jn5,31-47",
+        "contemplaciones": []
+      },
+      "04": {
+        "lectura": "Juan 7:1-2, 10, 25-30",
+        "lecturaNormalizada": "Jn7,1-2,10,25-30",
+        "contemplaciones": []
+      },
+      "05": {
+        "lectura": "Juan 7:40-53",
+        "lecturaNormalizada": "Jn7,40-53",
+        "contemplaciones": []
+      },
+      "06": {
+        "lectura": "Juan 8:1-11",
+        "lecturaNormalizada": "Jn8,1-11",
+        "contemplaciones": [
+          68635,
+          70582,
+          18771,
+          48195,
+          66386
+        ]
+      },
+      "07": {
+        "lectura": "Juan 8:12-20",
+        "lecturaNormalizada": "Jn8,12-20",
+        "contemplaciones": []
+      },
+      "08": {
+        "lectura": "Juan 8:21-30",
+        "lecturaNormalizada": "Jn8,21-30",
+        "contemplaciones": []
+      },
+      "09": {
+        "lectura": "Juan 8:31-42",
+        "lecturaNormalizada": "Jn8,31-42",
+        "contemplaciones": []
+      }
+    },
+    "05": {
+      "10": {
+        "lectura": "Juan 6:60-69",
+        "lecturaNormalizada": "Jn6,60-69",
+        "contemplaciones": [
+          59053,
+          94220,
+          91868,
+          52811,
+          66202
+        ]
+      },
+      "11": {
+        "lectura": "Juan 10:27-30",
+        "lecturaNormalizada": "Jn10,27-30",
+        "contemplaciones": [
+          53955,
+          62561,
+          59645,
+          33631,
+          12652
+        ]
+      },
+      "12": {
+        "lectura": "Juan 10:1-10",
+        "lecturaNormalizada": "Jn10,1-10",
+        "contemplaciones": [
+          32904
+        ]
+      },
+      "13": {
+        "lectura": "Juan 10:22-30",
+        "lecturaNormalizada": "Jn10,22-30",
+        "contemplaciones": []
+      },
+      "14": {
+        "lectura": "Juan 15:9-17",
+        "lecturaNormalizada": "Jn15,9-17",
+        "contemplaciones": [
+          17285,
+          55567,
+          64814,
+          2980,
+          31788
+        ]
+      },
+      "15": {
+        "lectura": "Juan 13:16-20",
+        "lecturaNormalizada": "Jn13,16-20",
+        "contemplaciones": []
+      },
+      "16": {
+        "lectura": "Juan 14:1-6",
+        "lecturaNormalizada": "Jn14,1-6",
+        "contemplaciones": []
+      },
+      "17": {
+        "lectura": "Juan 14:7-14",
+        "lecturaNormalizada": "Jn14,7-14",
+        "contemplaciones": []
+      },
+      "18": {
+        "lectura": "Juan 13:31-33, 34-35",
+        "lecturaNormalizada": "Jn13,31-33,34-35",
+        "contemplaciones": []
+      },
+      "19": {
+        "lectura": "Juan 14:21-26",
+        "lecturaNormalizada": "Jn14,21-26",
+        "contemplaciones": []
+      },
+      "20": {
+        "lectura": "Juan 14:27-31",
+        "lecturaNormalizada": "Jn14,27-31",
+        "contemplaciones": []
+      },
+      "21": {
+        "lectura": "Juan 15:1-8",
+        "lecturaNormalizada": "Jn15,1-8",
+        "contemplaciones": [
+          98000,
+          78606,
+          63020,
+          75637,
+          81668
+        ]
+      },
+      "22": {
+        "lectura": "Juan 15:9-11",
+        "lecturaNormalizada": "Jn15,9-11",
+        "contemplaciones": []
+      },
+      "23": {
+        "lectura": "Juan 15:12-17",
+        "lecturaNormalizada": "Jn15,12-17",
+        "contemplaciones": []
+      },
+      "24": {
+        "lectura": "Juan 10:22-30",
+        "lecturaNormalizada": "Jn10,22-30",
+        "contemplaciones": []
+      },
+      "25": {
+        "lectura": "Juan 14:23-29",
+        "lecturaNormalizada": "Jn14,23-29",
+        "contemplaciones": [
+          129
+        ]
+      },
+      "26": {
+        "lectura": "Juan 15:26--16:4",
+        "lecturaNormalizada": "Jn15,26--16,4",
+        "contemplaciones": []
+      },
+      "27": {
+        "lectura": "Juan 16:5-11",
+        "lecturaNormalizada": "Jn16,5-11",
+        "contemplaciones": []
+      },
+      "28": {
+        "lectura": "Juan 16:12-15",
+        "lecturaNormalizada": "Jn16,12-15",
+        "contemplaciones": [
+          57893,
+          24026,
+          4652,
+          23750,
+          9268
+        ]
+      },
+      "29": {
+        "lectura": "Juan 16:16-20",
+        "lecturaNormalizada": "Jn16,16-20",
+        "contemplaciones": []
+      },
+      "30": {
+        "lectura": "Juan 16:20-23",
+        "lecturaNormalizada": "Jn16,20-23",
+        "contemplaciones": []
+      },
+      "31": {
+        "lectura": "Lucas 1:39-56",
+        "lecturaNormalizada": "Lc1,39-56",
+        "contemplaciones": [
+          59118,
+          843,
+          90163
+        ]
+      },
+      "01": {
+        "lectura": "Mateo 13:54-58",
+        "lecturaNormalizada": "Mt13,54-58",
+        "contemplaciones": []
+      },
+      "02": {
+        "lectura": "Juan 6:1-15",
+        "lecturaNormalizada": "Jn6,1-15",
+        "contemplaciones": [
+          64640,
+          37801,
+          90276,
+          45848,
+          371
+        ]
+      },
+      "03": {
+        "lectura": "Juan 14:6-14",
+        "lecturaNormalizada": "Jn14,6-14",
+        "contemplaciones": []
+      },
+      "04": {
+        "lectura": "Juan 21:1-19",
+        "lecturaNormalizada": "Jn21,1-19",
+        "contemplaciones": [
+          15244,
+          46737,
+          56812,
+          96354,
+          91718
+        ]
+      },
+      "05": {
+        "lectura": "Juan 6:22-29",
+        "lecturaNormalizada": "Jn6,22-29",
+        "contemplaciones": []
+      },
+      "06": {
+        "lectura": "Juan 6:30-35",
+        "lecturaNormalizada": "Jn6,30-35",
+        "contemplaciones": []
+      },
+      "07": {
+        "lectura": "Juan 6:35-40",
+        "lecturaNormalizada": "Jn6,35-40",
+        "contemplaciones": []
+      },
+      "08": {
+        "lectura": "Juan 6:44-51",
+        "lecturaNormalizada": "Jn6,44-51",
+        "contemplaciones": []
+      },
+      "09": {
+        "lectura": "Juan 6:52-59",
+        "lecturaNormalizada": "Jn6,52-59",
+        "contemplaciones": []
+      }
+    },
+    "06": {
+      "10": {
+        "lectura": "Mateo 5:13-16",
+        "lecturaNormalizada": "Mt5,13-16",
+        "contemplaciones": [
+          21991,
+          92386,
+          52197
+        ]
+      },
+      "11": {
+        "lectura": "Mateo 10:7-13",
+        "lecturaNormalizada": "Mt10,7-13",
+        "contemplaciones": []
+      },
+      "12": {
+        "lectura": "Mateo 5:20-26",
+        "lecturaNormalizada": "Mt5,20-26",
+        "contemplaciones": []
+      },
+      "13": {
+        "lectura": "Marcos 16:15-20",
+        "lecturaNormalizada": "Mc16,15-20",
+        "contemplaciones": [
+          20873,
+          69741,
+          51617,
+          2304,
+          3084
+        ]
+      },
+      "14": {
+        "lectura": "Mateo 5:33-37",
+        "lecturaNormalizada": "Mt5,33-37",
+        "contemplaciones": []
+      },
+      "15": {
+        "lectura": "Juan 16:12-15",
+        "lecturaNormalizada": "Jn16,12-15",
+        "contemplaciones": [
+          57893,
+          24026,
+          4652,
+          23750,
+          9268
+        ]
+      },
+      "16": {
+        "lectura": "Mateo 5:38-42",
+        "lecturaNormalizada": "Mt5,38-42",
+        "contemplaciones": []
+      },
+      "17": {
+        "lectura": "Mateo 5:43-48",
+        "lecturaNormalizada": "Mt5,43-48",
+        "contemplaciones": []
+      },
+      "18": {
+        "lectura": "Mateo 6:1-6, 16-18",
+        "lecturaNormalizada": "Mt6,1-6,16-18",
+        "contemplaciones": []
+      },
+      "19": {
+        "lectura": "Mateo 6:7-15",
+        "lecturaNormalizada": "Mt6,7-15",
+        "contemplaciones": []
+      },
+      "20": {
+        "lectura": "Mateo 6:19-23",
+        "lecturaNormalizada": "Mt6,19-23",
+        "contemplaciones": []
+      },
+      "21": {
+        "lectura": "Mateo 6:24-34",
+        "lecturaNormalizada": "Mt6,24-34",
+        "contemplaciones": [
+          30371,
+          83967,
+          37626
+        ]
+      },
+      "22": {
+        "lectura": "Lucas 9:11-17",
+        "lecturaNormalizada": "Lc9,11-17",
+        "contemplaciones": []
+      },
+      "23": {
+        "lectura": "Mateo 7:1-5",
+        "lecturaNormalizada": "Mt7,1-5",
+        "contemplaciones": []
+      },
+      "24": {
+        "lectura": "Lucas 1:57-66, 80",
+        "lecturaNormalizada": "Lc1,57-66,80",
+        "contemplaciones": []
+      },
+      "25": {
+        "lectura": "Mateo 7:15-20",
+        "lecturaNormalizada": "Mt7,15-20",
+        "contemplaciones": []
+      },
+      "26": {
+        "lectura": "Mateo 7:21-29",
+        "lecturaNormalizada": "Mt7,21-29",
+        "contemplaciones": []
+      },
+      "27": {
+        "lectura": "Lucas 15:3-7",
+        "lecturaNormalizada": "Lc15,3-7",
+        "contemplaciones": []
+      },
+      "28": {
+        "lectura": "Lucas 2:41-51",
+        "lecturaNormalizada": "Lc2,41-51",
+        "contemplaciones": []
+      },
+      "29": {
+        "lectura": "Mateo 16:13-19",
+        "lecturaNormalizada": "Mt16,13-19",
+        "contemplaciones": [
+          18020
+        ]
+      },
+      "30": {
+        "lectura": "Mateo 8:18-22",
+        "lecturaNormalizada": "Mt8,18-22",
+        "contemplaciones": []
+      },
+      "01": {
+        "lectura": "Lucas 24:46-53",
+        "lecturaNormalizada": "Lc24,46-53",
+        "contemplaciones": [
+          84989,
+          84299,
+          75836,
+          46531,
+          31567
+        ]
+      },
+      "02": {
+        "lectura": "Juan 16:29-33",
+        "lecturaNormalizada": "Jn16,29-33",
+        "contemplaciones": []
+      },
+      "03": {
+        "lectura": "Juan 17:1-11",
+        "lecturaNormalizada": "Jn17,1-11",
+        "contemplaciones": []
+      },
+      "04": {
+        "lectura": "Juan 17:11-19",
+        "lecturaNormalizada": "Jn17,11-19",
+        "contemplaciones": []
+      },
+      "05": {
+        "lectura": "Juan 17:20-26",
+        "lecturaNormalizada": "Jn17,20-26",
+        "contemplaciones": []
+      },
+      "06": {
+        "lectura": "Juan 21:15-19",
+        "lecturaNormalizada": "Jn21,15-19",
+        "contemplaciones": []
+      },
+      "07": {
+        "lectura": "Juan 21:20-25",
+        "lecturaNormalizada": "Jn21,20-25",
+        "contemplaciones": []
+      },
+      "08": {
+        "lectura": "Juan 20:19-23",
+        "lecturaNormalizada": "Jn20,19-23",
+        "contemplaciones": [
+          90724,
+          32757,
+          68080,
+          21077,
+          27111,
+          38817,
+          9349,
+          82943,
+          24453,
+          48953,
+          91557,
+          37558
+        ]
+      },
+      "09": {
+        "lectura": "Juan 19:25-34",
+        "lecturaNormalizada": "Jn19,25-34",
+        "contemplaciones": []
+      }
+    },
+    "07": {
+      "10": {
+        "lectura": "Mateo 16:24-27",
+        "lecturaNormalizada": "Mt16,24-27",
+        "contemplaciones": []
+      },
+      "11": {
+        "lectura": "Mateo 10:16-23",
+        "lecturaNormalizada": "Mt10,16-23",
+        "contemplaciones": []
+      },
+      "12": {
+        "lectura": "Mateo 10:24-33",
+        "lecturaNormalizada": "Mt10,24-33",
+        "contemplaciones": []
+      },
+      "13": {
+        "lectura": "Lucas 10:25-37",
+        "lecturaNormalizada": "Lc10,25-37",
+        "contemplaciones": [
+          73848,
+          91903,
+          21773,
+          69463
+        ]
+      },
+      "14": {
+        "lectura": "Mateo 10:34--11:1",
+        "lecturaNormalizada": "Mt10,34--11,1",
+        "contemplaciones": []
+      },
+      "15": {
+        "lectura": "Mateo 5:13-19",
+        "lecturaNormalizada": "Mt5,13-19",
+        "contemplaciones": []
+      },
+      "16": {
+        "lectura": "Mateo 11:25-27",
+        "lecturaNormalizada": "Mt11,25-27",
+        "contemplaciones": []
+      },
+      "17": {
+        "lectura": "Mateo 11:28-30",
+        "lecturaNormalizada": "Mt11,28-30",
+        "contemplaciones": []
+      },
+      "18": {
+        "lectura": "Mateo 12:1-8",
+        "lecturaNormalizada": "Mt12,1-8",
+        "contemplaciones": []
+      },
+      "19": {
+        "lectura": "Mateo 12:14-21",
+        "lecturaNormalizada": "Mt12,14-21",
+        "contemplaciones": []
+      },
+      "20": {
+        "lectura": "Lucas 10:38-42",
+        "lecturaNormalizada": "Lc10,38-42",
+        "contemplaciones": [
+          66476,
+          91642,
+          82701,
+          25371
+        ]
+      },
+      "21": {
+        "lectura": "Lucas 9:1-6",
+        "lecturaNormalizada": "Lc9,1-6",
+        "contemplaciones": []
+      },
+      "22": {
+        "lectura": "Juan 20:1-2, 11-18",
+        "lecturaNormalizada": "Jn20,1-2,11-18",
+        "contemplaciones": []
+      },
+      "23": {
+        "lectura": "Mateo 13:1-9",
+        "lecturaNormalizada": "Mt13,1-9",
+        "contemplaciones": []
+      },
+      "24": {
+        "lectura": "Mateo 13:10-17",
+        "lecturaNormalizada": "Mt13,10-17",
+        "contemplaciones": []
+      },
+      "25": {
+        "lectura": "Mateo 20:20-28",
+        "lecturaNormalizada": "Mt20,20-28",
+        "contemplaciones": []
+      },
+      "26": {
+        "lectura": "Mateo 13:16-17",
+        "lecturaNormalizada": "Mt13,16-17",
+        "contemplaciones": []
+      },
+      "27": {
+        "lectura": "Lucas 11:1-13",
+        "lecturaNormalizada": "Lc11,1-13",
+        "contemplaciones": [
+          4960,
+          71696,
+          97999,
+          2493
+        ]
+      },
+      "28": {
+        "lectura": "Mateo 13:31-35",
+        "lecturaNormalizada": "Mt13,31-35",
+        "contemplaciones": []
+      },
+      "29": {
+        "lectura": "Juan 11:19-27",
+        "lecturaNormalizada": "Jn11,19-27",
+        "contemplaciones": []
+      },
+      "30": {
+        "lectura": "Mateo 13:44-46",
+        "lecturaNormalizada": "Mt13,44-46",
+        "contemplaciones": []
+      },
+      "31": {
+        "lectura": "Mateo 13:47-53",
+        "lecturaNormalizada": "Mt13,47-53",
+        "contemplaciones": []
+      },
+      "01": {
+        "lectura": "Mateo 8:23-27",
+        "lecturaNormalizada": "Mt8,23-27",
+        "contemplaciones": []
+      },
+      "02": {
+        "lectura": "Mateo 8:28-34",
+        "lecturaNormalizada": "Mt8,28-34",
+        "contemplaciones": []
+      },
+      "03": {
+        "lectura": "Juan 20:24-29",
+        "lecturaNormalizada": "Jn20,24-29",
+        "contemplaciones": []
+      },
+      "04": {
+        "lectura": "Mateo 25:31-46",
+        "lecturaNormalizada": "Mt25,31-46",
+        "contemplaciones": [
+          8322
+        ]
+      },
+      "05": {
+        "lectura": "Mateo 9:14-17",
+        "lecturaNormalizada": "Mt9,14-17",
+        "contemplaciones": []
+      },
+      "06": {
+        "lectura": "Lucas 10:1-12, 17-20",
+        "lecturaNormalizada": "Lc10,1-12,17-20",
+        "contemplaciones": []
+      },
+      "07": {
+        "lectura": "Mateo 9:18-26",
+        "lecturaNormalizada": "Mt9,18-26",
+        "contemplaciones": []
+      },
+      "08": {
+        "lectura": "Mateo 9:32-38",
+        "lecturaNormalizada": "Mt9,32-38",
+        "contemplaciones": []
+      },
+      "09": {
+        "lectura": "Mateo 10:1-7",
+        "lecturaNormalizada": "Mt10,1-7",
+        "contemplaciones": []
+      }
+    },
+    "08": {
+      "10": {
+        "lectura": "Lucas 12:32-48",
+        "lecturaNormalizada": "Lc12,32-48",
+        "contemplaciones": [
+          37494,
+          33475,
+          70868,
+          83173
+        ]
+      },
+      "11": {
+        "lectura": "Juan 15:4-10",
+        "lecturaNormalizada": "Jn15,4-10",
+        "contemplaciones": []
+      },
+      "12": {
+        "lectura": "Mateo 18:1-5, 10, 12-14",
+        "lecturaNormalizada": "Mt18,1-5,10,12-14",
+        "contemplaciones": []
+      },
+      "13": {
+        "lectura": "Mateo 18:15-20",
+        "lecturaNormalizada": "Mt18,15-20",
+        "contemplaciones": [
+          17750,
+          13785,
+          39728,
+          38336
+        ]
+      },
+      "14": {
+        "lectura": "Juan 15:12-17",
+        "lecturaNormalizada": "Jn15,12-17",
+        "contemplaciones": []
+      },
+      "15": {
+        "lectura": "Lucas 1:39-56",
+        "lecturaNormalizada": "Lc1,39-56",
+        "contemplaciones": [
+          59118,
+          843,
+          90163
+        ]
+      },
+      "16": {
+        "lectura": "Mateo 19:13-15",
+        "lecturaNormalizada": "Mt19,13-15",
+        "contemplaciones": []
+      },
+      "17": {
+        "lectura": "Lucas 12:49-53",
+        "lecturaNormalizada": "Lc12,49-53",
+        "contemplaciones": [
+          93847,
+          16211,
+          42626
+        ]
+      },
+      "18": {
+        "lectura": "Mateo 19:16-22",
+        "lecturaNormalizada": "Mt19,16-22",
+        "contemplaciones": []
+      },
+      "19": {
+        "lectura": "Mateo 19:23-30",
+        "lecturaNormalizada": "Mt19,23-30",
+        "contemplaciones": []
+      },
+      "20": {
+        "lectura": "Mateo 20:1-16",
+        "lecturaNormalizada": "Mt20,1-16",
+        "contemplaciones": [
+          33731
+        ]
+      },
+      "21": {
+        "lectura": "Mateo 22:1-14",
+        "lecturaNormalizada": "Mt22,1-14",
+        "contemplaciones": [
+          24670,
+          10638,
+          86200,
+          16582
+        ]
+      },
+      "22": {
+        "lectura": "Lucas 1:26-38",
+        "lecturaNormalizada": "Lc1,26-38",
+        "contemplaciones": [
+          12505,
+          27382,
+          66726,
+          18342,
+          17615,
+          92222,
+          32779
+        ]
+      },
+      "23": {
+        "lectura": "Mateo 23:1-12",
+        "lecturaNormalizada": "Mt23,1-12",
+        "contemplaciones": [
+          92827,
+          2936
+        ]
+      },
+      "24": {
+        "lectura": "Lucas 13:22-30",
+        "lecturaNormalizada": "Lc13,22-30",
+        "contemplaciones": [
+          41166,
+          65956,
+          17049,
+          88959
+        ]
+      },
+      "25": {
+        "lectura": "Mateo 23:13-22",
+        "lecturaNormalizada": "Mt23,13-22",
+        "contemplaciones": []
+      },
+      "26": {
+        "lectura": "Mateo 23:23-26",
+        "lecturaNormalizada": "Mt23,23-26",
+        "contemplaciones": []
+      },
+      "27": {
+        "lectura": "Mateo 23:27-32",
+        "lecturaNormalizada": "Mt23,27-32",
+        "contemplaciones": []
+      },
+      "28": {
+        "lectura": "Mateo 24:42-51",
+        "lecturaNormalizada": "Mt24,42-51",
+        "contemplaciones": []
+      },
+      "29": {
+        "lectura": "Marcos 6:17-29",
+        "lecturaNormalizada": "Mc6,17-29",
+        "contemplaciones": []
+      },
+      "30": {
+        "lectura": "Mateo 25:14-30",
+        "lecturaNormalizada": "Mt25,14-30",
+        "contemplaciones": [
+          37966,
+          24411
+        ]
+      },
+      "31": {
+        "lectura": "Lucas 14:1, 7-14",
+        "lecturaNormalizada": "Lc14,1,7-14",
+        "contemplaciones": []
+      },
+      "01": {
+        "lectura": "Mateo 13:54-58",
+        "lecturaNormalizada": "Mt13,54-58",
+        "contemplaciones": []
+      },
+      "02": {
+        "lectura": "Lucas 1:26-33",
+        "lecturaNormalizada": "Lc1,26-33",
+        "contemplaciones": []
+      },
+      "03": {
+        "lectura": "Lucas 12:13-21",
+        "lecturaNormalizada": "Lc12,13-21",
+        "contemplaciones": [
+          21017,
+          54883,
+          56933,
+          47817
+        ]
+      },
+      "04": {
+        "lectura": "Mateo 14:13-21",
+        "lecturaNormalizada": "Mt14,13-21",
+        "contemplaciones": [
+          73837,
+          92662,
+          86606,
+          41627
+        ]
+      },
+      "05": {
+        "lectura": "Mateo 14:22-36",
+        "lecturaNormalizada": "Mt14,22-36",
+        "contemplaciones": []
+      },
+      "06": {
+        "lectura": "Lucas 9:28-36",
+        "lecturaNormalizada": "Lc9,28-36",
+        "contemplaciones": []
+      },
+      "07": {
+        "lectura": "Mateo 16:13-23",
+        "lecturaNormalizada": "Mt16,13-23",
+        "contemplaciones": []
+      },
+      "08": {
+        "lectura": "Mateo 5:13-16",
+        "lecturaNormalizada": "Mt5,13-16",
+        "contemplaciones": [
+          21991,
+          92386,
+          52197
+        ]
+      },
+      "09": {
+        "lectura": "Mateo 17:14-20",
+        "lecturaNormalizada": "Mt17,14-20",
+        "contemplaciones": []
+      }
+    },
+    "09": {
+      "10": {
+        "lectura": "Lucas 6:20-26",
+        "lecturaNormalizada": "Lc6,20-26",
+        "contemplaciones": []
+      },
+      "11": {
+        "lectura": "Lucas 6:27-38",
+        "lecturaNormalizada": "Lc6,27-38",
+        "contemplaciones": [
+          3327,
+          92204
+        ]
+      },
+      "12": {
+        "lectura": "Lucas 1:39-57",
+        "lecturaNormalizada": "Lc1,39-57",
+        "contemplaciones": []
+      },
+      "13": {
+        "lectura": "Lucas 6:43-49",
+        "lecturaNormalizada": "Lc6,43-49",
+        "contemplaciones": []
+      },
+      "14": {
+        "lectura": "Juan 3:13-17",
+        "lecturaNormalizada": "Jn3,13-17",
+        "contemplaciones": [
+          72683
+        ]
+      },
+      "15": {
+        "lectura": "Juan 19:25-27",
+        "lecturaNormalizada": "Jn19,25-27",
+        "contemplaciones": []
+      },
+      "16": {
+        "lectura": "Lucas 7:11-17",
+        "lecturaNormalizada": "Lc7,11-17",
+        "contemplaciones": [
+          22313,
+          78207
+        ]
+      },
+      "17": {
+        "lectura": "Lucas 9:23-26",
+        "lecturaNormalizada": "Lc9,23-26",
+        "contemplaciones": []
+      },
+      "18": {
+        "lectura": "Lucas 7:36-50",
+        "lecturaNormalizada": "Lc7,36-50",
+        "contemplaciones": []
+      },
+      "19": {
+        "lectura": "Lucas 8:1-3",
+        "lecturaNormalizada": "Lc8,1-3",
+        "contemplaciones": []
+      },
+      "20": {
+        "lectura": "Lucas 8:4-15",
+        "lecturaNormalizada": "Lc8,4-15",
+        "contemplaciones": []
+      },
+      "21": {
+        "lectura": "Lucas 16:1-13",
+        "lecturaNormalizada": "Lc16,1-13",
+        "contemplaciones": [
+          65516,
+          30488,
+          96859,
+          42628
+        ]
+      },
+      "22": {
+        "lectura": "Lucas 8:16-18",
+        "lecturaNormalizada": "Lc8,16-18",
+        "contemplaciones": []
+      },
+      "23": {
+        "lectura": "Lucas 8:19-21",
+        "lecturaNormalizada": "Lc8,19-21",
+        "contemplaciones": []
+      },
+      "24": {
+        "lectura": "Lucas 9:1-6",
+        "lecturaNormalizada": "Lc9,1-6",
+        "contemplaciones": []
+      },
+      "25": {
+        "lectura": "Lucas 9:7-9",
+        "lecturaNormalizada": "Lc9,7-9",
+        "contemplaciones": []
+      },
+      "26": {
+        "lectura": "Lucas 9:18-22",
+        "lecturaNormalizada": "Lc9,18-22",
+        "contemplaciones": []
+      },
+      "27": {
+        "lectura": "Lucas 9:43-45",
+        "lecturaNormalizada": "Lc9,43-45",
+        "contemplaciones": []
+      },
+      "28": {
+        "lectura": "Lucas 16:19-31",
+        "lecturaNormalizada": "Lc16,19-31",
+        "contemplaciones": [
+          80889,
+          55625,
+          32467,
+          57601
+        ]
+      },
+      "29": {
+        "lectura": "Juan 1:47-51",
+        "lecturaNormalizada": "Jn1,47-51",
+        "contemplaciones": []
+      },
+      "30": {
+        "lectura": "Lucas 9:51-56",
+        "lecturaNormalizada": "Lc9,51-56",
+        "contemplaciones": []
+      },
+      "01": {
+        "lectura": "Mateo 6:31-34",
+        "lecturaNormalizada": "Mt6,31-34",
+        "contemplaciones": []
+      },
+      "02": {
+        "lectura": "Lucas 4:31-37",
+        "lecturaNormalizada": "Lc4,31-37",
+        "contemplaciones": []
+      },
+      "03": {
+        "lectura": "Lucas 4:38-44",
+        "lecturaNormalizada": "Lc4,38-44",
+        "contemplaciones": []
+      },
+      "04": {
+        "lectura": "Lucas 5:1-11",
+        "lecturaNormalizada": "Lc5,1-11",
+        "contemplaciones": [
+          94268,
+          37616,
+          28912,
+          53148,
+          46113
+        ]
+      },
+      "05": {
+        "lectura": "Lucas 5:33-39",
+        "lecturaNormalizada": "Lc5,33-39",
+        "contemplaciones": []
+      },
+      "06": {
+        "lectura": "Lucas 6:1-5",
+        "lecturaNormalizada": "Lc6,1-5",
+        "contemplaciones": []
+      },
+      "07": {
+        "lectura": "Lucas 14:25-33",
+        "lecturaNormalizada": "Lc14,25-33",
+        "contemplaciones": [
+          48856,
+          77394,
+          69190,
+          19231
+        ]
+      },
+      "08": {
+        "lectura": "Mateo 1:1-16, 18-23",
+        "lecturaNormalizada": "Mt1,1-16,18-23",
+        "contemplaciones": []
+      },
+      "09": {
+        "lectura": "Lucas 6:12-19",
+        "lecturaNormalizada": "Lc6,12-19",
+        "contemplaciones": []
+      }
+    }
+  },
+  "2026": {
+    "10": {
+      "10": {
+        "lectura": "Lucas 11:27-28",
+        "lecturaNormalizada": "Lc11,27-28",
+        "contemplaciones": []
+      },
+      "11": {
+        "lectura": "Mateo 22:1-14",
+        "lecturaNormalizada": "Mt22,1-14",
+        "contemplaciones": [
+          24670,
+          10638,
+          86200,
+          16582
+        ]
+      },
+      "12": {
+        "lectura": "Lucas 11:29-32",
+        "lecturaNormalizada": "Lc11,29-32",
+        "contemplaciones": []
+      },
+      "13": {
+        "lectura": "Lucas 11:37-41",
+        "lecturaNormalizada": "Lc11,37-41",
+        "contemplaciones": []
+      },
+      "14": {
+        "lectura": "Lucas 11:42-46",
+        "lecturaNormalizada": "Lc11,42-46",
+        "contemplaciones": []
+      },
+      "15": {
+        "lectura": "Lucas 11:47-54",
+        "lecturaNormalizada": "Lc11,47-54",
+        "contemplaciones": []
+      },
+      "16": {
+        "lectura": "Lucas 12:1-7",
+        "lecturaNormalizada": "Lc12,1-7",
+        "contemplaciones": []
+      },
+      "17": {
+        "lectura": "Lucas 12:8-12",
+        "lecturaNormalizada": "Lc12,8-12",
+        "contemplaciones": []
+      },
+      "18": {
+        "lectura": "Mateo 22:15-21",
+        "lecturaNormalizada": "Mt22,15-21",
+        "contemplaciones": []
+      },
+      "19": {
+        "lectura": "Lucas 12:13-21",
+        "lecturaNormalizada": "Lc12,13-21",
+        "contemplaciones": [
+          21017,
+          54883,
+          56933,
+          47817
+        ]
+      },
+      "20": {
+        "lectura": "Lucas 12:35-38",
+        "lecturaNormalizada": "Lc12,35-38",
+        "contemplaciones": []
+      },
+      "21": {
+        "lectura": "Lucas 12:39-48",
+        "lecturaNormalizada": "Lc12,39-48",
+        "contemplaciones": []
+      },
+      "22": {
+        "lectura": "Lucas 12:49-53",
+        "lecturaNormalizada": "Lc12,49-53",
+        "contemplaciones": [
+          93847,
+          16211,
+          42626
+        ]
+      },
+      "23": {
+        "lectura": "Lucas 12:54-59",
+        "lecturaNormalizada": "Lc12,54-59",
+        "contemplaciones": []
+      },
+      "24": {
+        "lectura": "Lucas 13:1-9",
+        "lecturaNormalizada": "Lc13,1-9",
+        "contemplaciones": [
+          38816,
+          18516,
+          47187,
+          419,
+          40446
+        ]
+      },
+      "25": {
+        "lectura": "Mateo 22:34-40",
+        "lecturaNormalizada": "Mt22,34-40",
+        "contemplaciones": [
+          35524,
+          64482,
+          36914,
+          82744
+        ]
+      },
+      "26": {
+        "lectura": "Lucas 13:10-17",
+        "lecturaNormalizada": "Lc13,10-17",
+        "contemplaciones": []
+      },
+      "27": {
+        "lectura": "Lucas 13:18-21",
+        "lecturaNormalizada": "Lc13,18-21",
+        "contemplaciones": []
+      },
+      "28": {
+        "lectura": "Lucas 6:12-16",
+        "lecturaNormalizada": "Lc6,12-16",
+        "contemplaciones": []
+      },
+      "29": {
+        "lectura": "Lucas 13:31-35",
+        "lecturaNormalizada": "Lc13,31-35",
+        "contemplaciones": []
+      },
+      "01": {
+        "lectura": "Lucas 10:1-12",
+        "lecturaNormalizada": "Lc10,1-12",
+        "contemplaciones": [
+          8397,
+          60900,
+          65290,
+          64410,
+          19262
+        ]
+      },
+      "02": {
+        "lectura": "Mateo 18:1-5, 10",
+        "lecturaNormalizada": "Mt18,1-5,10",
+        "contemplaciones": []
+      },
+      "03": {
+        "lectura": "Lucas 10:17-24",
+        "lecturaNormalizada": "Lc10,17-24",
+        "contemplaciones": []
+      },
+      "04": {
+        "lectura": "Mateo 11:25-30",
+        "lecturaNormalizada": "Mt11,25-30",
+        "contemplaciones": [
+          47556,
+          7919,
+          82375,
+          59048
+        ]
+      },
+      "05": {
+        "lectura": "Lucas 10:25-37",
+        "lecturaNormalizada": "Lc10,25-37",
+        "contemplaciones": [
+          73848,
+          91903,
+          21773,
+          69463
+        ]
+      },
+      "06": {
+        "lectura": "Lucas 10:38-42",
+        "lecturaNormalizada": "Lc10,38-42",
+        "contemplaciones": [
+          66476,
+          91642,
+          82701,
+          25371
+        ]
+      },
+      "07": {
+        "lectura": "Lucas 1:26-38",
+        "lecturaNormalizada": "Lc1,26-38",
+        "contemplaciones": [
+          12505,
+          27382,
+          66726,
+          18342,
+          17615,
+          92222,
+          32779
+        ]
+      },
+      "08": {
+        "lectura": "Lucas 11:5-13",
+        "lecturaNormalizada": "Lc11,5-13",
+        "contemplaciones": []
+      },
+      "09": {
+        "lectura": "Lucas 11:15-26",
+        "lecturaNormalizada": "Lc11,15-26",
+        "contemplaciones": []
+      }
+    },
+    "12": {
+      "29": {
+        "contemplaciones": []
+      },
+      "30": {
+        "contemplaciones": []
+      },
+      "31": {
+        "contemplaciones": []
+      }
+    },
+    "01": {
       "10": {
         "lectura": "Juan 3:22-30",
         "lecturaNormalizada": "Jn3,22-30",
@@ -2587,93 +2773,68 @@
           28315,
           75942
         ]
-      }
-    },
-    "02": {
+      },
       "01": {
-        "lectura": "Mateo 5:1-12",
-        "lecturaNormalizada": "Mt5,1-12",
+        "lectura": "Lucas 2:16-21",
+        "lecturaNormalizada": "Lc2,16-21",
         "contemplaciones": [
-          58851,
-          97915,
-          24127,
-          89745
+          63537,
+          63250,
+          11221,
+          37297,
+          60548,
+          811,
+          86378,
+          15416
         ]
       },
       "02": {
-        "lectura": "Lucas 2:22-40",
-        "lecturaNormalizada": "Lc2,22-40",
-        "contemplaciones": [
-          20300,
-          40439,
-          10656,
-          65598,
-          1208
-        ]
+        "lectura": "Juan 1:19-28",
+        "lecturaNormalizada": "Jn1,19-28",
+        "contemplaciones": []
       },
       "03": {
-        "lectura": "Marcos 5:21-43",
-        "lecturaNormalizada": "Mc5,21-43",
-        "contemplaciones": [
-          68535,
-          34957,
-          6962,
-          92051,
-          88856
-        ]
+        "lectura": "Mateo 1:18-23",
+        "lecturaNormalizada": "Mt1,18-23",
+        "contemplaciones": []
       },
       "04": {
-        "lectura": "Marcos 6:1-6",
-        "lecturaNormalizada": "Mc6,1-6",
+        "lectura": "Mateo 2:1-12",
+        "lecturaNormalizada": "Mt2,1-12",
         "contemplaciones": [
-          73189,
-          95585,
-          35400,
-          21940,
-          69380
+          52251,
+          81091,
+          18683,
+          36244
         ]
       },
       "05": {
-        "lectura": "Marcos 6:7-13",
-        "lecturaNormalizada": "Mc6,7-13",
-        "contemplaciones": [
-          10213,
-          93779,
-          57468,
-          78180,
-          81770
-        ]
+        "lectura": "Mateo 4:12-17, 23-25",
+        "lecturaNormalizada": "Mt4,12-17,23-25",
+        "contemplaciones": []
       },
       "06": {
-        "lectura": "Marcos 6:14-29",
-        "lecturaNormalizada": "Mc6,14-29",
+        "lectura": "Marcos 6:34-44",
+        "lecturaNormalizada": "Mc6,34-44",
         "contemplaciones": []
       },
       "07": {
-        "lectura": "Marcos 6:30-34",
-        "lecturaNormalizada": "Mc6,30-34",
-        "contemplaciones": [
-          10859,
-          3361,
-          80691,
-          78703,
-          60281
-        ]
-      },
-      "08": {
-        "lectura": "Mateo 5:13-16",
-        "lecturaNormalizada": "Mt5,13-16",
-        "contemplaciones": [
-          21991,
-          92386,
-          52197
-        ]
-      },
-      "09": {
-        "lectura": "Marcos 6:53-56",
-        "lecturaNormalizada": "Mc6,53-56",
+        "lectura": "Marcos 6:45-52",
+        "lecturaNormalizada": "Mc6,45-52",
         "contemplaciones": []
       },
+      "08": {
+        "lectura": "Lucas 4:14-22",
+        "lecturaNormalizada": "Lc4,14-22",
+        "contemplaciones": []
+      },
+      "09": {
+        "lectura": "Lucas 5:12-16",
+        "lecturaNormalizada": "Lc5,12-16",
+        "contemplaciones": []
+      }
+    },
+    "02": {
       "10": {
         "lectura": "Marcos 7:1-13",
         "lecturaNormalizada": "Mc7,1-13",
@@ -2786,74 +2947,93 @@
         "lectura": "Mateo 5:43-48",
         "lecturaNormalizada": "Mt5,43-48",
         "contemplaciones": []
-      }
-    },
-    "03": {
+      },
       "01": {
-        "lectura": "Mateo 17:1-9",
-        "lecturaNormalizada": "Mt17,1-9",
+        "lectura": "Mateo 5:1-12",
+        "lecturaNormalizada": "Mt5,1-12",
         "contemplaciones": [
-          88085,
-          49004,
-          35187,
-          54254,
-          72480
+          58851,
+          97915,
+          24127,
+          89745
         ]
       },
       "02": {
-        "lectura": "Lucas 6:36-38",
-        "lecturaNormalizada": "Lc6,36-38",
-        "contemplaciones": []
+        "lectura": "Lucas 2:22-40",
+        "lecturaNormalizada": "Lc2,22-40",
+        "contemplaciones": [
+          20300,
+          40439,
+          10656,
+          65598,
+          1208
+        ]
       },
       "03": {
-        "lectura": "Mateo 23:1-12",
-        "lecturaNormalizada": "Mt23,1-12",
+        "lectura": "Marcos 5:21-43",
+        "lecturaNormalizada": "Mc5,21-43",
         "contemplaciones": [
-          92827,
-          2936
+          68535,
+          34957,
+          6962,
+          92051,
+          88856
         ]
       },
       "04": {
-        "lectura": "Mateo 20:17-28",
-        "lecturaNormalizada": "Mt20,17-28",
-        "contemplaciones": []
+        "lectura": "Marcos 6:1-6",
+        "lecturaNormalizada": "Mc6,1-6",
+        "contemplaciones": [
+          73189,
+          95585,
+          35400,
+          21940,
+          69380
+        ]
       },
       "05": {
-        "lectura": "Lucas 16:19-31",
-        "lecturaNormalizada": "Lc16,19-31",
+        "lectura": "Marcos 6:7-13",
+        "lecturaNormalizada": "Mc6,7-13",
         "contemplaciones": [
-          80889,
-          55625,
-          32467,
-          57601
+          10213,
+          93779,
+          57468,
+          78180,
+          81770
         ]
       },
       "06": {
-        "lectura": "Mateo 21:33-43, 45-46",
-        "lecturaNormalizada": "Mt21,33-43,45-46",
+        "lectura": "Marcos 6:14-29",
+        "lecturaNormalizada": "Mc6,14-29",
         "contemplaciones": []
       },
       "07": {
-        "lectura": "Lucas 15:1-3, 11-32",
-        "lecturaNormalizada": "Lc15,1-3,11-32",
-        "contemplaciones": []
+        "lectura": "Marcos 6:30-34",
+        "lecturaNormalizada": "Mc6,30-34",
+        "contemplaciones": [
+          10859,
+          3361,
+          80691,
+          78703,
+          60281
+        ]
       },
       "08": {
-        "lectura": "Juan 4:5-42",
-        "lecturaNormalizada": "Jn4,5-42",
+        "lectura": "Mateo 5:13-16",
+        "lecturaNormalizada": "Mt5,13-16",
         "contemplaciones": [
-          4421,
-          51848,
-          32181,
-          63779,
-          73154
+          21991,
+          92386,
+          52197
         ]
       },
       "09": {
-        "lectura": "Lucas 4:24-30",
-        "lecturaNormalizada": "Lc4,24-30",
+        "lectura": "Marcos 6:53-56",
+        "lecturaNormalizada": "Mc6,53-56",
         "contemplaciones": []
-      },
+      }
+    },
+    "03": {
       "10": {
         "lectura": "Mateo 18:21-35",
         "lecturaNormalizada": "Mt18,21-35",
@@ -2999,70 +3179,74 @@
         "lectura": "Juan 13:21-33, 36-38",
         "lecturaNormalizada": "Jn13,21-33,36-38",
         "contemplaciones": []
-      }
-    },
-    "04": {
+      },
       "01": {
-        "lectura": "Mateo 26:14-25",
-        "lecturaNormalizada": "Mt26,14-25",
-        "contemplaciones": []
+        "lectura": "Mateo 17:1-9",
+        "lecturaNormalizada": "Mt17,1-9",
+        "contemplaciones": [
+          88085,
+          49004,
+          35187,
+          54254,
+          72480
+        ]
       },
       "02": {
-        "lectura": "Juan 13:1-15",
-        "lecturaNormalizada": "Jn13,1-15",
+        "lectura": "Lucas 6:36-38",
+        "lecturaNormalizada": "Lc6,36-38",
         "contemplaciones": []
       },
       "03": {
-        "lectura": "Juan 18:1--19:42",
-        "lecturaNormalizada": "Jn18,1--19,42",
-        "contemplaciones": []
-      },
-      "04": {
-        "lectura": "Mateo 28:1-10",
-        "lecturaNormalizada": "Mt28,1-10",
+        "lectura": "Mateo 23:1-12",
+        "lecturaNormalizada": "Mt23,1-12",
         "contemplaciones": [
-          91202,
-          65380,
-          32731,
-          66307
+          92827,
+          2936
         ]
       },
-      "05": {
-        "lectura": "Juan 20:1-9",
-        "lecturaNormalizada": "Jn20,1-9",
+      "04": {
+        "lectura": "Mateo 20:17-28",
+        "lecturaNormalizada": "Mt20,17-28",
         "contemplaciones": []
       },
+      "05": {
+        "lectura": "Lucas 16:19-31",
+        "lecturaNormalizada": "Lc16,19-31",
+        "contemplaciones": [
+          80889,
+          55625,
+          32467,
+          57601
+        ]
+      },
       "06": {
-        "lectura": "Mateo 28:8-15",
-        "lecturaNormalizada": "Mt28,8-15",
+        "lectura": "Mateo 21:33-43, 45-46",
+        "lecturaNormalizada": "Mt21,33-43,45-46",
         "contemplaciones": []
       },
       "07": {
-        "lectura": "Juan 20:11-18",
-        "lecturaNormalizada": "Jn20,11-18",
+        "lectura": "Lucas 15:1-3, 11-32",
+        "lecturaNormalizada": "Lc15,1-3,11-32",
         "contemplaciones": []
       },
       "08": {
-        "lectura": "Lucas 24:13-35",
-        "lecturaNormalizada": "Lc24,13-35",
+        "lectura": "Juan 4:5-42",
+        "lecturaNormalizada": "Jn4,5-42",
         "contemplaciones": [
-          13869,
-          16673,
-          53237,
-          26720
+          4421,
+          51848,
+          32181,
+          63779,
+          73154
         ]
       },
       "09": {
-        "lectura": "Lucas 24:35-48",
-        "lecturaNormalizada": "Lc24,35-48",
-        "contemplaciones": [
-          95228,
-          99571,
-          97985,
-          95749,
-          67865
-        ]
-      },
+        "lectura": "Lucas 4:24-30",
+        "lecturaNormalizada": "Lc4,24-30",
+        "contemplaciones": []
+      }
+    },
+    "04": {
       "10": {
         "lectura": "Juan 21:1-14",
         "lecturaNormalizada": "Jn21,1-14",
@@ -3201,65 +3385,70 @@
         "lectura": "Juan 13:16-20",
         "lecturaNormalizada": "Jn13,16-20",
         "contemplaciones": []
-      }
-    },
-    "05": {
+      },
       "01": {
-        "lectura": "Mateo 13:54-58",
-        "lecturaNormalizada": "Mt13,54-58",
+        "lectura": "Mateo 26:14-25",
+        "lecturaNormalizada": "Mt26,14-25",
         "contemplaciones": []
       },
       "02": {
-        "lectura": "Juan 14:7-14",
-        "lecturaNormalizada": "Jn14,7-14",
+        "lectura": "Juan 13:1-15",
+        "lecturaNormalizada": "Jn13,1-15",
         "contemplaciones": []
       },
       "03": {
-        "lectura": "Juan 14:1-12",
-        "lecturaNormalizada": "Jn14,1-12",
-        "contemplaciones": [
-          81813,
-          41822,
-          65540,
-          61732
-        ]
-      },
-      "04": {
-        "lectura": "Juan 14:21-26",
-        "lecturaNormalizada": "Jn14,21-26",
+        "lectura": "Juan 18:1--19:42",
+        "lecturaNormalizada": "Jn18,1--19,42",
         "contemplaciones": []
       },
+      "04": {
+        "lectura": "Mateo 28:1-10",
+        "lecturaNormalizada": "Mt28,1-10",
+        "contemplaciones": [
+          91202,
+          65380,
+          32731,
+          66307
+        ]
+      },
       "05": {
-        "lectura": "Juan 14:27-31",
-        "lecturaNormalizada": "Jn14,27-31",
+        "lectura": "Juan 20:1-9",
+        "lecturaNormalizada": "Jn20,1-9",
         "contemplaciones": []
       },
       "06": {
-        "lectura": "Juan 15:1-8",
-        "lecturaNormalizada": "Jn15,1-8",
-        "contemplaciones": [
-          98000,
-          78606,
-          63020,
-          75637,
-          81668
-        ]
+        "lectura": "Mateo 28:8-15",
+        "lecturaNormalizada": "Mt28,8-15",
+        "contemplaciones": []
       },
       "07": {
-        "lectura": "Juan 15:9-11",
-        "lecturaNormalizada": "Jn15,9-11",
+        "lectura": "Juan 20:11-18",
+        "lecturaNormalizada": "Jn20,11-18",
         "contemplaciones": []
       },
       "08": {
-        "lectura": "Juan 15:12-17",
-        "lecturaNormalizada": "Jn15,12-17",
-        "contemplaciones": []
+        "lectura": "Lucas 24:13-35",
+        "lecturaNormalizada": "Lc24,13-35",
+        "contemplaciones": [
+          13869,
+          16673,
+          53237,
+          26720
+        ]
       },
       "09": {
-        "lectura": "Juan 15:18-21",
-        "lecturaNormalizada": "Jn15,18-21",
-        "contemplaciones": []
-      },
+        "lectura": "Lucas 24:35-48",
+        "lecturaNormalizada": "Lc24,35-48",
+        "contemplaciones": [
+          95228,
+          99571,
+          97985,
+          95749,
+          67865
+        ]
+      }
+    },
+    "05": {
       "10": {
         "lectura": "Juan 14:15-21",
         "lecturaNormalizada": "Jn14,15-21",
@@ -3415,75 +3604,65 @@
           28856,
           33700
         ]
-      }
-    },
-    "06": {
+      },
       "01": {
-        "lectura": "Marcos 12:1-12",
-        "lecturaNormalizada": "Mc12,1-12",
+        "lectura": "Mateo 13:54-58",
+        "lecturaNormalizada": "Mt13,54-58",
         "contemplaciones": []
       },
       "02": {
-        "lectura": "Marcos 12:13-17",
-        "lecturaNormalizada": "Mc12,13-17",
+        "lectura": "Juan 14:7-14",
+        "lecturaNormalizada": "Jn14,7-14",
         "contemplaciones": []
       },
       "03": {
-        "lectura": "Marcos 12:18-27",
-        "lecturaNormalizada": "Mc12,18-27",
-        "contemplaciones": []
+        "lectura": "Juan 14:1-12",
+        "lecturaNormalizada": "Jn14,1-12",
+        "contemplaciones": [
+          81813,
+          41822,
+          65540,
+          61732
+        ]
       },
       "04": {
-        "lectura": "Marcos 12:28-34",
-        "lecturaNormalizada": "Mc12,28-34",
+        "lectura": "Juan 14:21-26",
+        "lecturaNormalizada": "Jn14,21-26",
         "contemplaciones": []
       },
       "05": {
-        "lectura": "Marcos 12:35-37",
-        "lecturaNormalizada": "Mc12,35-37",
+        "lectura": "Juan 14:27-31",
+        "lecturaNormalizada": "Jn14,27-31",
         "contemplaciones": []
       },
       "06": {
-        "lectura": "Marcos 12:38-44",
-        "lecturaNormalizada": "Mc12,38-44",
+        "lectura": "Juan 15:1-8",
+        "lecturaNormalizada": "Jn15,1-8",
         "contemplaciones": [
-          44915,
-          36315,
-          27326,
-          98570,
-          75288
+          98000,
+          78606,
+          63020,
+          75637,
+          81668
         ]
       },
       "07": {
-        "lectura": "Juan 6:51-58",
-        "lecturaNormalizada": "Jn6,51-58",
-        "contemplaciones": [
-          23135,
-          20768,
-          9690,
-          62479,
-          24152
-        ]
+        "lectura": "Juan 15:9-11",
+        "lecturaNormalizada": "Jn15,9-11",
+        "contemplaciones": []
       },
       "08": {
-        "lectura": "Mateo 5:1-12",
-        "lecturaNormalizada": "Mt5,1-12",
-        "contemplaciones": [
-          58851,
-          97915,
-          24127,
-          89745
-        ]
+        "lectura": "Juan 15:12-17",
+        "lecturaNormalizada": "Jn15,12-17",
+        "contemplaciones": []
       },
       "09": {
-        "lectura": "Mateo 5:13-16",
-        "lecturaNormalizada": "Mt5,13-16",
-        "contemplaciones": [
-          21991,
-          92386,
-          52197
-        ]
-      },
+        "lectura": "Juan 15:18-21",
+        "lecturaNormalizada": "Jn15,18-21",
+        "contemplaciones": []
+      }
+    },
+    "06": {
       "10": {
         "lectura": "Mateo 5:17-19",
         "lecturaNormalizada": "Mt5,17-19",
@@ -3611,61 +3790,75 @@
         "lectura": "Mateo 8:23-27",
         "lecturaNormalizada": "Mt8,23-27",
         "contemplaciones": []
-      }
-    },
-    "07": {
+      },
       "01": {
-        "lectura": "Mateo 8:28-34",
-        "lecturaNormalizada": "Mt8,28-34",
+        "lectura": "Marcos 12:1-12",
+        "lecturaNormalizada": "Mc12,1-12",
         "contemplaciones": []
       },
       "02": {
-        "lectura": "Mateo 9:1-8",
-        "lecturaNormalizada": "Mt9,1-8",
+        "lectura": "Marcos 12:13-17",
+        "lecturaNormalizada": "Mc12,13-17",
         "contemplaciones": []
       },
       "03": {
-        "lectura": "Juan 20:24-29",
-        "lecturaNormalizada": "Jn20,24-29",
+        "lectura": "Marcos 12:18-27",
+        "lecturaNormalizada": "Mc12,18-27",
         "contemplaciones": []
       },
       "04": {
-        "lectura": "Mateo 25:31-46",
-        "lecturaNormalizada": "Mt25,31-46",
-        "contemplaciones": [
-          8322
-        ]
+        "lectura": "Marcos 12:28-34",
+        "lecturaNormalizada": "Mc12,28-34",
+        "contemplaciones": []
       },
       "05": {
-        "lectura": "Mateo 11:25-30",
-        "lecturaNormalizada": "Mt11,25-30",
-        "contemplaciones": [
-          47556,
-          7919,
-          82375,
-          59048
-        ]
+        "lectura": "Marcos 12:35-37",
+        "lecturaNormalizada": "Mc12,35-37",
+        "contemplaciones": []
       },
       "06": {
-        "lectura": "Mateo 9:18-26",
-        "lecturaNormalizada": "Mt9,18-26",
-        "contemplaciones": []
+        "lectura": "Marcos 12:38-44",
+        "lecturaNormalizada": "Mc12,38-44",
+        "contemplaciones": [
+          44915,
+          36315,
+          27326,
+          98570,
+          75288
+        ]
       },
       "07": {
-        "lectura": "Mateo 9:32-38",
-        "lecturaNormalizada": "Mt9,32-38",
-        "contemplaciones": []
+        "lectura": "Juan 6:51-58",
+        "lecturaNormalizada": "Jn6,51-58",
+        "contemplaciones": [
+          23135,
+          20768,
+          9690,
+          62479,
+          24152
+        ]
       },
       "08": {
-        "lectura": "Mateo 10:1-7",
-        "lecturaNormalizada": "Mt10,1-7",
-        "contemplaciones": []
+        "lectura": "Mateo 5:1-12",
+        "lecturaNormalizada": "Mt5,1-12",
+        "contemplaciones": [
+          58851,
+          97915,
+          24127,
+          89745
+        ]
       },
       "09": {
-        "lectura": "Mateo 10:7-15",
-        "lecturaNormalizada": "Mt10,7-15",
-        "contemplaciones": []
-      },
+        "lectura": "Mateo 5:13-16",
+        "lecturaNormalizada": "Mt5,13-16",
+        "contemplaciones": [
+          21991,
+          92386,
+          52197
+        ]
+      }
+    },
+    "07": {
       "10": {
         "lectura": "Mateo 16:24-27",
         "lecturaNormalizada": "Mt16,24-27",
@@ -3785,78 +3978,61 @@
         "lectura": "Mateo 13:54-58",
         "lecturaNormalizada": "Mt13,54-58",
         "contemplaciones": []
-      }
-    },
-    "08": {
+      },
       "01": {
-        "lectura": "Mateo 14:1-12",
-        "lecturaNormalizada": "Mt14,1-12",
+        "lectura": "Mateo 8:28-34",
+        "lecturaNormalizada": "Mt8,28-34",
         "contemplaciones": []
       },
       "02": {
-        "lectura": "Lucas 1:26-33",
-        "lecturaNormalizada": "Lc1,26-33",
+        "lectura": "Mateo 9:1-8",
+        "lecturaNormalizada": "Mt9,1-8",
         "contemplaciones": []
       },
       "03": {
-        "lectura": "Mateo 14:13-21",
-        "lecturaNormalizada": "Mt14,13-21",
-        "contemplaciones": [
-          73837,
-          92662,
-          86606,
-          41627
-        ]
-      },
-      "04": {
-        "lectura": "Mateo 14:22-36",
-        "lecturaNormalizada": "Mt14,22-36",
+        "lectura": "Juan 20:24-29",
+        "lecturaNormalizada": "Jn20,24-29",
         "contemplaciones": []
       },
-      "05": {
-        "lectura": "Mateo 15:21-28",
-        "lecturaNormalizada": "Mt15,21-28",
+      "04": {
+        "lectura": "Mateo 25:31-46",
+        "lecturaNormalizada": "Mt25,31-46",
         "contemplaciones": [
-          75715,
-          80896,
-          92156,
-          85245
+          8322
+        ]
+      },
+      "05": {
+        "lectura": "Mateo 11:25-30",
+        "lecturaNormalizada": "Mt11,25-30",
+        "contemplaciones": [
+          47556,
+          7919,
+          82375,
+          59048
         ]
       },
       "06": {
-        "lectura": "Mateo 17:1-9",
-        "lecturaNormalizada": "Mt17,1-9",
-        "contemplaciones": [
-          88085,
-          49004,
-          35187,
-          54254,
-          72480
-        ]
+        "lectura": "Mateo 9:18-26",
+        "lecturaNormalizada": "Mt9,18-26",
+        "contemplaciones": []
       },
       "07": {
-        "lectura": "Mateo 16:24-28",
-        "lecturaNormalizada": "Mt16,24-28",
+        "lectura": "Mateo 9:32-38",
+        "lecturaNormalizada": "Mt9,32-38",
         "contemplaciones": []
       },
       "08": {
-        "lectura": "Mateo 5:13-16",
-        "lecturaNormalizada": "Mt5,13-16",
-        "contemplaciones": [
-          21991,
-          92386,
-          52197
-        ]
+        "lectura": "Mateo 10:1-7",
+        "lecturaNormalizada": "Mt10,1-7",
+        "contemplaciones": []
       },
       "09": {
-        "lectura": "Mateo 14:22-33",
-        "lecturaNormalizada": "Mt14,22-33",
-        "contemplaciones": [
-          13374,
-          4937,
-          99162
-        ]
-      },
+        "lectura": "Mateo 10:7-15",
+        "lecturaNormalizada": "Mt10,7-15",
+        "contemplaciones": []
+      }
+    },
+    "08": {
       "10": {
         "lectura": "Juan 12:24-26",
         "lecturaNormalizada": "Jn12,24-26",
@@ -4014,65 +4190,78 @@
         "lectura": "Lucas 4:16-30",
         "lecturaNormalizada": "Lc4,16-30",
         "contemplaciones": []
-      }
-    },
-    "09": {
+      },
       "01": {
-        "lectura": "Lucas 4:31-37",
-        "lecturaNormalizada": "Lc4,31-37",
+        "lectura": "Mateo 14:1-12",
+        "lecturaNormalizada": "Mt14,1-12",
         "contemplaciones": []
       },
       "02": {
-        "lectura": "Lucas 4:38-44",
-        "lecturaNormalizada": "Lc4,38-44",
+        "lectura": "Lucas 1:26-33",
+        "lecturaNormalizada": "Lc1,26-33",
         "contemplaciones": []
       },
       "03": {
-        "lectura": "Lucas 5:1-11",
-        "lecturaNormalizada": "Lc5,1-11",
+        "lectura": "Mateo 14:13-21",
+        "lecturaNormalizada": "Mt14,13-21",
         "contemplaciones": [
-          94268,
-          37616,
-          28912,
-          53148,
-          46113
+          73837,
+          92662,
+          86606,
+          41627
         ]
       },
       "04": {
-        "lectura": "Lucas 5:33-39",
-        "lecturaNormalizada": "Lc5,33-39",
+        "lectura": "Mateo 14:22-36",
+        "lecturaNormalizada": "Mt14,22-36",
         "contemplaciones": []
       },
       "05": {
-        "lectura": "Lucas 6:1-5",
-        "lecturaNormalizada": "Lc6,1-5",
-        "contemplaciones": []
+        "lectura": "Mateo 15:21-28",
+        "lecturaNormalizada": "Mt15,21-28",
+        "contemplaciones": [
+          75715,
+          80896,
+          92156,
+          85245
+        ]
       },
       "06": {
-        "lectura": "Mateo 18:15-20",
-        "lecturaNormalizada": "Mt18,15-20",
+        "lectura": "Mateo 17:1-9",
+        "lecturaNormalizada": "Mt17,1-9",
         "contemplaciones": [
-          17750,
-          13785,
-          39728,
-          38336
+          88085,
+          49004,
+          35187,
+          54254,
+          72480
         ]
       },
       "07": {
-        "lectura": "Mateo 6:31-34",
-        "lecturaNormalizada": "Mt6,31-34",
+        "lectura": "Mateo 16:24-28",
+        "lecturaNormalizada": "Mt16,24-28",
         "contemplaciones": []
       },
       "08": {
-        "lectura": "Mateo 1:1-16, 18-23",
-        "lecturaNormalizada": "Mt1,1-16,18-23",
-        "contemplaciones": []
+        "lectura": "Mateo 5:13-16",
+        "lecturaNormalizada": "Mt5,13-16",
+        "contemplaciones": [
+          21991,
+          92386,
+          52197
+        ]
       },
       "09": {
-        "lectura": "Lucas 6:20-26",
-        "lecturaNormalizada": "Lc6,20-26",
-        "contemplaciones": []
-      },
+        "lectura": "Mateo 14:22-33",
+        "lecturaNormalizada": "Mt14,22-33",
+        "contemplaciones": [
+          13374,
+          4937,
+          99162
+        ]
+      }
+    },
+    "09": {
       "10": {
         "lectura": "Lucas 6:27-38",
         "lecturaNormalizada": "Lc6,27-38",
@@ -4194,206 +4383,61 @@
         "lectura": "Lucas 9:57-62",
         "lecturaNormalizada": "Lc9,57-62",
         "contemplaciones": []
-      }
-    },
-    "10": {
+      },
       "01": {
-        "lectura": "Lucas 10:1-12",
-        "lecturaNormalizada": "Lc10,1-12",
-        "contemplaciones": [
-          8397,
-          60900,
-          65290,
-          64410,
-          19262
-        ]
+        "lectura": "Lucas 4:31-37",
+        "lecturaNormalizada": "Lc4,31-37",
+        "contemplaciones": []
       },
       "02": {
-        "lectura": "Mateo 18:1-5, 10",
-        "lecturaNormalizada": "Mt18,1-5,10",
+        "lectura": "Lucas 4:38-44",
+        "lecturaNormalizada": "Lc4,38-44",
         "contemplaciones": []
       },
       "03": {
-        "lectura": "Lucas 10:17-24",
-        "lecturaNormalizada": "Lc10,17-24",
-        "contemplaciones": []
+        "lectura": "Lucas 5:1-11",
+        "lecturaNormalizada": "Lc5,1-11",
+        "contemplaciones": [
+          94268,
+          37616,
+          28912,
+          53148,
+          46113
+        ]
       },
       "04": {
-        "lectura": "Mateo 11:25-30",
-        "lecturaNormalizada": "Mt11,25-30",
-        "contemplaciones": [
-          47556,
-          7919,
-          82375,
-          59048
-        ]
+        "lectura": "Lucas 5:33-39",
+        "lecturaNormalizada": "Lc5,33-39",
+        "contemplaciones": []
       },
       "05": {
-        "lectura": "Lucas 10:25-37",
-        "lecturaNormalizada": "Lc10,25-37",
-        "contemplaciones": [
-          73848,
-          91903,
-          21773,
-          69463
-        ]
+        "lectura": "Lucas 6:1-5",
+        "lecturaNormalizada": "Lc6,1-5",
+        "contemplaciones": []
       },
       "06": {
-        "lectura": "Lucas 10:38-42",
-        "lecturaNormalizada": "Lc10,38-42",
+        "lectura": "Mateo 18:15-20",
+        "lecturaNormalizada": "Mt18,15-20",
         "contemplaciones": [
-          66476,
-          91642,
-          82701,
-          25371
+          17750,
+          13785,
+          39728,
+          38336
         ]
       },
       "07": {
-        "lectura": "Lucas 1:26-38",
-        "lecturaNormalizada": "Lc1,26-38",
-        "contemplaciones": [
-          12505,
-          27382,
-          66726,
-          18342,
-          17615,
-          92222,
-          32779
-        ]
+        "lectura": "Mateo 6:31-34",
+        "lecturaNormalizada": "Mt6,31-34",
+        "contemplaciones": []
       },
       "08": {
-        "lectura": "Lucas 11:5-13",
-        "lecturaNormalizada": "Lc11,5-13",
+        "lectura": "Mateo 1:1-16, 18-23",
+        "lecturaNormalizada": "Mt1,1-16,18-23",
         "contemplaciones": []
       },
       "09": {
-        "lectura": "Lucas 11:15-26",
-        "lecturaNormalizada": "Lc11,15-26",
-        "contemplaciones": []
-      },
-      "10": {
-        "lectura": "Lucas 11:27-28",
-        "lecturaNormalizada": "Lc11,27-28",
-        "contemplaciones": []
-      },
-      "11": {
-        "lectura": "Mateo 22:1-14",
-        "lecturaNormalizada": "Mt22,1-14",
-        "contemplaciones": [
-          24670,
-          10638,
-          86200,
-          16582
-        ]
-      },
-      "12": {
-        "lectura": "Lucas 11:29-32",
-        "lecturaNormalizada": "Lc11,29-32",
-        "contemplaciones": []
-      },
-      "13": {
-        "lectura": "Lucas 11:37-41",
-        "lecturaNormalizada": "Lc11,37-41",
-        "contemplaciones": []
-      },
-      "14": {
-        "lectura": "Lucas 11:42-46",
-        "lecturaNormalizada": "Lc11,42-46",
-        "contemplaciones": []
-      },
-      "15": {
-        "lectura": "Lucas 11:47-54",
-        "lecturaNormalizada": "Lc11,47-54",
-        "contemplaciones": []
-      },
-      "16": {
-        "lectura": "Lucas 12:1-7",
-        "lecturaNormalizada": "Lc12,1-7",
-        "contemplaciones": []
-      },
-      "17": {
-        "lectura": "Lucas 12:8-12",
-        "lecturaNormalizada": "Lc12,8-12",
-        "contemplaciones": []
-      },
-      "18": {
-        "lectura": "Mateo 22:15-21",
-        "lecturaNormalizada": "Mt22,15-21",
-        "contemplaciones": []
-      },
-      "19": {
-        "lectura": "Lucas 12:13-21",
-        "lecturaNormalizada": "Lc12,13-21",
-        "contemplaciones": [
-          21017,
-          54883,
-          56933,
-          47817
-        ]
-      },
-      "20": {
-        "lectura": "Lucas 12:35-38",
-        "lecturaNormalizada": "Lc12,35-38",
-        "contemplaciones": []
-      },
-      "21": {
-        "lectura": "Lucas 12:39-48",
-        "lecturaNormalizada": "Lc12,39-48",
-        "contemplaciones": []
-      },
-      "22": {
-        "lectura": "Lucas 12:49-53",
-        "lecturaNormalizada": "Lc12,49-53",
-        "contemplaciones": [
-          93847,
-          16211,
-          42626
-        ]
-      },
-      "23": {
-        "lectura": "Lucas 12:54-59",
-        "lecturaNormalizada": "Lc12,54-59",
-        "contemplaciones": []
-      },
-      "24": {
-        "lectura": "Lucas 13:1-9",
-        "lecturaNormalizada": "Lc13,1-9",
-        "contemplaciones": [
-          38816,
-          18516,
-          47187,
-          419,
-          40446
-        ]
-      },
-      "25": {
-        "lectura": "Mateo 22:34-40",
-        "lecturaNormalizada": "Mt22,34-40",
-        "contemplaciones": [
-          35524,
-          64482,
-          36914,
-          82744
-        ]
-      },
-      "26": {
-        "lectura": "Lucas 13:10-17",
-        "lecturaNormalizada": "Lc13,10-17",
-        "contemplaciones": []
-      },
-      "27": {
-        "lectura": "Lucas 13:18-21",
-        "lecturaNormalizada": "Lc13,18-21",
-        "contemplaciones": []
-      },
-      "28": {
-        "lectura": "Lucas 6:12-16",
-        "lecturaNormalizada": "Lc6,12-16",
-        "contemplaciones": []
-      },
-      "29": {
-        "lectura": "Lucas 13:31-35",
-        "lecturaNormalizada": "Lc13,31-35",
+        "lectura": "Lucas 6:20-26",
+        "lecturaNormalizada": "Lc6,20-26",
         "contemplaciones": []
       }
     }

@@ -12,18 +12,26 @@ const fiestas = {
 const years = [2025, 2026];
 
 describe('Fiestas fijas - ids presentes en semana', () => {
-  for (const year of years) {
-    for (const key in fiestas) {
-      const [m, d] = key.split('-');
-      const month = parseInt(m, 10) - 1;
-      const day = parseInt(d, 10);
-      const fecha = new Date(Date.UTC(year, month, day));
-      const idsSemana = traerContemplacionesSemanaPorIds(fecha);
-      for (const id of fiestas[key as keyof typeof fiestas]) {
-        it(`El id ${id} está presente en la semana de la fiesta fija ${key} (${year})`, () => {
-          expect(idsSemana).toContain(id);
+  for (const key in fiestas) {
+    describe(`Fiesta fija ${key}`, () => {
+      for (const year of years) {
+        describe(`Año ${year}`, () => {
+          const [m, d] = key.split('-');
+          const month = parseInt(m, 10) - 1;
+          const day = parseInt(d, 10);
+          const fecha = new Date(Date.UTC(year, month, day));
+          const idsSemana = traerContemplacionesSemanaPorIds(fecha);
+          for (const id of fiestas[key as keyof typeof fiestas]) {
+            it(`El id ${id} está presente en la semana de la fiesta fija ${key} (${year})`, () => {
+              if (!idsSemana.includes(id)) {
+                // Mostrar los ids realmente presentes para depuración
+                console.warn(`Para la fiesta ${key} (${year}), los ids presentes en la semana son:`, idsSemana);
+              }
+              expect(idsSemana).toContain(id);
+            });
+          }
         });
       }
-    }
+    });
   }
 });

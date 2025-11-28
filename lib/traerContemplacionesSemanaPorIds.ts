@@ -3,17 +3,25 @@
  * @param fecha Fecha dentro de la semana
  * @returns Array de IDs de contemplaciones
  */
+
 import calendarIds from './calendar_ids';
+
+function getWeekKey(date: Date): string {
+  const year = date.getUTCFullYear();
+  const jan1 = new Date(Date.UTC(year, 0, 1));
+  const getSunday = (d: Date) => {
+    const copy = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()));
+    copy.setUTCDate(copy.getUTCDate() - copy.getUTCDay());
+    return copy;
+  };
+  const firstWeekSunday = getSunday(jan1);
+  let weekNumber = Math.floor((getSunday(date).getTime() - firstWeekSunday.getTime()) / (7 * 86400000)) + 1;
+  if (getSunday(date) < firstWeekSunday) weekNumber = 1;
+  return `${year}-${String(weekNumber).padStart(2, '0')}`;
+}
 
 export function traerContemplacionesSemanaPorIds(fecha: Date): number[] {
   const year = String(fecha.getUTCFullYear());
-  // Buscar el domingo de la semana
-  const d = new Date(Date.UTC(fecha.getUTCFullYear(), fecha.getUTCMonth(), fecha.getUTCDate()));
-  d.setUTCDate(d.getUTCDate() - d.getUTCDay());
-  // Calcular clave de semana
-  const firstSunday = new Date(Date.UTC(d.getUTCFullYear(), 0, 1));
-  firstSunday.setUTCDate(firstSunday.getUTCDate() - firstSunday.getUTCDay());
-  const diff = Math.floor((d.getTime() - firstSunday.getTime()) / (7 * 86400000));
-  const weekKey = `${year}-${String(diff + 1).padStart(2, '0')}`;
+  const weekKey = getWeekKey(fecha);
   return (calendarIds[year] && calendarIds[year][weekKey]) ? calendarIds[year][weekKey] : [];
 }
