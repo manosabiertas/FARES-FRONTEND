@@ -6,6 +6,7 @@ describe('Contemplaciones del 3 al 9 de mayo de 2026', () => {
     it(`devuelve las contemplaciones del día ${fecha.toISOString().slice(0,10)}`, () => {
       const contemplaciones = traerContemplacionesSemanaPorIds(fecha);
       expect(Array.isArray(contemplaciones)).toBe(true);
+      expect(contemplaciones.length).toBeGreaterThan(1);
     });
   });
 });
