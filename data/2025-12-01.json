@@ -1,0 +1,111 @@
+{
+  "fecha": "2025-12-01",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 4:2-6",
+      "lecturaNombreNormalizado": "Is4,2-6",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Aquel día, habrá un brote del Señor\nde hermosura y de gloria,\ny los frutos de la tierra\nserán honor y orgullo\npara los supervivientes de Israel."
+        },
+        {
+          "numero": "3",
+          "verso": "Y sucederá que quien quede en Sión y permanezca en Jerusalén —todo inscrito entre los vivos en Jerusalén— será llamado santo"
+        },
+        {
+          "numero": "4",
+          "verso": "cuando el Señor haya lavado la inmundicia de las hijas de Sión, y haya limpiado la sangre de en medio de Jerusalén con espíritu de justicia y espíritu abrasador."
+        },
+        {
+          "numero": "5",
+          "verso": "Y creará el Señor sobre todo lugar del monte Sión y sobre toda su asamblea una nube para el día, y humo y resplandor de fuego llameante para la noche. Habrá un toldo sobre toda la gloria,"
+        },
+        {
+          "numero": "6",
+          "verso": "y una tienda proporcionará sombra durante el día contra el calor, y abrigo y cobijo contra la tormenta y la lluvia."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 122:1-9",
+      "lecturaNombreNormalizado": "Sal122,1-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. De David. Qué alegría cuando me dijeron:\n«¡Vamos a la Casa del Señor!"
+        },
+        {
+          "numero": "2",
+          "verso": "Ya se han parado nuestros pies a tus puertas, Jerusalén»."
+        },
+        {
+          "numero": "3",
+          "verso": "Jerusalén, bien cimentada, ciudad sólida y unida."
+        },
+        {
+          "numero": "4",
+          "verso": "Allí suben las tribus, las tribus del Señor.\nEs un precepto de Israel,\npara alabar el Nombre del Señor."
+        },
+        {
+          "numero": "5",
+          "verso": "Pues allí está la sede de justicia, la sede de la casa de David."
+        },
+        {
+          "numero": "6",
+          "verso": "Pedid la paz para Jerusalén; estén seguros los que te aman."
+        },
+        {
+          "numero": "7",
+          "verso": "Haya paz dentro de tus muros, seguridad en tus casas."
+        },
+        {
+          "numero": "8",
+          "verso": "Por mis hermanos y mis amigos diré: «¡Haya paz dentro de ti!»."
+        },
+        {
+          "numero": "9",
+          "verso": "Por la Casa del Señor, nuestro Dios, buscaré tu bien."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 8:5-11",
+      "lecturaNombreNormalizado": "Mt8,5-11",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "Al entrar en Cafarnaún se le acercó un centurión que le rogó:"
+        },
+        {
+          "numero": "6",
+          "verso": "—Señor, mi criado yace paralítico en casa con dolores muy fuertes."
+        },
+        {
+          "numero": "7",
+          "verso": "Jesús le dijo: —Yo iré y le curaré."
+        },
+        {
+          "numero": "8",
+          "verso": "Pero el centurión le respondió: —Señor, no soy digno de que entres en mi casa. Pero basta que lo digas de palabra y mi criado quedará sano."
+        },
+        {
+          "numero": "9",
+          "verso": "Pues también yo soy un hombre que se encuentra bajo disciplina y tengo soldados a mis órdenes. Le digo a uno: «Vete», y va; y a otro: «Ven», y viene; y a mi siervo: «Haz esto», y lo hace."
+        },
+        {
+          "numero": "10",
+          "verso": "Al oírlo Jesús se admiró y les dijo a los que le seguían: —En verdad os digo que en nadie de Israel he encontrado una fe tan grande."
+        },
+        {
+          "numero": "11",
+          "verso": "Y os digo que muchos de oriente y occidente vendrán y se sentarán a la mesa con Abrahán, Isaac y Jacob en el Reino de los Cielos,"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,750 @@
+{
+  "fecha": "2025-04-13",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 50:4-7",
+      "lecturaNombreNormalizado": "Is50,4-7",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "El Señor Dios me ha dado una lengua de discípulo para saber alentar al abatido con palabra que incita.\nPor la mañana, cada mañana, incita mi oído\na escuchar como los discípulos."
+        },
+        {
+          "numero": "5",
+          "verso": "El Señor Dios me ha abierto el oído, yo no me he rebelado, no me he echado atrás."
+        },
+        {
+          "numero": "6",
+          "verso": "He ofrecido mi espalda a los que me golpeaban, y mis mejillas a quienes me arrancaban la barba.\nNo he ocultado mi rostro\na las afrentas y salivazos."
+        },
+        {
+          "numero": "7",
+          "verso": "El Señor Dios me sostiene, por eso no me siento avergonzado;\npor eso he endurecido mi rostro como el pedernal\ny sé que no quedaré avergonzado."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 22:8-9, 17-20, 23-24",
+      "lecturaNombreNormalizado": "Sal22,8-9,17-20,23-24",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "Al verme, todos hacen burla de mí, tuercen los labios, mueven la cabeza:"
+        },
+        {
+          "numero": "9",
+          "verso": "«Confió en el Señor: que lo salve Él, que lo libre, si es que lo ama»."
+        },
+        {
+          "numero": "17",
+          "verso": "Me rodea una jauría de perros, me asedia una banda de malvados.\nHan taladrado mis manos y mis pies."
+        },
+        {
+          "numero": "18",
+          "verso": "Puedo contar todos mis huesos. Ellos miran, me observan,"
+        },
+        {
+          "numero": "19",
+          "verso": "se reparten mis ropas y echan a suertes mi túnica."
+        },
+        {
+          "numero": "20",
+          "verso": "Pero Tú, Señor, no te alejes. Fuerza mía, date prisa en socorrerme."
+        },
+        {
+          "numero": "23",
+          "verso": "Anunciaré tu Nombre a mis hermanos, te alabaré en medio de la asamblea."
+        },
+        {
+          "numero": "24",
+          "verso": "Los que teméis al Señor, alabadle; estirpe toda de Jacob, glorificadle,\ntemedle, estirpe toda de Israel."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Filipenses 2:6-11",
+      "lecturaNombreNormalizado": "Flp2,6-11",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "el cual, siendo de condición divina, no consideró como presa codiciable\nel ser igual a Dios,"
+        },
+        {
+          "numero": "7",
+          "verso": "sino que se anonadó a sí mismo tomando la forma de siervo,\nhecho semejante a los hombres;\ny, mostrándose igual que los demás hombres,"
+        },
+        {
+          "numero": "8",
+          "verso": "se humilló a sí mismo haciéndose obediente hasta la muerte,\ny muerte de cruz."
+        },
+        {
+          "numero": "9",
+          "verso": "Y por eso Dios lo exaltó y le otorgó el nombre\nque está sobre todo nombre;"
+        },
+        {
+          "numero": "10",
+          "verso": "para que al nombre de Jesús toda rodilla se doble en los cielos, en la tierra y en los abismos,"
+        },
+        {
+          "numero": "11",
+          "verso": "y toda lengua confiese: «¡Jesucristo es el Señor!»,\npara gloria de Dios Padre."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 22:14--23:56",
+      "lecturaNombreNormalizado": "Lc22,14--23,56",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "Cuando llegó la hora, se puso a la mesa y los apóstoles con él."
+        },
+        {
+          "numero": "15",
+          "verso": "Y les dijo: —Ardientemente he deseado comer esta Pascua con vosotros, antes de padecer,"
+        },
+        {
+          "numero": "16",
+          "verso": "porque os digo que no la volveré a comer hasta que tenga su cumplimiento en el Reino de Dios."
+        },
+        {
+          "numero": "17",
+          "verso": "Y tomando el cáliz, dio gracias y dijo: —Tomadlo y distribuidlo entre vosotros;"
+        },
+        {
+          "numero": "18",
+          "verso": "pues os digo que a partir de ahora no beberé del fruto de la vid hasta que venga el Reino de Dios."
+        },
+        {
+          "numero": "19",
+          "verso": "Y tomando pan, dio gracias, lo partió y se lo dio diciendo: —Esto es mi cuerpo, que es entregado por vosotros. Haced esto en memoria mía."
+        },
+        {
+          "numero": "20",
+          "verso": "Y del mismo modo el cáliz, después de haber cenado, diciendo: —Este cáliz es la nueva alianza en mi sangre, que es derramada por vosotros."
+        },
+        {
+          "numero": "21",
+          "verso": "»Pero mirad que la mano del que me entrega está conmigo a la mesa."
+        },
+        {
+          "numero": "22",
+          "verso": "Porque el Hijo del Hombre se va, según está decretado; pero ¡ay de aquel hombre por quien es entregado!"
+        },
+        {
+          "numero": "23",
+          "verso": "Y empezaron a preguntarse entre sí quién de ellos sería el que iba a hacer tal cosa."
+        },
+        {
+          "numero": "24",
+          "verso": "Entonces se suscitó entre ellos una disputa sobre quién sería considerado el mayor."
+        },
+        {
+          "numero": "25",
+          "verso": "Pero él les dijo: —Los reyes de las naciones las dominan, y los que tienen potestad sobre ellas son llamados bienhechores."
+        },
+        {
+          "numero": "26",
+          "verso": "Vosotros no seáis así; al contrario: que el mayor entre vosotros se haga como el menor, y el que manda como el que sirve."
+        },
+        {
+          "numero": "27",
+          "verso": "Porque ¿quién es mayor: el que está a la mesa o el que sirve? ¿No es el que está a la mesa? Sin embargo, yo estoy en medio de vosotros como quien sirve."
+        },
+        {
+          "numero": "28",
+          "verso": "»Vosotros sois los que habéis permanecido junto a mí en mis tribulaciones."
+        },
+        {
+          "numero": "29",
+          "verso": "Por eso yo os preparo un Reino como mi Padre me lo preparó a mí,"
+        },
+        {
+          "numero": "30",
+          "verso": "para que comáis y bebáis a mi mesa en mi Reino, y os sentéis sobre tronos para juzgar a las doce tribus de Israel."
+        },
+        {
+          "numero": "31",
+          "verso": "»Simón, Simón, mira que Satanás os ha reclamado para cribaros como el trigo."
+        },
+        {
+          "numero": "32",
+          "verso": "Pero yo he rogado por ti para que tu fe no desfallezca; y tú, cuando te conviertas, confirma a tus hermanos."
+        },
+        {
+          "numero": "33",
+          "verso": "Él le dijo: —Señor, estoy dispuesto a ir contigo hasta la cárcel y hasta la muerte."
+        },
+        {
+          "numero": "34",
+          "verso": "Pero Jesús le respondió: —Te aseguro, Pedro, que no cantará hoy el gallo sin que hayas negado tres veces haberme conocido."
+        },
+        {
+          "numero": "35",
+          "verso": "Y les dijo: —Cuando os envié sin bolsa ni alforjas ni calzado, ¿acaso os faltó algo?\n—Nada —le respondieron."
+        },
+        {
+          "numero": "36",
+          "verso": "Entonces les dijo: —Ahora, en cambio, el que tenga bolsa, que la lleve; y lo mismo con la alforja; y el que no tenga, que venda su túnica y compre una espada."
+        },
+        {
+          "numero": "37",
+          "verso": "Porque os aseguro que debe cumplirse en mí lo que está escrito: Y fue contado entre los malhechores. Porque lo que se refiere a mí llega a su fin."
+        },
+        {
+          "numero": "38",
+          "verso": "Ellos dijeron: —Señor, aquí hay dos espadas.\nY él les dijo:\n—Ya basta."
+        },
+        {
+          "numero": "39",
+          "verso": "Salió y como de costumbre fue al monte de los Olivos. Le siguieron también los discípulos."
+        },
+        {
+          "numero": "40",
+          "verso": "Cuando llegó al lugar, les dijo: —Orad para no caer en tentación."
+        },
+        {
+          "numero": "41",
+          "verso": "Y se apartó de ellos como a un tiro de piedra y, de rodillas, oraba"
+        },
+        {
+          "numero": "42",
+          "verso": "diciendo: —Padre, si quieres, aparta de mí este cáliz; pero no se haga mi voluntad, sino la tuya."
+        },
+        {
+          "numero": "43",
+          "verso": "Se le apareció un ángel del cielo que le confortaba. Y estando en agonía oraba con más intensidad."
+        },
+        {
+          "numero": "44",
+          "verso": "Y le sobrevino un sudor como de gotas de sangre que caían hasta el suelo."
+        },
+        {
+          "numero": "45",
+          "verso": "Cuando se levantó de la oración y llegó hasta los discípulos, los encontró adormilados por la tristeza."
+        },
+        {
+          "numero": "46",
+          "verso": "Y les dijo: —¿Por qué dormís? Levantaos y orad para no caer en tentación."
+        },
+        {
+          "numero": "47",
+          "verso": "Todavía estaba hablando, cuando de pronto llegó un tropel de gente. El que se llamaba Judas, uno de los doce, los precedía y se acercó a Jesús para besarle."
+        },
+        {
+          "numero": "48",
+          "verso": "Jesús le dijo: —Judas, ¿con un beso entregas al Hijo del Hombre?"
+        },
+        {
+          "numero": "49",
+          "verso": "Los que estaban a su alrededor, al ver lo que iba a suceder, dijeron: —Señor, ¿atacamos con la espada?"
+        },
+        {
+          "numero": "50",
+          "verso": "Y uno de ellos hirió al criado del sumo sacerdote y le cortó la oreja derecha."
+        },
+        {
+          "numero": "51",
+          "verso": "Pero Jesús, en respuesta, dijo: —¡Dejadlo ya! —y tocándole la oreja, lo curó."
+        },
+        {
+          "numero": "52",
+          "verso": "Dijo después Jesús a los que habían venido contra él, príncipes de los sacerdotes, oficiales del Templo y ancianos: —¿Como contra un ladrón habéis salido con espadas y palos?"
+        },
+        {
+          "numero": "53",
+          "verso": "Mientras estaba con vosotros todos los días en el Templo, no alzasteis las manos contra mí. Pero ésta es vuestra hora y el poder de las tinieblas."
+        },
+        {
+          "numero": "54",
+          "verso": "Después de apresarlo, se lo llevaron y lo metieron en casa del sumo sacerdote. Pedro le seguía de lejos."
+        },
+        {
+          "numero": "55",
+          "verso": "Habían encendido fuego en medio del atrio y estaban sentados alrededor. Pedro estaba sentado en medio de ellos."
+        },
+        {
+          "numero": "56",
+          "verso": "Una criada, al verlo sentado a la lumbre, fijándose en él dijo:"
+        },
+        {
+          "numero": "57",
+          "verso": "—También éste estaba con él. Pero él lo negó:"
+        },
+        {
+          "numero": "58",
+          "verso": "—No lo conozco, mujer. Al poco tiempo, viéndole otro dijo:\n—Tú también eres de ellos.\nPero Pedro replicó:\n—Hombre, no lo soy."
+        },
+        {
+          "numero": "59",
+          "verso": "Y pasada como una hora, otro aseguró: —Cierto, éste estaba con él, porque también es galileo."
+        },
+        {
+          "numero": "60",
+          "verso": "Y dijo Pedro: —No sé, hombre, lo que dices.\nY al instante, cuando todavía estaba hablando, cantó un gallo."
+        },
+        {
+          "numero": "61",
+          "verso": "El Señor se volvió y miró a Pedro. Y recordó Pedro las palabras que el Señor le había dicho: «Antes que cante el gallo hoy, me habrás negado tres veces»."
+        },
+        {
+          "numero": "62",
+          "verso": "Y salió afuera y lloró amargamente."
+        },
+        {
+          "numero": "63",
+          "verso": "Los hombres que custodiaban a Jesús se mofaban de él y le golpeaban."
+        },
+        {
+          "numero": "64",
+          "verso": "Entonces, tapándole la cara, le preguntaban: —Profetiza, ¿quién es el que te ha pegado?"
+        },
+        {
+          "numero": "65",
+          "verso": "Y decían contra él otras muchas injurias."
+        },
+        {
+          "numero": "66",
+          "verso": "Al hacerse de día se reunieron los ancianos del pueblo, los príncipes de los sacerdotes y los escribas, y le condujeron al Sanedrín."
+        },
+        {
+          "numero": "67",
+          "verso": "Y le dijeron: —Si tú eres el Cristo, dínoslo.\nY les contestó:\n—Si os lo digo, no me creeréis;"
+        },
+        {
+          "numero": "68",
+          "verso": "y si hago una pregunta, no me responderéis."
+        },
+        {
+          "numero": "69",
+          "verso": "No obstante, desde ahora estará el Hijo del Hombre sentado a la diestra del poder de Dios."
+        },
+        {
+          "numero": "70",
+          "verso": "Entonces dijeron todos: —Por tanto, ¿tú eres el Hijo de Dios?\n—Vosotros lo decís: yo soy —les respondió."
+        },
+        {
+          "numero": "71",
+          "verso": "Pero ellos dijeron: —¿Qué necesidad tenemos ya de testimonio? Nosotros mismos lo hemos oído de su boca."
+        },
+        {
+          "numero": "1",
+          "verso": "Se levantaron todos ellos y llevaron a Jesús ante Pilato."
+        },
+        {
+          "numero": "2",
+          "verso": "Entonces empezaron a acusarle diciendo: —Hemos encontrado a éste soliviantando a nuestra gente y prohibiendo dar tributo al César; y dice que él es el Cristo, el Rey."
+        },
+        {
+          "numero": "3",
+          "verso": "Pilato le preguntó: —¿Eres tú el Rey de los Judíos?\n—Tú lo dices —le respondió él."
+        },
+        {
+          "numero": "4",
+          "verso": "Dijo Pilato a los príncipes de los sacerdotes y a la muchedumbre: —No encuentro ningún delito en este hombre."
+        },
+        {
+          "numero": "5",
+          "verso": "Pero ellos insistían: —Subleva al pueblo, enseñando por toda Judea, desde que comenzó en Galilea hasta aquí."
+        },
+        {
+          "numero": "6",
+          "verso": "Pilato al oírlo preguntó si aquel hombre era galileo."
+        },
+        {
+          "numero": "7",
+          "verso": "Y al saber que era de la jurisdicción de Herodes, lo remitió a Herodes, que estaba también aquellos días en Jerusalén."
+        },
+        {
+          "numero": "8",
+          "verso": "Herodes se alegró mucho de ver a Jesús, pues deseaba verlo hacía mucho tiempo, porque había oído muchas cosas sobre él y esperaba verle hacer algún milagro."
+        },
+        {
+          "numero": "9",
+          "verso": "Le preguntó con mucha locuacidad, pero él no le respondió nada."
+        },
+        {
+          "numero": "10",
+          "verso": "También estaban allí los príncipes de los sacerdotes y los escribas, acusándole con vehemencia."
+        },
+        {
+          "numero": "11",
+          "verso": "Herodes, junto con sus soldados, le despreció, se burló de él poniéndole un vestido blanco y se lo remitió a Pilato."
+        },
+        {
+          "numero": "12",
+          "verso": "Herodes y Pilato se hicieron amigos aquel día, pues antes estaban enemistados entre sí."
+        },
+        {
+          "numero": "13",
+          "verso": "Pilato convocó a los príncipes de los sacerdotes, a los magistrados y al pueblo,"
+        },
+        {
+          "numero": "14",
+          "verso": "y les dijo: —Me habéis presentado a este hombre como alborotador del pueblo. Mirad: yo le he interrogado delante de vosotros, y no he encontrado en este hombre ningún delito de los que le acusáis;"
+        },
+        {
+          "numero": "15",
+          "verso": "ni tampoco Herodes, porque nos lo ha devuelto; por tanto, nada ha hecho que merezca la muerte."
+        },
+        {
+          "numero": "16",
+          "verso": "Así que, después de castigarle, lo soltaré."
+        },
+        {
+          "numero": "18",
+          "verso": "Pero toda la multitud clamó diciendo: —¡Fuera con ése, y suéltanos a Barrabás!"
+        },
+        {
+          "numero": "19",
+          "verso": "—éste había sido encarcelado por cierta sedición ocurrida en la ciudad y por un homicidio."
+        },
+        {
+          "numero": "20",
+          "verso": "De nuevo Pilato les habló queriendo poner en libertad a Jesús."
+        },
+        {
+          "numero": "21",
+          "verso": "Pero ellos continuaban gritando: —¡Crucifícalo, crucifícalo!"
+        },
+        {
+          "numero": "22",
+          "verso": "No obstante, por tercera vez, él les dijo: —¿Y qué mal ha hecho éste? No encuentro en él ningún delito de muerte; por tanto, después de castigarle, lo soltaré."
+        },
+        {
+          "numero": "23",
+          "verso": "Pero ellos insistían a grandes voces pidiendo que lo crucificaran, y sus gritos eran cada vez más fuertes."
+        },
+        {
+          "numero": "24",
+          "verso": "Pilato entonces decidió que se cumpliera su petición:"
+        },
+        {
+          "numero": "25",
+          "verso": "soltó al que pedían —el que había sido encarcelado por sedición y homicidio— y a Jesús lo entregó a la voluntad de ellos."
+        },
+        {
+          "numero": "26",
+          "verso": "Cuando le llevaban echaron mano de un tal Simón de Cirene, que venía del campo, y le obligaron a llevar la cruz detrás de Jesús."
+        },
+        {
+          "numero": "27",
+          "verso": "Le seguía una gran multitud del pueblo y de mujeres, que lloraban y se lamentaban por él."
+        },
+        {
+          "numero": "28",
+          "verso": "Jesús, volviéndose a ellas, les dijo: —Hijas de Jerusalén, no lloréis por mí, llorad más bien por vosotras mismas y por vuestros hijos,"
+        },
+        {
+          "numero": "29",
+          "verso": "porque mirad que vienen días en que se dirá: «Dichosas las estériles y los vientres que no engendraron y los pechos que no amamantaron»."
+        },
+        {
+          "numero": "30",
+          "verso": "»Entonces comenzarán a decir a los montes: «Caed sobre nosotras»; y a los collados: «Sepultadnos»;"
+        },
+        {
+          "numero": "31",
+          "verso": "porque si en el leño verde hacen esto, ¿qué se hará en el seco?"
+        },
+        {
+          "numero": "32",
+          "verso": "Llevaban también con él a dos malhechores para matarlos."
+        },
+        {
+          "numero": "33",
+          "verso": "Cuando llegaron al lugar llamado «Calavera», le crucificaron allí a él y a los malhechores, uno a la derecha y otro a la izquierda."
+        },
+        {
+          "numero": "34",
+          "verso": "Y Jesús decía: —Padre, perdónales, porque no saben lo que hacen.\nY se repartieron sus ropas echando suertes."
+        },
+        {
+          "numero": "35",
+          "verso": "El pueblo estaba mirando, y los jefes se burlaban de él y decían: —Ha salvado a otros, que se salve a sí mismo, si él es el Cristo de Dios, el elegido."
+        },
+        {
+          "numero": "36",
+          "verso": "Los soldados se burlaban también de él; se acercaban y ofreciéndole vinagre"
+        },
+        {
+          "numero": "37",
+          "verso": "decían: —Si tú eres el Rey de los judíos, sálvate a ti mismo."
+        },
+        {
+          "numero": "38",
+          "verso": "Encima de él había una inscripción: «Éste es el Rey de los judíos»."
+        },
+        {
+          "numero": "39",
+          "verso": "Uno de los malhechores crucificados le injuriaba diciendo: —¿No eres tú el Cristo? Sálvate a ti mismo y a nosotros."
+        },
+        {
+          "numero": "40",
+          "verso": "Pero el otro le reprendía: —¿Ni siquiera tú, que estás en el mismo suplicio, temes a Dios?"
+        },
+        {
+          "numero": "41",
+          "verso": "Nosotros estamos aquí justamente, porque recibimos lo merecido por lo que hemos hecho; pero éste no ha hecho ningún mal."
+        },
+        {
+          "numero": "42",
+          "verso": "Y decía: —Jesús, acuérdate de mí cuando llegues a tu Reino."
+        },
+        {
+          "numero": "43",
+          "verso": "Y le respondió: —En verdad te digo: hoy estarás conmigo en el Paraíso."
+        },
+        {
+          "numero": "44",
+          "verso": "Era ya alrededor de la hora sexta. Y toda la tierra se cubrió de tinieblas hasta la hora nona."
+        },
+        {
+          "numero": "45",
+          "verso": "Se oscureció el sol, y el velo del Templo se rasgó por la mitad."
+        },
+        {
+          "numero": "46",
+          "verso": "Y Jesús, clamando con una gran voz, dijo: —Padre, en tus manos encomiendo mi espíritu.\nY diciendo esto expiró."
+        },
+        {
+          "numero": "47",
+          "verso": "El centurión, al ver lo que había sucedido, glorificó a Dios diciendo: —Verdaderamente este hombre era justo."
+        },
+        {
+          "numero": "48",
+          "verso": "Y toda la multitud que se había reunido ante este espectáculo, al contemplar lo ocurrido, regresaba golpeándose el pecho."
+        },
+        {
+          "numero": "49",
+          "verso": "Todos los conocidos de Jesús y las mujeres que le habían seguido desde Galilea estaban observando de lejos estas cosas."
+        },
+        {
+          "numero": "50",
+          "verso": "Había un hombre llamado José, varón bueno y justo, miembro del Consejo,"
+        },
+        {
+          "numero": "51",
+          "verso": "que no estaba de acuerdo con su decisión y sus acciones. Era de Arimatea, ciudad de Judea, y esperaba el Reino de Dios."
+        },
+        {
+          "numero": "52",
+          "verso": "Éste se presentó a Pilato y le pidió el cuerpo de Jesús."
+        },
+        {
+          "numero": "53",
+          "verso": "Y lo descolgó, lo envolvió en una sábana y lo puso en un sepulcro excavado en la roca, donde nadie había sido colocado todavía."
+        },
+        {
+          "numero": "54",
+          "verso": "Era el día de la Parasceve y comenzaba a brillar el sábado."
+        },
+        {
+          "numero": "55",
+          "verso": "Las mujeres que habían venido con él desde Galilea le siguieron y vieron el sepulcro y cómo fue colocado su cuerpo."
+        },
+        {
+          "numero": "56",
+          "verso": "Regresaron y prepararon aromas y ungüentos. El sábado descansaron según el precepto."
+        },
+        {
+          "numero": "1",
+          "verso": "Se levantaron todos ellos y llevaron a Jesús ante Pilato."
+        },
+        {
+          "numero": "2",
+          "verso": "Entonces empezaron a acusarle diciendo: —Hemos encontrado a éste soliviantando a nuestra gente y prohibiendo dar tributo al César; y dice que él es el Cristo, el Rey."
+        },
+        {
+          "numero": "3",
+          "verso": "Pilato le preguntó: —¿Eres tú el Rey de los Judíos?\n—Tú lo dices —le respondió él."
+        },
+        {
+          "numero": "4",
+          "verso": "Dijo Pilato a los príncipes de los sacerdotes y a la muchedumbre: —No encuentro ningún delito en este hombre."
+        },
+        {
+          "numero": "5",
+          "verso": "Pero ellos insistían: —Subleva al pueblo, enseñando por toda Judea, desde que comenzó en Galilea hasta aquí."
+        },
+        {
+          "numero": "6",
+          "verso": "Pilato al oírlo preguntó si aquel hombre era galileo."
+        },
+        {
+          "numero": "7",
+          "verso": "Y al saber que era de la jurisdicción de Herodes, lo remitió a Herodes, que estaba también aquellos días en Jerusalén."
+        },
+        {
+          "numero": "8",
+          "verso": "Herodes se alegró mucho de ver a Jesús, pues deseaba verlo hacía mucho tiempo, porque había oído muchas cosas sobre él y esperaba verle hacer algún milagro."
+        },
+        {
+          "numero": "9",
+          "verso": "Le preguntó con mucha locuacidad, pero él no le respondió nada."
+        },
+        {
+          "numero": "10",
+          "verso": "También estaban allí los príncipes de los sacerdotes y los escribas, acusándole con vehemencia."
+        },
+        {
+          "numero": "11",
+          "verso": "Herodes, junto con sus soldados, le despreció, se burló de él poniéndole un vestido blanco y se lo remitió a Pilato."
+        },
+        {
+          "numero": "12",
+          "verso": "Herodes y Pilato se hicieron amigos aquel día, pues antes estaban enemistados entre sí."
+        },
+        {
+          "numero": "13",
+          "verso": "Pilato convocó a los príncipes de los sacerdotes, a los magistrados y al pueblo,"
+        },
+        {
+          "numero": "14",
+          "verso": "y les dijo: —Me habéis presentado a este hombre como alborotador del pueblo. Mirad: yo le he interrogado delante de vosotros, y no he encontrado en este hombre ningún delito de los que le acusáis;"
+        },
+        {
+          "numero": "15",
+          "verso": "ni tampoco Herodes, porque nos lo ha devuelto; por tanto, nada ha hecho que merezca la muerte."
+        },
+        {
+          "numero": "16",
+          "verso": "Así que, después de castigarle, lo soltaré."
+        },
+        {
+          "numero": "18",
+          "verso": "Pero toda la multitud clamó diciendo: —¡Fuera con ése, y suéltanos a Barrabás!"
+        },
+        {
+          "numero": "19",
+          "verso": "—éste había sido encarcelado por cierta sedición ocurrida en la ciudad y por un homicidio."
+        },
+        {
+          "numero": "20",
+          "verso": "De nuevo Pilato les habló queriendo poner en libertad a Jesús."
+        },
+        {
+          "numero": "21",
+          "verso": "Pero ellos continuaban gritando: —¡Crucifícalo, crucifícalo!"
+        },
+        {
+          "numero": "22",
+          "verso": "No obstante, por tercera vez, él les dijo: —¿Y qué mal ha hecho éste? No encuentro en él ningún delito de muerte; por tanto, después de castigarle, lo soltaré."
+        },
+        {
+          "numero": "23",
+          "verso": "Pero ellos insistían a grandes voces pidiendo que lo crucificaran, y sus gritos eran cada vez más fuertes."
+        },
+        {
+          "numero": "24",
+          "verso": "Pilato entonces decidió que se cumpliera su petición:"
+        },
+        {
+          "numero": "25",
+          "verso": "soltó al que pedían —el que había sido encarcelado por sedición y homicidio— y a Jesús lo entregó a la voluntad de ellos."
+        },
+        {
+          "numero": "26",
+          "verso": "Cuando le llevaban echaron mano de un tal Simón de Cirene, que venía del campo, y le obligaron a llevar la cruz detrás de Jesús."
+        },
+        {
+          "numero": "27",
+          "verso": "Le seguía una gran multitud del pueblo y de mujeres, que lloraban y se lamentaban por él."
+        },
+        {
+          "numero": "28",
+          "verso": "Jesús, volviéndose a ellas, les dijo: —Hijas de Jerusalén, no lloréis por mí, llorad más bien por vosotras mismas y por vuestros hijos,"
+        },
+        {
+          "numero": "29",
+          "verso": "porque mirad que vienen días en que se dirá: «Dichosas las estériles y los vientres que no engendraron y los pechos que no amamantaron»."
+        },
+        {
+          "numero": "30",
+          "verso": "»Entonces comenzarán a decir a los montes: «Caed sobre nosotras»; y a los collados: «Sepultadnos»;"
+        },
+        {
+          "numero": "31",
+          "verso": "porque si en el leño verde hacen esto, ¿qué se hará en el seco?"
+        },
+        {
+          "numero": "32",
+          "verso": "Llevaban también con él a dos malhechores para matarlos."
+        },
+        {
+          "numero": "33",
+          "verso": "Cuando llegaron al lugar llamado «Calavera», le crucificaron allí a él y a los malhechores, uno a la derecha y otro a la izquierda."
+        },
+        {
+          "numero": "34",
+          "verso": "Y Jesús decía: —Padre, perdónales, porque no saben lo que hacen.\nY se repartieron sus ropas echando suertes."
+        },
+        {
+          "numero": "35",
+          "verso": "El pueblo estaba mirando, y los jefes se burlaban de él y decían: —Ha salvado a otros, que se salve a sí mismo, si él es el Cristo de Dios, el elegido."
+        },
+        {
+          "numero": "36",
+          "verso": "Los soldados se burlaban también de él; se acercaban y ofreciéndole vinagre"
+        },
+        {
+          "numero": "37",
+          "verso": "decían: —Si tú eres el Rey de los judíos, sálvate a ti mismo."
+        },
+        {
+          "numero": "38",
+          "verso": "Encima de él había una inscripción: «Éste es el Rey de los judíos»."
+        },
+        {
+          "numero": "39",
+          "verso": "Uno de los malhechores crucificados le injuriaba diciendo: —¿No eres tú el Cristo? Sálvate a ti mismo y a nosotros."
+        },
+        {
+          "numero": "40",
+          "verso": "Pero el otro le reprendía: —¿Ni siquiera tú, que estás en el mismo suplicio, temes a Dios?"
+        },
+        {
+          "numero": "41",
+          "verso": "Nosotros estamos aquí justamente, porque recibimos lo merecido por lo que hemos hecho; pero éste no ha hecho ningún mal."
+        },
+        {
+          "numero": "42",
+          "verso": "Y decía: —Jesús, acuérdate de mí cuando llegues a tu Reino."
+        },
+        {
+          "numero": "43",
+          "verso": "Y le respondió: —En verdad te digo: hoy estarás conmigo en el Paraíso."
+        },
+        {
+          "numero": "44",
+          "verso": "Era ya alrededor de la hora sexta. Y toda la tierra se cubrió de tinieblas hasta la hora nona."
+        },
+        {
+          "numero": "45",
+          "verso": "Se oscureció el sol, y el velo del Templo se rasgó por la mitad."
+        },
+        {
+          "numero": "46",
+          "verso": "Y Jesús, clamando con una gran voz, dijo: —Padre, en tus manos encomiendo mi espíritu.\nY diciendo esto expiró."
+        },
+        {
+          "numero": "47",
+          "verso": "El centurión, al ver lo que había sucedido, glorificó a Dios diciendo: —Verdaderamente este hombre era justo."
+        },
+        {
+          "numero": "48",
+          "verso": "Y toda la multitud que se había reunido ante este espectáculo, al contemplar lo ocurrido, regresaba golpeándose el pecho."
+        },
+        {
+          "numero": "49",
+          "verso": "Todos los conocidos de Jesús y las mujeres que le habían seguido desde Galilea estaban observando de lejos estas cosas."
+        }
+      ]
+    }
+  ]
+}

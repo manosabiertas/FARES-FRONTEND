@@ -1,0 +1,111 @@
+{
+  "fecha": "2025-12-09",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 40:1-11",
+      "lecturaNombreNormalizado": "Is40,1-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Consolad, consolad a mi pueblo, —dice vuestro Dios—."
+        },
+        {
+          "numero": "2",
+          "verso": "Hablad al corazón de Jerusalén y gritadle\nque se ha cumplido su servidumbre,\ny ha sido expiada su culpa;\nque ha recibido de la mano del Señor\nel doble por todos sus pecados."
+        },
+        {
+          "numero": "3",
+          "verso": "Una voz grita: «En el desierto preparad el camino del Señor, en la estepa haced una calzada recta para nuestro Dios."
+        },
+        {
+          "numero": "4",
+          "verso": "Todo valle será rellenado, y todo monte y colina allanados;\nlo torcido será recto,\ny lo escarpado, llano."
+        },
+        {
+          "numero": "5",
+          "verso": "Entonces se revelará la gloria del Señor, y toda carne a una la verá,\npues ha hablado la boca del Señor»."
+        },
+        {
+          "numero": "6",
+          "verso": "Una voz dice: «¡Grita!». Yo dije: «¿Qué voy a gritar?».\nToda carne es hierba,\ny toda su gloria como flor silvestre."
+        },
+        {
+          "numero": "7",
+          "verso": "Se agosta la hierba, se marchita la flor cuando el viento del Señor sopla sobre ellas.\nEn verdad, el pueblo es hierba."
+        },
+        {
+          "numero": "8",
+          "verso": "Se agosta la hierba y se marchita la flor, pero la palabra de nuestro Dios permanece para siempre."
+        },
+        {
+          "numero": "9",
+          "verso": "Súbete a un monte bien alto, tú, la que traes buenas noticias a Sión;\nalza con fuerza tu voz,\nla que traes buenas noticias a Jerusalén;\ngrita sin temor.\nDi a las ciudades de Judá:\n«Aquí está vuestro Dios»."
+        },
+        {
+          "numero": "10",
+          "verso": "Mirad, el Señor Dios viene con poder, y su brazo le somete todo.\nMirad que trae su recompensa,\ny su premio va por delante."
+        },
+        {
+          "numero": "11",
+          "verso": "Apacienta su rebaño como un pastor, lo congrega con su brazo,\nlleva los corderillos en su regazo,\ny conduce con cuidado a las que están criando."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 96:1-3, 10-13",
+      "lecturaNombreNormalizado": "Sal96,1-3,10-13",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Cantad al Señor un cántico nuevo, cantad al Señor, la tierra entera."
+        },
+        {
+          "numero": "2",
+          "verso": "Cantad al Señor, bendecid su Nombre, anunciad, día tras día, su salvación."
+        },
+        {
+          "numero": "3",
+          "verso": "Proclamad su gloria a las naciones, sus maravillas a todos los pueblos."
+        },
+        {
+          "numero": "10",
+          "verso": "Decid a las naciones: «El Señor reina. Él afianza el orbe, y no vacilará.\nÉl juzga a los pueblos con rectitud»."
+        },
+        {
+          "numero": "11",
+          "verso": "Alégrense los cielos y exulte la tierra, brame el mar y cuanto lo llena;"
+        },
+        {
+          "numero": "12",
+          "verso": "que se gocen los campos y cuanto hay en ellos. Entonces exultarán todos los árboles del bosque"
+        },
+        {
+          "numero": "13",
+          "verso": "ante el Señor, que ya viene, que viene a juzgar la tierra:\njuzgará al mundo con justicia\ny a los pueblos con rectitud."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 18:12-14",
+      "lecturaNombreNormalizado": "Mt18,12-14",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "»¿Qué os parece? Si a un hombre que tiene cien ovejas se le pierde una de ellas, ¿no dejará las noventa y nueve en el monte y saldrá a buscar la que se le había perdido?"
+        },
+        {
+          "numero": "13",
+          "verso": "Y si llega a encontrarla, os aseguro que se alegrará más por ella que por las noventa y nueve que no se habían perdido."
+        },
+        {
+          "numero": "14",
+          "verso": "Del mismo modo, no es voluntad de vuestro Padre que está en los cielos que se pierda ni uno solo de estos pequeños."
+        }
+      ]
+    }
+  ]
+}

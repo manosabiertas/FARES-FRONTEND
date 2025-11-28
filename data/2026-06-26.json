@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-06-26",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Reyes 25:1-12",
+      "lecturaNombreNormalizado": "2Reyes25,1-12",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El año noveno de su reinado, el día diez del mes décimo, Nabucodonosor, rey de Babilonia, vino con todo su ejército contra Jerusalén, la sitiaron y construyeron fortificaciones alrededor de ella."
+        },
+        {
+          "numero": "2",
+          "verso": "La ciudad cercada resistió hasta el año undécimo del rey Sedecías."
+        },
+        {
+          "numero": "3",
+          "verso": "Pero el día nueve del cuarto mes el hambre arreciaba en la ciudad y no había alimento para el pueblo llano."
+        },
+        {
+          "numero": "4",
+          "verso": "Entonces fue abierta una brecha en la muralla de la ciudad y todos los soldados huyeron durante la noche por el camino abierto entre los dos muros que hay junto al jardín real, mientras los caldeos rodeaban la ciudad. Aquéllos marcharon por el camino de la Arabá,"
+        },
+        {
+          "numero": "5",
+          "verso": "pero el ejército de los caldeos emprendió la persecución tras el rey, y lo alcanzaron en las llanuras de Jericó. Entonces todo su ejército huyó de su lado."
+        },
+        {
+          "numero": "6",
+          "verso": "Capturaron al rey y lo condujeron al rey de Babilonia, a Riblá, donde pronunciaron sentencia contra él."
+        },
+        {
+          "numero": "7",
+          "verso": "Degollaron a los hijos de Sedecías ante sus propios ojos. Luego hizo sacarle los ojos a Sedecías, lo mandó atar con cadenas de bronce y lo hizo conducir a Babilonia."
+        },
+        {
+          "numero": "8",
+          "verso": "El día siete del mes quinto del año diecinueve del rey Nabucodonosor, rey de Babilonia, Nebuzaradán, jefe de la escolta y servidor del rey de Babilonia, entró en Jerusalén."
+        },
+        {
+          "numero": "9",
+          "verso": "Incendió el Templo del Señor y el palacio real, y prendió fuego a todas las casas de Jerusalén y a todos los edificios importantes."
+        },
+        {
+          "numero": "10",
+          "verso": "Toda la tropa de los caldeos, al mando del jefe de la escolta, demolió las murallas alrededor de Jerusalén."
+        },
+        {
+          "numero": "11",
+          "verso": "Al resto del pueblo que había permanecido en la ciudad, a los prófugos que se habían pasado al rey de Babilonia y a la demás gente, Nebuzaradán, jefe de la escolta, los llevó cautivos."
+        },
+        {
+          "numero": "12",
+          "verso": "Pero del pueblo llano pobre, el jefe de la escolta dejó a algunos como viñadores y labradores."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 137:1-6",
+      "lecturaNombreNormalizado": "Sal137,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Junto a los ríos de Babilonia, allí nos sentábamos y llorábamos,\nacordándonos de Sión."
+        },
+        {
+          "numero": "2",
+          "verso": "En los sauces, en medio de ella, colgábamos nuestras cítaras."
+        },
+        {
+          "numero": "3",
+          "verso": "Allí, los que nos deportaron nos pedían cantares, nuestros opresores, diversión:\n«Cantadnos canciones de Sión»."
+        },
+        {
+          "numero": "4",
+          "verso": "¿Cómo cantar un cántico del Señor en tierra extraña?"
+        },
+        {
+          "numero": "5",
+          "verso": "Si me olvido de ti, Jerusalén, que se paralice mi diestra;"
+        },
+        {
+          "numero": "6",
+          "verso": "que se me pegue la lengua al paladar si no me acuerdo de ti,\nsi no pongo a Jerusalén\nen el colmo de mi gozo."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 8:1-4",
+      "lecturaNombreNormalizado": "Mt8,1-4",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Al bajar del monte le seguía una gran multitud."
+        },
+        {
+          "numero": "2",
+          "verso": "En esto, se le acercó un leproso, se postró ante él y dijo: —Señor, si quieres, puedes limpiarme."
+        },
+        {
+          "numero": "3",
+          "verso": "Y extendiendo Jesús la mano, le tocó diciendo: —Quiero, queda limpio.\nY al instante quedó limpio de la lepra."
+        },
+        {
+          "numero": "4",
+          "verso": "Entonces le dijo Jesús: —Mira, no lo digas a nadie; pero anda, preséntate al sacerdote y lleva la ofrenda que ordenó Moisés, para que les sirva de testimonio."
+        }
+      ]
+    }
+  ]
+}

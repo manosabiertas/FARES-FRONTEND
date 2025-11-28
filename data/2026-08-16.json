@@ -1,0 +1,126 @@
+{
+  "fecha": "2026-08-16",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 56:1, 6-7",
+      "lecturaNombreNormalizado": "Is56,1,6-7",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Esto dice el Señor: «Guardad el derecho y practicad la justicia, que pronto va a llegar mi salvación\ny a revelarse mi justicia»."
+        },
+        {
+          "numero": "6",
+          "verso": "A los hijos del extranjero que se adhieran al Señor para servirlo\ny amar el Nombre del Señor,\npara serle sus siervos,\ny a cuantos guarden el sábado sin profanarlo,\ny mantengan mi alianza,"
+        },
+        {
+          "numero": "7",
+          "verso": "les haré entrar en mi monte santo, les daré alegría en mi casa de oración:\nsus holocaustos y sus sacrificios\nme serán gratos sobre mi altar,\nporque mi casa será llamada\ncasa de oración para todos los pueblos»."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 67:2-3, 5-6, 8",
+      "lecturaNombreNormalizado": "Sal67,2-3,5-6,8",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Tenga Dios piedad de nosotros y nos bendiga, haga brillar su rostro sobre nosotros."
+        },
+        {
+          "numero": "3",
+          "verso": "Para que se conozca en la tierra tu camino, tu salvación en todas las naciones."
+        },
+        {
+          "numero": "5",
+          "verso": "Que se alegren y te aclamen las naciones, porque juzgas los pueblos con rectitud\ny diriges las naciones de la tierra."
+        },
+        {
+          "numero": "6",
+          "verso": "¡Que te alaben los pueblos, oh Dios, que todos los pueblos te alaben!"
+        },
+        {
+          "numero": "8",
+          "verso": "Que Dios nos bendiga y que le teman todos los confines de la tierra."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Romanos 11:13-15, 29-32",
+      "lecturaNombreNormalizado": "Rom11,13-15,29-32",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "Pero a vosotros, los gentiles, os digo: siendo yo, en efecto, apóstol de las gentes, hago honor a mi ministerio,"
+        },
+        {
+          "numero": "14",
+          "verso": "por si de alguna forma provoco celo a los de mi raza y salvo a algunos de ellos."
+        },
+        {
+          "numero": "15",
+          "verso": "Porque si su reprobación es reconciliación del mundo, ¿qué será su restauración sino una vida que surge de entre los muertos?"
+        },
+        {
+          "numero": "29",
+          "verso": "Porque los dones y la vocación de Dios son irrevocables."
+        },
+        {
+          "numero": "30",
+          "verso": "Pues así como vosotros en otro tiempo fuisteis desobedientes a Dios, y ahora habéis alcanzado misericordia a causa de su desobediencia,"
+        },
+        {
+          "numero": "31",
+          "verso": "así también ellos ahora no han obedecido, para que vosotros alcancéis misericordia, a fin de que también ellos consigan la misericordia."
+        },
+        {
+          "numero": "32",
+          "verso": "Porque Dios encerró a todos en la desobediencia, para tener misericordia de todos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 15:21-28",
+      "lecturaNombreNormalizado": "Mt15,21-28",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "Después que Jesús salió de allí, se retiró a la región de Tiro y Sidón."
+        },
+        {
+          "numero": "22",
+          "verso": "En esto una mujer cananea, venida de aquellos contornos, se puso a gritar: —¡Señor, Hijo de David, apiádate de mí! Mi hija está poseída cruelmente por el demonio."
+        },
+        {
+          "numero": "23",
+          "verso": "Pero él no le respondió palabra. Entonces, se le acercaron sus discípulos para rogarle: —Atiéndela y que se vaya, porque viene gritando detrás de nosotros."
+        },
+        {
+          "numero": "24",
+          "verso": "Él respondió: —No he sido enviado sino a las ovejas perdidas de la casa de Israel."
+        },
+        {
+          "numero": "25",
+          "verso": "Ella, no obstante, se acercó y se postró ante él diciendo: —¡Señor, ayúdame!"
+        },
+        {
+          "numero": "26",
+          "verso": "Él le respondió: —No está bien tomar el pan de los hijos y echárselo a los perrillos."
+        },
+        {
+          "numero": "27",
+          "verso": "Pero ella dijo: —Sí, Señor, pero también los perrillos comen las migajas que caen de la mesa de sus amos."
+        },
+        {
+          "numero": "28",
+          "verso": "Entonces Jesús le respondió: —¡Mujer, qué grande es tu fe! Que sea como tú quieres.\nY su hija quedó sana en aquel instante."
+        }
+      ]
+    }
+  ]
+}

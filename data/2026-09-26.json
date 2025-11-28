@@ -1,0 +1,111 @@
+{
+  "fecha": "2026-09-26",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Eclesiastés 11:9--12:8",
+      "lecturaNombreNormalizado": "Ecl11,9--12,8",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "Goza, joven, de tu juventud y que tu corazón te haga feliz durante los días\nde tu mocedad;\nsigue los caminos de tu corazón\ny la mirada de tus ojos.\nPero has de saber que de todo eso\nDios te pedirá cuentas."
+        },
+        {
+          "numero": "10",
+          "verso": "Quita el sufrimiento de tu corazón y aparta el mal de tu carne,\nporque juventud y pelo negro son vanidad."
+        },
+        {
+          "numero": "1",
+          "verso": "Acuérdate de tu creador en los días de tu mocedad, antes de que lleguen los días malos\ny se acerquen los años en que digas:\n«No me gustan»;"
+        },
+        {
+          "numero": "2",
+          "verso": "antes de que se apaguen el sol y la luz, la luna y las estrellas,\ny sigan las nubes después de la lluvia;"
+        },
+        {
+          "numero": "3",
+          "verso": "cuando tiemblen los guardianes de la casa, se encorven los fuertes,\ncesen las que muelen, pues han venido a menos,\ny las que miran por las celosías se queden a oscuras;"
+        },
+        {
+          "numero": "4",
+          "verso": "cuando se cierren los portones de la calle, se apague el rumor del molino,\nse acalle el canto del pájaro\ny enmudezcan todas las canciones,"
+        },
+        {
+          "numero": "5",
+          "verso": "den miedo las alturas y los terrores del camino;\ncuando florezca el almendro,\nse arrastre la langosta\ny se malogre la alcaparra,\nporque el hombre marcha a su eterna morada\ny los que están de duelo rondan por las calles;"
+        },
+        {
+          "numero": "6",
+          "verso": "antes de que se suelte el hilo de plata, se rompa el cuenco de oro,\nse quiebre el cántaro en la fuente,\nse rompa la polea del pozo,"
+        },
+        {
+          "numero": "7",
+          "verso": "el polvo vuelva a la tierra que fue y el espíritu vuelva a Dios que lo dio."
+        },
+        {
+          "numero": "8",
+          "verso": "¡Vanidad de vanidades —dice Qohélet—,\ntodo es vanidad!"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 90:3-6, 12-14, 17",
+      "lecturaNombreNormalizado": "Sal90,3-6,12-14,17",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Al polvo haces volver al hombre, diciendo: «Volved, hijos de Adán»."
+        },
+        {
+          "numero": "4",
+          "verso": "Pues mil años a tus ojos son como un día de ayer, que pasó,\ncomo una vigilia de la noche."
+        },
+        {
+          "numero": "5",
+          "verso": "Tú los arrastras, son un sueño al amanecer, como hierba que brota:"
+        },
+        {
+          "numero": "6",
+          "verso": "por la mañana florece y crece, por la tarde es segada, y se seca."
+        },
+        {
+          "numero": "12",
+          "verso": "Enséñanos a llevar buena cuenta de nuestros días, para que logremos un corazón sabio."
+        },
+        {
+          "numero": "13",
+          "verso": "¡Vuélvete, Señor! ¿Hasta cuándo…? Ten piedad con tus siervos."
+        },
+        {
+          "numero": "14",
+          "verso": "Sácianos de mañana con tu misericordia, exultaremos y nos alegraremos todos nuestros días."
+        },
+        {
+          "numero": "17",
+          "verso": "El esplendor del Señor, nuestro Dios, esté con nosotros. Haz prósperas las obras de nuestras manos,\nlas obras de nuestras manos hazlas prósperas."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 9:43-45",
+      "lecturaNombreNormalizado": "Lc9,43-45",
+      "versos": [
+        {
+          "numero": "43",
+          "verso": "Todos quedaron asombrados de la grandeza de Dios. Y estando todos admirados por cuantas cosas hacía, les dijo a sus discípulos:"
+        },
+        {
+          "numero": "44",
+          "verso": "—Grabad en vuestros oídos estas palabras: el Hijo del Hombre va a ser entregado en manos de los hombres."
+        },
+        {
+          "numero": "45",
+          "verso": "Pero ellos no entendían este lenguaje, y les resultaba tan oscuro, que no lo comprendían; y temían preguntarle sobre este asunto."
+        }
+      ]
+    }
+  ]
+}

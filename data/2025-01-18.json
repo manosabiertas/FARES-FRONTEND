@@ -1,0 +1,83 @@
+{
+  "fecha": "2025-01-18",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hebreos 4:12-16",
+      "lecturaNombreNormalizado": "Heb4,12-16",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Ciertamente, la palabra de Dios es viva y eficaz, y más cortante que una espada de doble filo: entra hasta la división del alma y del espíritu, de las articulaciones y de la médula, y descubre los sentimientos y pensamientos del corazón."
+        },
+        {
+          "numero": "13",
+          "verso": "No hay ante ella criatura invisible, sino que todo está desnudo y patente a los ojos de Aquel a quien hemos de rendir cuenta."
+        },
+        {
+          "numero": "14",
+          "verso": "Ya que tenemos un Sumo Sacerdote que ha entrado en los cielos —Jesús, el Hijo de Dios—, mantengamos firme nuestra confesión de fe."
+        },
+        {
+          "numero": "15",
+          "verso": "Porque no tenemos un sumo sacerdote que no pueda compadecerse de nuestras debilidades, sino que, de manera semejante a nosotros, ha sido probado en todo, excepto en el pecado."
+        },
+        {
+          "numero": "16",
+          "verso": "Por lo tanto, acerquémonos confiadamente al trono de la gracia, para que alcancemos misericordia y encontremos la gracia que nos ayude en el momento oportuno."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 19:8-10, 15",
+      "lecturaNombreNormalizado": "Sal19,8-10,15",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "La Ley del Señor es perfecta; reconforta el alma. El mandato del Señor es firme,\ninstruye al sencillo."
+        },
+        {
+          "numero": "9",
+          "verso": "Los preceptos del Señor son rectos, alegran el corazón.\nLos mandamientos del Señor son puros,\ndan luz a los ojos."
+        },
+        {
+          "numero": "10",
+          "verso": "El temor del Señor es limpio, dura por siempre.\nLos juicios del Señor son veraces,\nson enteramente justos,"
+        },
+        {
+          "numero": "15",
+          "verso": "Sean de tu agrado las palabras de mi boca y las meditaciones de mi corazón en tu presencia.\n¡Señor, Roca mía y Redentor mío!"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 2:13-17",
+      "lecturaNombreNormalizado": "Mc2,13-17",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "Y se fue otra vez a la orilla del mar. Y toda la muchedumbre iba hacia él, y les enseñaba."
+        },
+        {
+          "numero": "14",
+          "verso": "Al pasar, vio a Leví, el de Alfeo, sentado al telonio, y le dijo: —Sígueme.\nÉl se levantó y le siguió."
+        },
+        {
+          "numero": "15",
+          "verso": "Ya en su casa, estando a la mesa, se sentaron con Jesús y sus discípulos muchos publicanos y pecadores, porque eran muchos los que le seguían."
+        },
+        {
+          "numero": "16",
+          "verso": "Los escribas de los fariseos, al ver que comía con pecadores y publicanos, empezaron a decir a sus discípulos: —¿Por qué come con publicanos y pecadores?"
+        },
+        {
+          "numero": "17",
+          "verso": "Lo oyó Jesús y les dijo: —No tienen necesidad de médico los sanos, sino los enfermos; no he venido a llamar a los justos, sino a los pecadores."
+        }
+      ]
+    }
+  ]
+}

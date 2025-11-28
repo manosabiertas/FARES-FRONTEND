@@ -1,0 +1,171 @@
+{
+  "fecha": "2025-10-06",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Jonás 1:1--2:2, 11",
+      "lecturaNombreNormalizado": "Jon1,1--2,2,11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "La palabra del Señor fue dirigida a Jonás, hijo de Amitay, diciéndole:"
+        },
+        {
+          "numero": "2",
+          "verso": "—Levántate, vete a Nínive, la gran ciudad, y pregona en contra de ella, porque su perversidad ha subido hasta mi presencia."
+        },
+        {
+          "numero": "3",
+          "verso": "Jonás se levantó para huir a Tarsis, lejos de la presencia del Señor. Bajó a Jope, y encontró una nave que se dirigía a Tarsis. Pagó el pasaje y embarcó en ella, para ir con ellos a Tarsis, lejos de la presencia del Señor."
+        },
+        {
+          "numero": "4",
+          "verso": "Pero el Señor envió un viento impetuoso sobre el mar y se levantó una tempestad tan recia que la nave estaba a punto de zozobrar."
+        },
+        {
+          "numero": "5",
+          "verso": "Los marineros se llenaron de miedo. Cada uno clamaba a su dios y arrojaban al mar los pertrechos que había en la nave para aligerar la carga. Mientras tanto, Jonás había bajado a la bodega del barco, se había acostado y estaba durmiendo profundamente."
+        },
+        {
+          "numero": "6",
+          "verso": "Entonces se le acercó el capitán y le dijo: —¿Qué haces tú dormido? ¡Levántate, invoca a tu dios! A ver si Dios se ocupa de nosotros y no perecemos."
+        },
+        {
+          "numero": "7",
+          "verso": "Luego se decían unos a otros: —Vamos a echar suertes para saber por quién nos ha venido este mal.\nEcharon suertes y cayó la suerte sobre Jonás."
+        },
+        {
+          "numero": "8",
+          "verso": "Entonces le dijeron: —Haz el favor de decirnos por causa de quién nos ha venido este mal. ¿Cuál es tu oficio y de dónde vienes? ¿Cuál es tu país y de qué pueblo eres?"
+        },
+        {
+          "numero": "9",
+          "verso": "Él les respondió: —Yo soy hebreo, y adoro al Señor, Dios de los cielos, que hizo el mar y la tierra firme."
+        },
+        {
+          "numero": "10",
+          "verso": "Los hombres se llenaron de un gran temor y le preguntaron: —¿Qué es lo que has hecho? —pues comprendieron que estaba huyendo de la presencia del Señor, por lo que les había contado."
+        },
+        {
+          "numero": "11",
+          "verso": "Y le dijeron: —¿Qué hemos de hacer contigo para que se nos calme el mar? —pues el mar arreciaba en su tormenta."
+        },
+        {
+          "numero": "12",
+          "verso": "Él les contestó: —Agarradme y arrojadme al mar, y el mar se os calmará, pues sé que esta tremenda tormenta os ha venido por mi causa."
+        },
+        {
+          "numero": "13",
+          "verso": "Los hombres se pusieron a remar para volver a tierra firme, pero no podían, porque el mar arreciaba en su tormenta contra ellos."
+        },
+        {
+          "numero": "14",
+          "verso": "Entonces clamaron al Señor diciendo: —¡Te suplicamos, Señor, que no perezcamos por culpa de la vida de este hombre; no nos hagas responsables de sangre inocente! Pues Tú, Señor, obras según tu beneplácito."
+        },
+        {
+          "numero": "15",
+          "verso": "Y agarraron a Jonás y lo arrojaron al mar. Y se calmó la furia del mar."
+        },
+        {
+          "numero": "16",
+          "verso": "Los hombres se llenaron de un gran temor al Señor. Ofrecieron un sacrificio al Señor y le hicieron votos."
+        },
+        {
+          "numero": "1",
+          "verso": "El Señor dispuso que un pez enorme se tragara a Jonás. Estuvo Jonás en el vientre del pez tres días y tres noches."
+        },
+        {
+          "numero": "2",
+          "verso": "Y Jonás oró al Señor, su Dios, desde el vientre del pez,"
+        },
+        {
+          "numero": "11",
+          "verso": "Entonces, el Señor dio orden al pez, que vomitó a Jonás sobre tierra firme."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Jonás 2:3-5, 8",
+      "lecturaNombreNormalizado": "Jon2,3-5,8",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "diciéndole: —Desde mi angustia clamé al Señor,\ny Él me respondió.\nDesde el vientre del sheol grité,\ny escuchaste mi voz."
+        },
+        {
+          "numero": "4",
+          "verso": "Me arrojaste en el fondo, en el seno del mar, y la corriente me volteaba;\ntodas tus rompientes y tus olas\nme anegaban."
+        },
+        {
+          "numero": "5",
+          "verso": "Y yo me decía: «Soy expulsado lejos de tus ojos.\n¿Cómo contemplaré de nuevo\ntu Templo santo?»."
+        },
+        {
+          "numero": "8",
+          "verso": "Cuando mi alma estuvo a punto de desfallecer me acordé del Señor,\ny mi oración llegó hasta Ti,\nhasta tu Templo santo."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 10:25-37",
+      "lecturaNombreNormalizado": "Lc10,25-37",
+      "versos": [
+        {
+          "numero": "25",
+          "verso": "Entonces un doctor de la Ley se levantó y dijo para tentarle: —Maestro, ¿qué debo hacer para heredar la vida eterna?"
+        },
+        {
+          "numero": "26",
+          "verso": "Él le contestó: —¿Qué está escrito en la Ley? ¿Qué lees tú?"
+        },
+        {
+          "numero": "27",
+          "verso": "Y éste le respondió: —Amarás al Señor tu Dios con todo tu corazón y con toda tu alma y con todas tus fuerzas y con toda tu mente, y a tu prójimo como a ti mismo."
+        },
+        {
+          "numero": "28",
+          "verso": "Y le dijo: —Has respondido bien: haz esto y vivirás."
+        },
+        {
+          "numero": "29",
+          "verso": "Pero él, queriendo justificarse, le dijo a Jesús: —¿Y quién es mi prójimo?"
+        },
+        {
+          "numero": "30",
+          "verso": "Entonces Jesús, tomando la palabra, dijo: —Un hombre bajaba de Jerusalén a Jericó y cayó en manos de unos salteadores que, después de haberle despojado, le cubrieron de heridas y se marcharon, dejándolo medio muerto."
+        },
+        {
+          "numero": "31",
+          "verso": "Bajaba casualmente por el mismo camino un sacerdote y, al verlo, pasó de largo."
+        },
+        {
+          "numero": "32",
+          "verso": "Igualmente, un levita llegó cerca de aquel lugar y, al verlo, también pasó de largo."
+        },
+        {
+          "numero": "33",
+          "verso": "Pero un samaritano que iba de viaje se llegó hasta él y, al verlo, se llenó de compasión."
+        },
+        {
+          "numero": "34",
+          "verso": "Se acercó y le vendó las heridas echando en ellas aceite y vino. Lo montó en su propia cabalgadura, lo condujo a la posada y él mismo lo cuidó."
+        },
+        {
+          "numero": "35",
+          "verso": "Al día siguiente, sacando dos denarios, se los dio al posadero y le dijo: «Cuida de él, y lo que gastes de más te lo daré a mi vuelta»."
+        },
+        {
+          "numero": "36",
+          "verso": "¿Cuál de estos tres te parece que fue el prójimo del que cayó en manos de los salteadores?"
+        },
+        {
+          "numero": "37",
+          "verso": "Él le dijo: —El que tuvo misericordia con él.\n—Pues anda —le dijo Jesús—, y haz tú lo mismo."
+        }
+      ]
+    }
+  ]
+}

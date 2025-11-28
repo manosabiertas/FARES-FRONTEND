@@ -1,0 +1,134 @@
+{
+  "fecha": "2026-06-28",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Reyes 4:8-11, 14-16",
+      "lecturaNombreNormalizado": "2Reyes4,8-11,14-16",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "Un día Eliseo pasaba por Sunem, y vivía allí una mujer importante que le porfiaba para que se quedara a comer. Desde aquel día, cuando pasaba se quedaba allí a comer."
+        },
+        {
+          "numero": "9",
+          "verso": "Dijo la mujer a su marido: —Mira, sé que el que pasa siempre junto a nosotros es un hombre de Dios, un santo."
+        },
+        {
+          "numero": "10",
+          "verso": "Por favor, hagamos una pequeña habitación en la parte de arriba y pongamos allí una cama, una mesa, una silla y un candelabro, y así, cuando venga a nosotros, se instalará ahí."
+        },
+        {
+          "numero": "11",
+          "verso": "Un día llegó allí Eliseo, se instaló en la habitación y se acostó."
+        },
+        {
+          "numero": "14",
+          "verso": "Eliseo preguntó: —¿Qué hacer, pues, por ella?\nRespondió Guejazí:\n—No tiene hijos y su marido es anciano."
+        },
+        {
+          "numero": "15",
+          "verso": "Dijo Eliseo: —Llámala.\nLa llamó de nuevo y ella se detuvo en la puerta."
+        },
+        {
+          "numero": "16",
+          "verso": "Él le dijo: —El año próximo, por este tiempo, tú abrazarás un hijo.\nElla contestó:\n—No mi señor, hombre de Dios, no engañes a tu sierva."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 89:2-3, 16-19",
+      "lecturaNombreNormalizado": "Sal89,2-3,16-19",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Las misericordias del Señor cantaré eternamente; de generación en generación\nanunciaré con mi boca tu fidelidad."
+        },
+        {
+          "numero": "3",
+          "verso": "Pues he dicho: «La misericordia está edificada para siempre;\ntu fidelidad está firme en los cielos»."
+        },
+        {
+          "numero": "16",
+          "verso": "Dichoso el pueblo que conoce la voz de aclamación; caminarán a la luz de tu rostro, Señor."
+        },
+        {
+          "numero": "17",
+          "verso": "En tu Nombre se regocijarán cada día, en tu justicia se gloriarán;"
+        },
+        {
+          "numero": "18",
+          "verso": "porque Tú eres el encanto de su fuerza, y, con tu favor, se alza nuestra frente."
+        },
+        {
+          "numero": "19",
+          "verso": "Pues del Señor es nuestro escudo, y del Santo de Israel, nuestro rey."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Romanos 6:3-4, 8-11",
+      "lecturaNombreNormalizado": "Rom6,3-4,8-11",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "¿No sabéis que cuantos hemos sido bautizados en Cristo Jesús hemos sido bautizados para unirnos a su muerte?"
+        },
+        {
+          "numero": "4",
+          "verso": "Pues fuimos sepultados juntamente con él mediante el bautismo para unirnos a su muerte, para que, así como Cristo fue resucitado de entre los muertos por la gloria del Padre, así también nosotros caminemos en una vida nueva."
+        },
+        {
+          "numero": "8",
+          "verso": "Y si hemos muerto con Cristo, creemos que también viviremos con él,"
+        },
+        {
+          "numero": "9",
+          "verso": "porque sabemos que Cristo, resucitado de entre los muertos, ya no muere más: la muerte ya no tiene dominio sobre él."
+        },
+        {
+          "numero": "10",
+          "verso": "Porque lo que murió, murió de una vez para siempre al pecado; pero lo que vive, vive para Dios."
+        },
+        {
+          "numero": "11",
+          "verso": "De la misma manera, también vosotros debéis consideraros muertos al pecado, pero vivos para Dios en Cristo Jesús."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 10:37-42",
+      "lecturaNombreNormalizado": "Mt10,37-42",
+      "versos": [
+        {
+          "numero": "37",
+          "verso": "»Quien ama a su padre o a su madre más que a mí, no es digno de mí; y quien ama a su hijo o a su hija más que a mí, no es digno de mí."
+        },
+        {
+          "numero": "38",
+          "verso": "Quien no toma su cruz y me sigue, no es digno de mí."
+        },
+        {
+          "numero": "39",
+          "verso": "Quien encuentre su vida, la perderá; pero quien pierda por mí su vida, la encontrará."
+        },
+        {
+          "numero": "40",
+          "verso": "»Quien a vosotros os recibe, a mí me recibe, y quien me recibe a mí, recibe al que me ha enviado."
+        },
+        {
+          "numero": "41",
+          "verso": "Quien recibe a un profeta por ser profeta obtendrá recompensa de profeta, y quien recibe a un justo por ser justo obtendrá recompensa de justo."
+        },
+        {
+          "numero": "42",
+          "verso": "Y cualquiera que dé de beber tan sólo un vaso de agua fresca a uno de estos pequeños por el hecho de ser discípulo, en verdad os digo que no quedará sin recompensa."
+        }
+      ]
+    }
+  ]
+}

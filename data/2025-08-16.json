@@ -1,0 +1,127 @@
+{
+  "fecha": "2025-08-16",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Josué 24:14-29",
+      "lecturaNombreNormalizado": "Jos24,14-29",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "»Así que ahora reverenciad al Señor, servidlo con pureza y verdad, apartaos de los dioses a los que sirvieron vuestros padres al otro lado del río y en Egipto, y servid al Señor."
+        },
+        {
+          "numero": "15",
+          "verso": "Si os parece mal servir al Señor, escoged hoy a quién vais a servir: a los dioses a los que sirvieron vuestros padres cuando estaban al otro lado del río o a los dioses de los amorreos en cuya tierra habitáis. Yo y mi casa serviremos al Señor."
+        },
+        {
+          "numero": "16",
+          "verso": "El pueblo respondió diciendo: —¡Lejos de nosotros abandonar al Señor para servir a otros dioses!"
+        },
+        {
+          "numero": "17",
+          "verso": "Porque el Señor, nuestro Dios, es quien nos ha subido a nosotros y a nuestros padres de la tierra de Egipto, de la casa de la servidumbre, y quien ha hecho ante nuestros ojos estos grandes signos; es el que nos ha guardado en todos los caminos por donde hemos marchado y en todos los pueblos por los que hemos pasado."
+        },
+        {
+          "numero": "18",
+          "verso": "El Señor ha expulsado de nuestra presencia a todos estos pueblos y al amorreo que habitaba en esta tierra. También nosotros serviremos al Señor, porque Él es nuestro Dios."
+        },
+        {
+          "numero": "19",
+          "verso": "Josué dijo al pueblo: —No podréis servir al Señor porque Dios es santo y es un Dios celoso; no pasará por encima de vuestros delitos y de vuestros pecados."
+        },
+        {
+          "numero": "20",
+          "verso": "Si abandonáis al Señor y servís a dioses extranjeros, se volverá, os maltratará y os consumirá después de haberos favorecido."
+        },
+        {
+          "numero": "21",
+          "verso": "El pueblo dijo a Josué: —De ninguna manera. Serviremos al Señor."
+        },
+        {
+          "numero": "22",
+          "verso": "Josué dijo al pueblo: —Vosotros sois testigos ante vosotros mismos, de que habéis escogido servir al Señor.\nY dijeron:\n—Somos testigos."
+        },
+        {
+          "numero": "23",
+          "verso": "—Ahora, pues, apartad los dioses extranjeros que tenéis entre vosotros e inclinad vuestros corazones hacia el Señor, Dios de Israel."
+        },
+        {
+          "numero": "24",
+          "verso": "El pueblo dijo a Josué: —Serviremos al Señor, nuestro Dios, y obedeceremos su voz."
+        },
+        {
+          "numero": "25",
+          "verso": "Aquel día en Siquem Josué hizo una alianza con el pueblo y le impuso leyes y normas."
+        },
+        {
+          "numero": "26",
+          "verso": "Josué escribió esas palabras en el libro de la Ley de Dios. Tomó una gran piedra y la erigió allí, al pie de la encina que había en el Santuario del Señor."
+        },
+        {
+          "numero": "27",
+          "verso": "Y dijo Josué a todo el pueblo: —Mirad, esta piedra será testigo ante nosotros, pues ella ha escuchado todas las palabras que el Señor nos ha dicho. Será testigo ante nosotros, para que no engañéis a vuestro Dios."
+        },
+        {
+          "numero": "28",
+          "verso": "Josué despidió al pueblo y cada uno volvió a su heredad."
+        },
+        {
+          "numero": "29",
+          "verso": "Después de esto murió Josué, el siervo del Señor. Tenía ciento diez años."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 16:1-2, 5, 7-8, 11",
+      "lecturaNombreNormalizado": "Sal16,1-2,5,7-8,11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Mictam. De David. Guárdame, Dios mío, que me refugio en Ti."
+        },
+        {
+          "numero": "2",
+          "verso": "Yo digo al Señor: «Tú eres mi Señor.\nNo tengo otro bien que Tú»."
+        },
+        {
+          "numero": "5",
+          "verso": "Señor, Tú eres el lote de mi heredad y de mi copa: Tú sostienes mi parte."
+        },
+        {
+          "numero": "7",
+          "verso": "Yo bendigo al Señor, que me aconseja; hasta de noche mi corazón me instruye."
+        },
+        {
+          "numero": "8",
+          "verso": "Pongo ante mí al Señor sin cesar; con Él a mi derecha, no vacilo."
+        },
+        {
+          "numero": "11",
+          "verso": "Me enseñas la senda de la vida, saciedad de gozo en tu presencia,\ndicha perpetua a tu derecha."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 19:13-15",
+      "lecturaNombreNormalizado": "Mt19,13-15",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "Entonces le presentaron unos niños para que les impusiera las manos y orase; pero los discípulos les reñían."
+        },
+        {
+          "numero": "14",
+          "verso": "Ante esto, Jesús dijo: —Dejad a los niños y no les impidáis que vengan a mí, porque de los que son como ellos es el Reino de los Cielos."
+        },
+        {
+          "numero": "15",
+          "verso": "Y después de imponerles las manos, se marchó de allí."
+        }
+      ]
+    }
+  ]
+}

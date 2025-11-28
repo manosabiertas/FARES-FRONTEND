@@ -1,0 +1,87 @@
+{
+  "fecha": "2025-12-30",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Juan 2:12-17",
+      "lecturaNombreNormalizado": "1Juan2,12-17",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Os escribo a vosotros, hijos, porque por su nombre se os han perdonado los pecados."
+        },
+        {
+          "numero": "13",
+          "verso": "Os escribo a vosotros, padres, porque habéis conocido al que existe desde el principio. Os escribo a vosotros, jóvenes, porque habéis vencido al Maligno."
+        },
+        {
+          "numero": "14",
+          "verso": "Os he escrito a vosotros, niños, porque habéis conocido al Padre. Os he escrito a vosotros, padres, porque habéis conocido al que existe desde el principio.\nOs he escrito a vosotros, jóvenes, porque sois fuertes, y la palabra de Dios permanece en vosotros, y habéis vencido al Maligno."
+        },
+        {
+          "numero": "15",
+          "verso": "No améis al mundo ni lo que hay en el mundo. Si alguno ama al mundo, el amor del Padre no está en él."
+        },
+        {
+          "numero": "16",
+          "verso": "Porque todo lo que hay en el mundo —la concupiscencia de la carne, la concupiscencia de los ojos y la arrogancia de los bienes terrenos— no procede del Padre, sino del mundo."
+        },
+        {
+          "numero": "17",
+          "verso": "Y el mundo es pasajero, y también sus concupiscencias; pero quien cumple la voluntad de Dios permanece para siempre."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 96:7-10",
+      "lecturaNombreNormalizado": "Sal96,7-10",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Rendid al Señor, familias de los pueblos, rendid al Señor gloria y poder."
+        },
+        {
+          "numero": "8",
+          "verso": "Rendid al Señor la gloria de su Nombre. Llevad ofrendas, entrad en sus atrios."
+        },
+        {
+          "numero": "9",
+          "verso": "Postraos ante el Señor en su atrio santo, temblad en su presencia, tierra entera."
+        },
+        {
+          "numero": "10",
+          "verso": "Decid a las naciones: «El Señor reina. Él afianza el orbe, y no vacilará.\nÉl juzga a los pueblos con rectitud»."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 2:36-40",
+      "lecturaNombreNormalizado": "Lc2,36-40",
+      "versos": [
+        {
+          "numero": "36",
+          "verso": "Vivía entonces una profetisa llamada Ana, hija de Fanuel, de la tribu de Aser. Era de edad muy avanzada, había vivido con su marido siete años de casada"
+        },
+        {
+          "numero": "37",
+          "verso": "y había permanecido viuda hasta los ochenta y cuatro años, sin apartarse del Templo, sirviendo con ayunos y oraciones noche y día."
+        },
+        {
+          "numero": "38",
+          "verso": "Y llegando en aquel mismo momento, alababa a Dios y hablaba de él a todos los que esperaban la redención de Jerusalén."
+        },
+        {
+          "numero": "39",
+          "verso": "Cuando cumplieron todas las cosas mandadas en la Ley del Señor, regresaron a Galilea, a su ciudad de Nazaret."
+        },
+        {
+          "numero": "40",
+          "verso": "El niño iba creciendo y fortaleciéndose lleno de sabiduría, y la gracia de Dios estaba en él."
+        }
+      ]
+    }
+  ]
+}

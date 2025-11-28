@@ -1,0 +1,106 @@
+{
+  "fecha": "2026-01-18",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 49:3, 5-6",
+      "lecturaNombreNormalizado": "Is49,3,5-6",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Y me dijo: «Tú eres mi siervo, Israel, en quien me glorío»."
+        },
+        {
+          "numero": "5",
+          "verso": "Ahora dice el Señor, el que me formó desde el seno materno para ser su siervo,\npara hacer que Jacob volviese a Él\ny para reunirle a Israel,\npues soy estimado a los ojos del Señor\ny mi Dios ha venido a ser mi fortaleza:"
+        },
+        {
+          "numero": "6",
+          "verso": "«Muy poco es que seas siervo mío para restaurar las tribus de Jacob\ny hacer volver a los supervivientes de Israel.\nTe he puesto para ser luz de las naciones,\npara que mi salvación alcance hasta los extremos de la tierra»."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 40:2, 4, 7-10",
+      "lecturaNombreNormalizado": "Sal40,2,4,7-10",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Esperaba confiadamente en el Señor; Él se inclinó a mí y escuchó mi clamor."
+        },
+        {
+          "numero": "4",
+          "verso": "Ha puesto en mi boca un cántico nuevo, una alabanza a nuestro Dios.\nMuchos, al verlo, temerán\ny esperarán en el Señor."
+        },
+        {
+          "numero": "7",
+          "verso": "No quisiste sacrificio ni ofrenda, pero me abriste el oído.\nNo pediste holocausto ni sacrificio de expiación;"
+        },
+        {
+          "numero": "8",
+          "verso": "entonces dije: «Aquí estoy —como está escrito acerca de mí en el Libro—"
+        },
+        {
+          "numero": "9",
+          "verso": "para hacer tu voluntad, Dios mío». Ése es mi querer,\npues llevo tu Ley dentro de mí."
+        },
+        {
+          "numero": "10",
+          "verso": "He anunciado la justicia en la gran asamblea; no he cerrado mis labios,\nSeñor, Tú lo sabes bien."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "1 Corintios 1:1-3",
+      "lecturaNombreNormalizado": "1Corintios1,1-3",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Pablo, llamado a ser apóstol de Cristo Jesús por voluntad de Dios, y Sóstenes, nuestro hermano,"
+        },
+        {
+          "numero": "2",
+          "verso": "a la Iglesia de Dios que está en Corinto, a los santificados en Cristo Jesús, llamados a ser santos, y a todos los que invocan en todo lugar el nombre de nuestro Señor Jesucristo, Señor suyo y nuestro:"
+        },
+        {
+          "numero": "3",
+          "verso": "gracia y paz a vosotros de parte de Dios, nuestro Padre, y del Señor Jesucristo."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 1:29-34",
+      "lecturaNombreNormalizado": "Jn1,29-34",
+      "versos": [
+        {
+          "numero": "29",
+          "verso": "Al día siguiente vio a Jesús venir hacia él y dijo: —Éste es el Cordero de Dios que quita el pecado del mundo."
+        },
+        {
+          "numero": "30",
+          "verso": "Éste es de quien yo dije: «Después de mí viene un hombre que ha sido antepuesto a mí, porque existía antes que yo»."
+        },
+        {
+          "numero": "31",
+          "verso": "Yo no le conocía, pero he venido a bautizar en agua para que él sea manifestado a Israel."
+        },
+        {
+          "numero": "32",
+          "verso": "Y Juan dio testimonio diciendo: —He visto el Espíritu que bajaba del cielo como una paloma y permanecía sobre él."
+        },
+        {
+          "numero": "33",
+          "verso": "Yo no le conocía, pero el que me envió a bautizar en agua me dijo: «Sobre el que veas que desciende el Espíritu y permanece sobre él, ése es quien bautiza en el Espíritu Santo»."
+        },
+        {
+          "numero": "34",
+          "verso": "Y yo he visto y he dado testimonio de que éste es el Hijo de Dios."
+        }
+      ]
+    }
+  ]
+}

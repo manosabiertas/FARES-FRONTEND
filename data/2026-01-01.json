@@ -1,0 +1,118 @@
+{
+  "fecha": "2026-01-01",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Números 6:22-27",
+      "lecturaNombreNormalizado": "Nm6,22-27",
+      "versos": [
+        {
+          "numero": "22",
+          "verso": "El Señor habló a Moisés diciendo:"
+        },
+        {
+          "numero": "23",
+          "verso": "—Habla a Aarón y a sus hijos y diles: «Así bendeciréis a los hijos de Israel, diciéndoles:"
+        },
+        {
+          "numero": "24",
+          "verso": "“El Señor te bendiga y te guarde,"
+        },
+        {
+          "numero": "25",
+          "verso": "el Señor haga brillar su rostro sobre ti y te conceda su gracia,"
+        },
+        {
+          "numero": "26",
+          "verso": "el Señor alce su rostro hacia ti y te conceda la paz”»."
+        },
+        {
+          "numero": "27",
+          "verso": "»Así invocarán mi nombre sobre los hijos de Israel, y Yo los bendeciré."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 67:2-3, 5-6, 8",
+      "lecturaNombreNormalizado": "Sal67,2-3,5-6,8",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Tenga Dios piedad de nosotros y nos bendiga, haga brillar su rostro sobre nosotros."
+        },
+        {
+          "numero": "3",
+          "verso": "Para que se conozca en la tierra tu camino, tu salvación en todas las naciones."
+        },
+        {
+          "numero": "5",
+          "verso": "Que se alegren y te aclamen las naciones, porque juzgas los pueblos con rectitud\ny diriges las naciones de la tierra."
+        },
+        {
+          "numero": "6",
+          "verso": "¡Que te alaben los pueblos, oh Dios, que todos los pueblos te alaben!"
+        },
+        {
+          "numero": "8",
+          "verso": "Que Dios nos bendiga y que le teman todos los confines de la tierra."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Gálatas 4:4-7",
+      "lecturaNombreNormalizado": "Gal4,4-7",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "Pero al llegar la plenitud de los tiempos, envió Dios a su Hijo, nacido de mujer, nacido bajo la Ley,"
+        },
+        {
+          "numero": "5",
+          "verso": "para redimir a los que estaban bajo la Ley, a fin de que recibiésemos la adopción de hijos."
+        },
+        {
+          "numero": "6",
+          "verso": "Y, puesto que sois hijos, Dios envió a nuestros corazones el Espíritu de su Hijo, que clama: «¡Abbá, Padre!»"
+        },
+        {
+          "numero": "7",
+          "verso": "De manera que ya no eres siervo, sino hijo; y como eres hijo, también heredero por gracia de Dios."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 2:16-21",
+      "lecturaNombreNormalizado": "Lc2,16-21",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "Y fueron presurosos y encontraron a María y a José y al niño reclinado en el pesebre."
+        },
+        {
+          "numero": "17",
+          "verso": "Al verlo, reconocieron las cosas que les habían sido anunciadas sobre este niño."
+        },
+        {
+          "numero": "18",
+          "verso": "Y todos los que lo oyeron se maravillaron de cuanto los pastores les habían dicho."
+        },
+        {
+          "numero": "19",
+          "verso": "María guardaba todas estas cosas ponderándolas en su corazón."
+        },
+        {
+          "numero": "20",
+          "verso": "Y los pastores regresaron, glorificando y alabando a Dios por todo lo que habían oído y visto, según les fue dicho."
+        },
+        {
+          "numero": "21",
+          "verso": "Cuando se cumplieron los ocho días para circuncidarle, le pusieron por nombre Jesús, como le había llamado el ángel antes de que fuera concebido en el seno materno."
+        }
+      ]
+    }
+  ]
+}

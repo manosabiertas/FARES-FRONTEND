@@ -1,0 +1,151 @@
+{
+  "fecha": "2026-01-30",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Samuel 11:1-10, 13-17",
+      "lecturaNombreNormalizado": "2Samuel11,1-10,13-17",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Al cabo de un año, en la época en que los reyes suelen salir a campaña, David envió a Joab con sus más leales y con todo Israel. Hicieron estragos entre los amonitas y sitiaron Rabá. David mientras tanto permaneció en Jerusalén."
+        },
+        {
+          "numero": "2",
+          "verso": "Sucedió una tarde que David, al levantarse de la cama se puso a pasear por la terraza del palacio real y vio desde allí a una mujer que se estaba bañando. Era muy bella."
+        },
+        {
+          "numero": "3",
+          "verso": "David mandó a preguntar por la mujer y le dijeron: —Es Betsabé, hija de Eliam, mujer de Urías, el hitita."
+        },
+        {
+          "numero": "4",
+          "verso": "David envió a unos para que se la trajesen, y cuando llegó, durmió con ella, que acababa de purificarse de la regla. Después, ella se volvió a casa."
+        },
+        {
+          "numero": "5",
+          "verso": "La mujer quedó embarazada y mandó recado a David para comunicárselo: —Estoy encinta."
+        },
+        {
+          "numero": "6",
+          "verso": "David entonces le mandó decir a Joab: —Envíame a Urías, el hitita."
+        },
+        {
+          "numero": "7",
+          "verso": "Cuando llegó Urías, David le preguntó por las tropas y por la marcha de la guerra."
+        },
+        {
+          "numero": "8",
+          "verso": "Luego le dijo a Urías: —Baja a tu casa y lávate los pies.\nSalió Urías de casa del rey y le hicieron llegar un obsequio de la mesa real."
+        },
+        {
+          "numero": "9",
+          "verso": "Urías durmió a la puerta de la casa del rey junto a otros servidores de su señor, y no bajó a su casa."
+        },
+        {
+          "numero": "10",
+          "verso": "Se lo comunicaron a David: —Urías no ha bajado a su casa.\nEntonces David dijo a Urías:\n—¿No has hecho un largo camino? ¿Por qué no has bajado a tu casa?"
+        },
+        {
+          "numero": "13",
+          "verso": "David le invitó a comer y beber con él y lo emborrachó. Por la tarde salió para acostarse en su puesto con los servidores de su señor, y tampoco bajó a su casa."
+        },
+        {
+          "numero": "14",
+          "verso": "Al amanecer David escribió un recado para Joab y se lo envió por medio de Urías."
+        },
+        {
+          "numero": "15",
+          "verso": "En ese recado escribió: «Poned a Urías en primera línea, donde más recio sea el combate, y dejadlo solo para que sea alcanzado y muera»."
+        },
+        {
+          "numero": "16",
+          "verso": "Así pues, cuando Joab estaba sitiando la ciudad, puso a –Urías en el puesto donde sabía que se encontraban los más aguerridos."
+        },
+        {
+          "numero": "17",
+          "verso": "Los hombres de la ciudad salieron y atacaron a Joab. Cayeron bastantes de su ejército y de los hombres de David, y también murió Urías, el hitita."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 51:3-7, 10-11",
+      "lecturaNombreNormalizado": "Sal51,3-7,10-11",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Ten misericordia de mí, Dios mío, según tu bondad; según tu inmensa compasión\nborra mi delito."
+        },
+        {
+          "numero": "4",
+          "verso": "Lávame por completo de mi culpa, y purifícame de mi pecado."
+        },
+        {
+          "numero": "5",
+          "verso": "Pues yo reconozco mi delito, y mi pecado está de continuo ante mí."
+        },
+        {
+          "numero": "6",
+          "verso": "Contra Ti, contra Ti sólo he pecado, y he hecho lo que es malo a tus ojos.\nPor eso has de ser justo en tu sentencia,\nhas de tener razón en tu juicio."
+        },
+        {
+          "numero": "7",
+          "verso": "¡Mira! En culpa nací, y en pecado me concibió mi madre."
+        },
+        {
+          "numero": "10",
+          "verso": "Hazme sentir gozo y alegría, que exulten los huesos que has quebrado."
+        },
+        {
+          "numero": "11",
+          "verso": "Aparta tu rostro de mis pecados y borra todas mis culpas."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 4:26-34",
+      "lecturaNombreNormalizado": "Mc4,26-34",
+      "versos": [
+        {
+          "numero": "26",
+          "verso": "Y decía: —El Reino de Dios es como un hombre que echa la semilla sobre la tierra,"
+        },
+        {
+          "numero": "27",
+          "verso": "y, duerma o vele, noche y día, la semilla brota y crece, sin que él sepa cómo."
+        },
+        {
+          "numero": "28",
+          "verso": "Porque la tierra produce fruto ella sola: primero hierba, después espiga y por fin trigo maduro en la espiga."
+        },
+        {
+          "numero": "29",
+          "verso": "Y en cuanto está a punto el fruto, enseguida mete la hoz, porque ha llegado la siega."
+        },
+        {
+          "numero": "30",
+          "verso": "Y decía: —¿A qué se parecerá el Reino de Dios?, o ¿con qué parábola lo compararemos?"
+        },
+        {
+          "numero": "31",
+          "verso": "Es como un grano de mostaza que, cuando se siembra en la tierra, es la más pequeña de todas las semillas que hay en la tierra;"
+        },
+        {
+          "numero": "32",
+          "verso": "pero, una vez sembrado, crece y llega a hacerse mayor que todas las hortalizas, y echa ramas grandes, hasta el punto de que los pájaros del cielo pueden anidar bajo su sombra."
+        },
+        {
+          "numero": "33",
+          "verso": "Y con muchas parábolas semejantes les anunciaba la palabra, conforme a lo que podían entender;"
+        },
+        {
+          "numero": "34",
+          "verso": "y no les solía hablar nada sin parábolas. Pero a solas, les explicaba todo a sus discípulos."
+        }
+      ]
+    }
+  ]
+}

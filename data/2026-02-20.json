@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-02-20",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 58:1-9",
+      "lecturaNombreNormalizado": "Is58,1-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Clama a gritos, no ceses! Eleva tu voz como una trompeta, denuncia a mi pueblo sus delitos,\na la casa de Jacob, sus pecados."
+        },
+        {
+          "numero": "2",
+          "verso": "Día tras día me andan buscando y quieren saber mis caminos,\ncomo si fueran una nación que practica la justicia\ny no abandona el derecho de su Dios.\nMe demandan juicios justos,\npretenden estar cerca de Dios."
+        },
+        {
+          "numero": "3",
+          "verso": "«¿Para qué ayunamos, si no miras, humillamos nuestras almas, si no te enteras?».\nMirad: el día en que ayunáis pretendéis aprovecharos\ny oprimís a vuestros trabajadores."
+        },
+        {
+          "numero": "4",
+          "verso": "Ayunáis para litigar y querellar y golpeáis con el puño sin piedad.\nNo ayunéis como ahora,\npara que vuestra voz se oiga en las alturas."
+        },
+        {
+          "numero": "5",
+          "verso": "¿Es ése el ayuno que prefiero, el día de humillarse el hombre?\n¿Inclinar la cabeza como un junco,\ny preparar un lecho de saco y ceniza?\n¿A eso llamáis ayuno\ny día grato al Señor?"
+        },
+        {
+          "numero": "6",
+          "verso": "¿El ayuno que prefiero no es más bien romper las cadenas de la iniquidad,\nsoltar las ataduras del yugo,\ndejar libres a los oprimidos\ny quebrar todo yugo?"
+        },
+        {
+          "numero": "7",
+          "verso": "¿No es compartir tu pan con el hambriento, e invitar a tu casa a los pobres sin asilo?\nAl que veas desnudo, cúbrelo\ny no te escondas de quien es carne tuya."
+        },
+        {
+          "numero": "8",
+          "verso": "Entonces tu luz despuntará como la aurora, y tu curación aparecerá al instante,\ntu justicia te precederá\ny la gloria del Señor cerrará tu marcha."
+        },
+        {
+          "numero": "9",
+          "verso": "Entonces clamarás, y el Señor te responderá, pedirás socorro, y Él te dirá: «Aquí estoy».\nSi apartas de en medio de ti el yugo,\nel señalar con el dedo,\ny la maledicencia,"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 51:3-6, 18-19",
+      "lecturaNombreNormalizado": "Sal51,3-6,18-19",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Ten misericordia de mí, Dios mío, según tu bondad; según tu inmensa compasión\nborra mi delito."
+        },
+        {
+          "numero": "4",
+          "verso": "Lávame por completo de mi culpa, y purifícame de mi pecado."
+        },
+        {
+          "numero": "5",
+          "verso": "Pues yo reconozco mi delito, y mi pecado está de continuo ante mí."
+        },
+        {
+          "numero": "6",
+          "verso": "Contra Ti, contra Ti sólo he pecado, y he hecho lo que es malo a tus ojos.\nPor eso has de ser justo en tu sentencia,\nhas de tener razón en tu juicio."
+        },
+        {
+          "numero": "18",
+          "verso": "No te complaces en los sacrificios, y si te ofreciera un holocausto, no te agradaría."
+        },
+        {
+          "numero": "19",
+          "verso": "El sacrificio grato a Dios es un espíritu contrito: un corazón contrito y humillado,\nDios mío, no lo desprecias."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 9:14-15",
+      "lecturaNombreNormalizado": "Mt9,14-15",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "Entonces se le acercaron los discípulos de Juan para decirle: —¿Por qué nosotros y los fariseos ayunamos con frecuencia y, en cambio, tus discípulos no ayunan?"
+        },
+        {
+          "numero": "15",
+          "verso": "Jesús les respondió: —¿Acaso pueden estar de duelo los amigos del esposo mientras el esposo está con ellos? Ya vendrá el día en que les será arrebatado el esposo; entonces, ya ayunarán."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "fecha": "2026-09-04",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Corintios 4:1-5",
+      "lecturaNombreNormalizado": "1Corintios4,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Así han de considerarnos los hombres: ministros de Cristo y administradores de los misterios de Dios."
+        },
+        {
+          "numero": "2",
+          "verso": "Por lo demás, lo que se busca en los administradores es que sean fieles."
+        },
+        {
+          "numero": "3",
+          "verso": "En cuanto a mí, poco me importa ser juzgado por vosotros o por un tribunal humano. Ni siquiera yo mismo me juzgo."
+        },
+        {
+          "numero": "4",
+          "verso": "Pues aunque en nada me remuerde la conciencia, no por eso quedo justificado. Quien me juzga es el Señor."
+        },
+        {
+          "numero": "5",
+          "verso": "Por tanto, no juzguéis nada antes de tiempo, hasta que venga el Señor: él iluminará lo oculto de las tinieblas y pondrá de manifiesto las intenciones de los corazones; entonces cada uno recibirá de parte de Dios la alabanza debida."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 37:3-6, 27-28, 39-40",
+      "lecturaNombreNormalizado": "Sal37,3-6,27-28,39-40",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "(Bet) Confía en el Señor y haz el bien; habita tu tierra y guarda la fidelidad."
+        },
+        {
+          "numero": "4",
+          "verso": "Pon tu delicia en el Señor, y te concederá los deseos de tu corazón."
+        },
+        {
+          "numero": "5",
+          "verso": "(Guímel) Encomienda al Señor tu camino, confía en Él, que Él actuará"
+        },
+        {
+          "numero": "6",
+          "verso": "y hará despuntar tu justicia como la aurora, y tu derecho como luz del mediodía."
+        },
+        {
+          "numero": "27",
+          "verso": "(Sámek) Aléjate del mal y obra el bien, y tendrás una morada para siempre;"
+        },
+        {
+          "numero": "28",
+          "verso": "porque el Señor ama la justicia y no abandona a sus fieles;\n(Áin) Los malvados serán exterminados para siempre,\nla descendencia de los impíos será aniquilada."
+        },
+        {
+          "numero": "39",
+          "verso": "(Tav) El Señor salva a los justos, Él es su refugio en tiempo de angustia."
+        },
+        {
+          "numero": "40",
+          "verso": "El Señor los socorre y los libra, los libra de los impíos y los salva,\nporque en Él buscan refugio."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 5:33-39",
+      "lecturaNombreNormalizado": "Lc5,33-39",
+      "versos": [
+        {
+          "numero": "33",
+          "verso": "Pero ellos le dijeron: —¿Por qué los discípulos de Juan ayunan con frecuencia y hacen oraciones, y lo mismo los de los fariseos; y en cambio, los tuyos comen y beben?"
+        },
+        {
+          "numero": "34",
+          "verso": "Jesús les respondió: —¿Acaso pueden ayunar los invitados a la boda, mientras el esposo está con ellos?"
+        },
+        {
+          "numero": "35",
+          "verso": "Ya vendrán los días en que les será arrebatado el esposo; entonces, en aquellos días, ayunarán."
+        },
+        {
+          "numero": "36",
+          "verso": "Y les decía también una parábola: —Nadie pone a un vestido viejo un remiendo cortado de un vestido nuevo, porque entonces, además de romper el nuevo, el remiendo del vestido nuevo no le iría bien al viejo."
+        },
+        {
+          "numero": "37",
+          "verso": "Tampoco echa nadie vino nuevo en odres viejos; porque entonces el vino nuevo reventará los odres, y se derramará, y los odres se perderán."
+        },
+        {
+          "numero": "38",
+          "verso": "El vino nuevo debe echarse en odres nuevos."
+        },
+        {
+          "numero": "39",
+          "verso": "Y ninguno acostumbrado a beber vino añejo quiere del nuevo, porque dice: «El añejo es mejor»."
+        }
+      ]
+    }
+  ]
+}

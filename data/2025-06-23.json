@@ -1,0 +1,107 @@
+{
+  "fecha": "2025-06-23",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Génesis 12:1-9",
+      "lecturaNombreNormalizado": "Gn12,1-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El Señor dijo a Abrán: —Vete de tu tierra y de tu patria\ny de casa de tu padre,\na la tierra que yo te mostraré;"
+        },
+        {
+          "numero": "2",
+          "verso": "de ti haré un gran pueblo, te bendeciré,\ny engrandeceré tu nombre\nque servirá de bendición."
+        },
+        {
+          "numero": "3",
+          "verso": "Bendeciré a quienes te bendigan, y maldeciré a quienes te maldigan;\nen ti serán bendecidos\ntodos los pueblos de la tierra."
+        },
+        {
+          "numero": "4",
+          "verso": "Abrán se marchó tal como le había mandado el Señor, y con él fue Lot. Tenía Abrán setenta y cinco años cuando salió de Jarán."
+        },
+        {
+          "numero": "5",
+          "verso": "Abrán llevó consigo a Saray, su mujer, y a Lot, su sobrino, con todos los bienes que había obtenido y la gente que había adquirido en Jarán. Salieron para ir a la tierra de Canaán, y llegaron a la tierra de Canaán."
+        },
+        {
+          "numero": "6",
+          "verso": "Abrán atravesó la tierra de Canaán hasta el lugar sagrado de Siquem, hasta la encina de Moré. Los cananeos habitaban entonces en el país."
+        },
+        {
+          "numero": "7",
+          "verso": "El Señor se manifestó a Abrán y le dijo: —A tu descendencia daré esta tierra.\nAbrán construyó allí un altar al Señor que se le había manifestado."
+        },
+        {
+          "numero": "8",
+          "verso": "Desde allí pasó a la montaña al oriente de Betel, donde plantó la tienda, entre Betel a occidente y Ay a oriente; y construyó allí un altar al Señor e invocó el nombre del Señor."
+        },
+        {
+          "numero": "9",
+          "verso": "Después Abrán reemprendió el viaje yendo, por etapas, al Négueb."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 33:12-13, 18-20, 22",
+      "lecturaNombreNormalizado": "Sal33,12-13,18-20,22",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Dichosa la nación cuyo Dios es el Señor, el pueblo que Él se eligió como heredad."
+        },
+        {
+          "numero": "13",
+          "verso": "El Señor mira desde los cielos, ve a todos los hijos de Adán."
+        },
+        {
+          "numero": "18",
+          "verso": "Los ojos del Señor velan por quienes le temen, por los que esperan en su misericordia,"
+        },
+        {
+          "numero": "19",
+          "verso": "para librar sus almas de la muerte, y hacerlos subsistir en la penuria."
+        },
+        {
+          "numero": "20",
+          "verso": "Nuestra alma espera en el Señor, Él es nuestro socorro y nuestro escudo;"
+        },
+        {
+          "numero": "22",
+          "verso": "Que tu misericordia, Señor, esté sobre nosotros, que hemos puesto en Ti nuestra esperanza."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 7:1-5",
+      "lecturaNombreNormalizado": "Mt7,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "»No juzguéis para no ser juzgados."
+        },
+        {
+          "numero": "2",
+          "verso": "Porque con el juicio con que juzguéis se os juzgará, y con la medida con que midáis se os medirá."
+        },
+        {
+          "numero": "3",
+          "verso": "»¿Por qué te fijas en la mota del ojo de tu hermano, y no reparas en la viga que hay en el tuyo?"
+        },
+        {
+          "numero": "4",
+          "verso": "O ¿cómo vas a decir a tu hermano: «Deja que saque la mota de tu ojo», cuando tú tienes una viga en el tuyo?"
+        },
+        {
+          "numero": "5",
+          "verso": "Hipócrita: saca primero la viga de tu ojo, y entonces verás con claridad cómo sacar la mota del ojo de tu hermano."
+        }
+      ]
+    }
+  ]
+}

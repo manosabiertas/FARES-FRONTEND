@@ -1,0 +1,111 @@
+{
+  "fecha": "2025-01-28",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hebreos 10:1-10",
+      "lecturaNombreNormalizado": "Heb10,1-10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Puesto que la Ley posee sólo una sombra de los bienes futuros y no la verdadera imagen de las cosas, no puede jamás, mediante los mismos sacrificios que no cesa de presentar todos los años, hacer perfectos a los que se acercan con ellos."
+        },
+        {
+          "numero": "2",
+          "verso": "Si no fuera así, los que rinden culto, al considerarse definitivamente purificados, por no tener ya conciencia alguna de pecado, ¿no dejarían de ofrecerlos?"
+        },
+        {
+          "numero": "3",
+          "verso": "Por el contrario, con ellos se renueva cada año el recuerdo de los pecados,"
+        },
+        {
+          "numero": "4",
+          "verso": "porque es imposible que la sangre de toros y machos cabríos borre los pecados."
+        },
+        {
+          "numero": "5",
+          "verso": "Por eso, al entrar en el mundo, dice: Sacrificio y ofrenda no quisiste,\npero me preparaste un cuerpo;"
+        },
+        {
+          "numero": "6",
+          "verso": "los holocaustos y sacrificios por el pecado no te han agradado."
+        },
+        {
+          "numero": "7",
+          "verso": "Entonces dije: «Aquí vengo, como está escrito de mí\nal comienzo del libro,\npara hacer, oh Dios, tu voluntad»."
+        },
+        {
+          "numero": "8",
+          "verso": "Después de haber dicho antes: No quisiste ni te agradaron sacrificios y ofrendas ni holocaustos y víctimas expiatorias por el pecado —cosas que se ofrecen según la Ley—,"
+        },
+        {
+          "numero": "9",
+          "verso": "añade luego: Aquí vengo para hacer tu voluntad. Deroga lo primero para instaurar lo segundo."
+        },
+        {
+          "numero": "10",
+          "verso": "Y por esa voluntad somos santificados de una vez para siempre, mediante la ofrenda del cuerpo de Jesucristo."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 40:2, 4, 7-8, 10-11",
+      "lecturaNombreNormalizado": "Sal40,2,4,7-8,10-11",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Esperaba confiadamente en el Señor; Él se inclinó a mí y escuchó mi clamor."
+        },
+        {
+          "numero": "4",
+          "verso": "Ha puesto en mi boca un cántico nuevo, una alabanza a nuestro Dios.\nMuchos, al verlo, temerán\ny esperarán en el Señor."
+        },
+        {
+          "numero": "7",
+          "verso": "No quisiste sacrificio ni ofrenda, pero me abriste el oído.\nNo pediste holocausto ni sacrificio de expiación;"
+        },
+        {
+          "numero": "8",
+          "verso": "entonces dije: «Aquí estoy —como está escrito acerca de mí en el Libro—"
+        },
+        {
+          "numero": "10",
+          "verso": "He anunciado la justicia en la gran asamblea; no he cerrado mis labios,\nSeñor, Tú lo sabes bien."
+        },
+        {
+          "numero": "11",
+          "verso": "No he escondido tu justicia dentro de mi corazón; he proclamado tu fidelidad y tu salvación,\nno he ocultado tu bondad y tu lealtad\na la gran asamblea."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 3:31-35",
+      "lecturaNombreNormalizado": "Mc3,31-35",
+      "versos": [
+        {
+          "numero": "31",
+          "verso": "Vinieron su madre y sus hermanos y, quedándose fuera, enviaron a llamarlo."
+        },
+        {
+          "numero": "32",
+          "verso": "Y estaba sentada a su alrededor una muchedumbre, y le dicen: —Mira, tu madre, tus hermanos y tus hermanas te buscan fuera."
+        },
+        {
+          "numero": "33",
+          "verso": "Y, en respuesta, les dice: —¿Quién es mi madre y quiénes mis hermanos?"
+        },
+        {
+          "numero": "34",
+          "verso": "Y mirando a los que estaban sentados a su alrededor, dice: —Éstos son mi madre y mis hermanos:"
+        },
+        {
+          "numero": "35",
+          "verso": "quien hace la voluntad de Dios, ése es mi hermano y mi hermana y mi madre."
+        }
+      ]
+    }
+  ]
+}

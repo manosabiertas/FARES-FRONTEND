@@ -1,0 +1,123 @@
+{
+  "fecha": "2025-08-25",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Tesalonicenses 1:1-5, 8-10",
+      "lecturaNombreNormalizado": "1Tesalonicenses1,1-5,8-10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Pablo, Silvano y Timoteo, a la iglesia de los tesalonicenses, en Dios Padre y en el Señor Jesucristo: la gracia y la paz estén con vosotros."
+        },
+        {
+          "numero": "2",
+          "verso": "Damos continuamente gracias a Dios por todos vosotros, teniéndoos presentes en nuestras oraciones."
+        },
+        {
+          "numero": "3",
+          "verso": "Sin cesar recordamos ante nuestro Dios y Padre vuestra fe operativa, vuestra caridad esforzada y vuestra constante esperanza en nuestro Señor Jesucristo."
+        },
+        {
+          "numero": "4",
+          "verso": "Sabemos, hermanos amados por Dios, que habéis sido elegidos;"
+        },
+        {
+          "numero": "5",
+          "verso": "porque nuestro evangelio no se os predicó sólo con palabras, sino con poder, con el Espíritu Santo y con plena convicción. Bien sabéis cómo nos hemos comportado entre vosotros para vuestro provecho."
+        },
+        {
+          "numero": "8",
+          "verso": "Porque a partir de vosotros se ha difundido la palabra del Señor, no sólo en Macedonia y en Acaya, sino que por todas partes se ha propagado vuestra fe en Dios, de modo que nosotros no tenemos necesidad de decir nada."
+        },
+        {
+          "numero": "9",
+          "verso": "Ellos mismos cuentan qué acogida nos dispensasteis y cómo os convertisteis a Dios abandonando los ídolos, para servir al Dios vivo y verdadero"
+        },
+        {
+          "numero": "10",
+          "verso": "y esperar desde los cielos a su Hijo Jesús —a quien resucitó de entre los muertos— que nos libra de la ira venidera."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 149:1-6, 9",
+      "lecturaNombreNormalizado": "Sal149,1-6,9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Aleluya! Cantad al Señor un cántico nuevo,\nesté su alabanza en la asamblea de los fieles."
+        },
+        {
+          "numero": "2",
+          "verso": "Alégrese Israel en su Hacedor; exulten en su Rey los hijos de Sión."
+        },
+        {
+          "numero": "3",
+          "verso": "Alaben su Nombre con danzas, que le entonen salmos con panderos y cítaras."
+        },
+        {
+          "numero": "4",
+          "verso": "Porque el Señor se deleita en su pueblo, y engalana a los humildes con la salvación."
+        },
+        {
+          "numero": "5",
+          "verso": "Regocíjense los fieles en la gloria, griten de alegría desde sus lechos,"
+        },
+        {
+          "numero": "6",
+          "verso": "con gritos de exaltación a Dios en sus gargantas, y espadas de dos filos en sus manos."
+        },
+        {
+          "numero": "9",
+          "verso": "para ejecutar en ellos la sentencia dictada: será un honor para todos sus fieles.\n¡Aleluya!"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 23:13-22",
+      "lecturaNombreNormalizado": "Mt23,13-22",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "»¡Ay de vosotros, escribas y fariseos hipócritas, que cerráis el Reino de los Cielos a los hombres! Porque ni vosotros entráis, ni dejáis entrar a los que quieren entrar."
+        },
+        {
+          "numero": "15",
+          "verso": "»¡Ay de vosotros, escribas y fariseos hipócritas, que vais dando vueltas por mar y tierra para hacer un solo prosélito y, en cuanto lo conseguís, le hacéis hijo del infierno dos veces más que vosotros!"
+        },
+        {
+          "numero": "16",
+          "verso": "»¡Ay de vosotros, guías ciegos, que decís: «Jurar por el Templo no es nada; pero si uno jura por el oro del Templo, queda obligado!»"
+        },
+        {
+          "numero": "17",
+          "verso": "¡Necios y ciegos! ¿Qué es más: el oro o el Templo que santifica al oro?"
+        },
+        {
+          "numero": "18",
+          "verso": "Y: «Jurar por el altar no es nada; pero si uno jura por la ofrenda que está sobre él, queda obligado»."
+        },
+        {
+          "numero": "19",
+          "verso": "¡Ciegos! ¿Qué es más: la ofrenda o el altar que santifica la ofrenda?"
+        },
+        {
+          "numero": "20",
+          "verso": "Por tanto, quien ha jurado por el altar, jura por él y por todo lo que hay sobre él."
+        },
+        {
+          "numero": "21",
+          "verso": "Y quien ha jurado por el Templo, jura por él y por Aquel que en él habita."
+        },
+        {
+          "numero": "22",
+          "verso": "Y quien ha jurado por el cielo, jura por el trono de Dios y por Aquel que en él está sentado."
+        }
+      ]
+    }
+  ]
+}

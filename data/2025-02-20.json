@@ -1,0 +1,143 @@
+{
+  "fecha": "2025-02-20",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Génesis 9:1-13",
+      "lecturaNombreNormalizado": "Gn9,1-13",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Dios bendijo a Noé y a sus hijos, diciéndoles: —Creced, multiplicaos y llenad la tierra."
+        },
+        {
+          "numero": "2",
+          "verso": "Que os tengan temor y miedo todos los animales de la tierra, todas las aves del cielo, todo lo que repta por el suelo, y todos los peces del mar; todo queda en vuestras manos."
+        },
+        {
+          "numero": "3",
+          "verso": "Todo cuanto se mueve y tiene vida os servirá de alimento; lo mismo que os di las hortalizas, todo os lo doy."
+        },
+        {
+          "numero": "4",
+          "verso": "Únicamente no comeréis la carne con su vida, es decir, su sangre."
+        },
+        {
+          "numero": "5",
+          "verso": "Más aún, pediré cuentas de vuestra sangre y de vuestras vidas; se las reclamaré a cualquier animal, y sobre todo, al hombre, a cualquier hermano suyo."
+        },
+        {
+          "numero": "6",
+          "verso": "»Si uno derrama sangre de hombre, otro hombre derramará su sangre;\nporque a imagen de Dios\nfue hecho el hombre."
+        },
+        {
+          "numero": "7",
+          "verso": "»Vosotros, pues, creced y multiplicaos; diseminaos por la tierra y dominadla."
+        },
+        {
+          "numero": "8",
+          "verso": "Dijo Dios a Noé y, con él, a sus hijos:"
+        },
+        {
+          "numero": "9",
+          "verso": "—He aquí que yo establezco mi alianza con vosotros y con vuestra descendencia;"
+        },
+        {
+          "numero": "10",
+          "verso": "con todo ser vivo que esté con vosotros —aves, ganados y todos los animales de la tierra que os acompañan—, con todo lo que ha salido del arca y con todos los vivientes de la tierra."
+        },
+        {
+          "numero": "11",
+          "verso": "Establezco, pues, mi alianza con vosotros: nunca más será exterminada toda carne por las aguas del diluvio, ni habrá más diluvio para destruir la tierra."
+        },
+        {
+          "numero": "12",
+          "verso": "Y añadió Dios: —Ésta es la señal de la alianza que establezco entre yo y vosotros, y todo ser vivo que esté con vosotros, para generaciones perpetuas:"
+        },
+        {
+          "numero": "13",
+          "verso": "Pongo mi arco en las nubes, que servirá de señal de la alianza entre yo y la tierra."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 102:16-21, 29, 22-23",
+      "lecturaNombreNormalizado": "Sal102,16-21,29,22-23",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "Las gentes temerán tu Nombre, Señor, y todos los reyes de la tierra, tu gloria,"
+        },
+        {
+          "numero": "17",
+          "verso": "cuando el Señor reconstruya Sión, y aparezca en su gloria,"
+        },
+        {
+          "numero": "18",
+          "verso": "y atienda la plegaria del necesitado y no desdeñe su oración."
+        },
+        {
+          "numero": "19",
+          "verso": "Que se escriban estas cosas para la generación futura, y el pueblo que será creado alabará al Señor."
+        },
+        {
+          "numero": "20",
+          "verso": "Pues el Señor observa desde lo alto de su santuario, mira desde el cielo hacia la tierra,"
+        },
+        {
+          "numero": "21",
+          "verso": "para escuchar el lamento de los cautivos, y librar a los condenados a muerte;"
+        },
+        {
+          "numero": "22",
+          "verso": "para pregonar en Sión el Nombre del Señor, y su alabanza en Jerusalén,"
+        },
+        {
+          "numero": "23",
+          "verso": "cuando se congreguen juntos los pueblos y los reinos a rendir culto al Señor."
+        },
+        {
+          "numero": "29",
+          "verso": "Los hijos de tus siervos tendrán su morada, y su descendencia estará firme en tu presencia."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 8:27-33",
+      "lecturaNombreNormalizado": "Mc8,27-33",
+      "versos": [
+        {
+          "numero": "27",
+          "verso": "Salió Jesús con sus discípulos hacia las aldeas de Cesarea de Filipo. Y en el camino se puso a preguntar a sus discípulos: —¿Quién dicen los hombres que soy yo?"
+        },
+        {
+          "numero": "28",
+          "verso": "Ellos le contestaron: —Juan el Bautista, y otros que Elías; pero otros que uno de los profetas."
+        },
+        {
+          "numero": "29",
+          "verso": "Entonces él les pregunta: —Y vosotros, ¿quién decís que soy yo?\nLe responde Pedro:\n—Tú eres el Cristo."
+        },
+        {
+          "numero": "30",
+          "verso": "Y les ordenó que no hablasen a nadie sobre esto."
+        },
+        {
+          "numero": "31",
+          "verso": "Y comenzó a enseñarles que el Hijo del Hombre debía padecer mucho, ser rechazado por los ancianos, por los príncipes de los sacerdotes y por los escribas, y ser llevado a la muerte y resucitar después de tres días."
+        },
+        {
+          "numero": "32",
+          "verso": "Hablaba de esto claramente. Pedro, tomándolo aparte, se puso a reprenderle."
+        },
+        {
+          "numero": "33",
+          "verso": "Pero él se volvió y, mirando a sus discípulos, reprendió a Pedro y le dijo: —¡Apártate de mí, Satanás!, porque no sientes las cosas de Dios, sino las de los hombres."
+        }
+      ]
+    }
+  ]
+}

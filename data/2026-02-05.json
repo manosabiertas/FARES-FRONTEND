@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-02-05",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Reyes 2:1-4, 10-12",
+      "lecturaNombreNormalizado": "1Reyes2,1-4,10-12",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Cuando se acercaba el día de su muerte, David dio las siguientes instrucciones a su hijo Salomón:"
+        },
+        {
+          "numero": "2",
+          "verso": "—Yo llego al término de todo lo perecedero. Tú, sé fuerte y pórtate como un hombre;"
+        },
+        {
+          "numero": "3",
+          "verso": "guarda las disposiciones del Señor, tu Dios, caminando por sus sendas, cumpliendo sus leyes y sus mandamientos, sus normas y sus juicios, tal como están escritos en la Ley de Moisés, para que tengas éxito en todo lo que hagas y en cualquier parte a donde te dirijas;"
+        },
+        {
+          "numero": "4",
+          "verso": "y para que el Señor cumpla la promesa que hizo acerca de mí: «Si tus hijos guardan sus caminos andando en mi presencia con sinceridad, con todo su corazón y con toda su alma, entonces no te faltará descendiente en el trono de Israel»."
+        },
+        {
+          "numero": "10",
+          "verso": "David fue a descansar con sus padres y fue sepultado en la Ciudad de David."
+        },
+        {
+          "numero": "11",
+          "verso": "El tiempo que reinó David sobre Israel fue cuarenta años: en Hebrón reinó siete años y en Jerusalén treinta y tres."
+        },
+        {
+          "numero": "12",
+          "verso": "Después Salomón se sentó sobre el trono de su padre David y reafirmó con fuerza su reino."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "1 Crónicas 29:10-12",
+      "lecturaNombreNormalizado": "1Crónicas29,10-12",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "Después David bendijo al Señor en presencia de toda la asamblea diciendo: —¡Bendito seas, Señor, Dios de Israel, nuestro padre,\ndesde siempre y para siempre!"
+        },
+        {
+          "numero": "11",
+          "verso": "Tuya es, Señor, la grandeza y el poder, la gloria, el esplendor y la majestad;\npues tuyo es cuanto hay en el cielo y en la tierra.\nTuyo es el reino, Señor. Tú te elevas\npor encima de todo."
+        },
+        {
+          "numero": "12",
+          "verso": "De ti proceden la riqueza y la gloria. Tú gobiernas todo;\nen tu mano están la fuerza y el poder,\nel crecimiento y la firmeza."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 6:7-13",
+      "lecturaNombreNormalizado": "Mc6,7-13",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Y llamó a los doce y comenzó a enviarlos de dos en dos, dándoles potestad sobre los espíritus impuros."
+        },
+        {
+          "numero": "8",
+          "verso": "Y les mandó que no llevasen nada para el camino, ni pan, ni alforja, ni dinero en la bolsa, sino solamente un bastón;"
+        },
+        {
+          "numero": "9",
+          "verso": "y que fueran calzados con sandalias y que no llevaran dos túnicas."
+        },
+        {
+          "numero": "10",
+          "verso": "Y les decía: —Si entráis en una casa, quedaos allí hasta que salgáis de aquel lugar."
+        },
+        {
+          "numero": "11",
+          "verso": "Y si en algún sitio no os acogen ni os escuchan, al salir de allí sacudíos el polvo de los pies en testimonio contra ellos."
+        },
+        {
+          "numero": "12",
+          "verso": "Se marcharon y predicaron que se convirtieran."
+        },
+        {
+          "numero": "13",
+          "verso": "Y expulsaban muchos demonios, y ungían con aceite a muchos enfermos y los curaban."
+        }
+      ]
+    }
+  ]
+}

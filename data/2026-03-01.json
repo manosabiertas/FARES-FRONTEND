@@ -1,0 +1,122 @@
+{
+  "fecha": "2026-03-01",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Génesis 12:1-4",
+      "lecturaNombreNormalizado": "Gn12,1-4",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El Señor dijo a Abrán: —Vete de tu tierra y de tu patria\ny de casa de tu padre,\na la tierra que yo te mostraré;"
+        },
+        {
+          "numero": "2",
+          "verso": "de ti haré un gran pueblo, te bendeciré,\ny engrandeceré tu nombre\nque servirá de bendición."
+        },
+        {
+          "numero": "3",
+          "verso": "Bendeciré a quienes te bendigan, y maldeciré a quienes te maldigan;\nen ti serán bendecidos\ntodos los pueblos de la tierra."
+        },
+        {
+          "numero": "4",
+          "verso": "Abrán se marchó tal como le había mandado el Señor, y con él fue Lot. Tenía Abrán setenta y cinco años cuando salió de Jarán."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 33:4-5, 18-20, 22",
+      "lecturaNombreNormalizado": "Sal33,4-5,18-20,22",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "La palabra del Señor es recta, y hace con fidelidad todas sus obras."
+        },
+        {
+          "numero": "5",
+          "verso": "Él ama la justicia y el derecho: la tierra está llena de su misericordia."
+        },
+        {
+          "numero": "18",
+          "verso": "Los ojos del Señor velan por quienes le temen, por los que esperan en su misericordia,"
+        },
+        {
+          "numero": "19",
+          "verso": "para librar sus almas de la muerte, y hacerlos subsistir en la penuria."
+        },
+        {
+          "numero": "20",
+          "verso": "Nuestra alma espera en el Señor, Él es nuestro socorro y nuestro escudo;"
+        },
+        {
+          "numero": "22",
+          "verso": "Que tu misericordia, Señor, esté sobre nosotros, que hemos puesto en Ti nuestra esperanza."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "2 Timoteo 1:8-10",
+      "lecturaNombreNormalizado": "2Timoteo1,8-10",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "Así pues, no te avergüences del testimonio de nuestro Señor, ni de mí, su prisionero; al contrario, comparte conmigo los sufrimientos por el Evangelio con fortaleza de Dios,"
+        },
+        {
+          "numero": "9",
+          "verso": "que nos ha salvado y nos ha llamado con una vocación santa, no en razón de nuestras obras, sino por su designio y por la gracia que nos fue concedida por medio de Cristo Jesús desde la eternidad."
+        },
+        {
+          "numero": "10",
+          "verso": "Esta gracia ha sido mostrada ahora mediante la manifestación de Jesucristo nuestro Salvador, que ha destruido la muerte y ha revelado la vida y la inmortalidad por medio del Evangelio,"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 17:1-9",
+      "lecturaNombreNormalizado": "Mt17,1-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Seis días después, Jesús se llevó con él a Pedro, a Santiago y a Juan su hermano, y los condujo a un monte alto, a ellos solos."
+        },
+        {
+          "numero": "2",
+          "verso": "Y se transfiguró ante ellos, de modo que su rostro se puso resplandeciente como el sol, y sus vestidos blancos como la luz."
+        },
+        {
+          "numero": "3",
+          "verso": "En esto, se les aparecieron Moisés y Elías conversando con él."
+        },
+        {
+          "numero": "4",
+          "verso": "Pedro, tomando la palabra, le dijo a Jesús: —Señor, qué bien estamos aquí; si quieres haré aquí tres tiendas: una para ti, otra para Moisés y otra para Elías."
+        },
+        {
+          "numero": "5",
+          "verso": "Todavía estaba hablando, cuando una nube de luz los cubrió y una voz desde la nube dijo: —Éste es mi Hijo, el Amado, en quien me he complacido: escuchadle."
+        },
+        {
+          "numero": "6",
+          "verso": "Los discípulos al oírlo cayeron de bruces llenos de temor."
+        },
+        {
+          "numero": "7",
+          "verso": "Entonces se acercó Jesús y los tocó y les dijo: —Levantaos y no temáis."
+        },
+        {
+          "numero": "8",
+          "verso": "Al alzar sus ojos no vieron a nadie: sólo a Jesús."
+        },
+        {
+          "numero": "9",
+          "verso": "Mientras bajaban del monte, Jesús les ordenó: —No contéis a nadie la visión hasta que el Hijo del Hombre haya resucitado de entre los muertos."
+        }
+      ]
+    }
+  ]
+}

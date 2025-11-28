@@ -1,0 +1,111 @@
+{
+  "fecha": "2026-10-20",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Efesios 2:12-22",
+      "lecturaNombreNormalizado": "Ef2,12-22",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "vivíais entonces sin Cristo, erais ajenos a la ciudadanía de Israel, extraños a las alianzas de la promesa, sin esperanza y sin Dios en el mundo."
+        },
+        {
+          "numero": "13",
+          "verso": "Ahora, sin embargo, por Cristo Jesús, vosotros, que en otro tiempo estabais lejos, habéis sido acercados por la sangre de Cristo."
+        },
+        {
+          "numero": "14",
+          "verso": "En efecto, él es nuestra paz: el que hizo de los dos pueblos uno solo y derribó el muro de la separación, la enemistad,"
+        },
+        {
+          "numero": "15",
+          "verso": "anulando en su carne la ley decretada en los mandamientos. De ese modo creó en sí mismo de los dos un hombre nuevo, estableciendo la paz"
+        },
+        {
+          "numero": "16",
+          "verso": "y reconciliando a ambos con Dios en un solo cuerpo, por medio de la cruz, dando muerte en sí mismo a la enemistad."
+        },
+        {
+          "numero": "17",
+          "verso": "Y en su venida os anunció la paz a vosotros, que estabais lejos, y también la paz a los de cerca,"
+        },
+        {
+          "numero": "18",
+          "verso": "pues por él unos y otros tenemos acceso al Padre en un mismo Espíritu."
+        },
+        {
+          "numero": "19",
+          "verso": "Por lo tanto, ya no sois extraños y advenedizos sino conciudadanos de los santos y miembros de la familia de Dios,"
+        },
+        {
+          "numero": "20",
+          "verso": "edificados sobre el cimiento de los apóstoles y los profetas, siendo piedra angular el mismo Cristo Jesús,"
+        },
+        {
+          "numero": "21",
+          "verso": "sobre quien toda la edificación se alza bien compacta para ser templo santo en el Señor,"
+        },
+        {
+          "numero": "22",
+          "verso": "en quien también vosotros entráis a formar parte del edificio para ser morada de Dios por el Espíritu."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 85:9-14",
+      "lecturaNombreNormalizado": "Sal85,9-14",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "Escucharé lo que dice Dios: el Señor anuncia la paz a su pueblo y a sus fieles,\ncon tal de que no retornen a la necedad."
+        },
+        {
+          "numero": "10",
+          "verso": "En verdad, ya está cerca la salvación para los que le temen,\npara que en nuestra tierra habite la Gloria."
+        },
+        {
+          "numero": "11",
+          "verso": "Misericordia y fidelidad se encontrarán, justicia y paz se besarán."
+        },
+        {
+          "numero": "12",
+          "verso": "De la tierra germinará la fidelidad, desde los cielos despuntará la justicia."
+        },
+        {
+          "numero": "13",
+          "verso": "Porque el Señor otorgará bienes, y nuestra tierra producirá sus frutos."
+        },
+        {
+          "numero": "14",
+          "verso": "Ante Él marchará la justicia, y sus pasos abrirán camino."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 12:35-38",
+      "lecturaNombreNormalizado": "Lc12,35-38",
+      "versos": [
+        {
+          "numero": "35",
+          "verso": "»Tened ceñidas vuestras cinturas y encendidas las lámparas,"
+        },
+        {
+          "numero": "36",
+          "verso": "y estad como quienes aguardan a su amo cuando vuelve de las nupcias, para abrirle al instante en cuanto venga y llame."
+        },
+        {
+          "numero": "37",
+          "verso": "Dichosos aquellos siervos a los que al volver su amo los encuentre vigilando. En verdad os digo que se ceñirá la cintura, les hará sentar a la mesa y acercándose les servirá."
+        },
+        {
+          "numero": "38",
+          "verso": "Y si viniese en la segunda vigilia o en la tercera, y los encontrase así, dichosos ellos."
+        }
+      ]
+    }
+  ]
+}

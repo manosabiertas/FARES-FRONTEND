@@ -1,0 +1,107 @@
+{
+  "fecha": "2025-02-26",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Eclesiástico 4:11-19",
+      "lecturaNombreNormalizado": "Eclo4,11-19",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "La sabiduría exalta a sus hijos, y cuida de los que la buscan."
+        },
+        {
+          "numero": "13",
+          "verso": "Quien la ama, ama la vida, y cuantos madrugan por encontrarla se colmarán de gozo."
+        },
+        {
+          "numero": "14",
+          "verso": "El que la posee heredará la gloria, y, en cualquier empresa, el Señor le bendecirá."
+        },
+        {
+          "numero": "15",
+          "verso": "Los que la veneran darán culto al Santo, y el Señor ama a los que la aman."
+        },
+        {
+          "numero": "16",
+          "verso": "El que la escucha juzga con equidad al pueblo, y el que le presta atención vivirá seguro."
+        },
+        {
+          "numero": "17",
+          "verso": "El que confíe en ella la obtendrá en herencia, y sus descendientes mantendrán su posesión."
+        },
+        {
+          "numero": "18",
+          "verso": "Porque al principio lo conduce por sendas tortuosas:"
+        },
+        {
+          "numero": "19",
+          "verso": "le traerá temor y miedo, le hará sufrir con su disciplina,\n—hasta que tenga él confianza en sí mismo—\ny le pondrá a prueba con sus prescripciones."
+        },
+        {
+          "numero": "20",
+          "verso": "Luego le conducirá a Él por el camino recto, le llenará de alegría,"
+        },
+        {
+          "numero": "21",
+          "verso": "y le revelará sus misterios."
+        },
+        {
+          "numero": "22",
+          "verso": "Pero si se aleja del recto camino, le abandonará y le dejará a merced de su propia ruina."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 119:165, 168, 171-172, 174-175",
+      "lecturaNombreNormalizado": "Sal119,165,168,171-172,174-175",
+      "versos": [
+        {
+          "numero": "165",
+          "verso": "Completa es la paz de los que aman tu Ley, no hay tropiezo para ellos."
+        },
+        {
+          "numero": "168",
+          "verso": "Observo tus mandatos y tus preceptos: todos mis caminos te están presentes."
+        },
+        {
+          "numero": "171",
+          "verso": "Proclamen mis labios tu alabanza, porque me has enseñado tus decretos."
+        },
+        {
+          "numero": "172",
+          "verso": "Cante mi lengua tu palabra, porque justos son todos tus mandatos."
+        },
+        {
+          "numero": "174",
+          "verso": "Anhelo tu salvación, Señor; tu Ley es mi gozo."
+        },
+        {
+          "numero": "175",
+          "verso": "Viva mi alma para alabarte, que me socorran tus juicios."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 9:38-40",
+      "lecturaNombreNormalizado": "Mc9,38-40",
+      "versos": [
+        {
+          "numero": "38",
+          "verso": "Juan le dijo: —Maestro, hemos visto a uno que expulsaba demonios en tu nombre y se lo hemos prohibido, porque no viene con nosotros."
+        },
+        {
+          "numero": "39",
+          "verso": "Jesús contestó: —No se lo prohibáis, pues no hay nadie que haga un milagro en mi nombre y pueda a continuación hablar mal de mí:"
+        },
+        {
+          "numero": "40",
+          "verso": "el que no está contra nosotros, con nosotros está."
+        }
+      ]
+    }
+  ]
+}

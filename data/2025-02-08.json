@@ -1,0 +1,91 @@
+{
+  "fecha": "2025-02-08",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hebreos 13:15-17, 20-21",
+      "lecturaNombreNormalizado": "Heb13,15-17,20-21",
+      "versos": [
+        {
+          "numero": "15",
+          "verso": "Ofrezcamos continuamente a Dios por medio de él un sacrificio de alabanza, es decir, el fruto de los labios que confiesan su nombre."
+        },
+        {
+          "numero": "16",
+          "verso": "No os olvidéis de hacer el bien y de compartir lo vuestro, porque Dios se complace en esa clase de sacrificios."
+        },
+        {
+          "numero": "17",
+          "verso": "Obedeced a vuestros pastores y someteos a ellos —porque velan por vuestras almas como quienes han de rendir cuentas— para que hagan estas cosas con alegría y sin quejarse, pues esto no os convendría."
+        },
+        {
+          "numero": "20",
+          "verso": "El Dios de la paz, que por la sangre de una alianza eterna resucitó de entre los muertos a nuestro Señor Jesús, el gran Pastor de las ovejas,"
+        },
+        {
+          "numero": "21",
+          "verso": "os disponga con todo bien para que cumpláis su voluntad y obre en nosotros lo que es agradable en su presencia, por medio de Jesucristo, a quien sea la gloria por los siglos de los siglos. Amén."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 23:1-6",
+      "lecturaNombreNormalizado": "Sal23,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. De David. El Señor es mi pastor, nada me falta."
+        },
+        {
+          "numero": "2",
+          "verso": "En verdes prados me hace reposar; hacia aguas tranquilas me guía;"
+        },
+        {
+          "numero": "3",
+          "verso": "reconforta mi alma, me conduce por sendas rectas\npor honor de su Nombre."
+        },
+        {
+          "numero": "4",
+          "verso": "Aunque camine por valles oscuros, no temo ningún mal, porque Tú estás conmigo;\ntu vara y tu cayado me sosiegan."
+        },
+        {
+          "numero": "5",
+          "verso": "Preparas una mesa para mí frente a mis adversarios.\nUnges con óleo mi cabeza,\nmi copa rebosa."
+        },
+        {
+          "numero": "6",
+          "verso": "Tu bondad y misericordia me acompañan todos los días de mi vida;\ny habitaré en la Casa del Señor\npor dilatados días."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 6:30-34",
+      "lecturaNombreNormalizado": "Mc6,30-34",
+      "versos": [
+        {
+          "numero": "30",
+          "verso": "Reunidos los apóstoles con Jesús, le explicaron todo lo que habían hecho y enseñado."
+        },
+        {
+          "numero": "31",
+          "verso": "Y les dice: —Venid vosotros solos a un lugar apartado, y descansad un poco.\nPorque eran muchos los que iban y venían, y ni siquiera tenían tiempo para comer."
+        },
+        {
+          "numero": "32",
+          "verso": "Y se marcharon en la barca a un lugar apartado ellos solos."
+        },
+        {
+          "numero": "33",
+          "verso": "Pero los vieron marchar, y muchos los reconocieron. Y desde todas las ciudades, salieron deprisa hacia allí por tierra y llegaron antes que ellos."
+        },
+        {
+          "numero": "34",
+          "verso": "Al desembarcar vio una gran multitud y se llenó de compasión por ella, porque estaban como ovejas que no tienen pastor, y se puso a enseñarles muchas cosas."
+        }
+      ]
+    }
+  ]
+}

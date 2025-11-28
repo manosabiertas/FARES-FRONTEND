@@ -1,0 +1,115 @@
+{
+  "fecha": "2025-12-22",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Samuel 1:24-28",
+      "lecturaNombreNormalizado": "1Samuel1,24-28",
+      "versos": [
+        {
+          "numero": "24",
+          "verso": "Entonces subió con él llevando consigo un novillo de tres años, un efah de flor de harina y un odre de vino; y entró con él en la casa del Señor en Siló. El niño era todavía muy pequeño."
+        },
+        {
+          "numero": "25",
+          "verso": "Cuando inmolaron el novillo y presentaron al muchacho ante Elí,"
+        },
+        {
+          "numero": "26",
+          "verso": "Ana le dijo: —Perdona, señor; por tu vida, señor: yo soy aquella mujer que estuvo aquí en tu presencia implorando al Señor."
+        },
+        {
+          "numero": "27",
+          "verso": "Por este niño rogué y el Señor me ha concedido lo que le pedí."
+        },
+        {
+          "numero": "28",
+          "verso": "Ahora yo se lo devuelvo al Señor para que durante toda su vida esté entregado al Señor. Y adoraron allí al Señor."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "1 Samuel 2:1, 4-8",
+      "lecturaNombreNormalizado": "1Samuel2,1,4-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Entonces Ana recitó esta oración: —Mi corazón exulta en el Señor,\nmi frente se enaltece en el Señor,\nmi boca se ríe de mis enemigos\npues me gozo con tu salvación."
+        },
+        {
+          "numero": "4",
+          "verso": "Se ha quebrado el arco de los héroes y los débiles se han ceñido de vigor."
+        },
+        {
+          "numero": "5",
+          "verso": "Los hartos se alquilan por pan, y los hambrientos han cesado en sus fatigas.\nLa estéril da a luz siete hijos,\ny la que tiene muchos se marchita."
+        },
+        {
+          "numero": "6",
+          "verso": "El Señor da muerte y vida, hace bajar al sheol y de allí los hace retornar."
+        },
+        {
+          "numero": "7",
+          "verso": "El Señor da la pobreza y la riqueza, Él humilla y enaltece."
+        },
+        {
+          "numero": "8",
+          "verso": "Levanta del polvo al indigente, del estiércol levanta al pobre\npara sentarlo con los príncipes\ny hacer que herede un trono de gloria.\nDel Señor son los pilares de la tierra\ny sobre ellos se ha afirmado el orbe."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 1:46-56",
+      "lecturaNombreNormalizado": "Lc1,46-56",
+      "versos": [
+        {
+          "numero": "46",
+          "verso": "María exclamó: —Engrandece mi alma al Señor,"
+        },
+        {
+          "numero": "47",
+          "verso": "y se alegra mi espíritu en Dios mi Salvador:"
+        },
+        {
+          "numero": "48",
+          "verso": "porque ha puesto los ojos en la humildad de su esclava;\npor eso desde ahora me llamarán bienaventurada\ntodas las generaciones."
+        },
+        {
+          "numero": "49",
+          "verso": "Porque ha hecho en mí cosas grandes el Todopoderoso,\ncuyo nombre es Santo;"
+        },
+        {
+          "numero": "50",
+          "verso": "su misericordia se derrama de generación en generación\nsobre los que le temen."
+        },
+        {
+          "numero": "51",
+          "verso": "Manifestó el poder de su brazo, dispersó a los soberbios de corazón."
+        },
+        {
+          "numero": "52",
+          "verso": "Derribó de su trono a los poderosos y ensalzó a los humildes."
+        },
+        {
+          "numero": "53",
+          "verso": "Colmó de bienes a los hambrientos y a los ricos los despidió vacíos."
+        },
+        {
+          "numero": "54",
+          "verso": "Auxilió a Israel su siervo, recordando su misericordia,"
+        },
+        {
+          "numero": "55",
+          "verso": "como había prometido a nuestros padres, Abrahán y su descendencia para siempre."
+        },
+        {
+          "numero": "56",
+          "verso": "María permaneció con ella unos tres meses, y se volvió a su casa."
+        }
+      ]
+    }
+  ]
+}

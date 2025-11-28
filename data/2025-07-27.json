@@ -1,0 +1,174 @@
+{
+  "fecha": "2025-07-27",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Génesis 18:20-32",
+      "lecturaNombreNormalizado": "Gn18,20-32",
+      "versos": [
+        {
+          "numero": "20",
+          "verso": "Y dijo el Señor: —Se ha extendido un gran clamor contra Sodoma y Gomorra, y su pecado es gravísimo;"
+        },
+        {
+          "numero": "21",
+          "verso": "bajaré y veré si han obrado en todo según ese clamor que contra ella ha llegado hasta mí, y si no es así lo sabré."
+        },
+        {
+          "numero": "22",
+          "verso": "Los hombres partieron de allí y se dirigieron a Sodoma, mientras Abrahán permanecía todavía junto al Señor."
+        },
+        {
+          "numero": "23",
+          "verso": "Abrahán se acercó a Dios y le dijo: —¿Vas a destruir al justo con el malvado?"
+        },
+        {
+          "numero": "24",
+          "verso": "Quizá haya cincuenta justos dentro de la ciudad; ¿la vas a destruir?, ¿no la perdonarás en atención a los cincuenta justos que haya dentro de ella?"
+        },
+        {
+          "numero": "25",
+          "verso": "Lejos de ti hacer tal cosa; matar al justo con el malvado, y equiparar al justo y al malvado; lejos de ti. ¿Es que el juez de toda la tierra no va a hacer justicia?"
+        },
+        {
+          "numero": "26",
+          "verso": "El Señor respondió: —Si encuentro en Sodoma cincuenta justos dentro de la ciudad, la perdonaré en atención a ellos."
+        },
+        {
+          "numero": "27",
+          "verso": "Abrahán contestó diciendo: —Soy en verdad un atrevido al hablar a mi Señor, yo que soy polvo y ceniza;"
+        },
+        {
+          "numero": "28",
+          "verso": "quizá falten cinco para los cincuenta justos. ¿Acaso destruirás por cinco toda la ciudad? Dios respondió:\n—No la destruiré si encuentro allí cuarenta y cinco."
+        },
+        {
+          "numero": "29",
+          "verso": "Todavía volvió a hablarle Abrahán diciendo: —Quizá se encuentren allí cuarenta.\nDijo Dios:\n—No lo haré en atención a los cuarenta."
+        },
+        {
+          "numero": "30",
+          "verso": "Continuó Abrahán: —No se enfade mi Señor si sigo hablando; quizá se encuentren allí treinta.\nDijo Dios:\n—No lo haré si encuentro allí treinta."
+        },
+        {
+          "numero": "31",
+          "verso": "Insistió Abrahán: —Soy en verdad un atrevido al hablar a mi Señor; quizá se encuentren sólo veinte.\nContestó Dios:\n—No la destruiré en atención a los veinte."
+        },
+        {
+          "numero": "32",
+          "verso": "Abrahán siguió: —No se enfade mi Señor si hablo una vez más; quizá se encuentren allí diez.\nDios contestó:\n—No la destruiré en atención a los diez."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 138:1-3, 6-8",
+      "lecturaNombreNormalizado": "Sal138,1-3,6-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Te doy gracias, Señor, de todo corazón,\nporque has escuchado las palabras de mi boca.\nDelante de los ángeles entonaré salmos para Ti."
+        },
+        {
+          "numero": "2",
+          "verso": "Me postraré hacia tu Templo santo, y daré gracias a tu Nombre\npor tu misericordia y tu fidelidad,\nporque has engrandecido tu promesa\npor encima de todo nombre."
+        },
+        {
+          "numero": "3",
+          "verso": "El día en que te invoqué, Tú me escuchaste, diste fuerza a mi alma."
+        },
+        {
+          "numero": "6",
+          "verso": "porque el Señor es excelso y se fija en el humilde,\npero al soberbio lo conoce de lejos."
+        },
+        {
+          "numero": "7",
+          "verso": "Si camino entre angustias, me das vida.\nContra la ira de mis enemigos\nextiendes tu mano,\ny tu diestra me salva."
+        },
+        {
+          "numero": "8",
+          "verso": "El Señor concluirá todo en favor mío. Señor, tu misericordia es eterna:\nno abandones la obra de tus manos."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Colosenses 2:12-14",
+      "lecturaNombreNormalizado": "Col2,12-14",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Sepultados con él por medio del Bautismo, también fuisteis resucitados con él mediante la fe en el poder de Dios, que lo resucitó de entre los muertos."
+        },
+        {
+          "numero": "13",
+          "verso": "Y a vosotros, que estabais muertos por los delitos y por la falta de circuncisión de vuestra carne, os vivificó con él, y perdonó gratuitamente todos nuestros delitos,"
+        },
+        {
+          "numero": "14",
+          "verso": "al borrar el pliego de cargos que nos era adverso, y que canceló clavándolo en la cruz."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 11:1-13",
+      "lecturaNombreNormalizado": "Lc11,1-13",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Estaba haciendo oración en cierto lugar. Y cuando terminó, le dijo uno de sus discípulos: —Señor, enséñanos a orar, como Juan enseñó a sus discípulos."
+        },
+        {
+          "numero": "2",
+          "verso": "Él les respondió: —Cuando oréis, decid:\nPadre,\nsantificado sea tu Nombre,\nvenga tu Reino;"
+        },
+        {
+          "numero": "3",
+          "verso": "danos cada día nuestro pan cotidiano;"
+        },
+        {
+          "numero": "4",
+          "verso": "y perdónanos nuestros pecados, puesto que también nosotros perdonamos\na todo el que nos debe;\ny no nos pongas en tentación."
+        },
+        {
+          "numero": "5",
+          "verso": "Y les dijo: —¿Quién de vosotros que tenga un amigo y acuda a él a medianoche y le diga: «Amigo, préstame tres panes,"
+        },
+        {
+          "numero": "6",
+          "verso": "porque un amigo mío me ha llegado de viaje y no tengo qué ofrecerle»,"
+        },
+        {
+          "numero": "7",
+          "verso": "le responderá desde dentro: «No me molestes, ya está cerrada la puerta; los míos y yo estamos acostados; no puedo levantarme a dártelos»?"
+        },
+        {
+          "numero": "8",
+          "verso": "Os digo que, si no se levanta a dárselos por ser su amigo, al menos por su impertinencia se levantará para darle cuanto necesite."
+        },
+        {
+          "numero": "9",
+          "verso": "»Así pues, yo os digo: pedid y se os dará; buscad y encontraréis; llamad y se os abrirá;"
+        },
+        {
+          "numero": "10",
+          "verso": "porque todo el que pide, recibe; y el que busca, encuentra; y al que llama, se le abrirá."
+        },
+        {
+          "numero": "11",
+          "verso": "»¿Qué padre de entre vosotros, si un hijo suyo le pide un pez, en lugar de un pez le da una serpiente?"
+        },
+        {
+          "numero": "12",
+          "verso": "¿O si le pide un huevo, le da un escorpión?"
+        },
+        {
+          "numero": "13",
+          "verso": "Pues si vosotros, siendo malos, sabéis dar a vuestros hijos cosas buenas, ¿cuánto más el Padre del cielo dará el Espíritu Santo a los que se lo pidan?"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "fecha": "2026-02-28",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Deuteronomio 26:16-19",
+      "lecturaNombreNormalizado": "Dt26,16-19",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "»Hoy, el Señor, tu Dios, te ordena poner por obra estas leyes y normas: guárdalas y llévalas a la práctica con todo tu corazón y con toda tu alma."
+        },
+        {
+          "numero": "17",
+          "verso": "»Hoy has hecho comprometerse al Señor que Él será tu Dios, y que tú marcharás por sus caminos y guardarás sus leyes, mandamientos y normas, escuchando su voz."
+        },
+        {
+          "numero": "18",
+          "verso": "El Señor te ha hecho testimoniar hoy que serás el pueblo de su propiedad —como te había dicho— y guardarás todos sus mandatos."
+        },
+        {
+          "numero": "19",
+          "verso": "Él, por su parte, te constituirá como el más excelso en honor, renombre y gloria entre todos los pueblos que Él hizo, para que seas el pueblo consagrado al Señor, tu Dios, según te prometió."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 119:1-2, 4-5, 7-8",
+      "lecturaNombreNormalizado": "Sal119,1-2,4-5,7-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "(Alef) Dichosos los de conducta íntegra, los que caminan en la Ley del Señor."
+        },
+        {
+          "numero": "2",
+          "verso": "Dichosos los que guardan sus preceptos y le buscan de todo corazón;"
+        },
+        {
+          "numero": "4",
+          "verso": "Tú ordenaste tus mandatos para que se observen con cuidado."
+        },
+        {
+          "numero": "5",
+          "verso": "Ojalá estén firmes mis caminos para observar tus preceptos."
+        },
+        {
+          "numero": "7",
+          "verso": "Te alabaré con rectitud de corazón cuando aprenda tus juicios justos."
+        },
+        {
+          "numero": "8",
+          "verso": "Quiero observar tus decretos, nunca me abandones."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 5:43-48",
+      "lecturaNombreNormalizado": "Mt5,43-48",
+      "versos": [
+        {
+          "numero": "43",
+          "verso": "»Habéis oído que se dijo: Amarás a tu prójimo y odiarás a tu enemigo."
+        },
+        {
+          "numero": "44",
+          "verso": "Pero yo os digo: amad a vuestros enemigos y rezad por los que os persigan,"
+        },
+        {
+          "numero": "45",
+          "verso": "para que seáis hijos de vuestro Padre que está en los cielos, que hace salir su sol sobre buenos y malos, y hace llover sobre justos y pecadores."
+        },
+        {
+          "numero": "46",
+          "verso": "Porque si amáis a los que os aman, ¿qué recompensa tenéis? ¿No hacen eso también los publicanos?"
+        },
+        {
+          "numero": "47",
+          "verso": "Y si saludáis solamente a vuestros hermanos, ¿qué hacéis de más? ¿No hacen eso también los paganos?"
+        },
+        {
+          "numero": "48",
+          "verso": "Por eso, sed vosotros perfectos como vuestro Padre celestial es perfecto."
+        }
+      ]
+    }
+  ]
+}

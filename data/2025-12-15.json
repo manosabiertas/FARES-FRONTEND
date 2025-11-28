@@ -1,0 +1,107 @@
+{
+  "fecha": "2025-12-15",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Números 24:2-7, 15-17",
+      "lecturaNombreNormalizado": "Nm24,2-7,15-17",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Balaam levantó sus ojos y vio a Israel acampado por tribus; vino sobre él el espíritu de Dios,"
+        },
+        {
+          "numero": "3",
+          "verso": "y proclamó su mensaje diciendo: —Oráculo de Balaam, hijo de Beor,\noráculo del caballero clarividente,"
+        },
+        {
+          "numero": "4",
+          "verso": "oráculo de quien escucha las locuciones de Dios, vislumbra la previsión del Omnipotente,\nse postra, y contempla clarísimo."
+        },
+        {
+          "numero": "5",
+          "verso": "¡Qué hermosas son tus tiendas, oh Jacob, y tus moradas, Israel!"
+        },
+        {
+          "numero": "6",
+          "verso": "Como valles dilatados, y jardines a la orilla de torrentes,\ncomo áloes del Señor plantados,\ncomo cedros a la vera de las fuentes."
+        },
+        {
+          "numero": "7",
+          "verso": "Rebosan las aguas de sus baldes, las acequias inundan sus simientes.\nSu rey será ensalzado más que Agag,\nsu reino será exaltado."
+        },
+        {
+          "numero": "15",
+          "verso": "Y proclamó su mensaje diciendo: —Oráculo de Balaam, hijo de Beor,\noráculo del caballero clarividente,"
+        },
+        {
+          "numero": "16",
+          "verso": "oráculo de quien escucha las locuciones de Dios, conoce el criterio del Altísimo,\nvislumbra la previsión del Omnipotente,\nse postra, y contempla clarísimo."
+        },
+        {
+          "numero": "17",
+          "verso": "Lo vislumbro, pero no es ahora; lo diviso, pero no de cerca:\nde Jacob viene en camino una estrella,\nen Israel se ha levantado un cetro.\nTritura las sienes de Moab\ny el cráneo de todos los hijos de Set."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 25:4-9",
+      "lecturaNombreNormalizado": "Sal25,4-9",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "(Dálet) Muéstrame, Señor, tus caminos, enséñame tus sendas."
+        },
+        {
+          "numero": "5",
+          "verso": "(He) Hazme caminar en tu fidelidad, instrúyeme, pues Tú eres mi Dios salvador,\n(Vav) y en Ti espero todo el día."
+        },
+        {
+          "numero": "6",
+          "verso": "(Záin) Acuérdate, Señor, de tu misericordia y de tu amor, que son eternos."
+        },
+        {
+          "numero": "7",
+          "verso": "(Het) No recuerdes los pecados y delitos de mi juventud. Acuérdate de mí según tu misericordia,\npor tu bondad, ¡Señor!"
+        },
+        {
+          "numero": "8",
+          "verso": "(Tet) El Señor es bueno y recto; por eso muestra el camino a los pecadores,"
+        },
+        {
+          "numero": "9",
+          "verso": "(Yod) guía a los mansos en la justicia, enseña su camino a los humildes."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 21:23-27",
+      "lecturaNombreNormalizado": "Mt21,23-27",
+      "versos": [
+        {
+          "numero": "23",
+          "verso": "Llegó al Templo, y mientras estaba enseñando se le acercaron los príncipes de los sacerdotes y los ancianos del pueblo, y le preguntaron: —¿Con qué potestad haces estas cosas? ¿Y quién te ha dado tal potestad?"
+        },
+        {
+          "numero": "24",
+          "verso": "Jesús les respondió: —También yo os voy a hacer una pregunta; si me la contestáis, entonces yo os diré con qué potestad hago estas cosas."
+        },
+        {
+          "numero": "25",
+          "verso": "El bautismo de Juan ¿de dónde era?, ¿del cielo o de los hombres? Ellos deliberaban entre sí: «Si decimos que del cielo, nos replicará: “¿Por qué, pues, no le creísteis?”"
+        },
+        {
+          "numero": "26",
+          "verso": "Si decimos que de los hombres, tememos a la gente; pues todos tienen a Juan por profeta»."
+        },
+        {
+          "numero": "27",
+          "verso": "Y respondieron a Jesús: —No lo sabemos.\nEntonces él les dijo:\n—Pues tampoco yo os digo con qué potestad hago estas cosas."
+        }
+      ]
+    }
+  ]
+}

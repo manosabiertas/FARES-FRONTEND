@@ -1,0 +1,91 @@
+{
+  "fecha": "2026-01-27",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Samuel 6:12-15, 17-19",
+      "lecturaNombreNormalizado": "2Samuel6,12-15,17-19",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Comunicaron al rey lo sucedido: —El Señor ha bendecido a Obededom y todo lo suyo por causa del arca de Dios.\nFue entonces David y trasladó con alegría el arca de Dios desde la casa de Obededom hasta la ciudad de David."
+        },
+        {
+          "numero": "13",
+          "verso": "Cuando los que llevaban el arca del Señor avanzaban seis pasos, se ofrecía en sacrificio un buey y un carnero cebado."
+        },
+        {
+          "numero": "14",
+          "verso": "David iba ceñido con el efod de lino y danzaba con todas sus fuerzas ante el Señor."
+        },
+        {
+          "numero": "15",
+          "verso": "David y toda la casa de Israel trasladaban el arca del Señor entre gritos de júbilo y sonar de trompetas."
+        },
+        {
+          "numero": "17",
+          "verso": "Introdujeron el arca del Señor y la colocaron en su sitio en medio de la tienda que David había mandado levantar. David ofreció ante el Señor holocaustos y sacrificios de comunión."
+        },
+        {
+          "numero": "18",
+          "verso": "Y cuando terminó la ofrenda del holocausto y de los sacrificios de comunión, bendijo al pueblo en nombre del Señor de los ejércitos."
+        },
+        {
+          "numero": "19",
+          "verso": "Después repartió a todo el pueblo, a toda la muchedumbre de Israel, hombres y mujeres, una torta de pan, un trozo de carne y un pan de pasas. Y se marcharon todos, cada uno a su casa."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 24:7-10",
+      "lecturaNombreNormalizado": "Sal24,7-10",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "¡Puertas, alzad los dinteles! ¡Elevaos, puertas eternas!,\nque va a entrar el Rey de la Gloria."
+        },
+        {
+          "numero": "8",
+          "verso": "¿Quién es este Rey de la Gloria? El Señor, fuerte y valeroso,\nel Señor valeroso en la guerra."
+        },
+        {
+          "numero": "9",
+          "verso": "¡Puertas, alzad los dinteles! ¡Elevaos, puertas eternas!,\nque va a entrar el Rey de la Gloria."
+        },
+        {
+          "numero": "10",
+          "verso": "¿Quién es este Rey de la Gloria? El Señor de los ejércitos.\n¡Él es el Rey de la Gloria!"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 3:31-35",
+      "lecturaNombreNormalizado": "Mc3,31-35",
+      "versos": [
+        {
+          "numero": "31",
+          "verso": "Vinieron su madre y sus hermanos y, quedándose fuera, enviaron a llamarlo."
+        },
+        {
+          "numero": "32",
+          "verso": "Y estaba sentada a su alrededor una muchedumbre, y le dicen: —Mira, tu madre, tus hermanos y tus hermanas te buscan fuera."
+        },
+        {
+          "numero": "33",
+          "verso": "Y, en respuesta, les dice: —¿Quién es mi madre y quiénes mis hermanos?"
+        },
+        {
+          "numero": "34",
+          "verso": "Y mirando a los que estaban sentados a su alrededor, dice: —Éstos son mi madre y mis hermanos:"
+        },
+        {
+          "numero": "35",
+          "verso": "quien hace la voluntad de Dios, ése es mi hermano y mi hermana y mi madre."
+        }
+      ]
+    }
+  ]
+}

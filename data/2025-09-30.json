@@ -1,0 +1,95 @@
+{
+  "fecha": "2025-09-30",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Zacarías 8:20-23",
+      "lecturaNombreNormalizado": "Zac8,20-23",
+      "versos": [
+        {
+          "numero": "20",
+          "verso": "»Esto dice el Señor de los ejércitos: «Aún han de llegar pueblos y habitantes de grandes ciudades."
+        },
+        {
+          "numero": "21",
+          "verso": "Los que habitan en una irán a otra diciendo: “¡Venga, vayamos a aplacar el rostro del Señor, a buscar al Señor de los ejércitos! ¡Yo también voy!”."
+        },
+        {
+          "numero": "22",
+          "verso": "Y vendrán pueblos numerosos y naciones poderosas a buscar al Señor de los ejércitos en Jerusalén para aplacar el rostro del Señor»."
+        },
+        {
+          "numero": "23",
+          "verso": "»Esto dice el Señor de los ejércitos: «En esos días, cada diez hombres de todas las lenguas de las naciones agarrarán a un judío por una punta del manto diciéndole: “Queremos ir con vosotros, porque hemos oído que Dios está con vosotros”»."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 87:1-7",
+      "lecturaNombreNormalizado": "Sal87,1-7",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De los hijos de Coré. Salmo. Cántico. En los montes santos están sus cimientos."
+        },
+        {
+          "numero": "2",
+          "verso": "El Señor ama las puertas de Sión más que todas las moradas de Jacob."
+        },
+        {
+          "numero": "3",
+          "verso": "¡Grandezas se dicen de ti, ciudad de Dios!"
+        },
+        {
+          "numero": "4",
+          "verso": "Contaré a Rahab y Babilonia entre los que me reconocen.\nFilistea, Tiro y Etiopía\nhan nacido allí."
+        },
+        {
+          "numero": "5",
+          "verso": "Y de Sión se dirá: «Éste hombre y aquél han nacido en ella».\nEl propio Altísimo la erigió."
+        },
+        {
+          "numero": "6",
+          "verso": "El Señor escribirá en el registro de los pueblos: «Éste ha nacido allí»."
+        },
+        {
+          "numero": "7",
+          "verso": "Cantores y músicos entonarán: «En ti están todas mis fuentes»."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 9:51-56",
+      "lecturaNombreNormalizado": "Lc9,51-56",
+      "versos": [
+        {
+          "numero": "51",
+          "verso": "Y cuando iba a cumplirse el tiempo de su ascensión, decidió firmemente marchar hacia Jerusalén."
+        },
+        {
+          "numero": "52",
+          "verso": "Y envió por delante a unos mensajeros, que entraron en una aldea de samaritanos para prepararle hospedaje,"
+        },
+        {
+          "numero": "53",
+          "verso": "pero no le acogieron porque llevaba la intención de ir a Jerusalén."
+        },
+        {
+          "numero": "54",
+          "verso": "Al ver esto, sus discípulos Santiago y Juan le dijeron: —Señor, ¿quieres que digamos que baje fuego del cielo y los consuma?"
+        },
+        {
+          "numero": "55",
+          "verso": "Pero él se volvió hacia ellos y les reprendió."
+        },
+        {
+          "numero": "56",
+          "verso": "Y se fueron a otra aldea."
+        }
+      ]
+    }
+  ]
+}

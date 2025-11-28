@@ -1,0 +1,99 @@
+{
+  "fecha": "2026-02-21",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 58:9-14",
+      "lecturaNombreNormalizado": "Is58,9-14",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "Entonces clamarás, y el Señor te responderá, pedirás socorro, y Él te dirá: «Aquí estoy».\nSi apartas de en medio de ti el yugo,\nel señalar con el dedo,\ny la maledicencia,"
+        },
+        {
+          "numero": "10",
+          "verso": "y ofreces tu propio sustento al hambriento, y sacias el alma afligida,\nentonces tu luz despuntará en las tinieblas\ny tu oscuridad será como el mediodía."
+        },
+        {
+          "numero": "11",
+          "verso": "El Señor te guiará de continuo, saciará tu alma en las regiones áridas,\ndará fuerza a tus huesos,\ny serás como huerto regado,\ncomo manantial\ncuyas aguas no se agotan."
+        },
+        {
+          "numero": "12",
+          "verso": "Reconstruirán los tuyos las ruinas antiguas, alzarás los cimientos por generaciones y generaciones,\ny se te llamará: «Reparador de brechas»,\n«Restaurador de calles donde habitar»."
+        },
+        {
+          "numero": "13",
+          "verso": "Si el sábado retraes tu pie de realizar tus negocios en mi día santo,\ny haces del sábado tus delicias,\npara honrar el día santo del Señor,\ny lo respetas absteniéndote de tus caminos,\nde servir a tus intereses y tratar de tus negocios,"
+        },
+        {
+          "numero": "14",
+          "verso": "entonces te deleitarás en el Señor, te haré cabalgar sobre las alturas de la tierra,\ny te alimentaré de la heredad de Jacob, tu padre.\n—Ha hablado la boca del Señor—."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 86:1-6",
+      "lecturaNombreNormalizado": "Sal86,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Plegaria. De David. Inclina tu oído, Señor, escúchame,\nque soy pobre y desvalido."
+        },
+        {
+          "numero": "2",
+          "verso": "Guarda mi alma, que soy un fiel tuyo. Dios mío, salva a tu siervo que confía en Ti."
+        },
+        {
+          "numero": "3",
+          "verso": "Ten piedad de mí, Señor mío, que te invoco todo el día."
+        },
+        {
+          "numero": "4",
+          "verso": "Alegra la vida de tu siervo, que a Ti, Señor, levanto mi alma."
+        },
+        {
+          "numero": "5",
+          "verso": "Pues Tú, Señor, eres bueno e indulgente, rico en misericordia con los que te invocan."
+        },
+        {
+          "numero": "6",
+          "verso": "Escucha, Señor, mi plegaria, atiende a la voz de mi súplica."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 5:27-32",
+      "lecturaNombreNormalizado": "Lc5,27-32",
+      "versos": [
+        {
+          "numero": "27",
+          "verso": "Después de esto, salió y vio a un publicano, llamado Leví, sentado al telonio, y le dijo: —Sígueme."
+        },
+        {
+          "numero": "28",
+          "verso": "Y, dejadas todas las cosas, se levantó y le siguió."
+        },
+        {
+          "numero": "29",
+          "verso": "Y Leví preparó en su casa un gran banquete para él. Había un gran número de publicanos y de otros que le acompañaban a la mesa."
+        },
+        {
+          "numero": "30",
+          "verso": "Y los fariseos y sus escribas empezaron a murmurar y a decir a los discípulos de Jesús: —¿Por qué coméis y bebéis con publicanos y pecadores?"
+        },
+        {
+          "numero": "31",
+          "verso": "Y respondiendo Jesús les dijo: —No tienen necesidad de médico los sanos, sino los enfermos."
+        },
+        {
+          "numero": "32",
+          "verso": "No he venido a llamar a los justos, sino a los pecadores a la penitencia."
+        }
+      ]
+    }
+  ]
+}

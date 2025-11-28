@@ -1,0 +1,135 @@
+{
+  "fecha": "2025-12-31",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Juan 2:18-21",
+      "lecturaNombreNormalizado": "1Juan2,18-21",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "Hijitos, es la última hora. Habéis oído que tiene que venir el Anticristo: pues bien, ya han aparecido muchos anticristos. Por eso sabemos que es la última hora."
+        },
+        {
+          "numero": "19",
+          "verso": "Salieron de entre nosotros, pero no eran de los nuestros. Porque si hubieran sido de los nuestros, habrían permanecido con nosotros. Pero sucedió así para poner de manifiesto que ninguno de ellos es de los nuestros."
+        },
+        {
+          "numero": "20",
+          "verso": "En cuanto a vosotros, tenéis la unción del Santo; y todos estáis instruidos."
+        },
+        {
+          "numero": "21",
+          "verso": "No os escribo porque ignoréis la verdad, sino porque la conocéis y sabéis que ninguna mentira proviene de la verdad."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 96:1-2, 11-13",
+      "lecturaNombreNormalizado": "Sal96,1-2,11-13",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Cantad al Señor un cántico nuevo, cantad al Señor, la tierra entera."
+        },
+        {
+          "numero": "2",
+          "verso": "Cantad al Señor, bendecid su Nombre, anunciad, día tras día, su salvación."
+        },
+        {
+          "numero": "11",
+          "verso": "Alégrense los cielos y exulte la tierra, brame el mar y cuanto lo llena;"
+        },
+        {
+          "numero": "12",
+          "verso": "que se gocen los campos y cuanto hay en ellos. Entonces exultarán todos los árboles del bosque"
+        },
+        {
+          "numero": "13",
+          "verso": "ante el Señor, que ya viene, que viene a juzgar la tierra:\njuzgará al mundo con justicia\ny a los pueblos con rectitud."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 1:1-18",
+      "lecturaNombreNormalizado": "Jn1,1-18",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "En el principio existía el Verbo, y el Verbo estaba junto a Dios,\ny el Verbo era Dios."
+        },
+        {
+          "numero": "2",
+          "verso": "Él estaba en el principio junto a Dios."
+        },
+        {
+          "numero": "3",
+          "verso": "Todo se hizo por él, y sin él no se hizo nada de cuanto ha sido hecho."
+        },
+        {
+          "numero": "4",
+          "verso": "En él estaba la vida, y la vida era la luz de los hombres."
+        },
+        {
+          "numero": "5",
+          "verso": "Y la luz brilla en las tinieblas, y las tinieblas no la recibieron."
+        },
+        {
+          "numero": "6",
+          "verso": "Hubo un hombre enviado por Dios, que se llamaba Juan."
+        },
+        {
+          "numero": "7",
+          "verso": "Éste vino como testigo, para dar testimonio de la luz,\npara que por él todos creyeran."
+        },
+        {
+          "numero": "8",
+          "verso": "No era él la luz, sino el que debía dar testimonio de la luz."
+        },
+        {
+          "numero": "9",
+          "verso": "El Verbo era la luz verdadera, que ilumina a todo hombre,\nque viene a este mundo."
+        },
+        {
+          "numero": "10",
+          "verso": "En el mundo estaba, y el mundo se hizo por él,\ny el mundo no le conoció."
+        },
+        {
+          "numero": "11",
+          "verso": "Vino a los suyos, y los suyos no le recibieron."
+        },
+        {
+          "numero": "12",
+          "verso": "Pero a cuantos le recibieron les dio la potestad de ser hijos de Dios,\na los que creen en su nombre,"
+        },
+        {
+          "numero": "13",
+          "verso": "que no han nacido de la sangre, ni de la voluntad de la carne,\nni del querer del hombre,\nsino de Dios."
+        },
+        {
+          "numero": "14",
+          "verso": "Y el Verbo se hizo carne, y habitó entre nosotros,\ny hemos visto su gloria,\ngloria como de Unigénito del Padre,\nlleno de gracia y de verdad."
+        },
+        {
+          "numero": "15",
+          "verso": "Juan da testimonio de él y clama: «Éste era de quien yo dije:\n“El que viene después de mí\nha sido antepuesto a mí,\nporque existía antes que yo”»."
+        },
+        {
+          "numero": "16",
+          "verso": "Pues de su plenitud todos hemos recibido,\ny gracia por gracia."
+        },
+        {
+          "numero": "17",
+          "verso": "Porque la Ley fue dada por Moisés; la gracia y la verdad\nvinieron por Jesucristo."
+        },
+        {
+          "numero": "18",
+          "verso": "A Dios nadie lo ha visto jamás; el Unigénito, Dios,\nel que está en el seno del Padre,\nél mismo lo dio a conocer."
+        }
+      ]
+    }
+  ]
+}

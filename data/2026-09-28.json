@@ -1,0 +1,135 @@
+{
+  "fecha": "2026-09-28",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Job 1:6-22",
+      "lecturaNombreNormalizado": "Job1,6-22",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "Sucedió un día que vinieron los ángeles de Dios para presentarse ante el Señor, y vino también Satán entre ellos."
+        },
+        {
+          "numero": "7",
+          "verso": "El Señor dijo a Satán: —¿De dónde vienes?\nÉl respondió:\n—De dar vueltas por la tierra, recorriéndola entera."
+        },
+        {
+          "numero": "8",
+          "verso": "Y le preguntó el Señor: —¿Te has fijado en mi siervo Job? Nadie hay como él en toda la tierra; es íntegro y recto, temeroso de Dios y alejado del mal."
+        },
+        {
+          "numero": "9",
+          "verso": "Satán le contestó: —¿Acaso Job teme a Dios de balde?"
+        },
+        {
+          "numero": "10",
+          "verso": "¿No será porque Tú le rodeas con tu protección a él, a su casa y a todo lo que posee? Tú bendices las obras de sus manos y sus rebaños se multiplican por toda la tierra."
+        },
+        {
+          "numero": "11",
+          "verso": "Bastará con extender tu mano y tocar un poco lo que posee para que te maldiga en tu cara."
+        },
+        {
+          "numero": "12",
+          "verso": "Entonces el Señor dijo a Satán: —Mira, en tus manos dejo cuanto posee. Pero a él no lo toques.\nY Satán salió de la presencia del Señor."
+        },
+        {
+          "numero": "13",
+          "verso": "Un día en que los hijos y las hijas de Job comían y bebían en casa del hermano mayor,"
+        },
+        {
+          "numero": "14",
+          "verso": "se presentó ante Job un mensajero y le dijo: —Estaban los bueyes arando y las asnas pastando al lado,"
+        },
+        {
+          "numero": "15",
+          "verso": "cuando unos sabeos los asaltaron y se los llevaron; pasaron a cuchillo a los criados y sólo yo pude escapar para comunicártelo."
+        },
+        {
+          "numero": "16",
+          "verso": "Estaba todavía hablando cuando llegó otro diciendo: —Un rayo ha caído del cielo, ha abrasado rebaños y criados, y los ha destruido. Sólo yo he podido escapar para comunicártelo."
+        },
+        {
+          "numero": "17",
+          "verso": "Estaba todavía hablando cuando llegó otro diciendo: —Los caldeos divididos en tres grupos se han lanzado sobre los camellos y se los han llevado, pasando a cuchillo a los criados. Sólo yo he podido escapar para comunicártelo."
+        },
+        {
+          "numero": "18",
+          "verso": "Estaba todavía hablando cuando llegó otro diciendo: —Mientras tus hijos y tus hijas estaban comiendo y bebiendo en casa de su hermano mayor,"
+        },
+        {
+          "numero": "19",
+          "verso": "se levantó un viento muy fuerte del desierto y arremetió sobre las cuatro esquinas de la casa, que se derrumbó sobre los jóvenes sepultándolos. Sólo yo he podido escapar para comunicártelo."
+        },
+        {
+          "numero": "20",
+          "verso": "Se levantó Job, se rasgó sus vestiduras, y se rapó la cabeza en señal de duelo. Luego se postró en tierra en adoración"
+        },
+        {
+          "numero": "21",
+          "verso": "y dijo: —Desnudo salí del vientre de mi madre\ny desnudo volveré.\nEl Señor me lo dio, el Señor me lo quitó.\nBendito sea el Nombre del Señor."
+        },
+        {
+          "numero": "22",
+          "verso": "En todo esto Job no pecó ni cometió necedad alguna contra Dios."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 17:1-3, 6-7",
+      "lecturaNombreNormalizado": "Sal17,1-3,6-7",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Oración. De David. Escucha, Señor, mi demanda,\natiende a mi clamor,\npresta oído a mi súplica,\nque en mis labios no hay engaño."
+        },
+        {
+          "numero": "2",
+          "verso": "Que de Ti salga mi sentencia, que vean tus ojos lo que es recto."
+        },
+        {
+          "numero": "3",
+          "verso": "Examina mi corazón, obsérvalo de noche;\npruébame al fuego.\nNo encontrarás malicia en mí;"
+        },
+        {
+          "numero": "6",
+          "verso": "Yo te invoco porque Tú me escuchas, Dios mío. Inclina tu oído hacia mí,\nescucha mis palabras."
+        },
+        {
+          "numero": "7",
+          "verso": "Muestra tu misericordia, Tú que salvas de los adversarios\na los que se refugian en tu diestra."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 9:46-50",
+      "lecturaNombreNormalizado": "Lc9,46-50",
+      "versos": [
+        {
+          "numero": "46",
+          "verso": "Les vino al pensamiento cuál de ellos sería el mayor."
+        },
+        {
+          "numero": "47",
+          "verso": "Pero Jesús, conociendo los pensamientos de sus corazones, acercó a un niño, lo puso a su lado"
+        },
+        {
+          "numero": "48",
+          "verso": "y les dijo: —El que reciba a este niño en mi nombre, a mí me recibe; y quien me recibe a mí, recibe al que me ha enviado: pues el menor entre todos vosotros, ése es el mayor."
+        },
+        {
+          "numero": "49",
+          "verso": "Entonces dijo Juan: —Maestro, hemos visto a uno que expulsaba demonios en tu nombre, y se lo hemos prohibido, porque no viene con nosotros."
+        },
+        {
+          "numero": "50",
+          "verso": "Y Jesús le dijo: —No se lo prohibáis, pues el que no está contra vosotros con vosotros está."
+        }
+      ]
+    }
+  ]
+}

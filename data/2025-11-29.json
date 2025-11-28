@@ -1,0 +1,99 @@
+{
+  "fecha": "2025-11-29",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Eclesiástico 44:1, 10-15",
+      "lecturaNombreNormalizado": "Eclo44,1,10-15",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Hagamos el elogio de los hombres ilustres, de nuestros padres según su generación."
+        },
+        {
+          "numero": "10",
+          "verso": "En cambio, hubo hombres virtuosos, cuyos méritos no se han olvidado."
+        },
+        {
+          "numero": "11",
+          "verso": "En su linaje se transmite una preciosa herencia, sus descendientes."
+        },
+        {
+          "numero": "12",
+          "verso": "Su estirpe permanece fiel a la alianza,"
+        },
+        {
+          "numero": "13",
+          "verso": "y sus hijos gracias a ellos. Su descendencia dura por siempre\ny su gloria no será borrada."
+        },
+        {
+          "numero": "14",
+          "verso": "Sus cuerpos fueron sepultados en paz, y su nombre vive por generaciones."
+        },
+        {
+          "numero": "15",
+          "verso": "Que los pueblos narren su sabiduría y la asamblea proclame su alabanza."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 24:1-6",
+      "lecturaNombreNormalizado": "Sal24,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Salmo. Del Señor es la tierra y cuanto hay en ella,\nel orbe y los que lo habitan."
+        },
+        {
+          "numero": "2",
+          "verso": "Él la cimentó sobre los mares y la asentó sobre los ríos."
+        },
+        {
+          "numero": "3",
+          "verso": "¿Quién podrá subir al monte del Señor? ¿Quién podrá estar en su lugar santo?"
+        },
+        {
+          "numero": "4",
+          "verso": "El de manos inocentes y de corazón puro,\nel que no dirige su alma a la vanidad,\nni jura en falso."
+        },
+        {
+          "numero": "5",
+          "verso": "Él recibirá la bendición del Señor, y la justificación de Dios, su Salvador."
+        },
+        {
+          "numero": "6",
+          "verso": "Tal es la estirpe de quienes le buscan, de los que buscan tu rostro, Dios de Jacob."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 10:17-21",
+      "lecturaNombreNormalizado": "Mc10,17-21",
+      "versos": [
+        {
+          "numero": "17",
+          "verso": "Cuando salía para ponerse en camino, vino uno corriendo y, arrodillado ante él, le preguntó: —Maestro bueno, ¿qué debo hacer para heredar la vida eterna?"
+        },
+        {
+          "numero": "18",
+          "verso": "Jesús le dijo: —¿Por qué me llamas bueno? Nadie es bueno sino uno solo: Dios."
+        },
+        {
+          "numero": "19",
+          "verso": "Ya conoces los mandamientos: no matarás, no cometerás adulterio, no robarás, no dirás falso testimonio, no defraudarás a nadie, honra a tu padre y a tu madre."
+        },
+        {
+          "numero": "20",
+          "verso": "—Maestro, todo esto lo he guardado desde mi juventud —respondió él."
+        },
+        {
+          "numero": "21",
+          "verso": "Y Jesús fijó en él su mirada y lo amó. Y le dijo: —Una cosa te falta: anda, vende todo lo que tienes y dáselo a los pobres, y tendrás un tesoro en el cielo. Luego, ven y sígueme."
+        }
+      ]
+    }
+  ]
+}

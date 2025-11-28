@@ -1,0 +1,127 @@
+{
+  "fecha": "2025-07-28",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Éxodo 32:15-24, 30-34",
+      "lecturaNombreNormalizado": "Ex32,15-24,30-34",
+      "versos": [
+        {
+          "numero": "15",
+          "verso": "Se volvió Moisés y bajó del monte con las dos tablas del Testimonio en su mano; tablas escritas por ambos lados, escritas en una y otra cara."
+        },
+        {
+          "numero": "16",
+          "verso": "Las tablas eran obra de Dios y su escritura, escritura de Dios, grabada en ellas."
+        },
+        {
+          "numero": "17",
+          "verso": "Cuando Josué oyó el intenso griterío del pueblo, dijo a Moisés: —Hay voces de guerra en el campamento."
+        },
+        {
+          "numero": "18",
+          "verso": "Moisés respondió: —No es clamor de quien grita: ¡victoria!\nNo es clamor de quien grita: ¡derrota!\nClamores de cantos rituales\nes lo que percibo."
+        },
+        {
+          "numero": "19",
+          "verso": "Cuando Moisés se acercó al campamento y vio el becerro y las danzas, se inflamó su cólera y arrojó las tablas de su mano, destrozándolas al pie del monte."
+        },
+        {
+          "numero": "20",
+          "verso": "Luego tomó el becerro que habían hecho, lo puso al fuego y lo trituró hasta reducirlo a polvo; después lo esparció en agua y se la dio a beber a los hijos de Israel."
+        },
+        {
+          "numero": "21",
+          "verso": "Y dijo Moisés a Aarón: —¿Qué te ha hecho este pueblo para que le hayas acarreado tan grave pecado?"
+        },
+        {
+          "numero": "22",
+          "verso": "Respondió Aarón: —No se inflame la cólera de mi señor; tú conoces que este pueblo está inclinado al mal."
+        },
+        {
+          "numero": "23",
+          "verso": "Me dijeron: «Haznos un dios que vaya delante de nosotros, pues de ese Moisés que nos sacó del país de Egipto, no sabemos qué ha sido de él»."
+        },
+        {
+          "numero": "24",
+          "verso": "Yo les dije: «¿Quién tiene oro?». Ellos se desprendieron de él y me lo dieron; lo eché al fuego y salió este becerro."
+        },
+        {
+          "numero": "30",
+          "verso": "Al día siguiente Moisés dijo al pueblo: —Habéis cometido un pecado gravísimo, pero subiré hasta el Señor; quizá obtenga el perdón de vuestro pecado."
+        },
+        {
+          "numero": "31",
+          "verso": "Volvió, pues, Moisés hasta el Señor y dijo: —¡Ay! Este pueblo ha cometido un pecado gravísimo, haciéndose un dios de oro."
+        },
+        {
+          "numero": "32",
+          "verso": "Ahora bien, si les perdonaras su pecado… Si no, bórrame a mí del libro que tú has escrito."
+        },
+        {
+          "numero": "33",
+          "verso": "El Señor respondió: —Al que ha pecado contra mí es al que borraré de mi libro."
+        },
+        {
+          "numero": "34",
+          "verso": "Ahora, ve y conduce al pueblo adonde te he indicado; he aquí que mi ángel irá delante de ti; el día de mi visita les pediré cuentas de su pecado."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 106:19-23",
+      "lecturaNombreNormalizado": "Sal106,19-23",
+      "versos": [
+        {
+          "numero": "19",
+          "verso": "Hicieron un becerro en Horeb, se postraron ante un ídolo de fundición."
+        },
+        {
+          "numero": "20",
+          "verso": "Y trocaron su gloria por la imagen de un toro que come hierba."
+        },
+        {
+          "numero": "21",
+          "verso": "Olvidaron a Dios, su Salvador, el que había hecho cosas grandes en Egipto,"
+        },
+        {
+          "numero": "22",
+          "verso": "maravillas en la tierra de Cam, obras terribles en el Mar Rojo."
+        },
+        {
+          "numero": "23",
+          "verso": "Habría mandado aniquilarlos, si Moisés, su elegido,\nno se hubiera puesto en la brecha ante Él\npara apartar su cólera destructora."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 13:31-35",
+      "lecturaNombreNormalizado": "Mt13,31-35",
+      "versos": [
+        {
+          "numero": "31",
+          "verso": "Les propuso otra parábola: —El Reino de los Cielos es como un grano de mostaza que tomó un hombre y lo sembró en su campo;"
+        },
+        {
+          "numero": "32",
+          "verso": "es, sin duda, la más pequeña de todas las semillas, pero cuando ha crecido es la mayor de las hortalizas, y llega a hacerse como un árbol, hasta el punto de que los pájaros del cielo acuden a anidar en sus ramas."
+        },
+        {
+          "numero": "33",
+          "verso": "Les dijo otra parábola: —El Reino de los Cielos es como la levadura que tomó una mujer y la mezcló con tres medidas de harina, hasta que fermentó todo."
+        },
+        {
+          "numero": "34",
+          "verso": "Todas estas cosas habló Jesús a las multitudes con parábolas y no les solía hablar nada sin parábolas,"
+        },
+        {
+          "numero": "35",
+          "verso": "para que se cumpliese lo dicho por medio del Profeta: Abriré mi boca con parábolas,\nproclamaré las cosas que estaban ocultas\ndesde la creación del mundo."
+        }
+      ]
+    }
+  ]
+}

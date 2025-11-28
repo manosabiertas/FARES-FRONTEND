@@ -1,0 +1,138 @@
+{
+  "fecha": "2025-11-30",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 2:1-5",
+      "lecturaNombreNormalizado": "Is2,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Mensaje que vio Isaías, hijo de Amós, acerca de Judá y Jerusalén."
+        },
+        {
+          "numero": "2",
+          "verso": "Sucederá en los últimos días que el monte del Templo del Señor se afirmará en la cumbre de los montes,\nse alzará sobre los collados,\ny afluirán a él todas las naciones."
+        },
+        {
+          "numero": "3",
+          "verso": "Irán muchos pueblos y dirán: «Venid, subamos al monte del Señor,\nal Templo del Dios de Jacob.\nÉl nos instruirá en sus caminos\ny marcharemos por sus senderos,\nporque de Sión saldrá la Ley,\ny de Jerusalén la palabra del Señor»."
+        },
+        {
+          "numero": "4",
+          "verso": "Él juzgará entre las naciones, y dictará sentencia a muchos pueblos.\nDe sus espadas forjarán azadas,\ny de sus lanzas, podaderas.\nNo alzará espada nación contra nación,\nni se adiestrarán más para la guerra."
+        },
+        {
+          "numero": "5",
+          "verso": "¡Casa de Jacob, venid, caminemos a la luz del Señor!"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 122:1-9",
+      "lecturaNombreNormalizado": "Sal122,1-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. De David. Qué alegría cuando me dijeron:\n«¡Vamos a la Casa del Señor!"
+        },
+        {
+          "numero": "2",
+          "verso": "Ya se han parado nuestros pies a tus puertas, Jerusalén»."
+        },
+        {
+          "numero": "3",
+          "verso": "Jerusalén, bien cimentada, ciudad sólida y unida."
+        },
+        {
+          "numero": "4",
+          "verso": "Allí suben las tribus, las tribus del Señor.\nEs un precepto de Israel,\npara alabar el Nombre del Señor."
+        },
+        {
+          "numero": "5",
+          "verso": "Pues allí está la sede de justicia, la sede de la casa de David."
+        },
+        {
+          "numero": "6",
+          "verso": "Pedid la paz para Jerusalén; estén seguros los que te aman."
+        },
+        {
+          "numero": "7",
+          "verso": "Haya paz dentro de tus muros, seguridad en tus casas."
+        },
+        {
+          "numero": "8",
+          "verso": "Por mis hermanos y mis amigos diré: «¡Haya paz dentro de ti!»."
+        },
+        {
+          "numero": "9",
+          "verso": "Por la Casa del Señor, nuestro Dios, buscaré tu bien."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Romanos 13:11-14",
+      "lecturaNombreNormalizado": "Rom13,11-14",
+      "versos": [
+        {
+          "numero": "11",
+          "verso": "Y esto, siendo conscientes del momento presente: porque ya es hora de que despertéis del sueño, pues ahora nuestra salvación está más cerca que cuando abrazamos la fe."
+        },
+        {
+          "numero": "12",
+          "verso": "La noche está avanzada, el día está cerca. Abandonemos, por tanto, las obras de las tinieblas, y revistámonos con las armas de la luz."
+        },
+        {
+          "numero": "13",
+          "verso": "Como en pleno día tenemos que comportarnos honradamente, no en comilonas y borracheras, no en fornicaciones y en desenfrenos, no en contiendas y envidias;"
+        },
+        {
+          "numero": "14",
+          "verso": "al contrario, revestíos del Señor Jesucristo, y no estéis pendientes de la carne para satisfacer sus concupiscencias."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 24:37-44",
+      "lecturaNombreNormalizado": "Mt24,37-44",
+      "versos": [
+        {
+          "numero": "37",
+          "verso": "Lo mismo que en los días de Noé, así será la venida del Hijo del Hombre."
+        },
+        {
+          "numero": "38",
+          "verso": "Pues, como en los días que precedieron al diluvio comían y bebían, tomaban mujer o marido hasta el día mismo en que entró Noé en el arca,"
+        },
+        {
+          "numero": "39",
+          "verso": "y no se dieron cuenta sino cuando llegó el diluvio y los arrebató a todos, así será también la venida del Hijo del Hombre."
+        },
+        {
+          "numero": "40",
+          "verso": "Entonces estarán dos en el campo: uno será tomado y el otro dejado."
+        },
+        {
+          "numero": "41",
+          "verso": "Dos mujeres estarán moliendo en el molino: una será tomada y la otra dejada."
+        },
+        {
+          "numero": "42",
+          "verso": "»Por eso: velad, porque no sabéis en qué día vendrá vuestro Señor."
+        },
+        {
+          "numero": "43",
+          "verso": "Sabed esto: si el dueño de la casa supiera a qué hora de la noche va a llegar el ladrón, estaría ciertamente velando y no dejaría que se horadase su casa."
+        },
+        {
+          "numero": "44",
+          "verso": "Por tanto, estad también vosotros preparados, porque a la hora que menos penséis vendrá el Hijo del Hombre."
+        }
+      ]
+    }
+  ]
+}

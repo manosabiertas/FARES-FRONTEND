@@ -1,0 +1,139 @@
+{
+  "fecha": "2026-01-31",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Samuel 12:1-7, 10-17",
+      "lecturaNombreNormalizado": "2Samuel12,1-7,10-17",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El Señor envió a Natán ante David y cuando llegó a su presencia le dijo: —Había dos hombres en una ciudad, uno rico y otro pobre."
+        },
+        {
+          "numero": "2",
+          "verso": "El rico tenía ovejas y bueyes en abundancia."
+        },
+        {
+          "numero": "3",
+          "verso": "El pobre no tenía más que una corderilla que había comprado y criado; crecía junto a él y con sus hijos, comiendo de su mismo pan, bebiendo de su mismo vaso y durmiendo en su regazo. Era para él como una hija."
+        },
+        {
+          "numero": "4",
+          "verso": "Vino una vez un huésped a casa del rico y le dio pena tomar una de sus ovejas o de sus vacas para honrar al recién llegado; así que robó la corderilla al hombre pobre y se la preparó al viajero."
+        },
+        {
+          "numero": "5",
+          "verso": "Se encendió la ira de David contra aquel hombre y dijo a Natán: —Vive el Señor, que el que haya hecho tal cosa es reo de muerte;"
+        },
+        {
+          "numero": "6",
+          "verso": "y por haber actuado de esa manera, sin tener compasión, habrá de pagar cuatro veces por la corderilla."
+        },
+        {
+          "numero": "7",
+          "verso": "Dijo entonces Natán a David: —Tú eres ese hombre. Así dice el Señor, Dios de Israel: «Yo te he ungido como rey de Israel; Yo te he librado de la mano de Saúl;"
+        },
+        {
+          "numero": "10",
+          "verso": "Por todo esto, por haberme despreciado y haber tomado como esposa la mujer de Urías, el hitita, la espada no se apartará nunca de tu casa»."
+        },
+        {
+          "numero": "11",
+          "verso": "Así dice el Señor: «Suscitaré el mal en tu casa; ante tus ojos te quitaré tus mujeres y se las daré a otro que dormirá con ellas a la luz del sol que vemos."
+        },
+        {
+          "numero": "12",
+          "verso": "Tú lo has hecho en secreto. Yo lo haré a la vista de todo Israel y a la luz del sol»."
+        },
+        {
+          "numero": "13",
+          "verso": "David dijo a Natán: —He pecado contra el Señor.\nNatán le respondió:\n—El Señor ya ha perdonado tu pecado. No morirás."
+        },
+        {
+          "numero": "14",
+          "verso": "Pero, por haber ofendido al Señor con esta acción, el hijo que te ha nacido morirá."
+        },
+        {
+          "numero": "15",
+          "verso": "Y Natán se volvió a su casa. El Señor hirió al niño que la mujer de Urías le había dado a David, y cayó gravemente enfermo."
+        },
+        {
+          "numero": "16",
+          "verso": "David rogó al Señor por el niño, ayunó y se encerró pasando las noches acostado en el suelo."
+        },
+        {
+          "numero": "17",
+          "verso": "Los ancianos de su casa le insistían para que se levantara del suelo, pero él no quiso y no probó bocado con ellos."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 51:12-17",
+      "lecturaNombreNormalizado": "Sal51,12-17",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Crea en mí, Dios mío, un corazón puro, y renueva en mi interior un espíritu firme."
+        },
+        {
+          "numero": "13",
+          "verso": "No me arrojes de tu presencia, ni me retires tu santo Espíritu."
+        },
+        {
+          "numero": "14",
+          "verso": "Devuélveme el gozo de tu salvación y afírmame con un espíritu noble."
+        },
+        {
+          "numero": "15",
+          "verso": "Enseñaré a los malvados tus caminos, y se convertirán a Ti los pecadores."
+        },
+        {
+          "numero": "16",
+          "verso": "Líbrame de la sangre, Dios mío, Dios de mi salvación;\nmi lengua anunciará tu justicia."
+        },
+        {
+          "numero": "17",
+          "verso": "Señor, abre mis labios y mi boca proclamará tu alabanza."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 4:35-41",
+      "lecturaNombreNormalizado": "Mc4,35-41",
+      "versos": [
+        {
+          "numero": "35",
+          "verso": "Aquel día, llegada la tarde, les dice: —Crucemos a la otra orilla."
+        },
+        {
+          "numero": "36",
+          "verso": "Y, despidiendo a la muchedumbre, le llevaron en la barca tal como estaba. Y le acompañaban otras barcas."
+        },
+        {
+          "numero": "37",
+          "verso": "Y se levantó una gran tempestad de viento, y las olas se echaban encima de la barca, hasta el punto de que la barca ya se inundaba."
+        },
+        {
+          "numero": "38",
+          "verso": "Él estaba en la popa durmiendo sobre un cabezal. Entonces le despiertan, y le dicen: —Maestro, ¿no te importa que perezcamos?"
+        },
+        {
+          "numero": "39",
+          "verso": "Y, puesto en pie, increpó al viento y dijo al mar: —¡Calla, enmudece!\nY se calmó el viento y sobrevino una gran calma."
+        },
+        {
+          "numero": "40",
+          "verso": "Entonces les dijo: —¿Por qué os asustáis? ¿Todavía no tenéis fe?"
+        },
+        {
+          "numero": "41",
+          "verso": "Y se llenaron de gran temor y se decían unos a otros: —¿Quién es éste, que hasta el viento y el mar le obedecen?"
+        }
+      ]
+    }
+  ]
+}

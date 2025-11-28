@@ -1,0 +1,127 @@
+{
+  "fecha": "2026-05-12",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hechos 16:22-34",
+      "lecturaNombreNormalizado": "Hch16,22-34",
+      "versos": [
+        {
+          "numero": "22",
+          "verso": "La multitud se alborotó contra ellos y los pretores les hicieron quitarse la ropa y mandaron azotarles."
+        },
+        {
+          "numero": "23",
+          "verso": "Después de haberles dado numerosos azotes, los arrojaron en la cárcel y ordenaron al carcelero custodiarlos con todo cuidado."
+        },
+        {
+          "numero": "24",
+          "verso": "Éste, recibida la orden, los metió en el calabozo interior y les sujetó los pies al cepo."
+        },
+        {
+          "numero": "25",
+          "verso": "A eso de la medianoche Pablo y Silas se pusieron a orar y a entonar alabanzas a Dios, mientras los presos les escuchaban."
+        },
+        {
+          "numero": "26",
+          "verso": "De repente se produjo un terremoto tan fuerte, que se conmovieron los cimientos de la cárcel, e inmediatamente se abrieron todas las puertas y se soltaron las cadenas de todos."
+        },
+        {
+          "numero": "27",
+          "verso": "Se despertó el jefe de la prisión, y al ver abiertas las puertas de la cárcel sacó la espada y quería matarse pensando que los presos se habían fugado."
+        },
+        {
+          "numero": "28",
+          "verso": "Pero Pablo le gritó con fuerte voz: —¡No te hagas ningún daño, que estamos todos aquí!"
+        },
+        {
+          "numero": "29",
+          "verso": "El jefe de la prisión pidió una luz, entró precipitadamente y temblando se arrojó ante Pablo y Silas."
+        },
+        {
+          "numero": "30",
+          "verso": "Los sacó fuera y les dijo: —Señores, ¿qué debo hacer para salvarme?"
+        },
+        {
+          "numero": "31",
+          "verso": "Ellos le contestaron: —Cree en el Señor Jesús y te salvarás tú y tu casa."
+        },
+        {
+          "numero": "32",
+          "verso": "Le predicaron entonces la palabra del Señor a él y a todos los de su casa."
+        },
+        {
+          "numero": "33",
+          "verso": "En aquella hora de la noche los tomó consigo, les lavó las heridas y acto seguido se bautizaron él y todos los suyos."
+        },
+        {
+          "numero": "34",
+          "verso": "Les hizo subir a su casa, les preparó la mesa y se regocijó con toda su familia por haber creído en Dios."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 138:1-3, 7-8",
+      "lecturaNombreNormalizado": "Sal138,1-3,7-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Te doy gracias, Señor, de todo corazón,\nporque has escuchado las palabras de mi boca.\nDelante de los ángeles entonaré salmos para Ti."
+        },
+        {
+          "numero": "2",
+          "verso": "Me postraré hacia tu Templo santo, y daré gracias a tu Nombre\npor tu misericordia y tu fidelidad,\nporque has engrandecido tu promesa\npor encima de todo nombre."
+        },
+        {
+          "numero": "3",
+          "verso": "El día en que te invoqué, Tú me escuchaste, diste fuerza a mi alma."
+        },
+        {
+          "numero": "7",
+          "verso": "Si camino entre angustias, me das vida.\nContra la ira de mis enemigos\nextiendes tu mano,\ny tu diestra me salva."
+        },
+        {
+          "numero": "8",
+          "verso": "El Señor concluirá todo en favor mío. Señor, tu misericordia es eterna:\nno abandones la obra de tus manos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 16:5-11",
+      "lecturaNombreNormalizado": "Jn16,5-11",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "Ahora voy a quien me envió y ninguno de vosotros me pregunta: «¿Adónde vas?»"
+        },
+        {
+          "numero": "6",
+          "verso": "Pero porque os he dicho esto, vuestro corazón se ha llenado de tristeza;"
+        },
+        {
+          "numero": "7",
+          "verso": "pero yo os digo la verdad: os conviene que me vaya, porque si no me voy, el Paráclito no vendrá a vosotros. En cambio, si yo me voy, os lo enviaré."
+        },
+        {
+          "numero": "8",
+          "verso": "Y cuando venga Él, acusará al mundo de pecado, de justicia y de juicio:"
+        },
+        {
+          "numero": "9",
+          "verso": "de pecado, porque no creen en mí;"
+        },
+        {
+          "numero": "10",
+          "verso": "de justicia, porque me voy al Padre y ya no me veréis;"
+        },
+        {
+          "numero": "11",
+          "verso": "de juicio, porque el príncipe de este mundo ya está juzgado."
+        }
+      ]
+    }
+  ]
+}

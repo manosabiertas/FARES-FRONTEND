@@ -1,0 +1,91 @@
+{
+  "fecha": "2025-01-04",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Juan 3:7-10",
+      "lecturaNombreNormalizado": "1Juan3,7-10",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Hijos: que nadie os engañe. El que obra la justicia es justo, como él es justo."
+        },
+        {
+          "numero": "8",
+          "verso": "El que comete pecado, es del diablo, porque el diablo peca desde el principio. Para esto se manifestó el Hijo de Dios: para destruir las obras del diablo."
+        },
+        {
+          "numero": "9",
+          "verso": "Todo el que ha nacido de Dios no peca, porque el germen divino permanece en él; no puede pecar porque ha nacido de Dios."
+        },
+        {
+          "numero": "10",
+          "verso": "En esto se distinguen los hijos de Dios y los hijos del diablo: todo el que no obra la justicia no es de Dios, ni tampoco el que no ama a su hermano."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 98:1, 7-9",
+      "lecturaNombreNormalizado": "Sal98,1,7-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. Cantad al Señor un cántico nuevo\nporque ha hecho maravillas.\nSu diestra le ha salvado,\nsu santo brazo."
+        },
+        {
+          "numero": "7",
+          "verso": "Brame el mar y cuanto lo llena, el orbe y sus habitantes."
+        },
+        {
+          "numero": "8",
+          "verso": "Aplaudan los ríos, festejen a una las montañas"
+        },
+        {
+          "numero": "9",
+          "verso": "ante el Señor, que ya viene a juzgar la tierra: juzgará al orbe con justicia,\ny a los pueblos con rectitud."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 1:35-42",
+      "lecturaNombreNormalizado": "Jn1,35-42",
+      "versos": [
+        {
+          "numero": "35",
+          "verso": "Al día siguiente estaban allí de nuevo Juan y dos de sus discípulos"
+        },
+        {
+          "numero": "36",
+          "verso": "y, fijándose en Jesús que pasaba, dijo: —Éste es el Cordero de Dios."
+        },
+        {
+          "numero": "37",
+          "verso": "Los dos discípulos, al oírle hablar así, siguieron a Jesús."
+        },
+        {
+          "numero": "38",
+          "verso": "Se volvió Jesús y, viendo que le seguían, les preguntó: —¿Qué buscáis?\nEllos le dijeron:\n—Rabbí —que significa: «Maestro»—, ¿dónde vives?"
+        },
+        {
+          "numero": "39",
+          "verso": "Les respondió: —Venid y veréis.\nFueron y vieron dónde vivía, y se quedaron con él aquel día. Era más o menos la hora décima."
+        },
+        {
+          "numero": "40",
+          "verso": "Andrés, el hermano de Simón Pedro, era uno de los dos que habían oído a Juan y habían seguido a Jesús."
+        },
+        {
+          "numero": "41",
+          "verso": "Encontró primero a su hermano Simón y le dijo: —Hemos encontrado al Mesías —que significa: «Cristo»."
+        },
+        {
+          "numero": "42",
+          "verso": "Y lo llevó a Jesús. Jesús le miró y le dijo: —Tú eres Simón, el hijo de Juan; tú te llamarás Cefas —que significa: «Piedra»."
+        }
+      ]
+    }
+  ]
+}

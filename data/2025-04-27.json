@@ -1,0 +1,174 @@
+{
+  "fecha": "2025-04-27",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hechos 5:12-16",
+      "lecturaNombreNormalizado": "Hch5,12-16",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Por mano de los apóstoles se obraban muchos milagros y prodigios entre el pueblo. Se reunían todos con un mismo espíritu en el pórtico de Salomón;"
+        },
+        {
+          "numero": "13",
+          "verso": "pero ninguno de los demás se atrevía a unirse a ellos, aunque el pueblo los alababa."
+        },
+        {
+          "numero": "14",
+          "verso": "Se adherían cada vez más creyentes en el Señor, multitud de hombres y de mujeres,"
+        },
+        {
+          "numero": "15",
+          "verso": "hasta el punto de que sacaban los enfermos a las plazas y los ponían en lechos y camillas para que, al pasar Pedro, al menos su sombra alcanzase a alguno de ellos."
+        },
+        {
+          "numero": "16",
+          "verso": "Acudía también mucha gente de las ciudades vecinas a Jerusalén, traían enfermos y poseídos por espíritus impuros, y todos ellos eran curados."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 118:2-4, 13-15, 22-24",
+      "lecturaNombreNormalizado": "Sal118,2-4,13-15,22-24",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Diga Israel: «El Señor es bueno. Eterna es su misericordia»."
+        },
+        {
+          "numero": "3",
+          "verso": "Diga la casa de Aarón: «Eterna es su misericordia»."
+        },
+        {
+          "numero": "4",
+          "verso": "Digan los que temen al Señor: «Eterna es su misericordia»."
+        },
+        {
+          "numero": "13",
+          "verso": "Me empujaban con violencia para hacerme caer, pero el Señor me socorrió."
+        },
+        {
+          "numero": "14",
+          "verso": "El Señor es mi fuerza y mi vigor, Él es mi salvación."
+        },
+        {
+          "numero": "15",
+          "verso": "Gritos de júbilo y de victoria hay en las tiendas de los justos:\n«La diestra del Señor hace proezas;"
+        },
+        {
+          "numero": "22",
+          "verso": "La piedra que desecharon los constructores ésta ha llegado a ser la piedra angular."
+        },
+        {
+          "numero": "23",
+          "verso": "Es el Señor quien ha hecho esto y es admirable a nuestros ojos."
+        },
+        {
+          "numero": "24",
+          "verso": "Éste es el día que hizo el Señor, exultemos y alegrémonos en él."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Apocalipsis 1:9-13, 17-19",
+      "lecturaNombreNormalizado": "Ap1,9-13,17-19",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "Yo, Juan, vuestro hermano que comparte con vosotros la tribulación, el reino y la paciencia en Jesús, estuve en la isla que se llama Patmos, por causa de la palabra de Dios y del testimonio de Jesús."
+        },
+        {
+          "numero": "10",
+          "verso": "Caí en éxtasis un domingo y oí detrás de mí una gran voz, como una trompeta,"
+        },
+        {
+          "numero": "11",
+          "verso": "que decía: —Escribe en un libro lo que ves y envíaselo a las siete iglesias: a Éfeso, a Esmirna, a Pérgamo, a Tiatira, a Sardes, a Filadelfia y a Laodicea."
+        },
+        {
+          "numero": "12",
+          "verso": "Me volví para ver quién me hablaba; y al volverme, vi siete candelabros de oro,"
+        },
+        {
+          "numero": "13",
+          "verso": "y en medio de los candelabros como un Hijo de hombre, vestido con una túnica hasta los pies, y ceñido el pecho con una banda de oro."
+        },
+        {
+          "numero": "17",
+          "verso": "Al verle, caí a sus pies como muerto. Él, entonces, puso la mano derecha sobre mí, diciendo: —¡No temas! Yo soy el primero y el último,"
+        },
+        {
+          "numero": "18",
+          "verso": "el que vive; estuve muerto pero ahora estoy vivo por los siglos de los siglos, y tengo las llaves de la muerte y del hades."
+        },
+        {
+          "numero": "19",
+          "verso": "Escribe, por eso, lo que has visto, tanto lo presente como lo que va a suceder después."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 20:19-31",
+      "lecturaNombreNormalizado": "Jn20,19-31",
+      "versos": [
+        {
+          "numero": "19",
+          "verso": "Al atardecer de aquel día, el siguiente al sábado, con las puertas del lugar donde se habían reunido los discípulos cerradas por miedo a los judíos, vino Jesús, se presentó en medio de ellos y les dijo: —La paz esté con vosotros."
+        },
+        {
+          "numero": "20",
+          "verso": "Y dicho esto les mostró las manos y el costado. Al ver al Señor, los discípulos se alegraron."
+        },
+        {
+          "numero": "21",
+          "verso": "Les repitió: —La paz esté con vosotros. Como el Padre me envió, así os envío yo."
+        },
+        {
+          "numero": "22",
+          "verso": "Dicho esto sopló sobre ellos y les dijo: —Recibid el Espíritu Santo;"
+        },
+        {
+          "numero": "23",
+          "verso": "a quienes les perdonéis los pecados, les son perdonados; a quienes se los retengáis, les son retenidos."
+        },
+        {
+          "numero": "24",
+          "verso": "Tomás, uno de los doce, llamado Dídimo, no estaba con ellos cuando vino Jesús."
+        },
+        {
+          "numero": "25",
+          "verso": "Los otros discípulos le dijeron: —¡Hemos visto al Señor!\nPero él les respondió:\n—Si no le veo en las manos la marca de los clavos, y no meto mi dedo en esa marca de los clavos y meto mi mano en el costado, no creeré."
+        },
+        {
+          "numero": "26",
+          "verso": "A los ocho días, estaban otra vez dentro sus discípulos y Tomás con ellos. Aunque estaban las puertas cerradas, vino Jesús, se presentó en medio y dijo: —La paz esté con vosotros."
+        },
+        {
+          "numero": "27",
+          "verso": "Después le dijo a Tomás: —Trae aquí tu dedo y mira mis manos, y trae tu mano y métela en mi costado, y no seas incrédulo sino creyente."
+        },
+        {
+          "numero": "28",
+          "verso": "Respondió Tomás y le dijo: —¡Señor mío y Dios mío!"
+        },
+        {
+          "numero": "29",
+          "verso": "Jesús contestó: —Porque me has visto has creído; bienaventurados los que sin haber visto hayan creído."
+        },
+        {
+          "numero": "30",
+          "verso": "Muchos otros signos hizo también Jesús en presencia de sus discípulos, que no han sido escritos en este libro."
+        },
+        {
+          "numero": "31",
+          "verso": "Sin embargo, éstos han sido escritos para que creáis que Jesús es el Cristo, el Hijo de Dios, y para que creyendo tengáis vida en su nombre."
+        }
+      ]
+    }
+  ]
+}

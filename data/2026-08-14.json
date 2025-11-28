@@ -1,0 +1,99 @@
+{
+  "fecha": "2026-08-14",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Juan 3:13-18",
+      "lecturaNombreNormalizado": "1Juan3,13-18",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "No os extrañéis, hermanos, si el mundo os aborrece."
+        },
+        {
+          "numero": "14",
+          "verso": "Nosotros sabemos que hemos pasado de la muerte a la vida, porque amamos a nuestros hermanos. El que no ama permanece en la muerte."
+        },
+        {
+          "numero": "15",
+          "verso": "Todo el que aborrece a su hermano es un homicida; y sabéis que ningún homicida tiene en sí la vida eterna."
+        },
+        {
+          "numero": "16",
+          "verso": "En esto hemos conocido el amor: en que él dio su vida por nosotros. Por eso también nosotros debemos dar la vida por nuestros hermanos."
+        },
+        {
+          "numero": "17",
+          "verso": "Si alguno posee bienes de este mundo y, viendo que su hermano padece necesidad, le cierra su corazón, ¿cómo puede permanecer en él el amor a Dios?"
+        },
+        {
+          "numero": "18",
+          "verso": "Hijos, no amemos de palabra ni con la boca, sino con obras y de verdad."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 116:10-13, 16-17",
+      "lecturaNombreNormalizado": "Sal116,10-13,16-17",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "Yo mantenía la fe, aun cuando dije: «Soy muy desdichado»."
+        },
+        {
+          "numero": "11",
+          "verso": "Yo, que en mi turbación decía: «Todo hombre es falaz»."
+        },
+        {
+          "numero": "12",
+          "verso": "¿Cómo pagaré al Señor todo el bien que me ha dado?"
+        },
+        {
+          "numero": "13",
+          "verso": "Alzaré la copa de la salvación e invocaré el Nombre del Señor."
+        },
+        {
+          "numero": "16",
+          "verso": "¡Ah, Señor, yo soy tu siervo, tu siervo soy, el hijo de tu esclava!\nTú has soltado mis cadenas."
+        },
+        {
+          "numero": "17",
+          "verso": "Te ofreceré un sacrificio de acción de gracias, e invocaré el Nombre del Señor."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 15:12-17",
+      "lecturaNombreNormalizado": "Jn15,12-17",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Éste es mi mandamiento: que os améis los unos a los otros como yo os he amado."
+        },
+        {
+          "numero": "13",
+          "verso": "Nadie tiene amor más grande que el de dar uno la vida por sus amigos."
+        },
+        {
+          "numero": "14",
+          "verso": "Vosotros sois mis amigos si hacéis lo que os mando."
+        },
+        {
+          "numero": "15",
+          "verso": "Ya no os llamo siervos, porque el siervo no sabe lo que hace su señor; a vosotros, en cambio, os he llamado amigos, porque todo lo que oí de mi Padre os lo he hecho conocer."
+        },
+        {
+          "numero": "16",
+          "verso": "No me habéis elegido vosotros a mí, sino que yo os he elegido a vosotros, y os he destinado para que vayáis y deis fruto, y vuestro fruto permanezca, para que todo lo que pidáis al Padre en mi nombre os lo conceda."
+        },
+        {
+          "numero": "17",
+          "verso": "Esto os mando: que os améis los unos a los otros."
+        }
+      ]
+    }
+  ]
+}

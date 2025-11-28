@@ -1,0 +1,111 @@
+{
+  "fecha": "2026-09-24",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Eclesiastés 1:2-11",
+      "lecturaNombreNormalizado": "Ecl1,2-11",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "¡Vanidad de vanidades —dice Qohélet—,\nvanidad de vanidades, todo es vanidad!"
+        },
+        {
+          "numero": "3",
+          "verso": "¿Qué ventaja saca el hombre de todo lo que trabaja bajo el sol?"
+        },
+        {
+          "numero": "4",
+          "verso": "Generación va y generación viene, pero la tierra permanece siempre."
+        },
+        {
+          "numero": "5",
+          "verso": "Sale el sol, y llega el sol jadeando al lugar de donde sale."
+        },
+        {
+          "numero": "6",
+          "verso": "Marcha hacia el sur, gira hacia el norte, el viento va dando rodeos y más rodeos,\nrevolviéndose el viento sobre sí mismo."
+        },
+        {
+          "numero": "7",
+          "verso": "Todos los torrentes van al mar, pero el mar no se llena, por el cauce por el que discurren los torrentes, vuelven a correr."
+        },
+        {
+          "numero": "8",
+          "verso": "Todas las cosas requieren esfuerzo. Nadie puede decir que\nno se sacia el ojo de ver ni se harta el oído de escuchar."
+        },
+        {
+          "numero": "9",
+          "verso": "Lo que fue es lo que será.\nLo que se hizo\nes lo que se hará.\nNada hay nuevo bajo el sol."
+        },
+        {
+          "numero": "10",
+          "verso": "Cuando de algo se dice: «Mira, esto es nuevo», ya existía en los siglos que nos precedieron."
+        },
+        {
+          "numero": "11",
+          "verso": "Nadie se acuerda de los antepasados, ni de los que vengan después se acordará\nninguno de sus sucesores."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 90:3-6, 12-14, 17",
+      "lecturaNombreNormalizado": "Sal90,3-6,12-14,17",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Al polvo haces volver al hombre, diciendo: «Volved, hijos de Adán»."
+        },
+        {
+          "numero": "4",
+          "verso": "Pues mil años a tus ojos son como un día de ayer, que pasó,\ncomo una vigilia de la noche."
+        },
+        {
+          "numero": "5",
+          "verso": "Tú los arrastras, son un sueño al amanecer, como hierba que brota:"
+        },
+        {
+          "numero": "6",
+          "verso": "por la mañana florece y crece, por la tarde es segada, y se seca."
+        },
+        {
+          "numero": "12",
+          "verso": "Enséñanos a llevar buena cuenta de nuestros días, para que logremos un corazón sabio."
+        },
+        {
+          "numero": "13",
+          "verso": "¡Vuélvete, Señor! ¿Hasta cuándo…? Ten piedad con tus siervos."
+        },
+        {
+          "numero": "14",
+          "verso": "Sácianos de mañana con tu misericordia, exultaremos y nos alegraremos todos nuestros días."
+        },
+        {
+          "numero": "17",
+          "verso": "El esplendor del Señor, nuestro Dios, esté con nosotros. Haz prósperas las obras de nuestras manos,\nlas obras de nuestras manos hazlas prósperas."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 9:7-9",
+      "lecturaNombreNormalizado": "Lc9,7-9",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "El tetrarca Herodes oyó todo lo que ocurría y estaba perplejo, porque unos decían que Juan había resucitado de entre los muertos,"
+        },
+        {
+          "numero": "8",
+          "verso": "otros que Elías había aparecido, otros que había resucitado alguno de los antiguos profetas."
+        },
+        {
+          "numero": "9",
+          "verso": "Y dijo Herodes: —A Juan lo he decapitado yo, ¿quién es, entonces, éste del que oigo tales cosas?\nY deseaba verlo."
+        }
+      ]
+    }
+  ]
+}

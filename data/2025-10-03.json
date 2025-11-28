@@ -1,0 +1,103 @@
+{
+  "fecha": "2025-10-03",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Baruc 1:15-22",
+      "lecturaNombreNormalizado": "Bar1,15-22",
+      "versos": [
+        {
+          "numero": "15",
+          "verso": "»Diréis así: «Al Señor, Dios nuestro, la justicia; a nosotros, en cambio, la vergüenza en los rostros, como acontece hoy a los hombres de Judá y a los habitantes de Jerusalén,"
+        },
+        {
+          "numero": "16",
+          "verso": "a nuestros reyes y gobernantes, a nuestros sacerdotes, a nuestros profetas y a nuestros padres;"
+        },
+        {
+          "numero": "17",
+          "verso": "porque hemos pecado contra el Señor,"
+        },
+        {
+          "numero": "18",
+          "verso": "no hemos creído en Él, ni hemos escuchado la voz del Señor, Dios nuestro, para caminar según los mandamientos del Señor que promulgó en presencia nuestra."
+        },
+        {
+          "numero": "19",
+          "verso": "»Desde el día en que el Señor sacó a nuestros padres de la tierra de Egipto hasta hoy hemos sido incrédulos con el Señor, Dios nuestro, y obstinados en no escuchar su voz."
+        },
+        {
+          "numero": "20",
+          "verso": "Por eso ahora nos han sobrevenido las calamidades y la maldición que Dios predijo a su siervo Moisés, el día que sacó a nuestros padres de la tierra de Egipto, para darnos una tierra que mana leche y miel."
+        },
+        {
+          "numero": "21",
+          "verso": "No hemos escuchado la voz del Señor, Dios nuestro, desoyendo las palabras de los profetas que nos envió."
+        },
+        {
+          "numero": "22",
+          "verso": "Y hemos andado, cada uno según las inclinaciones de su corazón perverso, para servir a dioses ajenos y hacer lo que es malo a los ojos del Señor, Dios nuestro."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 79:1-5, 8-9",
+      "lecturaNombreNormalizado": "Sal79,1-5,8-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. De Asaf. Dios mío, las naciones han entrado en tu heredad,\nhan profanado tu Templo santo,\nhan reducido a ruinas Jerusalén."
+        },
+        {
+          "numero": "2",
+          "verso": "Han echado los cadáveres de tus siervos por comida a las aves del cielo;\nla carne de tus fieles, a las fieras del campo;"
+        },
+        {
+          "numero": "3",
+          "verso": "han derramado su sangre como agua, en derredor de Jerusalén,\nsin que nadie les dé sepultura."
+        },
+        {
+          "numero": "4",
+          "verso": "Hemos venido a ser escarnio de nuestros vecinos, burla e irrisión de quienes nos rodean."
+        },
+        {
+          "numero": "5",
+          "verso": "¿Hasta cuándo, Señor? ¿Vas a estar airado para siempre?\n¿Hasta cuándo arderán tus celos como fuego?"
+        },
+        {
+          "numero": "8",
+          "verso": "No nos recuerdes nuestras culpas antiguas, que pronto nos preceda tu compasión,\npues estamos en miseria extrema."
+        },
+        {
+          "numero": "9",
+          "verso": "Socórrenos, oh Dios, Salvador nuestro, por la gloria de tu Nombre;\nsálvanos, borra nuestros pecados,\npor amor de tu Nombre."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 10:13-16",
+      "lecturaNombreNormalizado": "Lc10,13-16",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "»¡Ay de ti, Corazín! ¡Ay de ti, Betsaida! Porque si en Tiro y en Sidón hubieran sido realizados los milagros que se han obrado en vosotras, hace tiempo que habrían hecho penitencia sentados en saco y ceniza."
+        },
+        {
+          "numero": "14",
+          "verso": "Sin embargo, en el Juicio Tiro y Sidón serán tratadas con menos rigor que vosotras."
+        },
+        {
+          "numero": "15",
+          "verso": "»Y tú, Cafarnaún, ¿acaso serás exaltada hasta el cielo? ¡Hasta los infiernos vas a descender!"
+        },
+        {
+          "numero": "16",
+          "verso": "»Quien a vosotros os oye, a mí me oye; quien a vosotros os desprecia, a mí me desprecia; y quien a mí me desprecia, desprecia al que me ha enviado."
+        }
+      ]
+    }
+  ]
+}

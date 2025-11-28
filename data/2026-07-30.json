@@ -1,0 +1,103 @@
+{
+  "fecha": "2026-07-30",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Jeremías 18:1-6",
+      "lecturaNombreNormalizado": "Jer18,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Palabra que fue dirigida a Jeremías de parte del Señor:"
+        },
+        {
+          "numero": "2",
+          "verso": "—Levántate y baja a casa del alfarero. Allí te comunicaré mis palabras."
+        },
+        {
+          "numero": "3",
+          "verso": "Bajé a casa del alfarero y lo encontré haciendo un trabajo en el torno."
+        },
+        {
+          "numero": "4",
+          "verso": "Cuando se estropeaba en manos del alfarero la vasija de barro que estaba haciendo, volvía a hacer otra vasija, según le parecía bien hacer al alfarero."
+        },
+        {
+          "numero": "5",
+          "verso": "La palabra del Señor se dirigió a mí diciendo:"
+        },
+        {
+          "numero": "6",
+          "verso": "—¿Es que no puedo hacer Yo con vosotros, casa de Israel, como este alfarero? —oráculo del Señor—. Como el barro en manos del alfarero, así sois vosotros en mi mano, casa de Israel."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 146:1-6",
+      "lecturaNombreNormalizado": "Sal146,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Aleluya! Alaba, alma mía, al Señor."
+        },
+        {
+          "numero": "2",
+          "verso": "Alabaré al Señor mientras viva; entonaré salmos a mi Dios mientras exista."
+        },
+        {
+          "numero": "3",
+          "verso": "No pongáis vuestra esperanza en los príncipes, en un hijo de hombre que no puede salvar,"
+        },
+        {
+          "numero": "4",
+          "verso": "que exhala el espíritu, vuelve al polvo, y en ese mismo día fenecen sus pensamientos."
+        },
+        {
+          "numero": "5",
+          "verso": "Dichoso el que tiene su auxilio en el Dios de Jacob, su esperanza en el Señor, su Dios,"
+        },
+        {
+          "numero": "6",
+          "verso": "que hizo los cielos y la tierra, el mar y cuanto hay en él;\nque guarda fidelidad eternamente;"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 13:47-53",
+      "lecturaNombreNormalizado": "Mt13,47-53",
+      "versos": [
+        {
+          "numero": "47",
+          "verso": "»Asimismo el Reino de los Cielos es como una red barredera que se echa en el mar y recoge toda clase de cosas."
+        },
+        {
+          "numero": "48",
+          "verso": "Y cuando está llena la arrastran a la orilla, y se sientan para echar lo bueno en cestos, y lo malo tirarlo fuera."
+        },
+        {
+          "numero": "49",
+          "verso": "Así será al fin del mundo: saldrán los ángeles y separarán a los malos de entre los justos"
+        },
+        {
+          "numero": "50",
+          "verso": "y los arrojarán al horno del fuego. Allí habrá llanto y rechinar de dientes."
+        },
+        {
+          "numero": "51",
+          "verso": "»¿Habéis entendido todo esto? —Sí —le respondieron."
+        },
+        {
+          "numero": "52",
+          "verso": "Él les dijo: —Por eso, todo escriba instruido en el Reino de los Cielos es como un hombre, amo de su casa, que saca de su tesoro cosas nuevas y cosas antiguas."
+        },
+        {
+          "numero": "53",
+          "verso": "Cuando terminó Jesús estas parábolas se marchó de allí."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "fecha": "2026-05-27",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Pedro 1:18-25",
+      "lecturaNombreNormalizado": "1Pedro1,18-25",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "sabiendo que habéis sido rescatados de vuestra conducta vana, heredada de vuestros mayores, no con bienes corruptibles, plata u oro,"
+        },
+        {
+          "numero": "19",
+          "verso": "sino con la sangre preciosa de Cristo, como cordero sin defecto ni mancha,"
+        },
+        {
+          "numero": "20",
+          "verso": "predestinado ya antes de la creación del mundo y manifestado al final de los tiempos para vuestro bien;"
+        },
+        {
+          "numero": "21",
+          "verso": "para quienes por medio de él creéis en Dios, que le resucitó de entre los muertos y le glorificó, de modo que vuestra fe y vuestra esperanza se dirijan a Dios."
+        },
+        {
+          "numero": "22",
+          "verso": "Ya que habéis purificado vuestras almas por la obediencia a la verdad, para un amor fraterno no fingido, amaos de corazón intensamente unos a otros,"
+        },
+        {
+          "numero": "23",
+          "verso": "como quienes han sido engendrados de nuevo no de un germen corruptible, sino incorruptible, por medio de la palabra de Dios, viva y permanente."
+        },
+        {
+          "numero": "24",
+          "verso": "Porque Toda carne es como heno,\ny toda su gloria como flor de heno;\nse seca el heno y cae la flor,"
+        },
+        {
+          "numero": "25",
+          "verso": "pero la palabra del Señor permanece para siempre. Ésta es la palabra que os ha sido anunciada como buena nueva."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 147:12-15, 19-20",
+      "lecturaNombreNormalizado": "Sal147,12-15,19-20",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Glorifica al Señor, Jerusalén, alaba a tu Dios, Sión."
+        },
+        {
+          "numero": "13",
+          "verso": "Porque ha reforzado los cerrojos de tus puertas, ha bendecido a tus hijos dentro de ti."
+        },
+        {
+          "numero": "14",
+          "verso": "Él ha puesto paz en tus fronteras, te sacia con la flor del trigo."
+        },
+        {
+          "numero": "15",
+          "verso": "Él envía su orden a la tierra, su palabra corre veloz."
+        },
+        {
+          "numero": "19",
+          "verso": "Él anuncia su palabra a Jacob, sus decretos y sus preceptos a Israel."
+        },
+        {
+          "numero": "20",
+          "verso": "No ha obrado así con ninguna otra nación, ni les ha dado a conocer sus preceptos.\n¡Aleluya!"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 10:32-45",
+      "lecturaNombreNormalizado": "Mc10,32-45",
+      "versos": [
+        {
+          "numero": "32",
+          "verso": "Iban de camino subiendo a Jerusalén. Jesús los precedía y ellos estaban sorprendidos: los que le seguían tenían miedo. Tomó de nuevo consigo a los doce y comenzó a decirles lo que le iba a suceder:"
+        },
+        {
+          "numero": "33",
+          "verso": "—Mirad, subimos a Jerusalén, y el Hijo del Hombre será entregado a los príncipes de los sacerdotes y a los escribas; le condenarán a muerte y le entregarán a los gentiles;"
+        },
+        {
+          "numero": "34",
+          "verso": "se burlarán de él, le escupirán, lo azotarán y lo matarán, pero después de tres días resucitará."
+        },
+        {
+          "numero": "35",
+          "verso": "Entonces se acercan a él Santiago y Juan, los hijos de Zebedeo, diciéndole: —Maestro, queremos que nos concedas lo que te vamos a pedir."
+        },
+        {
+          "numero": "36",
+          "verso": "Él les dijo: —¿Qué queréis que os haga?"
+        },
+        {
+          "numero": "37",
+          "verso": "Y ellos le contestaron: —Concédenos sentarnos uno a tu derecha y otro a tu izquierda en tu gloria."
+        },
+        {
+          "numero": "38",
+          "verso": "Y Jesús les dijo: —No sabéis lo que pedís. ¿Podéis beber el cáliz que yo bebo, o ser bautizados con el bautismo con que yo soy bautizado?"
+        },
+        {
+          "numero": "39",
+          "verso": "—Podemos —le dijeron ellos. Jesús les dijo:\n—Beberéis el cáliz que yo bebo y seréis bautizados con el bautismo con que yo soy bautizado;"
+        },
+        {
+          "numero": "40",
+          "verso": "pero sentarse a mi derecha o a mi izquierda no me corresponde concederlo, sino que es para quienes está dispuesto."
+        },
+        {
+          "numero": "41",
+          "verso": "Al oír esto los diez comenzaron a indignarse contra Santiago y Juan."
+        },
+        {
+          "numero": "42",
+          "verso": "Entonces Jesús les llamó y les dijo: —Sabéis que los que figuran como jefes de las naciones las oprimen, y los poderosos las avasallan."
+        },
+        {
+          "numero": "43",
+          "verso": "No tiene que ser así entre vosotros; al contrario: quien quiera llegar a ser grande entre vosotros, que sea vuestro servidor;"
+        },
+        {
+          "numero": "44",
+          "verso": "y quien entre vosotros quiera ser el primero, que sea esclavo de todos:"
+        },
+        {
+          "numero": "45",
+          "verso": "porque el Hijo del Hombre no ha venido a ser servido, sino a servir y a dar su vida en redención de muchos."
+        }
+      ]
+    }
+  ]
+}

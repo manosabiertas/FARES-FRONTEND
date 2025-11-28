@@ -1,0 +1,210 @@
+{
+  "fecha": "2025-02-09",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 6:1-2, 3-8",
+      "lecturaNombreNormalizado": "Is6,1-2,3-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El año de la muerte del rey Uzías vi al Señor sentado en un trono excelso y elevado. El vuelo de su manto llenaba el Templo."
+        },
+        {
+          "numero": "2",
+          "verso": "Unos serafines se mantenían por encima de Él. Cada uno tenía seis alas: con dos se cubrían el rostro, con dos se cubrían los pies, y con dos volaban."
+        },
+        {
+          "numero": "3",
+          "verso": "Clamaban entre sí diciendo: —¡Santo, Santo, Santo es el Señor de los ejércitos!\n¡Llena está toda la tierra de su gloria!"
+        },
+        {
+          "numero": "4",
+          "verso": "Retemblaron los soportes de los dinteles por el estruendo del clamor, mientras el Templo se llenaba de humo."
+        },
+        {
+          "numero": "5",
+          "verso": "Entonces me dije: —¡Ay de mí, estoy perdido,\npues soy un hombre de labios impuros,\nque habito en medio de un pueblo de labios impuros,\ny mis ojos han visto al Rey, al Señor de los ejércitos!"
+        },
+        {
+          "numero": "6",
+          "verso": "Entonces voló hacia mí uno de los serafines portando una brasa que había tomado del altar con unas tenazas,"
+        },
+        {
+          "numero": "7",
+          "verso": "tocó mi boca y dijo: —Mira: esto ha tocado tus labios,\ntu culpa ha sido quitada,\ny tu pecado, perdonado."
+        },
+        {
+          "numero": "8",
+          "verso": "Entonces oí la voz del Señor, que decía: —¿A quién enviaré? ¿Quién irá de nuestra parte?\nY respondí:\n—Aquí estoy. Envíame a mí."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 138:1-5, 7-8",
+      "lecturaNombreNormalizado": "Sal138,1-5,7-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Te doy gracias, Señor, de todo corazón,\nporque has escuchado las palabras de mi boca.\nDelante de los ángeles entonaré salmos para Ti."
+        },
+        {
+          "numero": "2",
+          "verso": "Me postraré hacia tu Templo santo, y daré gracias a tu Nombre\npor tu misericordia y tu fidelidad,\nporque has engrandecido tu promesa\npor encima de todo nombre."
+        },
+        {
+          "numero": "3",
+          "verso": "El día en que te invoqué, Tú me escuchaste, diste fuerza a mi alma."
+        },
+        {
+          "numero": "4",
+          "verso": "Te alabarán, Señor, todos los reyes de la tierra, cuando oigan las palabras de tu boca."
+        },
+        {
+          "numero": "5",
+          "verso": "Y cantarán los caminos del Señor, porque grande es la gloria del Señor;"
+        },
+        {
+          "numero": "7",
+          "verso": "Si camino entre angustias, me das vida.\nContra la ira de mis enemigos\nextiendes tu mano,\ny tu diestra me salva."
+        },
+        {
+          "numero": "8",
+          "verso": "El Señor concluirá todo en favor mío. Señor, tu misericordia es eterna:\nno abandones la obra de tus manos."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "1 Corintios 15:1-11",
+      "lecturaNombreNormalizado": "1Corintios15,1-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Os recuerdo, hermanos, el Evangelio que os prediqué, que recibisteis, en el que os mantenéis firmes,"
+        },
+        {
+          "numero": "2",
+          "verso": "y por el cual sois salvados, si lo guardáis tal como os lo anuncié. ¡Y si no, habéis creído en vano!"
+        },
+        {
+          "numero": "3",
+          "verso": "Porque os transmití en primer lugar lo mismo que yo recibí: que Cristo murió por nuestros pecados, según las Escrituras;"
+        },
+        {
+          "numero": "4",
+          "verso": "que fue sepultado y que resucitó al tercer día, según las Escrituras;"
+        },
+        {
+          "numero": "5",
+          "verso": "y que se apareció a Cefas, y después a los doce."
+        },
+        {
+          "numero": "6",
+          "verso": "Después se apareció a más de quinientos hermanos a la vez, la mayoría de los cuales vive todavía y algunos ya han muerto."
+        },
+        {
+          "numero": "7",
+          "verso": "Luego se apareció a Santiago, y después a todos los apóstoles."
+        },
+        {
+          "numero": "8",
+          "verso": "Y en último lugar, como a un abortivo, se me apareció también a mí."
+        },
+        {
+          "numero": "9",
+          "verso": "Porque soy el menor de los apóstoles, que no soy digno de ser llamado apóstol, ya que perseguí a la Iglesia de Dios."
+        },
+        {
+          "numero": "10",
+          "verso": "Pero por la gracia de Dios soy lo que soy, y la gracia que se me dio no resultó inútil; al contrario, he trabajado más que todos ellos; pero no yo, sino la gracia de Dios que está conmigo."
+        },
+        {
+          "numero": "11",
+          "verso": "Por consiguiente, tanto ellos como yo esto es lo que predicamos y esto lo que habéis creído."
+        },
+        {
+          "numero": "3",
+          "verso": "Porque os transmití en primer lugar lo mismo que yo recibí: que Cristo murió por nuestros pecados, según las Escrituras;"
+        },
+        {
+          "numero": "4",
+          "verso": "que fue sepultado y que resucitó al tercer día, según las Escrituras;"
+        },
+        {
+          "numero": "5",
+          "verso": "y que se apareció a Cefas, y después a los doce."
+        },
+        {
+          "numero": "6",
+          "verso": "Después se apareció a más de quinientos hermanos a la vez, la mayoría de los cuales vive todavía y algunos ya han muerto."
+        },
+        {
+          "numero": "7",
+          "verso": "Luego se apareció a Santiago, y después a todos los apóstoles."
+        },
+        {
+          "numero": "8",
+          "verso": "Y en último lugar, como a un abortivo, se me apareció también a mí."
+        },
+        {
+          "numero": "11",
+          "verso": "Por consiguiente, tanto ellos como yo esto es lo que predicamos y esto lo que habéis creído."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 5:1-11",
+      "lecturaNombreNormalizado": "Lc5,1-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Estaba Jesús junto al lago de Genesaret y la multitud se agolpaba a su alrededor para oír la palabra de Dios."
+        },
+        {
+          "numero": "2",
+          "verso": "Y vio dos barcas que estaban a la orilla del lago; los pescadores habían bajado de ellas y estaban lavando las redes."
+        },
+        {
+          "numero": "3",
+          "verso": "Entonces, subiendo a una de las barcas, que era de Simón, le rogó que la apartase un poco de tierra. Y, sentado, enseñaba a la multitud desde la barca."
+        },
+        {
+          "numero": "4",
+          "verso": "Cuando terminó de hablar, le dijo a Simón: —Guía mar adentro, y echad vuestras redes para la pesca."
+        },
+        {
+          "numero": "5",
+          "verso": "Simón le contestó: —Maestro, hemos estado bregando durante toda la noche y no hemos pescado nada; pero sobre tu palabra echaré las redes."
+        },
+        {
+          "numero": "6",
+          "verso": "Lo hicieron y recogieron gran cantidad de peces. Tantos, que las redes se rompían."
+        },
+        {
+          "numero": "7",
+          "verso": "Entonces hicieron señas a los compañeros que estaban en la otra barca, para que vinieran y les ayudasen. Vinieron, y llenaron las dos barcas, de modo que casi se hundían."
+        },
+        {
+          "numero": "8",
+          "verso": "Cuando lo vio Simón Pedro, se arrojó a los pies de Jesús, diciendo: —Apártate de mí, Señor, que soy un hombre pecador."
+        },
+        {
+          "numero": "9",
+          "verso": "Pues el asombro se había apoderado de él y de cuantos estaban con él, por la gran cantidad de peces que habían pescado."
+        },
+        {
+          "numero": "10",
+          "verso": "Lo mismo sucedía a Santiago y a Juan, hijos de Zebedeo, que eran compañeros de Simón. Entonces Jesús le dijo a Simón: —No temas; desde ahora serán hombres los que pescarás."
+        },
+        {
+          "numero": "11",
+          "verso": "Y ellos, sacando las barcas a tierra, dejadas todas las cosas, le siguieron."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  "fecha": "2026-07-21",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Sabiduría 8:9-16",
+      "lecturaNombreNormalizado": "Sab8,9-16",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "Por eso decidí tomarla por compañera de mi vida, consciente de que me sería buena consejera\ny consuelo en las preocupaciones y tristezas."
+        },
+        {
+          "numero": "10",
+          "verso": "Gracias a ella conseguiré gloria ante la gente, y honor de los ancianos, aun siendo joven."
+        },
+        {
+          "numero": "11",
+          "verso": "En los juicios me encontrarán agudo, y delante de los poderosos seré admirado."
+        },
+        {
+          "numero": "12",
+          "verso": "Cuando yo calle, se quedarán esperando, y cuando hable, me prestarán atención,\ny si me alargo hablando, se llevarán la mano a la boca."
+        },
+        {
+          "numero": "13",
+          "verso": "Gracias a ella alcanzaré inmortalidad y dejaré un recuerdo eterno a los que me sucedan."
+        },
+        {
+          "numero": "14",
+          "verso": "Gobernaré pueblos, y se me someterán naciones."
+        },
+        {
+          "numero": "15",
+          "verso": "Soberanos terribles oirán hablar de mí y me temerán; con la gente me mostraré bueno, y en el combate, valiente."
+        },
+        {
+          "numero": "16",
+          "verso": "Al volver a casa descansaré con ella, pues no hay amargura en su convivencia,\nni tedio en su compañía;\nal contrario, da alegría y contento."
+        },
+        {
+          "numero": "14",
+          "verso": "Porque el amor de Cristo nos urge, persuadidos de que si uno murió por todos, en consecuencia todos murieron."
+        },
+        {
+          "numero": "15",
+          "verso": "Y murió por todos a fin de que los que viven, ya no vivan para sí, sino para aquel que murió y resucitó por ellos."
+        },
+        {
+          "numero": "16",
+          "verso": "De manera que desde ahora no conocemos a nadie según la carne; y si conocimos a Cristo según la carne, ahora ya no le conocemos así."
+        },
+        {
+          "numero": "17",
+          "verso": "Por tanto, si alguno está en Cristo, es una nueva criatura: lo viejo pasó, ya ha llegado lo nuevo."
+        },
+        {
+          "numero": "18",
+          "verso": "Y todo proviene de Dios, que nos reconcilió con él por medio de Cristo y nos confirió el ministerio de la reconciliación."
+        },
+        {
+          "numero": "19",
+          "verso": "Porque en Cristo, Dios estaba reconciliando al mundo consigo, sin imputarle sus delitos, y puso en nosotros la palabra de reconciliación."
+        },
+        {
+          "numero": "20",
+          "verso": "Somos, pues, embajadores en nombre de Cristo, como si Dios os exhortase por medio de nosotros. En nombre de Cristo os rogamos: reconciliaos con Dios."
+        },
+        {
+          "numero": "21",
+          "verso": "A él, que no conoció pecado, lo hizo pecado por nosotros, para que llegásemos a ser en él justicia de Dios."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 67:2-5, 7-8",
+      "lecturaNombreNormalizado": "Sal67,2-5,7-8",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Tenga Dios piedad de nosotros y nos bendiga, haga brillar su rostro sobre nosotros."
+        },
+        {
+          "numero": "3",
+          "verso": "Para que se conozca en la tierra tu camino, tu salvación en todas las naciones."
+        },
+        {
+          "numero": "4",
+          "verso": "¡Que te alaben los pueblos, oh Dios, que todos los pueblos te alaben!"
+        },
+        {
+          "numero": "5",
+          "verso": "Que se alegren y te aclamen las naciones, porque juzgas los pueblos con rectitud\ny diriges las naciones de la tierra."
+        },
+        {
+          "numero": "7",
+          "verso": "La tierra ha dado su fruto: Dios, nuestro Dios, nos bendice."
+        },
+        {
+          "numero": "8",
+          "verso": "Que Dios nos bendiga y que le teman todos los confines de la tierra."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 9:1-6",
+      "lecturaNombreNormalizado": "Lc9,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Convocó a los doce y les dio poder y potestad sobre todos los demonios, y para curar enfermedades."
+        },
+        {
+          "numero": "2",
+          "verso": "Los envió a predicar el Reino de Dios y a sanar a los enfermos."
+        },
+        {
+          "numero": "3",
+          "verso": "Y les dijo: —No llevéis nada para el camino, ni bastón, ni alforja, ni pan, ni dinero, ni tengáis dos túnicas."
+        },
+        {
+          "numero": "4",
+          "verso": "En cualquier casa que entréis, quedaos allí hasta que de allí os vayáis."
+        },
+        {
+          "numero": "5",
+          "verso": "Y si nadie os acoge, al salir de aquella ciudad, sacudíos el polvo de los pies en testimonio contra ellos."
+        },
+        {
+          "numero": "6",
+          "verso": "Se marcharon y pasaban por las aldeas evangelizando y curando por todas partes."
+        }
+      ]
+    }
+  ]
+}

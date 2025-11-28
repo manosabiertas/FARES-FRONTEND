@@ -1,0 +1,187 @@
+{
+  "fecha": "2025-05-12",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hechos 11:1-18",
+      "lecturaNombreNormalizado": "Hch11,1-18",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Los apóstoles y los hermanos que estaban en Judea oyeron que también los gentiles habían recibido la palabra de Dios."
+        },
+        {
+          "numero": "2",
+          "verso": "Y cuando Pedro subió a Jerusalén, los de la circuncisión le reprochaban:"
+        },
+        {
+          "numero": "3",
+          "verso": "—¡Has entrado en casa de incircuncisos y has comido con ellos! —le decían."
+        },
+        {
+          "numero": "4",
+          "verso": "Pedro comenzó a explicarles de forma ordenada lo sucedido:"
+        },
+        {
+          "numero": "5",
+          "verso": "—Estaba yo orando en la ciudad de Jope cuando tuve en éxtasis una visión: cierto objeto como un gran mantel bajaba del cielo sujeto por sus cuatro puntas y llegó hasta mí."
+        },
+        {
+          "numero": "6",
+          "verso": "Lo miré con atención y vi en él cuadrúpedos de la tierra, fieras, reptiles y aves del cielo."
+        },
+        {
+          "numero": "7",
+          "verso": "Oí entonces una voz que me decía: «Levántate, Pedro, mata y come»."
+        },
+        {
+          "numero": "8",
+          "verso": "Yo respondí: «De ningún modo, Señor, porque jamás ha entrado en mi boca nada profano o impuro»."
+        },
+        {
+          "numero": "9",
+          "verso": "Pero la voz venida del cielo me dijo por segunda vez: «Lo que Dios ha purificado no lo llames tú profano»."
+        },
+        {
+          "numero": "10",
+          "verso": "Esto ocurrió tres veces; y al fin todo fue arrebatado al cielo."
+        },
+        {
+          "numero": "11",
+          "verso": "Inmediatamente después se presentaron tres hombres en la casa donde estábamos, enviados a mí desde Cesarea."
+        },
+        {
+          "numero": "12",
+          "verso": "Y me dijo el Espíritu que fuese con ellos sin ningún reparo. Vinieron también conmigo estos seis hermanos y entramos en la casa de aquel hombre."
+        },
+        {
+          "numero": "13",
+          "verso": "Él nos contó cómo había visto en su casa un ángel que, de pie, le decía: «Manda aviso a Jope y haz venir a Simón, llamado Pedro,"
+        },
+        {
+          "numero": "14",
+          "verso": "quien te dirá palabras por las que seréis salvados tú y toda tu casa»."
+        },
+        {
+          "numero": "15",
+          "verso": "Y cuando comencé a hablar, descendió sobre ellos el Espíritu Santo, igual que al principio lo hizo sobre nosotros."
+        },
+        {
+          "numero": "16",
+          "verso": "Entonces recordé la palabra del Señor cuando decía: «Juan bautizó en agua, pero vosotros seréis bautizados en el Espíritu Santo»."
+        },
+        {
+          "numero": "17",
+          "verso": "Si Dios les concedió el mismo don que a nosotros, que creímos en el Señor Jesucristo, ¿quién era yo para estorbar a Dios?"
+        },
+        {
+          "numero": "18",
+          "verso": "Al oír esto se tranquilizaron y glorificaron a Dios diciendo: —Luego también a los gentiles les ha concedido Dios la conversión para la Vida."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 42:2-3; 43:3-4",
+      "lecturaNombreNormalizado": "Sal42,2-3;43,3-4",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Como ansía la cierva las corrientes de agua, así te ansía mi alma, Dios mío."
+        },
+        {
+          "numero": "3",
+          "verso": "Mi alma está sedienta de Dios, del Dios vivo. ¿Cuándo podré ir a ver el rostro de Dios?"
+        },
+        {
+          "numero": "3",
+          "verso": "Envía tu luz y tu verdad; que ellas me guíen y me conduzcan\na tu monte santo, a tus moradas;"
+        },
+        {
+          "numero": "4",
+          "verso": "Y me acercaré al altar de Dios, al Dios de mi alegría y de mi gozo,\ny te alabaré con la cítara,\n¡oh Dios, Dios mío!"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 10:1-10",
+      "lecturaNombreNormalizado": "Jn10,1-10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "»En verdad, en verdad os digo: el que no entra por la puerta del redil de las ovejas, sino que salta por otra parte, ése es un ladrón y un salteador."
+        },
+        {
+          "numero": "2",
+          "verso": "Pero el que entra por la puerta es pastor de las ovejas."
+        },
+        {
+          "numero": "3",
+          "verso": "A éste le abre el portero y las ovejas atienden a su voz, llama a sus propias ovejas por su nombre y las conduce fuera."
+        },
+        {
+          "numero": "4",
+          "verso": "Cuando las ha sacado todas, va delante de ellas y las ovejas le siguen porque conocen su voz."
+        },
+        {
+          "numero": "5",
+          "verso": "Pero a un extraño no le seguirán, sino que huirán de él porque no conocen la voz de los extraños."
+        },
+        {
+          "numero": "6",
+          "verso": "Jesús les propuso esta comparación, pero ellos no entendieron qué era lo que les decía."
+        },
+        {
+          "numero": "7",
+          "verso": "Entonces volvió a decir Jesús: —En verdad, en verdad os digo: yo soy la puerta de las ovejas."
+        },
+        {
+          "numero": "8",
+          "verso": "Todos cuantos han venido antes que yo son ladrones y salteadores, pero las ovejas no les escucharon."
+        },
+        {
+          "numero": "9",
+          "verso": "Yo soy la puerta; si alguno entra a través de mí, se salvará; y entrará y saldrá y encontrará pastos."
+        },
+        {
+          "numero": "10",
+          "verso": "El ladrón no viene sino para robar, matar y destruir. Yo he venido para que tengan vida y la tengan en abundancia."
+        },
+        {
+          "numero": "11",
+          "verso": "»Yo soy el buen pastor. El buen pastor da su vida por sus ovejas."
+        },
+        {
+          "numero": "12",
+          "verso": "El asalariado, el que no es pastor y al que no le pertenecen las ovejas, ve venir el lobo, abandona las ovejas y huye —y el lobo las arrebata y las dispersa—,"
+        },
+        {
+          "numero": "13",
+          "verso": "porque es asalariado y no le importan las ovejas."
+        },
+        {
+          "numero": "14",
+          "verso": "Yo soy el buen pastor, conozco las mías y las mías me conocen."
+        },
+        {
+          "numero": "15",
+          "verso": "Como el Padre me conoce a mí, así yo conozco al Padre, y doy mi vida por las ovejas."
+        },
+        {
+          "numero": "16",
+          "verso": "Tengo otras ovejas que no son de este redil, a ésas también es necesario que las traiga, y oirán mi voz y formarán un solo rebaño, con un solo pastor."
+        },
+        {
+          "numero": "17",
+          "verso": "Por eso me ama el Padre, porque doy mi vida para tomarla de nuevo."
+        },
+        {
+          "numero": "18",
+          "verso": "Nadie me la quita, sino que yo la doy libremente. Tengo potestad para darla y tengo potestad para recuperarla. Éste es el mandato que he recibido de mi Padre."
+        }
+      ]
+    }
+  ]
+}

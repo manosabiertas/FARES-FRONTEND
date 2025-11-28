@@ -1,0 +1,110 @@
+{
+  "fecha": "2026-08-30",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Jeremías 20:7-9",
+      "lecturaNombreNormalizado": "Jer20,7-9",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Me sedujiste, Señor, y yo me dejé seducir. Fuiste más fuerte que yo, y me venciste.\nHe llegado a ser un hazmerreír todo el día,\ntodo el mundo se burla de mí."
+        },
+        {
+          "numero": "8",
+          "verso": "Cada vez que hablo tengo que gritar, he de pregonar: «¡Violencia, destrucción!».\nLa palabra del Señor es para mí\noprobio y escarnio cada día."
+        },
+        {
+          "numero": "9",
+          "verso": "Yo me dije: «No me acordaré de Él, ni hablaré más en su Nombre».\nPero es dentro de mí como fuego abrasador,\nencerrado en mis huesos;\nme esfuerzo por soportarlo,\npero no puedo."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 63:2-6, 8-9",
+      "lecturaNombreNormalizado": "Sal63,2-6,8-9",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Oh Dios, Tú eres mi Dios, al alba te busco, mi alma tiene sed de Ti,\npor Ti mi carne desfallece,\nen tierra desierta y seca, sin agua."
+        },
+        {
+          "numero": "3",
+          "verso": "Por eso te contemplo en el Santuario, para ver tu poder y tu gloria"
+        },
+        {
+          "numero": "4",
+          "verso": "Tu misericordia vale más que la vida, mis labios te alabarán."
+        },
+        {
+          "numero": "5",
+          "verso": "Así, te bendeciré toda mi vida, a tu Nombre alzaré mis manos."
+        },
+        {
+          "numero": "6",
+          "verso": "Como de enjundia y de grosura se saciará mi alma,\ny con labios jubilosos te alabará mi boca."
+        },
+        {
+          "numero": "8",
+          "verso": "porque Tú eres mi socorro, canto gozoso a la sombra de tus alas."
+        },
+        {
+          "numero": "9",
+          "verso": "A Ti se aferra mi alma, tu diestra me sostiene."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Romanos 12:1-2",
+      "lecturaNombreNormalizado": "Rom12,1-2",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Os exhorto, por tanto, hermanos, por la misericordia de Dios, a que ofrezcáis vuestros cuerpos como ofrenda viva, santa, agradable a Dios: éste es vuestro culto espiritual."
+        },
+        {
+          "numero": "2",
+          "verso": "Y no os amoldéis a este mundo, sino, por el contrario, transformaos con una renovación de la mente, para que podáis discernir cuál es la voluntad de Dios, qué es lo bueno, agradable y perfecto."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 16:21-27",
+      "lecturaNombreNormalizado": "Mt16,21-27",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "Desde entonces comenzó Jesús a manifestar a sus discípulos que él debía ir a Jerusalén y padecer mucho por causa de los ancianos, de los príncipes de los sacerdotes y de los escribas, y ser llevado a la muerte y resucitar al tercer día."
+        },
+        {
+          "numero": "22",
+          "verso": "Pedro, tomándolo aparte, se puso a reprenderle diciendo: —¡Dios te libre, Señor! De ningún modo te ocurrirá eso."
+        },
+        {
+          "numero": "23",
+          "verso": "Pero él se volvió hacia Pedro y le dijo: —¡Apártate de mí, Satanás! Eres escándalo para mí, porque no sientes las cosas de Dios sino las de los hombres."
+        },
+        {
+          "numero": "24",
+          "verso": "Entonces les dijo Jesús a sus discípulos: —Si alguno quiere venir detrás de mí, que se niegue a sí mismo, que tome su cruz y que me siga."
+        },
+        {
+          "numero": "25",
+          "verso": "Porque el que quiera salvar su vida la perderá; pero el que pierda su vida por mí, la encontrará."
+        },
+        {
+          "numero": "26",
+          "verso": "»Porque, ¿de qué le servirá al hombre ganar el mundo entero si pierde su vida?, o ¿qué podrá dar el hombre a cambio de su vida?"
+        },
+        {
+          "numero": "27",
+          "verso": "Porque el Hijo del Hombre va a venir en la gloria de su Padre acompañado de sus ángeles, y entonces retribuirá a cada uno según su conducta."
+        }
+      ]
+    }
+  ]
+}

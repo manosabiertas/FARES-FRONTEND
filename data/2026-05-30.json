@@ -1,0 +1,103 @@
+{
+  "fecha": "2026-05-30",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Judas 17, 20-25",
+      "lecturaNombreNormalizado": "Jud17,20-25",
+      "versos": [
+        {
+          "numero": "17",
+          "verso": "Pero vosotros, queridísimos, acordaos de las palabras anunciadas por medio de los apóstoles de nuestro Señor Jesucristo,"
+        },
+        {
+          "numero": "20",
+          "verso": "Pero vosotros, queridísimos, edificándoos sobre vuestra santísima fe y orando en el Espíritu Santo,"
+        },
+        {
+          "numero": "21",
+          "verso": "manteneos en el amor de Dios, aguardando que la misericordia de nuestro Señor Jesucristo os conceda la vida eterna."
+        },
+        {
+          "numero": "22",
+          "verso": "Tratad con compasión a los que vacilan:"
+        },
+        {
+          "numero": "23",
+          "verso": "a unos procurad salvarlos, arrancándolos del fuego; a otros tratadlos con misericordia, pero con precaución, aborreciendo hasta la túnica contaminada por su carne."
+        },
+        {
+          "numero": "24",
+          "verso": "Al que es poderoso para guardaros sin tropiezo y presentaros sin tacha y con júbilo delante de su gloria,"
+        },
+        {
+          "numero": "25",
+          "verso": "al único Dios, Salvador nuestro por medio de Jesucristo nuestro Señor, la gloria, la majestad, el imperio y la potestad, desde siempre y ahora y por todos los siglos. Amén."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 63:2-6",
+      "lecturaNombreNormalizado": "Sal63,2-6",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Oh Dios, Tú eres mi Dios, al alba te busco, mi alma tiene sed de Ti,\npor Ti mi carne desfallece,\nen tierra desierta y seca, sin agua."
+        },
+        {
+          "numero": "3",
+          "verso": "Por eso te contemplo en el Santuario, para ver tu poder y tu gloria"
+        },
+        {
+          "numero": "4",
+          "verso": "Tu misericordia vale más que la vida, mis labios te alabarán."
+        },
+        {
+          "numero": "5",
+          "verso": "Así, te bendeciré toda mi vida, a tu Nombre alzaré mis manos."
+        },
+        {
+          "numero": "6",
+          "verso": "Como de enjundia y de grosura se saciará mi alma,\ny con labios jubilosos te alabará mi boca."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 11:27-33",
+      "lecturaNombreNormalizado": "Mc11,27-33",
+      "versos": [
+        {
+          "numero": "27",
+          "verso": "Llegaron de nuevo a Jerusalén. Y mientras paseaba por el Templo, se le acercaron los príncipes de los sacerdotes, los escribas y los ancianos,"
+        },
+        {
+          "numero": "28",
+          "verso": "y le dijeron: —¿Con qué potestad haces estas cosas? ¿O quién te ha dado tal potestad para hacerlas?"
+        },
+        {
+          "numero": "29",
+          "verso": "Jesús les contestó: —Os voy a hacer una pregunta. Respondedme, y os diré con qué potestad hago estas cosas:"
+        },
+        {
+          "numero": "30",
+          "verso": "el bautismo de Juan ¿era del cielo o de los hombres? Respondedme."
+        },
+        {
+          "numero": "31",
+          "verso": "Y deliberaban entre sí: «Si decimos que del cielo, replicará: “¿Por qué, pues, no le creísteis?”"
+        },
+        {
+          "numero": "32",
+          "verso": "Pero ¿vamos a decir que de los hombres?» Temían a la gente; pues todos tenían a Juan como a un verdadero profeta."
+        },
+        {
+          "numero": "33",
+          "verso": "Y respondieron a Jesús: —No lo sabemos.\nEntonces Jesús les dijo:\n—Pues tampoco yo os digo con qué potestad hago estas cosas."
+        }
+      ]
+    }
+  ]
+}

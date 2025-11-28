@@ -1,0 +1,147 @@
+{
+  "fecha": "2025-11-26",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Daniel 5:1-6, 13-14, 16-17, 23-28",
+      "lecturaNombreNormalizado": "Dn5,1-6,13-14,16-17,23-28",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El rey Baltasar dio un gran banquete a mil de sus nobles, y delante de los mil se puso a beber vino."
+        },
+        {
+          "numero": "2",
+          "verso": "Bajo el efecto del vino, Baltasar mandó traer los vasos de oro y plata que su padre, Nabucodonosor, se había llevado del Templo de Jerusalén, y que bebieran en ellos el rey, sus nobles, sus mujeres y sus concubinas."
+        },
+        {
+          "numero": "3",
+          "verso": "Cuando trajeron los vasos de oro que se habían llevado del Templo de Jerusalén, bebieron en ellos el rey, sus nobles, sus mujeres y sus concubinas."
+        },
+        {
+          "numero": "4",
+          "verso": "Bebían vino y alababan a sus dioses de oro y plata, de bronce y hierro, de madera y piedra."
+        },
+        {
+          "numero": "5",
+          "verso": "En aquel momento aparecieron unos dedos de mano humana y escribieron frente al candelabro sobre el revoque del muro del palacio real; y el rey veía la palma de la mano que iba escribiendo."
+        },
+        {
+          "numero": "6",
+          "verso": "Entonces el semblante del rey palideció y sus pensamientos le turbaron; las articulaciones de las caderas se le aflojaron y las rodillas le chocaban una contra otra."
+        },
+        {
+          "numero": "13",
+          "verso": "Entonces trajeron a Daniel ante el rey. El rey tomó la palabra y dijo a Daniel: —¿Eres tú Daniel, uno de los deportados de Judea que trajo de Judá el rey, mi padre?"
+        },
+        {
+          "numero": "14",
+          "verso": "He oído acerca de ti que tienes el espíritu de los dioses, y que en ti se encuentran perspicacia, inteligencia y una extraordinaria sabiduría."
+        },
+        {
+          "numero": "16",
+          "verso": "He oído acerca de ti que puedes dar interpretaciones y resolver problemas; pues bien, si logras leer lo escrito y darme a conocer su interpretación, vestirás la púrpura, llevarás al cuello un collar de oro y serás el tercero en autoridad en el reino."
+        },
+        {
+          "numero": "17",
+          "verso": "Entonces respondió Daniel y habló ante el rey: —Queden para ti tus dones y da a otro tus regalos. Yo leeré al rey lo escrito y le daré a conocer su interpretación."
+        },
+        {
+          "numero": "23",
+          "verso": "Te has alzado contra el Señor del cielo y te han traído los vasos de su Templo, y tú, tus nobles, tus mujeres y tus concubinas habéis bebido vino en ellos. Has ensalzado a dioses de plata y oro, de bronce y hierro, de madera y piedra, que ni ven, ni oyen, ni conocen; mientras que al Dios en cuyas manos está tu vida y al que pertenecen todos tus caminos no lo has glorificado."
+        },
+        {
+          "numero": "24",
+          "verso": "Por eso Él, por su parte, ha enviado la palma de esa mano que ha grabado el escrito."
+        },
+        {
+          "numero": "25",
+          "verso": "Éste es el escrito grabado: Mené, mené, tequel y parsim."
+        },
+        {
+          "numero": "26",
+          "verso": "Y la interpretación de las palabras es ésta: Mené: Dios ha contado los días de tu reinado y les ha señalado el final;"
+        },
+        {
+          "numero": "27",
+          "verso": "Tequel: has sido pesado en la balanza, y se te encuentra falto de peso;"
+        },
+        {
+          "numero": "28",
+          "verso": "Perés: tu reino ha sido dividido, y entregado a medos y persas."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Daniel 3:62-67",
+      "lecturaNombreNormalizado": "Dn3,62-67",
+      "versos": [
+        {
+          "numero": "62",
+          "verso": "Bendecid, sol y luna, al Señor, alabadlo y ensalzadlo por los siglos."
+        },
+        {
+          "numero": "63",
+          "verso": "Bendecid, astros del cielo, al Señor, alabadlo y ensalzadlo por los siglos."
+        },
+        {
+          "numero": "64",
+          "verso": "Bendecid, lluvia y rocío, al Señor, alabadlo y ensalzadlo por los siglos."
+        },
+        {
+          "numero": "65",
+          "verso": "Bendecid, vientos todos, al Señor alabadlo y ensalzadlo por los siglos."
+        },
+        {
+          "numero": "66",
+          "verso": "Bendecid, fuego y calor, al Señor, alabadlo y ensalzadlo por los siglos."
+        },
+        {
+          "numero": "67",
+          "verso": "Bendecid, fríos y heladas, al Señor, alabadlo y ensalzadlo por los siglos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 21:12-19",
+      "lecturaNombreNormalizado": "Lc21,12-19",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Pero antes de todas estas cosas os echarán mano y os perseguirán, entregándoos a las sinagogas y a las cárceles, llevándoos ante reyes y gobernadores por causa de mi nombre:"
+        },
+        {
+          "numero": "13",
+          "verso": "esto os sucederá para dar testimonio."
+        },
+        {
+          "numero": "14",
+          "verso": "Así pues, convenceos de que no debéis tener preparado de antemano cómo os vais a defender;"
+        },
+        {
+          "numero": "15",
+          "verso": "porque yo os daré palabras y sabiduría que no podrán resistir ni contradecir todos vuestros adversarios."
+        },
+        {
+          "numero": "16",
+          "verso": "Seréis entregados incluso por padres y hermanos, parientes y amigos, y matarán a algunos de vosotros,"
+        },
+        {
+          "numero": "17",
+          "verso": "y seréis odiados por todos a causa de mi nombre."
+        },
+        {
+          "numero": "18",
+          "verso": "Pero ni un cabello de vuestra cabeza perecerá."
+        },
+        {
+          "numero": "19",
+          "verso": "Con vuestra perseverancia salvaréis vuestras almas."
+        }
+      ]
+    }
+  ]
+}

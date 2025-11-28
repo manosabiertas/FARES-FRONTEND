@@ -1,0 +1,158 @@
+{
+  "fecha": "2026-01-25",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 8:23--9:3",
+      "lecturaNombreNormalizado": "Is8,23--9,3",
+      "versos": [
+        {
+          "numero": "23",
+          "verso": "Pero no habrá más tinieblas donde había angustia.\nAsí como en el tiempo primero menospreció la tierra de Zabulón y la tierra de Neftalí, en el tiempo postrero honrará el camino del Mar, al otro lado del Jordán, la Galilea de los gentiles."
+        },
+        {
+          "numero": "1",
+          "verso": "El pueblo que caminaba en tinieblas vio una gran luz; a los que habitaban en tierra de sombras de muerte,\nles ha brillado una luz."
+        },
+        {
+          "numero": "2",
+          "verso": "Multiplicaste el gozo, aumentaste la alegría.\nSe alegran en tu presencia\ncon la alegría de la siega,\ncomo se gozan al repartirse el botín."
+        },
+        {
+          "numero": "3",
+          "verso": "Porque el yugo que los cargaba, la vara de su hombro,\nel cetro que los oprimía,\nlos quebraste como en el día de Madián."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 27:1, 4, 13-14",
+      "lecturaNombreNormalizado": "Sal27,1,4,13-14",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. El Señor es mi luz y mi salvación:\n¿a quién temeré?\nEl Señor es el refugio de mi vida:\n¿de quién tendré miedo?"
+        },
+        {
+          "numero": "4",
+          "verso": "Una cosa pido al Señor, ésta sólo busco:\nhabitar en la Casa del Señor\ntodos los días de mi vida,\npara gozar de las delicias del Señor\ny contemplar su Templo."
+        },
+        {
+          "numero": "13",
+          "verso": "Seguro estoy de ver la bondad del Señor en la tierra de los vivos."
+        },
+        {
+          "numero": "14",
+          "verso": "Espera en el Señor, sé recio, que se reanime tu corazón.\n¡Espera en el Señor!"
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "1 Corintios 1:10-13, 17",
+      "lecturaNombreNormalizado": "1Corintios1,10-13,17",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "Os exhorto, hermanos, por el nombre de nuestro Señor Jesucristo, a que todos tengáis un mismo lenguaje y a que no haya divisiones entre vosotros, a que viváis unidos en un mismo pensar y en un mismo sentir."
+        },
+        {
+          "numero": "11",
+          "verso": "Porque, por los de Cloe, me han llegado noticias sobre vosotros, hermanos míos, de que hay discordias entre vosotros."
+        },
+        {
+          "numero": "12",
+          "verso": "Me refiero a que cada uno de vosotros va diciendo: «Yo soy de Pablo», «Yo, de Apolo», «Yo, de Cefas», «Yo, de Cristo»."
+        },
+        {
+          "numero": "13",
+          "verso": "¿Está dividido Cristo? ¿Es que Pablo fue crucificado por vosotros o fuisteis bautizados en el nombre de Pablo?"
+        },
+        {
+          "numero": "17",
+          "verso": "Porque Cristo no me envió a bautizar sino a evangelizar, y no con sabiduría de palabras, para no desvirtuar la cruz de Cristo."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 4:12-23",
+      "lecturaNombreNormalizado": "Mt4,12-23",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Cuando oyó que Juan había sido encarcelado, se retiró a Galilea."
+        },
+        {
+          "numero": "13",
+          "verso": "Y dejando Nazaret se fue a vivir a Cafarnaún, ciudad marítima, en los confines de Zabulón y Neftalí,"
+        },
+        {
+          "numero": "14",
+          "verso": "para que se cumpliera lo dicho por medio del profeta Isaías:"
+        },
+        {
+          "numero": "15",
+          "verso": "Tierra de Zabulón y tierra de Neftalí en el camino del mar,\nal otro lado del Jordán,\nla Galilea de los gentiles,"
+        },
+        {
+          "numero": "16",
+          "verso": "el pueblo que yacía en tinieblas ha visto una gran luz;\npara los que yacían en región\ny sombra de muerte\nuna luz ha amanecido."
+        },
+        {
+          "numero": "17",
+          "verso": "Desde entonces comenzó Jesús a predicar y a decir: —Convertíos, porque está al llegar el Reino de los Cielos."
+        },
+        {
+          "numero": "18",
+          "verso": "Mientras caminaba junto al mar de Galilea vio a dos hermanos, Simón el llamado Pedro y Andrés su hermano, que echaban la red al mar, pues eran pescadores."
+        },
+        {
+          "numero": "19",
+          "verso": "Y les dijo: —Seguidme y os haré pescadores de hombres."
+        },
+        {
+          "numero": "20",
+          "verso": "Ellos, al momento, dejaron las redes y le siguieron."
+        },
+        {
+          "numero": "21",
+          "verso": "Pasando adelante, vio a otros dos hermanos, Santiago el de Zebedeo y Juan su hermano, que estaban en la barca con su padre Zebedeo remendando sus redes; y los llamó."
+        },
+        {
+          "numero": "22",
+          "verso": "Ellos, al momento, dejaron la barca y a su padre, y le siguieron."
+        },
+        {
+          "numero": "23",
+          "verso": "Recorría Jesús toda la Galilea enseñando en las sinagogas, predicando el Evangelio del Reino y curando toda enfermedad y dolencia del pueblo."
+        },
+        {
+          "numero": "12",
+          "verso": "Cuando oyó que Juan había sido encarcelado, se retiró a Galilea."
+        },
+        {
+          "numero": "13",
+          "verso": "Y dejando Nazaret se fue a vivir a Cafarnaún, ciudad marítima, en los confines de Zabulón y Neftalí,"
+        },
+        {
+          "numero": "14",
+          "verso": "para que se cumpliera lo dicho por medio del profeta Isaías:"
+        },
+        {
+          "numero": "15",
+          "verso": "Tierra de Zabulón y tierra de Neftalí en el camino del mar,\nal otro lado del Jordán,\nla Galilea de los gentiles,"
+        },
+        {
+          "numero": "16",
+          "verso": "el pueblo que yacía en tinieblas ha visto una gran luz;\npara los que yacían en región\ny sombra de muerte\nuna luz ha amanecido."
+        },
+        {
+          "numero": "17",
+          "verso": "Desde entonces comenzó Jesús a predicar y a decir: —Convertíos, porque está al llegar el Reino de los Cielos."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-01-29",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Samuel 7:18-19, 24-29",
+      "lecturaNombreNormalizado": "2Samuel7,18-19,24-29",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "Entonces el rey David fue y se presentó ante el Señor diciendo: —¿Quién soy yo, Señor Dios, y qué es mi casa para que me hayas traído hasta aquí?"
+        },
+        {
+          "numero": "19",
+          "verso": "Y aún esto te ha parecido poco, Señor Dios, y has hablado de la casa de tu siervo para un futuro lejano. Es el designio de este hombre, Señor, Dios mío."
+        },
+        {
+          "numero": "24",
+          "verso": "Tú has consolidado a tu pueblo Israel como pueblo tuyo para siempre; y Tú, Señor, te has constituido como su Dios."
+        },
+        {
+          "numero": "25",
+          "verso": "Ahora, pues, Señor Dios, mantén firme para siempre la palabra que has pronunciado sobre tu siervo y sobre su casa, y cumple lo que has dicho."
+        },
+        {
+          "numero": "26",
+          "verso": "Que tu nombre sea engrandecido para siempre y que se diga: «El Señor de los ejércitos es el Dios de Israel». Y que la casa de tu siervo David permanezca firme en tu presencia,"
+        },
+        {
+          "numero": "27",
+          "verso": "porque Tú, Señor de los ejércitos, Dios de Israel, has revelado esto a tu siervo: «Te edificaré una casa». Por eso, tu siervo ha encontrado valor para dirigirte esta oración."
+        },
+        {
+          "numero": "28",
+          "verso": "Ahora, pues, Señor Dios, Tú eres Dios y tus palabras son verdad; Tú has prometido estos bienes a tu siervo."
+        },
+        {
+          "numero": "29",
+          "verso": "Dígnate, pues, bendecir la casa de tu siervo para que permanezca en tu presencia para siempre, porque Tú, Señor Dios, has hablado y con tu bendición será bendita para siempre la casa de tu siervo."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 132:1-5, 11-14",
+      "lecturaNombreNormalizado": "Sal132,1-5,11-14",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. Acuérdate, Señor, de David,\nde todos sus desvelos."
+        },
+        {
+          "numero": "2",
+          "verso": "Del juramento que hizo al Señor, de su voto al Fuerte de Jacob:"
+        },
+        {
+          "numero": "3",
+          "verso": "«No entraré bajo el techo de mi casa, no subiré al lecho de mi reposo;"
+        },
+        {
+          "numero": "4",
+          "verso": "no daré sueño a mis ojos, ni sosiego a mis párpados,"
+        },
+        {
+          "numero": "5",
+          "verso": "hasta que encuentre un lugar para el Señor, una morada para el Fuerte de Jacob»."
+        },
+        {
+          "numero": "11",
+          "verso": "El Señor juró a David una promesa firme de la que no se retractará:\n«Un fruto de tus entrañas\npondré sobre tu trono."
+        },
+        {
+          "numero": "12",
+          "verso": "Si tus hijos guardasen mi alianza, y los preceptos que les enseñe,\ntambién sus hijos, para siempre,\nse sentarán sobre tu trono»."
+        },
+        {
+          "numero": "13",
+          "verso": "Porque el Señor ha elegido a Sión, la ha preferido como su morada:"
+        },
+        {
+          "numero": "14",
+          "verso": "«Éste es el lugar de mi reposo para siempre; aquí habitaré porque la prefiero»."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 4:21-25",
+      "lecturaNombreNormalizado": "Mc4,21-25",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "Y les decía: —¿Acaso se enciende la lámpara para ponerla debajo de un celemín o debajo de la cama? ¿No se pone sobre un candelero?"
+        },
+        {
+          "numero": "22",
+          "verso": "Pues no hay cosa escondida que no vaya a saberse, ni secreto que no acabe por hacerse público."
+        },
+        {
+          "numero": "23",
+          "verso": "Si alguno tiene oídos para oír, que oiga."
+        },
+        {
+          "numero": "24",
+          "verso": "Y les decía: —Prestad atención a lo que oís. Con la medida con que midáis se os medirá y hasta se os dará de más."
+        },
+        {
+          "numero": "25",
+          "verso": "Porque al que tiene se le dará; y al que no tiene incluso lo que tiene se le quitará."
+        }
+      ]
+    }
+  ]
+}

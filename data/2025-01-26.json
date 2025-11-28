@@ -1,0 +1,222 @@
+{
+  "fecha": "2025-01-26",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Nehemías 8:2-4, 5-6, 8-10",
+      "lecturaNombreNormalizado": "Neh8,2-4,5-6,8-10",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "El día uno del mes séptimo el sacerdote Esdras trajo la Ley ante toda la asamblea, hombres y mujeres, ante todos los que tenían uso de razón."
+        },
+        {
+          "numero": "3",
+          "verso": "Desde que hubo luz hasta el medio día la leyó al frente de la explanada que hay delante de la puerta de las Aguas, ante los hombres, las mujeres y todos los que tenían uso de razón. Todo el pueblo prestaba oído al libro de la Ley."
+        },
+        {
+          "numero": "4",
+          "verso": "Esdras, el escriba, estaba de pie sobre un estrado de madera que habían preparado para la ocasión, y junto a él estaban Matatías, Sema, Anaías, Urías, Jilquías y Maasías a su derecha, y a su izquierda Pedaías, Misael, Malquías, Jasum, Jasbadaná, Zacarías y Mesulam."
+        },
+        {
+          "numero": "5",
+          "verso": "Esdras, el escriba, abrió el libro a la vista de todo el pueblo, pues sobresalía por encima de todos, y cuando lo abrió todo el pueblo se puso en pie."
+        },
+        {
+          "numero": "6",
+          "verso": "Esdras bendijo al Señor, el gran Dios, y todo el pueblo respondió: «¡Amén, amén!», alzando sus manos. Después se inclinaron y se postraron ante el Señor rostro en tierra."
+        },
+        {
+          "numero": "8",
+          "verso": "Leían el libro de la Ley de Dios con claridad, explicando el sentido, para instruir con la lectura."
+        },
+        {
+          "numero": "9",
+          "verso": "Nehemías, que era el gobernador, el sacerdote Esdras, que leía, y los levitas, que instruían al pueblo, dijeron a todos: —¡Hoy es un día santo para el Señor, vuestro Dios! No os lamentéis ni lloréis.\nPues todo el pueblo estaba llorando al escuchar las palabras de la Ley."
+        },
+        {
+          "numero": "10",
+          "verso": "Y les indicaron: —Id, comed manjares sustanciosos, escanciad bebidas dulces, y compartidlos con los que no tienen nada preparado, porque hoy es un día santo para nuestro Señor. No estéis tristes, porque el gozo del Señor es vuestra fortaleza."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 19:8-10, 15",
+      "lecturaNombreNormalizado": "Sal19,8-10,15",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "La Ley del Señor es perfecta; reconforta el alma. El mandato del Señor es firme,\ninstruye al sencillo."
+        },
+        {
+          "numero": "9",
+          "verso": "Los preceptos del Señor son rectos, alegran el corazón.\nLos mandamientos del Señor son puros,\ndan luz a los ojos."
+        },
+        {
+          "numero": "10",
+          "verso": "El temor del Señor es limpio, dura por siempre.\nLos juicios del Señor son veraces,\nson enteramente justos,"
+        },
+        {
+          "numero": "15",
+          "verso": "Sean de tu agrado las palabras de mi boca y las meditaciones de mi corazón en tu presencia.\n¡Señor, Roca mía y Redentor mío!"
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "1 Corintios 12:12-30",
+      "lecturaNombreNormalizado": "1Corintios12,12-30",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Porque así como el cuerpo es uno y tiene muchos miembros, y todos los miembros del cuerpo, aun siendo muchos, son un solo cuerpo, así también Cristo."
+        },
+        {
+          "numero": "13",
+          "verso": "Porque todos nosotros, tanto judíos como griegos, tanto siervos como libres, fuimos bautizados en un mismo Espíritu para formar un solo cuerpo. Y todos hemos bebido de un solo Espíritu."
+        },
+        {
+          "numero": "14",
+          "verso": "Pues tampoco el cuerpo es un solo miembro, sino muchos."
+        },
+        {
+          "numero": "15",
+          "verso": "Si el pie dijera: «Como no soy mano, no soy del cuerpo», no por eso dejaría de ser del cuerpo."
+        },
+        {
+          "numero": "16",
+          "verso": "Y si dijera el oído: «Como no soy ojo, no soy del cuerpo», no por eso dejaría de ser del cuerpo."
+        },
+        {
+          "numero": "17",
+          "verso": "Si todo el cuerpo fuera ojo, ¿dónde estaría el oído? Si todo fuera oído, ¿dónde estaría el olfato?"
+        },
+        {
+          "numero": "18",
+          "verso": "Ahora bien, Dios dispuso cada uno de los miembros en el cuerpo como quiso."
+        },
+        {
+          "numero": "19",
+          "verso": "Si todos fueran un solo miembro, ¿donde estaría el cuerpo?"
+        },
+        {
+          "numero": "20",
+          "verso": "Ciertamente muchos son los miembros, pero uno solo el cuerpo."
+        },
+        {
+          "numero": "21",
+          "verso": "No puede el ojo decir a la mano: «No te necesito»; ni tampoco la cabeza a los pies: «No os necesito»."
+        },
+        {
+          "numero": "22",
+          "verso": "Más aún, los miembros del cuerpo que parecen más débiles son más necesarios;"
+        },
+        {
+          "numero": "23",
+          "verso": "y a los miembros del cuerpo que parecen más viles, los rodeamos de mayor honor, y a los indecorosos los tratamos con mayor decoro;"
+        },
+        {
+          "numero": "24",
+          "verso": "los miembros decorosos, en cambio, no necesitan más. Dios ha dispuesto el cuerpo dando mayor honor a lo que carecía de él,"
+        },
+        {
+          "numero": "25",
+          "verso": "para que no haya división en el cuerpo, sino que todos los miembros se preocupen por igual unos de otros."
+        },
+        {
+          "numero": "26",
+          "verso": "Si un miembro padece, todos los miembros padecen con él; y si un miembro es honrado, todos los miembros se gozan con él."
+        },
+        {
+          "numero": "27",
+          "verso": "Vosotros sois cuerpo de Cristo, y cada uno un miembro de él."
+        },
+        {
+          "numero": "28",
+          "verso": "Y Dios los dispuso así en la Iglesia: primero apóstoles, segundo profetas, tercero doctores, luego el poder de obrar milagros, después el don de curaciones, de asistencia a los necesitados, de gobierno, de diversidad de lenguas."
+        },
+        {
+          "numero": "29",
+          "verso": "¿Son todos apóstoles? ¿O todos profetas? ¿O todos doctores? ¿O todos tienen poder de obrar milagros?"
+        },
+        {
+          "numero": "30",
+          "verso": "¿Tienen todos don de curación? ¿O hablan todos lenguas? ¿O todos tienen don de interpretación?"
+        },
+        {
+          "numero": "12",
+          "verso": "Porque así como el cuerpo es uno y tiene muchos miembros, y todos los miembros del cuerpo, aun siendo muchos, son un solo cuerpo, así también Cristo."
+        },
+        {
+          "numero": "13",
+          "verso": "Porque todos nosotros, tanto judíos como griegos, tanto siervos como libres, fuimos bautizados en un mismo Espíritu para formar un solo cuerpo. Y todos hemos bebido de un solo Espíritu."
+        },
+        {
+          "numero": "14",
+          "verso": "Pues tampoco el cuerpo es un solo miembro, sino muchos."
+        },
+        {
+          "numero": "27",
+          "verso": "Vosotros sois cuerpo de Cristo, y cada uno un miembro de él."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 1:1-4; 4:14-21",
+      "lecturaNombreNormalizado": "Lc1,1-4;4,14-21",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Ya que muchos han intentado poner en orden la narración de las cosas que se han cumplido entre nosotros,"
+        },
+        {
+          "numero": "2",
+          "verso": "conforme nos las transmitieron quienes desde el principio fueron testigos oculares y ministros de la palabra,"
+        },
+        {
+          "numero": "3",
+          "verso": "me pareció también a mí, después de haberme informado con exactitud de todo desde los comienzos, escribírtelo de forma ordenada, distinguido Teófilo,"
+        },
+        {
+          "numero": "4",
+          "verso": "para que conozcas la indudable certeza de las enseñanzas que has recibido."
+        },
+        {
+          "numero": "14",
+          "verso": "Entonces, por impulso del Espíritu, volvió Jesús a Galilea y se extendió su fama por toda la región."
+        },
+        {
+          "numero": "15",
+          "verso": "Y enseñaba en sus sinagogas y era honrado por todos."
+        },
+        {
+          "numero": "16",
+          "verso": "Llegó a Nazaret, donde se había criado, y según su costumbre entró en la sinagoga el sábado y se levantó para leer."
+        },
+        {
+          "numero": "17",
+          "verso": "Entonces le entregaron el libro del profeta Isaías y, abriendo el libro, encontró el lugar donde estaba escrito:"
+        },
+        {
+          "numero": "18",
+          "verso": "El Espíritu del Señor está sobre mí, por lo cual me ha ungido\npara evangelizar a los pobres,\nme ha enviado para anunciar la redención\na los cautivos\ny devolver la vista a los ciegos,\npara poner en libertad a los oprimidos"
+        },
+        {
+          "numero": "19",
+          "verso": "y para promulgar el año de gracia del Señor."
+        },
+        {
+          "numero": "20",
+          "verso": "Y enrollando el libro se lo devolvió al ministro y se sentó. Todos en la sinagoga tenían los ojos fijos en él."
+        },
+        {
+          "numero": "21",
+          "verso": "Y comenzó a decirles: —Hoy se ha cumplido esta Escritura que acabáis de oír."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-10-26",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Efesios 4:32--5:8",
+      "lecturaNombreNormalizado": "Ef4,32--5,8",
+      "versos": [
+        {
+          "numero": "32",
+          "verso": "Sed, por el contrario, benévolos unos con otros, compasivos, perdonándoos mutuamente como Dios os perdonó en Cristo."
+        },
+        {
+          "numero": "1",
+          "verso": "Imitad, por tanto, a Dios, como hijos queridísimos,"
+        },
+        {
+          "numero": "2",
+          "verso": "y caminad en el amor, lo mismo que Cristo nos amó y se entregó por nosotros como oblación y ofrenda de suave olor ante Dios."
+        },
+        {
+          "numero": "3",
+          "verso": "Como conviene a los santos, la fornicación y toda impureza o avaricia ni se nombren entre vosotros;"
+        },
+        {
+          "numero": "4",
+          "verso": "ni palabras torpes, ni conversaciones vanas o tonterías, que no convienen. Haced más bien acciones de gracias."
+        },
+        {
+          "numero": "5",
+          "verso": "Porque debéis tener bien claro y aprendido esto: que ningún fornicario o impúdico, o avaro, que es como un adorador de ídolos, puede heredar el Reino de Cristo y de Dios."
+        },
+        {
+          "numero": "6",
+          "verso": "Que nadie os engañe con palabras vanas, porque por culpa de esto vino la ira de Dios sobre los hijos de la rebeldía."
+        },
+        {
+          "numero": "7",
+          "verso": "Por tanto, no os hagáis cómplices suyos."
+        },
+        {
+          "numero": "8",
+          "verso": "En otro tiempo erais tinieblas, ahora en cambio sois luz en el Señor: caminad como hijos de la luz,"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 1:1-4, 6",
+      "lecturaNombreNormalizado": "Sal1,1-4,6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Dichoso el hombre que no sigue el consejo de impíos,\nni se detiene en el camino de pecadores,\nni toma asiento con farsantes,"
+        },
+        {
+          "numero": "2",
+          "verso": "sino que se complace en la Ley del Señor, y noche y día medita en su Ley."
+        },
+        {
+          "numero": "3",
+          "verso": "Será como un árbol plantado al borde de la acequia,\nque da fruto a su tiempo,\ny no se marchitan sus hojas:\ncuanto hace prospera."
+        },
+        {
+          "numero": "4",
+          "verso": "No así los impíos, no así. Son como polvo que dispersa el viento."
+        },
+        {
+          "numero": "6",
+          "verso": "Porque el Señor vela sobre el camino de los justos, mientras el de los impíos acaba en perdición."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 13:10-17",
+      "lecturaNombreNormalizado": "Lc13,10-17",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "Un sábado estaba enseñando en una de las sinagogas."
+        },
+        {
+          "numero": "11",
+          "verso": "Y había allí una mujer poseída por un espíritu, enferma desde hacía dieciocho años, y estaba encorvada sin poder enderezarse de ningún modo."
+        },
+        {
+          "numero": "12",
+          "verso": "Al verla Jesús, la llamó y le dijo: —Mujer, quedas libre de tu enfermedad."
+        },
+        {
+          "numero": "13",
+          "verso": "Y le impuso las manos, y al instante se enderezó y glorificaba a Dios."
+        },
+        {
+          "numero": "14",
+          "verso": "Tomando la palabra el jefe de la sinagoga, indignado porque Jesús curaba en sábado, decía a la muchedumbre: —Hay seis días para trabajar; venid, pues, en ellos a ser curados, y no un día de sábado."
+        },
+        {
+          "numero": "15",
+          "verso": "El Señor le respondió: —¡Hipócritas!, cualquiera de vosotros ¿no suelta del pesebre en sábado su buey o su asno y lo lleva a beber?"
+        },
+        {
+          "numero": "16",
+          "verso": "Y a ésta, que es hija de Abrahán, a la que Satanás ató hace ya dieciocho años, ¿no había que soltarla de esta atadura aun un día de sábado?"
+        },
+        {
+          "numero": "17",
+          "verso": "Y cuando decía esto, quedaban avergonzados todos sus adversarios, y toda la gente se alegraba por todas las maravillas que hacía."
+        }
+      ]
+    }
+  ]
+}

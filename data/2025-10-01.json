@@ -1,0 +1,107 @@
+{
+  "fecha": "2025-10-01",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Nehemías 2:1-8",
+      "lecturaNombreNormalizado": "Neh2,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El mes de Nisán del año veinte del rey Artajerjes estaba yo escanciando y sirviendo al rey el vino que tenía delante. Y aunque no me encontraba indispuesto en su presencia,"
+        },
+        {
+          "numero": "2",
+          "verso": "el rey me dijo: —¿Por qué tienes mala cara, si no estás enfermo? Esto no es sino tristeza del corazón.\nCon mucho miedo"
+        },
+        {
+          "numero": "3",
+          "verso": "le respondí: —Oh rey, ¡vive por siempre! ¿Cómo no va a estar triste mi rostro si la ciudad en la que están los sepulcros de mis padres está destruida y el fuego ha consumido sus puertas?"
+        },
+        {
+          "numero": "4",
+          "verso": "El rey me contestó: —¿Qué me pides?\nMe encomendé al Dios de los cielos"
+        },
+        {
+          "numero": "5",
+          "verso": "y le respondí: —Si al rey le parece bien y su siervo es de su agrado, que me envíe a Judá, a la ciudad en la que están los sepulcros de mis padres, para que la reconstruya."
+        },
+        {
+          "numero": "6",
+          "verso": "El rey, que tenía a la reina sentada a su lado, me preguntó: —¿Cuanto tiempo durará tu viaje, y cuándo regresarás?\nAl rey le pareció bien que me marchara durante el tiempo que yo le indiqué."
+        },
+        {
+          "numero": "7",
+          "verso": "Aún le insistí: —Si le parece bien al rey, que me entregue unas cartas para que los gobernadores del otro lado del río me dejen paso libre hasta llegar a Judá,"
+        },
+        {
+          "numero": "8",
+          "verso": "y otra para que Asaf, el guarda del jardín del rey, me proporcione madera para fabricar las puertas de la ciudadela del Templo, de las murallas de la ciudad, y de la casa en la que habite. El rey me las entregó porque la mano de mi Dios estaba conmigo."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 137:1-6",
+      "lecturaNombreNormalizado": "Sal137,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Junto a los ríos de Babilonia, allí nos sentábamos y llorábamos,\nacordándonos de Sión."
+        },
+        {
+          "numero": "2",
+          "verso": "En los sauces, en medio de ella, colgábamos nuestras cítaras."
+        },
+        {
+          "numero": "3",
+          "verso": "Allí, los que nos deportaron nos pedían cantares, nuestros opresores, diversión:\n«Cantadnos canciones de Sión»."
+        },
+        {
+          "numero": "4",
+          "verso": "¿Cómo cantar un cántico del Señor en tierra extraña?"
+        },
+        {
+          "numero": "5",
+          "verso": "Si me olvido de ti, Jerusalén, que se paralice mi diestra;"
+        },
+        {
+          "numero": "6",
+          "verso": "que se me pegue la lengua al paladar si no me acuerdo de ti,\nsi no pongo a Jerusalén\nen el colmo de mi gozo."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 9:57-62",
+      "lecturaNombreNormalizado": "Lc9,57-62",
+      "versos": [
+        {
+          "numero": "57",
+          "verso": "Mientras iban de camino, uno le dijo: —Te seguiré adonde vayas."
+        },
+        {
+          "numero": "58",
+          "verso": "Jesús le dijo: —Las zorras tienen sus guaridas y los pájaros del cielo sus nidos, pero el Hijo del Hombre no tiene dónde reclinar la cabeza."
+        },
+        {
+          "numero": "59",
+          "verso": "A otro le dijo: —Sígueme.\nPero éste contestó:\n—Señor, permíteme ir primero a enterrar a mi padre."
+        },
+        {
+          "numero": "60",
+          "verso": "—Deja a los muertos enterrar a sus muertos —le respondió Jesús—; tú vete a anunciar el Reino de Dios."
+        },
+        {
+          "numero": "61",
+          "verso": "Y otro dijo: —Te seguiré, Señor, pero primero permíteme despedirme de los de mi casa."
+        },
+        {
+          "numero": "62",
+          "verso": "Jesús le dijo: —Nadie que pone su mano en el arado y mira hacia atrás es apto para el Reino de Dios."
+        }
+      ]
+    }
+  ]
+}

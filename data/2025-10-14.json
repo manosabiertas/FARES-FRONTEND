@@ -1,0 +1,103 @@
+{
+  "fecha": "2025-10-14",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Romanos 1:16-25",
+      "lecturaNombreNormalizado": "Rom1,16-25",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "No me avergüenzo del Evangelio, porque es una fuerza de Dios para la salvación de todo el que cree, del judío en primer lugar y también del griego."
+        },
+        {
+          "numero": "17",
+          "verso": "Pues en él se revela la justicia de Dios de la fe hacia la fe, como está escrito: El justo vivirá de la fe."
+        },
+        {
+          "numero": "18",
+          "verso": "En efecto, la ira de Dios se revela desde el cielo sobre toda impiedad e injusticia de los hombres que tienen aprisionada la verdad en la injusticia."
+        },
+        {
+          "numero": "19",
+          "verso": "Porque lo que se puede conocer de Dios es manifiesto en ellos, ya que Dios se lo ha mostrado."
+        },
+        {
+          "numero": "20",
+          "verso": "Pues desde la creación del mundo las perfecciones invisibles de Dios —su eterno poder y su divinidad— se han hecho visibles a la inteligencia a través de las cosas creadas. De modo que son inexcusables,"
+        },
+        {
+          "numero": "21",
+          "verso": "porque habiendo conocido a Dios no le glorificaron como Dios ni le dieron gracias, sino que se envanecieron en sus razonamientos y se oscureció su insensato corazón:"
+        },
+        {
+          "numero": "22",
+          "verso": "presumiendo de sabios se hicieron necios"
+        },
+        {
+          "numero": "23",
+          "verso": "y llegaron a transferir la gloria del Dios incorruptible a imágenes que representan al hombre corruptible, y a aves, a cuadrúpedos y a reptiles."
+        },
+        {
+          "numero": "24",
+          "verso": "Por eso Dios los abandonó a los malos deseos de sus corazones, a la impureza con que deshonran entre ellos sus propios cuerpos:"
+        },
+        {
+          "numero": "25",
+          "verso": "cambiaron la verdad de Dios por la mentira y dieron culto y adoraron a la criatura en lugar del Creador, que es bendito por los siglos. Amén."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 19:2-5",
+      "lecturaNombreNormalizado": "Sal19,2-5",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Los cielos pregonan la gloria de Dios y el firmamento anuncia la obra de sus manos."
+        },
+        {
+          "numero": "3",
+          "verso": "Un día le anuncia el mensaje al otro día y una noche le da la noticia a la otra noche."
+        },
+        {
+          "numero": "4",
+          "verso": "Sin discurso, sin palabras sin que se oiga su voz,"
+        },
+        {
+          "numero": "5",
+          "verso": "se esparce su rumor por toda la tierra, y su pregón hasta los confines del orbe.\nEn éstos ha puesto una tienda para el sol."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 11:37-41",
+      "lecturaNombreNormalizado": "Lc11,37-41",
+      "versos": [
+        {
+          "numero": "37",
+          "verso": "Cuando terminó de hablar, cierto fariseo le rogó que comiera en su casa. Entró y se puso a la mesa."
+        },
+        {
+          "numero": "38",
+          "verso": "El fariseo se quedó extrañado al ver que Jesús no se había lavado antes de la comida."
+        },
+        {
+          "numero": "39",
+          "verso": "Pero el Señor le dijo: —Así que vosotros, los fariseos, limpiáis por fuera la copa y el plato, pero por dentro estáis llenos de rapiña y de maldad."
+        },
+        {
+          "numero": "40",
+          "verso": "¡Insensatos! ¿Acaso quien hizo lo de fuera no ha hecho también lo de dentro?"
+        },
+        {
+          "numero": "41",
+          "verso": "Dad, más bien, limosna de lo que guardáis dentro, y así todo será límpio para vosotros."
+        }
+      ]
+    }
+  ]
+}

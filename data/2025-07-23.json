@@ -1,0 +1,143 @@
+{
+  "fecha": "2025-07-23",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Éxodo 16:1-5, 9-15",
+      "lecturaNombreNormalizado": "Ex16,1-5,9-15",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Toda la comunidad de los hijos de Israel partió de Elim y el día quince del segundo mes de su salida del país de Egipto, llegó al desierto de Sin, que está entre Elim y el Sinaí."
+        },
+        {
+          "numero": "2",
+          "verso": "La comunidad de los hijos de Israel murmuraba contra Moisés y contra Aarón en el desierto."
+        },
+        {
+          "numero": "3",
+          "verso": "Los hijos de Israel les decían: —¿Quién nos hubiera dado morir a manos del Señor en el país de Egipto, cuando nos sentábamos junto a la olla de carne y comíamos pan hasta saciarnos? Porque vosotros nos habéis sacado a este desierto para matar de hambre a toda esta asamblea."
+        },
+        {
+          "numero": "4",
+          "verso": "El Señor dijo a Moisés: —He aquí que voy a hacer llover para vosotros pan desde el cielo; el pueblo saldrá a recoger cada día la porción cotidiana; así les pondré a prueba y veré si se comporta según mi ley o no."
+        },
+        {
+          "numero": "5",
+          "verso": "El sexto día, habrán de preparar lo que han recogido, que será el doble de lo que recolectan cada día."
+        },
+        {
+          "numero": "9",
+          "verso": "Moisés dijo a Aarón: —Di a toda la comunidad de los hijos de Israel: «Acercaos ante el Señor porque ha escuchado vuestras murmuraciones»."
+        },
+        {
+          "numero": "10",
+          "verso": "Y ocurrió que mientras hablaba Aarón a toda la comunidad de los hijos de Israel, volvieron su rostro hacia el desierto, y he aquí que la gloria del Señor se manifestó en la nube."
+        },
+        {
+          "numero": "11",
+          "verso": "Entonces el Señor dijo a Moisés:"
+        },
+        {
+          "numero": "12",
+          "verso": "—He escuchado las murmuraciones de los hijos de Israel. Diles: «Al atardecer comeréis carne y por la mañana os saciaréis de pan. Así conoceréis que yo soy el Señor, vuestro Dios»."
+        },
+        {
+          "numero": "13",
+          "verso": "Aquella tarde, en efecto, subieron las codornices y cubrieron el campamento; y por la mañana, hubo una capa de rocío alrededor del campamento."
+        },
+        {
+          "numero": "14",
+          "verso": "Al evaporarse la capa de rocío quedó sobre la superficie del desierto una cosa blanca delgada, como escarcha sobre la tierra."
+        },
+        {
+          "numero": "15",
+          "verso": "Al verlo los hijos de Israel se dijeron entre sí: —¿Man–hu? (que significa: «¿Qué es esto?»)\nPues no sabían lo que era. Moisés les dijo:\n—Esto es el pan que el Señor os da como alimento."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 78:18-19, 23-28",
+      "lecturaNombreNormalizado": "Sal78,18-19,23-28",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "Tentaron a Dios en sus corazones reclamando comida según su avidez."
+        },
+        {
+          "numero": "19",
+          "verso": "Murmuraron contra Dios diciendo: «¿Es que será Dios capaz de aderezar\nuna mesa en el desierto?»."
+        },
+        {
+          "numero": "23",
+          "verso": "Entonces dio órdenes a las nubes de lo alto, y abrió las compuertas de los cielos;"
+        },
+        {
+          "numero": "24",
+          "verso": "hizo que les lloviese maná para comer, y les dio trigo del cielo:"
+        },
+        {
+          "numero": "25",
+          "verso": "pan de ángeles comió el hombre, les envió alimento hasta saciarse."
+        },
+        {
+          "numero": "26",
+          "verso": "Levantó en los cielos el viento de oriente, y excitó con fuerza el austro."
+        },
+        {
+          "numero": "27",
+          "verso": "Hizo llover sobre ellos carne, como polvo, aves que vuelan, como arenas del mar."
+        },
+        {
+          "numero": "28",
+          "verso": "Las dejó caer en medio del campamento, en derredor de sus tiendas."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 13:1-9",
+      "lecturaNombreNormalizado": "Mt13,1-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Aquel día salió Jesús de casa y se sentó a la orilla del mar."
+        },
+        {
+          "numero": "2",
+          "verso": "Se reunió en torno a él una multitud tan grande, que tuvo que subir a sentarse en una barca, mientras toda la multitud permanecía en la playa."
+        },
+        {
+          "numero": "3",
+          "verso": "Y se puso a hablarles muchas cosas con parábolas: —Salió el sembrador a sembrar."
+        },
+        {
+          "numero": "4",
+          "verso": "Y al echar la semilla, parte cayó junto al camino y vinieron los pájaros y se la comieron."
+        },
+        {
+          "numero": "5",
+          "verso": "Otra parte cayó en terreno pedregoso, donde no había mucha tierra y brotó pronto por no ser hondo el suelo;"
+        },
+        {
+          "numero": "6",
+          "verso": "pero al salir el sol, se agostó y se secó porque no tenía raíz."
+        },
+        {
+          "numero": "7",
+          "verso": "Otra parte cayó entre espinos; crecieron los espinos y la ahogaron."
+        },
+        {
+          "numero": "8",
+          "verso": "Otra, en cambio, cayó en buena tierra y comenzó a dar fruto, una parte el ciento, otra el sesenta y otra el treinta."
+        },
+        {
+          "numero": "9",
+          "verso": "El que tenga oídos, que oiga."
+        }
+      ]
+    }
+  ]
+}

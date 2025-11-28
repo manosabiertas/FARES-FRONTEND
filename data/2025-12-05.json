@@ -1,0 +1,95 @@
+{
+  "fecha": "2025-12-05",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 29:17-24",
+      "lecturaNombreNormalizado": "Is29,17-24",
+      "versos": [
+        {
+          "numero": "17",
+          "verso": "¿Es que en poco tiempo el Líbano no se convertirá en vergel,\ny el vergel parecerá un bosque?"
+        },
+        {
+          "numero": "18",
+          "verso": "Aquel día los sordos oirán las palabras del libro, y, desde la oscuridad y las tinieblas, los ojos de los ciegos verán."
+        },
+        {
+          "numero": "19",
+          "verso": "Los humildes aumentarán su alegría en el Señor, y los más pobres exultarán en el Santo de Israel."
+        },
+        {
+          "numero": "20",
+          "verso": "Porque habrá desaparecido el agresor, se habrá acabado el desvergonzado,\ny serán exterminados cuantos buscan la iniquidad,"
+        },
+        {
+          "numero": "21",
+          "verso": "los que condenan de palabra a los hombres, los que tienden lazos al juez en el tribunal,\ny oprimen al justo sin razón."
+        },
+        {
+          "numero": "22",
+          "verso": "Por eso, así dice el Señor, que rescató a Abrahán,\na la casa de Jacob:\n«Ya no se avergonzará Jacob,\nni su rostro palidecerá."
+        },
+        {
+          "numero": "23",
+          "verso": "Porque, cuando sus hijos vean lo que han hecho mis manos con él, santificarán mi Nombre,\nsantificarán al Santo de Jacob,\ntemerán al Dios de Israel."
+        },
+        {
+          "numero": "24",
+          "verso": "Entonces, los de espíritu errado alcanzarán discernimiento, y los murmuradores aprenderán la lección»."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 27:1, 4, 13-14",
+      "lecturaNombreNormalizado": "Sal27,1,4,13-14",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. El Señor es mi luz y mi salvación:\n¿a quién temeré?\nEl Señor es el refugio de mi vida:\n¿de quién tendré miedo?"
+        },
+        {
+          "numero": "4",
+          "verso": "Una cosa pido al Señor, ésta sólo busco:\nhabitar en la Casa del Señor\ntodos los días de mi vida,\npara gozar de las delicias del Señor\ny contemplar su Templo."
+        },
+        {
+          "numero": "13",
+          "verso": "Seguro estoy de ver la bondad del Señor en la tierra de los vivos."
+        },
+        {
+          "numero": "14",
+          "verso": "Espera en el Señor, sé recio, que se reanime tu corazón.\n¡Espera en el Señor!"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 9:27-31",
+      "lecturaNombreNormalizado": "Mt9,27-31",
+      "versos": [
+        {
+          "numero": "27",
+          "verso": "Al marcharse Jesús de allí, le siguieron dos ciegos diciendo a gritos: —¡Ten piedad de nosotros, Hijo de David!"
+        },
+        {
+          "numero": "28",
+          "verso": "Cuando llegó a la casa se le acercaron los ciegos y Jesús les dijo: —¿Creéis que puedo hacer eso?\n—Sí, Señor —le respondieron."
+        },
+        {
+          "numero": "29",
+          "verso": "Entonces les tocó los ojos diciendo: —Que se haga en vosotros conforme a vuestra fe."
+        },
+        {
+          "numero": "30",
+          "verso": "Y se les abrieron los ojos. Pero Jesús les ordenó severamente: —Mirad que nadie lo sepa."
+        },
+        {
+          "numero": "31",
+          "verso": "Ellos, en cambio, en cuanto salieron divulgaron la noticia por toda aquella comarca."
+        }
+      ]
+    }
+  ]
+}

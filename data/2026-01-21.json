@@ -1,0 +1,127 @@
+{
+  "fecha": "2026-01-21",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Samuel 17:32-33, 37, 40-51",
+      "lecturaNombreNormalizado": "1Samuel17,32-33,37,40-51",
+      "versos": [
+        {
+          "numero": "32",
+          "verso": "Entonces David dijo a Saúl: —Que nadie se acobarde por este filisteo. Yo, tu siervo, iré y lucharé con él."
+        },
+        {
+          "numero": "33",
+          "verso": "Y Saúl le respondió: —Tú no puedes ir a luchar con ese filisteo porque eres un muchacho, en cambio él es un guerrero desde su juventud."
+        },
+        {
+          "numero": "37",
+          "verso": "Y añadió: —El Señor, que me ha librado de las garras de leones y de osos, me librará también de la mano de ese filisteo.\nEntonces Saúl le dijo:\n—Vete y que el Señor esté contigo."
+        },
+        {
+          "numero": "40",
+          "verso": "Tomó el cayado en la mano, escogió en el torrente cinco cantos lisos, los puso en el zurrón que usaba también como saco de piedras y, con la honda en la mano, se aproximó al filisteo."
+        },
+        {
+          "numero": "41",
+          "verso": "El filisteo avanzaba y se acercaba a David precedido de su escudero."
+        },
+        {
+          "numero": "42",
+          "verso": "Cuando el filisteo miró y vio a David, lo despreció; era sólo un muchacho rubio y de buena presencia."
+        },
+        {
+          "numero": "43",
+          "verso": "El filisteo dijo a David: —¿Soy yo un perro para que te acerques a mí con un cayado?\nY maldijo a David por sus dioses falsos."
+        },
+        {
+          "numero": "44",
+          "verso": "Luego dijo a David: —Ven hasta mí, que voy a entregar tus carnes a las aves del cielo y a las fieras del campo."
+        },
+        {
+          "numero": "45",
+          "verso": "David contestó al filisteo: —Tú vienes a mí con espada, lanza y jabalina. Yo, en cambio, voy a ti en el nombre del Señor de los ejércitos, del Dios de las huestes de Israel a las que has escarnecido."
+        },
+        {
+          "numero": "46",
+          "verso": "Hoy el Señor te va a entregar en mis manos, te venceré y te arrancaré la cabeza; hoy mismo les daré tu cadáver y los cadáveres de los campamentos filisteos a las aves del cielo y a las fieras de la tierra para que todo el mundo sepa que hay un Dios en Israel."
+        },
+        {
+          "numero": "47",
+          "verso": "Y toda esta asamblea conocerá que el Señor obtiene la salvación no con espada y lanza: que del Señor es esta guerra y Él os entregará en nuestras manos."
+        },
+        {
+          "numero": "48",
+          "verso": "Cuando se levantó el filisteo y fue acercándose a David, éste se apresuró y fue corriendo a la pelea contra el filisteo;"
+        },
+        {
+          "numero": "49",
+          "verso": "echó mano al zurrón, sacó una piedra, la lanzó con la honda e hirió al filisteo en la frente. La piedra se le clavó en la frente y se desplomó de bruces."
+        },
+        {
+          "numero": "50",
+          "verso": "Así venció David al filisteo con la honda y la piedra. Lo hirió y lo mató. Y como no tenía espada en su mano,"
+        },
+        {
+          "numero": "51",
+          "verso": "fue corriendo, se quedó en pie sobre el filisteo, agarró su misma espada, la desenvainó, lo mató y le cortó la cabeza. Los filisteos, al ver que había muerto su soldado más valiente, se dieron a la fuga."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 144:1-2, 9-10",
+      "lecturaNombreNormalizado": "Sal144,1-2,9-10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Bendito sea el Señor, mi Roca,\nque adiestra mis manos para la batalla,\nmis dedos, para la guerra."
+        },
+        {
+          "numero": "2",
+          "verso": "Misericordia mía, fortaleza mía, mi alcázar y mi libertador;\nmi escudo con el que me protejo,\nel que me somete los pueblos."
+        },
+        {
+          "numero": "9",
+          "verso": "Oh Dios, te cantaré un cántico nuevo; con el arpa de diez cuerdas\nentonaré salmos para Ti."
+        },
+        {
+          "numero": "10",
+          "verso": "Tú, que das la victoria a los reyes, que libras a David, tu siervo,\nde la espada cruel."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 3:1-6",
+      "lecturaNombreNormalizado": "Mc3,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De nuevo entró en la sinagoga. Había allí un hombre que tenía la mano seca."
+        },
+        {
+          "numero": "2",
+          "verso": "Le observaban de cerca por si lo curaba en sábado, para acusarle."
+        },
+        {
+          "numero": "3",
+          "verso": "Y le dice al hombre que tenía la mano seca: —Ponte de pie en medio."
+        },
+        {
+          "numero": "4",
+          "verso": "Y les dice: —¿Es lícito en sábado hacer el bien o hacer el mal, salvar la vida de un hombre o quitársela?\nEllos permanecían callados."
+        },
+        {
+          "numero": "5",
+          "verso": "Entonces, mirando con ira a los que estaban a su alrededor, entristecido por la ceguera de sus corazones, le dice al hombre: —Extiende la mano.\nLa extendió, y su mano quedó curada."
+        },
+        {
+          "numero": "6",
+          "verso": "Nada más salir, los fariseos con los herodianos llegaron a un acuerdo contra él, para ver cómo perderle."
+        }
+      ]
+    }
+  ]
+}

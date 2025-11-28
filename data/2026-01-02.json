@@ -1,0 +1,111 @@
+{
+  "fecha": "2026-01-02",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Juan 2:22-28",
+      "lecturaNombreNormalizado": "1Juan2,22-28",
+      "versos": [
+        {
+          "numero": "22",
+          "verso": "¿Quién es el mentiroso sino el que niega que Jesús es el Cristo? Ése es el Anticristo, el que niega al Padre y al Hijo."
+        },
+        {
+          "numero": "23",
+          "verso": "Todo el que niega al Hijo, tampoco tiene al Padre; el que confiesa al Hijo, tiene también al Padre."
+        },
+        {
+          "numero": "24",
+          "verso": "Vosotros procurad que lo que habéis oído desde el principio permanezca en vosotros. Si permanece en vosotros lo que habéis oído desde el principio, también vosotros permaneceréis en el Hijo y en el Padre."
+        },
+        {
+          "numero": "25",
+          "verso": "Y ésta es la promesa que él nos hizo: la vida eterna."
+        },
+        {
+          "numero": "26",
+          "verso": "Os escribo esto a propósito de los que pretenden engañaros."
+        },
+        {
+          "numero": "27",
+          "verso": "En cuanto a vosotros, la unción que recibisteis de él permanece en vosotros, y no necesitáis que nadie os enseñe. Es más, tal como su unción —que es verdadera y no engaña— os enseña acerca de todas las cosas, permaneced en él, del mismo modo que os enseñó."
+        },
+        {
+          "numero": "28",
+          "verso": "Y ahora, hijos, permaneced en él, para que cuando se manifieste, tengamos confianza y no quedemos avergonzados lejos de él, en su venida."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 98:1-4",
+      "lecturaNombreNormalizado": "Sal98,1-4",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. Cantad al Señor un cántico nuevo\nporque ha hecho maravillas.\nSu diestra le ha salvado,\nsu santo brazo."
+        },
+        {
+          "numero": "2",
+          "verso": "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones."
+        },
+        {
+          "numero": "3",
+          "verso": "Se acordó de su misericordia y fidelidad con la casa de Israel.\nTodos los confines de la tierra han visto\nla salvación de nuestro Dios."
+        },
+        {
+          "numero": "4",
+          "verso": "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 1:19-28",
+      "lecturaNombreNormalizado": "Jn1,19-28",
+      "versos": [
+        {
+          "numero": "19",
+          "verso": "Éste es el testimonio de Juan, cuando desde Jerusalén los judíos le enviaron sacerdotes y levitas para que le preguntaran: «¿Tú quién eres?»."
+        },
+        {
+          "numero": "20",
+          "verso": "Entonces él confesó la verdad y no la negó, y declaró: —Yo no soy el Cristo."
+        },
+        {
+          "numero": "21",
+          "verso": "Y le preguntaron: —¿Entonces, qué? ¿Eres tú Elías?\nY dijo:\n—No lo soy.\n—¿Eres tú el Profeta?\n—No —respondió."
+        },
+        {
+          "numero": "22",
+          "verso": "Por último le dijeron: —¿Quién eres, para que demos una respuesta a los que nos han enviado? ¿Qué dices de ti mismo?"
+        },
+        {
+          "numero": "23",
+          "verso": "Contestó: —Yo soy la voz del que clama en el desierto:\n«Haced recto el camino del Señor»,\ncomo dijo el profeta Isaías."
+        },
+        {
+          "numero": "24",
+          "verso": "Los enviados eran de los fariseos."
+        },
+        {
+          "numero": "25",
+          "verso": "Le preguntaron: —¿Pues por qué bautizas si tú no eres el Cristo, ni Elías, ni el Profeta?"
+        },
+        {
+          "numero": "26",
+          "verso": "Juan les respondió: —Yo bautizo con agua, pero en medio de vosotros está uno a quien no conocéis."
+        },
+        {
+          "numero": "27",
+          "verso": "Él es el que viene después de mí, a quien yo no soy digno de desatarle la correa de la sandalia."
+        },
+        {
+          "numero": "28",
+          "verso": "Esto sucedió en Betania, al otro lado del Jordán, donde Juan estaba bautizando."
+        }
+      ]
+    }
+  ]
+}

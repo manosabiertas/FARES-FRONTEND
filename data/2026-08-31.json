@@ -1,0 +1,131 @@
+{
+  "fecha": "2026-08-31",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Corintios 2:1-5",
+      "lecturaNombreNormalizado": "1Corintios2,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Y yo, hermanos, cuando vine a vosotros, no vine a anunciaros el misterio de Dios con elocuencia o sabiduría sublimes,"
+        },
+        {
+          "numero": "2",
+          "verso": "pues no me he preciado de saber otra cosa entre vosotros sino a Jesucristo, y a éste, crucificado."
+        },
+        {
+          "numero": "3",
+          "verso": "Y me he presentado ante vosotros débil, y con temor y mucho temblor,"
+        },
+        {
+          "numero": "4",
+          "verso": "y mi mensaje y mi predicación no se han basado en palabras persuasivas de sabiduría, sino en la manifestación del Espíritu y del poder,"
+        },
+        {
+          "numero": "5",
+          "verso": "para que vuestra fe no se fundamente en la sabiduría humana, sino en el poder de Dios."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 119:97-102",
+      "lecturaNombreNormalizado": "Sal119,97-102",
+      "versos": [
+        {
+          "numero": "97",
+          "verso": "(Mem) ¡Cuánto amo tu Ley, Señor! Es mi meditación el día entero."
+        },
+        {
+          "numero": "98",
+          "verso": "Más sabio que mis enemigos me hace tu mandamiento, porque siempre me acompaña."
+        },
+        {
+          "numero": "99",
+          "verso": "He llegado a ser más docto que todos mis maestros, porque tus preceptos son mi meditación."
+        },
+        {
+          "numero": "100",
+          "verso": "Tengo más discernimiento que los ancianos, porque guardo tus mandatos."
+        },
+        {
+          "numero": "101",
+          "verso": "Mis pies aparto de toda senda mala, para observar tu palabra."
+        },
+        {
+          "numero": "102",
+          "verso": "No me he desviado de tus normas porque Tú me has guiado."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 4:16-30",
+      "lecturaNombreNormalizado": "Lc4,16-30",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "Llegó a Nazaret, donde se había criado, y según su costumbre entró en la sinagoga el sábado y se levantó para leer."
+        },
+        {
+          "numero": "17",
+          "verso": "Entonces le entregaron el libro del profeta Isaías y, abriendo el libro, encontró el lugar donde estaba escrito:"
+        },
+        {
+          "numero": "18",
+          "verso": "El Espíritu del Señor está sobre mí, por lo cual me ha ungido\npara evangelizar a los pobres,\nme ha enviado para anunciar la redención\na los cautivos\ny devolver la vista a los ciegos,\npara poner en libertad a los oprimidos"
+        },
+        {
+          "numero": "19",
+          "verso": "y para promulgar el año de gracia del Señor."
+        },
+        {
+          "numero": "20",
+          "verso": "Y enrollando el libro se lo devolvió al ministro y se sentó. Todos en la sinagoga tenían los ojos fijos en él."
+        },
+        {
+          "numero": "21",
+          "verso": "Y comenzó a decirles: —Hoy se ha cumplido esta Escritura que acabáis de oír."
+        },
+        {
+          "numero": "22",
+          "verso": "Todos daban testimonio en favor de él y se maravillaban de las palabras de gracia que procedían de su boca, y decían: —¿No es éste el hijo de José?"
+        },
+        {
+          "numero": "23",
+          "verso": "Entonces les dijo: —Sin duda me aplicaréis aquel proverbio: «“Médico, cúrate a ti mismo”. Cuanto hemos oído que has hecho en Cafarnaún, hazlo también aquí en tu tierra»."
+        },
+        {
+          "numero": "24",
+          "verso": "Y añadió: —En verdad os digo que ningún profeta es bien recibido en su tierra."
+        },
+        {
+          "numero": "25",
+          "verso": "Os digo de verdad que muchas viudas había en Israel en tiempos de Elías, cuando durante tres años y seis meses se cerró el cielo y hubo gran hambre por toda la tierra;"
+        },
+        {
+          "numero": "26",
+          "verso": "y a ninguna de ellas fue enviado Elías, sino a una mujer viuda en Sarepta de Sidón."
+        },
+        {
+          "numero": "27",
+          "verso": "Muchos leprosos había también en Israel en tiempo del profeta Eliseo, y ninguno de ellos fue curado, más que Naamán el Sirio."
+        },
+        {
+          "numero": "28",
+          "verso": "Al oír estas cosas, todos en la sinagoga se llenaron de ira"
+        },
+        {
+          "numero": "29",
+          "verso": "y se levantaron, le echaron fuera de la ciudad y lo llevaron hasta la cima del monte sobre el que estaba edificada su ciudad para despeñarle."
+        },
+        {
+          "numero": "30",
+          "verso": "Pero él, pasando por medio de ellos, se marchó."
+        }
+      ]
+    }
+  ]
+}

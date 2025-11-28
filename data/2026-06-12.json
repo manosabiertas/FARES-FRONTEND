@@ -1,0 +1,154 @@
+{
+  "fecha": "2026-06-12",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Deuteronomio 7:6-11",
+      "lecturaNombreNormalizado": "Dt7,6-11",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "porque tú eres un pueblo consagrado al Señor, tu Dios, a ti te ha elegido el Señor, tu Dios, para que seas el pueblo de su propiedad entre todos los pueblos que hay sobre la faz de la tierra."
+        },
+        {
+          "numero": "7",
+          "verso": "»El Señor se ha prendado de vosotros y os ha elegido, no porque seáis el pueblo más grande de todos los pueblos, puesto que sois el más pequeño,"
+        },
+        {
+          "numero": "8",
+          "verso": "sino que ha sido por el amor del Señor y por su fidelidad a la promesa que hizo a vuestros padres. Por eso es por lo que el Señor os sacó con mano fuerte y os liberó de la casa de la esclavitud, del poder del Faraón, rey de Egipto."
+        },
+        {
+          "numero": "9",
+          "verso": "Por tanto, reconoce que el Señor, tu Dios, es el Dios, el Dios fiel, que guarda por mil generaciones la alianza y el amor con quienes le aman y cumplen sus mandamientos;"
+        },
+        {
+          "numero": "10",
+          "verso": "y que sin demora retribuye con la perdición a los que le odian; no se retrasa en dar su merecido a quien le odia."
+        },
+        {
+          "numero": "11",
+          "verso": "Guarda, pues, los mandamientos, leyes y normas, que yo te ordeno hoy que pongas en práctica."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 103:1-4, 6-7, 8, 10",
+      "lecturaNombreNormalizado": "Sal103,1-4,6-7,8,10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Bendice, alma mía, al Señor,\ny todo mi ser a su Nombre santo."
+        },
+        {
+          "numero": "2",
+          "verso": "Bendice, alma mía, al Señor, no olvides ninguno de sus beneficios."
+        },
+        {
+          "numero": "3",
+          "verso": "Él es quien perdona tus culpas, quien sana tus enfermedades."
+        },
+        {
+          "numero": "4",
+          "verso": "Quien rescata tu vida de la fosa, quien te corona de misericordia y compasión."
+        },
+        {
+          "numero": "6",
+          "verso": "El Señor hace obras justas y justicia a todos los oprimidos."
+        },
+        {
+          "numero": "7",
+          "verso": "Él mostró sus caminos a Moisés, sus hazañas, a los hijos de Israel."
+        },
+        {
+          "numero": "8",
+          "verso": "El Señor es compasivo y misericordioso, lento a la ira y rico en misericordia."
+        },
+        {
+          "numero": "10",
+          "verso": "No nos trata según nuestros pecados, ni nos paga según nuestras culpas."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "1 Juan 4:7-16",
+      "lecturaNombreNormalizado": "1Juan4,7-16",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Queridísimos: amémonos unos a otros, porque el amor procede de Dios, y todo el que ama ha nacido de Dios, y conoce a Dios."
+        },
+        {
+          "numero": "8",
+          "verso": "El que no ama no ha llegado a conocer a Dios, porque Dios es amor."
+        },
+        {
+          "numero": "9",
+          "verso": "En esto se manifestó entre nosotros el amor de Dios: en que Dios envió a su Hijo Unigénito al mundo para que recibiéramos por él la vida."
+        },
+        {
+          "numero": "10",
+          "verso": "En esto consiste el amor: no en que nosotros hayamos amado a Dios, sino en que Él nos amó y envió a su Hijo como víctima propiciatoria por nuestros pecados."
+        },
+        {
+          "numero": "11",
+          "verso": "Queridísimos: si Dios nos ha amado así, también nosotros debemos amarnos unos a otros."
+        },
+        {
+          "numero": "12",
+          "verso": "A Dios nadie le ha visto jamás. Si nos amamos unos a otros, Dios permanece en nosotros, y su amor alcanza en nosotros su perfección."
+        },
+        {
+          "numero": "13",
+          "verso": "En esto conocemos que permanecemos en Él, y Él en nosotros: en que nos ha hecho participar de su Espíritu."
+        },
+        {
+          "numero": "14",
+          "verso": "Nosotros hemos visto y damos testimonio de que el Padre envió a su Hijo como salvador del mundo."
+        },
+        {
+          "numero": "15",
+          "verso": "Si alguien confiesa que Jesús es el Hijo de Dios, Dios permanece en él y él en Dios."
+        },
+        {
+          "numero": "16",
+          "verso": "Y nosotros hemos conocido y creído en el amor que Dios nos tiene. Dios es amor, y el que permanece en el amor permanece en Dios y Dios en él."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 11:25-30",
+      "lecturaNombreNormalizado": "Mt11,25-30",
+      "versos": [
+        {
+          "numero": "25",
+          "verso": "En aquella ocasión Jesús declaró: —Yo te alabo, Padre, Señor del cielo y de la tierra, porque has ocultado estas cosas a los sabios y prudentes y las has revelado a los pequeños."
+        },
+        {
+          "numero": "26",
+          "verso": "Sí, Padre, porque así te ha parecido bien."
+        },
+        {
+          "numero": "27",
+          "verso": "Todo me ha sido entregado por mi Padre, y nadie conoce al Hijo sino el Padre, ni nadie conoce al Padre sino el Hijo y aquel a quien el Hijo quiera revelarlo."
+        },
+        {
+          "numero": "28",
+          "verso": "»Venid a mí todos los fatigados y agobiados, y yo os aliviaré."
+        },
+        {
+          "numero": "29",
+          "verso": "Llevad mi yugo sobre vosotros y aprended de mí que soy manso y humilde de corazón, y encontraréis descanso para vuestras almas:"
+        },
+        {
+          "numero": "30",
+          "verso": "porque mi yugo es suave y mi carga es ligera."
+        }
+      ]
+    }
+  ]
+}

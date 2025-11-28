@@ -1,0 +1,158 @@
+{
+  "fecha": "2025-01-19",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 62:1-5",
+      "lecturaNombreNormalizado": "Is62,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Por amor de Sión no callaré, por amor de Jerusalén no descansaré hasta que su justicia despunte como la aurora,\ny su salvación arda como una antorcha."
+        },
+        {
+          "numero": "2",
+          "verso": "Las naciones verán tu justicia, y todos los reyes, tu gloria;\nte llamarán con un nombre nuevo,\nque pronunciará la boca del Señor."
+        },
+        {
+          "numero": "3",
+          "verso": "Serás corona gloriosa en la mano del Señor, diadema real en la palma de tu Dios."
+        },
+        {
+          "numero": "4",
+          "verso": "Ya no te dirán más: «Abandonada», ni de tu tierra dirán ya: «Desolada»,\nsino que te llamarán: «Mi–delicia–está–en–ella»,\ny a tu tierra: «Desposada»,\nporque el Señor se ha complacido en ti,\ny tu tierra tendrá esposo."
+        },
+        {
+          "numero": "5",
+          "verso": "Como un joven se desposa con una virgen, contigo se desposará tu constructor,\ny como se alegra el novio con la novia\nse deleitará en ti el Señor."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 96:1-3, 7-10",
+      "lecturaNombreNormalizado": "Sal96,1-3,7-10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Cantad al Señor un cántico nuevo, cantad al Señor, la tierra entera."
+        },
+        {
+          "numero": "2",
+          "verso": "Cantad al Señor, bendecid su Nombre, anunciad, día tras día, su salvación."
+        },
+        {
+          "numero": "3",
+          "verso": "Proclamad su gloria a las naciones, sus maravillas a todos los pueblos."
+        },
+        {
+          "numero": "7",
+          "verso": "Rendid al Señor, familias de los pueblos, rendid al Señor gloria y poder."
+        },
+        {
+          "numero": "8",
+          "verso": "Rendid al Señor la gloria de su Nombre. Llevad ofrendas, entrad en sus atrios."
+        },
+        {
+          "numero": "9",
+          "verso": "Postraos ante el Señor en su atrio santo, temblad en su presencia, tierra entera."
+        },
+        {
+          "numero": "10",
+          "verso": "Decid a las naciones: «El Señor reina. Él afianza el orbe, y no vacilará.\nÉl juzga a los pueblos con rectitud»."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "1 Corintios 12:4-11",
+      "lecturaNombreNormalizado": "1Corintios12,4-11",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "Hay, sí, diversidad de dones, pero el Espíritu es el mismo;"
+        },
+        {
+          "numero": "5",
+          "verso": "y diversidad de ministerios, pero el Señor es el mismo;"
+        },
+        {
+          "numero": "6",
+          "verso": "y diversidad de acciones, pero Dios es el mismo, que obra todo en todos."
+        },
+        {
+          "numero": "7",
+          "verso": "A cada uno se le concede la manifestación del Espíritu para provecho común:"
+        },
+        {
+          "numero": "8",
+          "verso": "a uno se le concede por el Espíritu palabra de sabiduría, a otro palabra de ciencia según el mismo Espíritu;"
+        },
+        {
+          "numero": "9",
+          "verso": "a uno fe en el mismo Espíritu, a otro don de curaciones en el único Espíritu;"
+        },
+        {
+          "numero": "10",
+          "verso": "a uno poder de obrar milagros, a otro profecía, a otro discernimiento de espíritus; a uno diversidad de lenguas, a otro interpretación de lenguas."
+        },
+        {
+          "numero": "11",
+          "verso": "Pero todas estas cosas las realiza el mismo y único Espíritu, que las distribuye a cada uno según quiere."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 2:1-11",
+      "lecturaNombreNormalizado": "Jn2,1-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Al tercer día se celebraron unas bodas en Caná de Galilea, y estaba allí la madre de Jesús."
+        },
+        {
+          "numero": "2",
+          "verso": "También fueron invitados a la boda Jesús y sus discípulos."
+        },
+        {
+          "numero": "3",
+          "verso": "Y, como faltó vino, la madre de Jesús le dijo: —No tienen vino."
+        },
+        {
+          "numero": "4",
+          "verso": "Jesús le respondió: —Mujer, ¿qué nos va a ti y a mí? Todavía no ha llegado mi hora."
+        },
+        {
+          "numero": "5",
+          "verso": "Dijo su madre a los sirvientes: —Haced lo que él os diga."
+        },
+        {
+          "numero": "6",
+          "verso": "Había allí seis tinajas de piedra preparadas para las purificaciones de los judíos, cada una con capacidad de unas dos o tres metretas."
+        },
+        {
+          "numero": "7",
+          "verso": "Jesús les dijo: —Llenad de agua las tinajas.\nY las llenaron hasta arriba."
+        },
+        {
+          "numero": "8",
+          "verso": "Entonces les dijo: —Sacadlo ahora y llevadlo al maestresala.\nAsí lo hicieron."
+        },
+        {
+          "numero": "9",
+          "verso": "Cuando el maestresala probó el agua convertida en vino, sin saber de dónde provenía —aunque los sirvientes que sacaron el agua lo sabían—, llamó al esposo"
+        },
+        {
+          "numero": "10",
+          "verso": "y le dijo: —Todos sirven primero el mejor vino, y cuando ya han bebido bien, el peor; tú, al contrario, has reservado el vino bueno hasta ahora."
+        },
+        {
+          "numero": "11",
+          "verso": "Así, en Caná de Galilea hizo Jesús el primero de los signos con el que manifestó su gloria, y sus discípulos creyeron en él."
+        }
+      ]
+    }
+  ]
+}

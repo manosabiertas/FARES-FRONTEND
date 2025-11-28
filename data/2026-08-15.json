@@ -1,0 +1,186 @@
+{
+  "fecha": "2026-08-15",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Apocalipsis 11:19; 12:1-6, 10",
+      "lecturaNombreNormalizado": "Ap11,19;12,1-6,10",
+      "versos": [
+        {
+          "numero": "19",
+          "verso": "Y se abrió el templo de Dios en el cielo y en el Templo apareció el arca de su alianza; y se produjeron relámpagos, fragor de truenos, un terremoto y un fuerte granizo."
+        },
+        {
+          "numero": "1",
+          "verso": "Una gran señal apareció en el cielo: una mujer vestida de sol, la luna a sus pies, y sobre su cabeza una corona de doce estrellas."
+        },
+        {
+          "numero": "2",
+          "verso": "Está encinta y grita al sufrir los dolores del parto y los tormentos de dar a luz."
+        },
+        {
+          "numero": "3",
+          "verso": "Apareció entonces otra señal en el cielo: un gran dragón rojo, con siete cabezas y diez cuernos, y sobre sus cabezas siete diademas."
+        },
+        {
+          "numero": "4",
+          "verso": "La cola arrastró una tercera parte de las estrellas del cielo y las arrojó a la tierra. El dragón se puso delante de la mujer, que iba a dar a luz, para devorar a su hijo en cuanto naciera."
+        },
+        {
+          "numero": "5",
+          "verso": "Y dio a luz un hijo varón, el que va a regir a todas las naciones con cetro de hierro. Pero su hijo fue arrebatado hasta Dios y hasta su trono."
+        },
+        {
+          "numero": "6",
+          "verso": "Entonces la mujer huyó al desierto, donde tiene un lugar preparado por Dios, para que allí la alimenten durante mil doscientos sesenta días."
+        },
+        {
+          "numero": "10",
+          "verso": "Entonces oí en el cielo una fuerte voz que decía: «Ahora ha llegado la salvación,\nla fuerza, el Reino de nuestro Dios,\ny el poderío de su Cristo,\nporque ha sido arrojado el acusador\nde nuestros hermanos,\nel que los acusaba ante nuestro Dios\ndía y noche."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 45:10-12, 16",
+      "lecturaNombreNormalizado": "Sal45,10-12,16",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "Hijas de reyes están entre tus damas. A tu diestra está la reina,\nadornada con oro de Ofir."
+        },
+        {
+          "numero": "11",
+          "verso": "Escucha, hija, y mira, presta tu oído, olvida tu pueblo y la casa de tu padre:"
+        },
+        {
+          "numero": "12",
+          "verso": "y el rey se prendará de tu belleza; él es tu señor, inclínate ante él."
+        },
+        {
+          "numero": "16",
+          "verso": "son conducidas en medio de alegría y regocijo; entran en el palacio del rey."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "1 Corintios 15:20-27",
+      "lecturaNombreNormalizado": "1Corintios15,20-27",
+      "versos": [
+        {
+          "numero": "20",
+          "verso": "Ahora bien, Cristo ha resucitado de entre los muertos, como primer fruto de los que mueren."
+        },
+        {
+          "numero": "21",
+          "verso": "Porque como por un hombre vino la muerte, también por un hombre la resurrección de los muertos."
+        },
+        {
+          "numero": "22",
+          "verso": "Y así como en Adán todos mueren, así también en Cristo todos serán vivificados."
+        },
+        {
+          "numero": "23",
+          "verso": "Pero cada uno en su orden debido: como primer fruto, Cristo; luego, con su venida, los que son de Cristo."
+        },
+        {
+          "numero": "24",
+          "verso": "Después llegará el fin, cuando entregue el Reino a Dios Padre, cuando haya aniquilado todo principado, toda potestad y poder."
+        },
+        {
+          "numero": "25",
+          "verso": "Pues es necesario que él reine, hasta que ponga a todos los enemigos bajo sus pies."
+        },
+        {
+          "numero": "26",
+          "verso": "Como último enemigo será destruida la muerte;"
+        },
+        {
+          "numero": "27",
+          "verso": "porque ha sometido todas las cosas bajo sus pies, si bien cuando dice que todas las cosas están sometidas, es indudable que exceptúa al que sometió todo a él."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 1:39-56",
+      "lecturaNombreNormalizado": "Lc1,39-56",
+      "versos": [
+        {
+          "numero": "39",
+          "verso": "Por aquellos días, María se levantó y marchó deprisa a la montaña, a una ciudad de Judá;"
+        },
+        {
+          "numero": "40",
+          "verso": "y entró en casa de Zacarías y saludó a Isabel."
+        },
+        {
+          "numero": "41",
+          "verso": "Y cuando oyó Isabel el saludo de María, el niño saltó en su seno, e Isabel quedó llena del Espíritu Santo;"
+        },
+        {
+          "numero": "42",
+          "verso": "y exclamando en voz alta, dijo: —Bendita tú entre las mujeres y bendito es el fruto de tu vientre."
+        },
+        {
+          "numero": "43",
+          "verso": "¿De dónde a mí tanto bien, que venga la madre de mi Señor a visitarme?"
+        },
+        {
+          "numero": "44",
+          "verso": "Pues en cuanto llegó tu saludo a mis oídos, el niño saltó de gozo en mi seno;"
+        },
+        {
+          "numero": "45",
+          "verso": "y bienaventurada la que ha creído, porque se cumplirán las cosas que se le han dicho de parte del Señor."
+        },
+        {
+          "numero": "46",
+          "verso": "María exclamó: —Engrandece mi alma al Señor,"
+        },
+        {
+          "numero": "47",
+          "verso": "y se alegra mi espíritu en Dios mi Salvador:"
+        },
+        {
+          "numero": "48",
+          "verso": "porque ha puesto los ojos en la humildad de su esclava;\npor eso desde ahora me llamarán bienaventurada\ntodas las generaciones."
+        },
+        {
+          "numero": "49",
+          "verso": "Porque ha hecho en mí cosas grandes el Todopoderoso,\ncuyo nombre es Santo;"
+        },
+        {
+          "numero": "50",
+          "verso": "su misericordia se derrama de generación en generación\nsobre los que le temen."
+        },
+        {
+          "numero": "51",
+          "verso": "Manifestó el poder de su brazo, dispersó a los soberbios de corazón."
+        },
+        {
+          "numero": "52",
+          "verso": "Derribó de su trono a los poderosos y ensalzó a los humildes."
+        },
+        {
+          "numero": "53",
+          "verso": "Colmó de bienes a los hambrientos y a los ricos los despidió vacíos."
+        },
+        {
+          "numero": "54",
+          "verso": "Auxilió a Israel su siervo, recordando su misericordia,"
+        },
+        {
+          "numero": "55",
+          "verso": "como había prometido a nuestros padres, Abrahán y su descendencia para siempre."
+        },
+        {
+          "numero": "56",
+          "verso": "María permaneció con ella unos tres meses, y se volvió a su casa."
+        }
+      ]
+    }
+  ]
+}

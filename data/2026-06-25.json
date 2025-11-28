@@ -1,0 +1,131 @@
+{
+  "fecha": "2026-06-25",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Reyes 24:8-17",
+      "lecturaNombreNormalizado": "2Reyes24,8-17",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "Yoyaquín tenía dieciocho años cuando comenzó a reinar y reinó tres meses en Jerusalén. Su madre se llamaba Nejustá, hija de Elnatán, y era de Jerusalén."
+        },
+        {
+          "numero": "9",
+          "verso": "Hizo lo malo a los ojos del Señor en todo, tal como lo había hecho su padre."
+        },
+        {
+          "numero": "10",
+          "verso": "En aquel tiempo los soldados de Nabucodonosor, rey de Babilonia, subieron y pusieron sitio a la ciudad."
+        },
+        {
+          "numero": "11",
+          "verso": "Luego llegó Nabucodonosor, rey de Babilonia, frente a la ciudad, mientras sus soldados estrechaban el cerco sobre ella."
+        },
+        {
+          "numero": "12",
+          "verso": "Yoyaquín, rey de Judá, salió hacia el rey de Babilonia junto con su madre, sus siervos, sus jefes y sus eunucos, y éste lo tomó prisionero. Era el año octavo de su reinado."
+        },
+        {
+          "numero": "13",
+          "verso": "Se llevó de allí todos los tesoros del Templo del Señor y los del palacio del rey. Hizo añicos todos los objetos de oro que había fabricado Salomón, rey de Israel, para el Santuario del Señor. Sucedió tal como lo había dicho el Señor."
+        },
+        {
+          "numero": "14",
+          "verso": "Llevó cautiva a Jerusalén entera, a todos los jefes y a todos los guerreros valientes; hizo diez mil cautivos, todos los herreros y cerrajeros. No dejó más que al pueblo llano pobre."
+        },
+        {
+          "numero": "15",
+          "verso": "Llevó cautivo a Yoyaquín, a la madre del rey, a sus esposas, eunucos y a los hombres importantes del país; los llevó a la cautividad desde Jerusalén a Babilonia."
+        },
+        {
+          "numero": "16",
+          "verso": "A todos los varones fuertes, siete mil, a los herreros y cerrajeros, mil, a todos los guerreros que podían pelear, el rey de Babilonia los llevó a la cautividad de Babilonia."
+        },
+        {
+          "numero": "17",
+          "verso": "El rey de Babilonia nombró rey, en lugar de Yoyaquín, a su tío Matanías y le cambió el nombre por el de Sedecías."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 79:1-5, 8-9",
+      "lecturaNombreNormalizado": "Sal79,1-5,8-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. De Asaf. Dios mío, las naciones han entrado en tu heredad,\nhan profanado tu Templo santo,\nhan reducido a ruinas Jerusalén."
+        },
+        {
+          "numero": "2",
+          "verso": "Han echado los cadáveres de tus siervos por comida a las aves del cielo;\nla carne de tus fieles, a las fieras del campo;"
+        },
+        {
+          "numero": "3",
+          "verso": "han derramado su sangre como agua, en derredor de Jerusalén,\nsin que nadie les dé sepultura."
+        },
+        {
+          "numero": "4",
+          "verso": "Hemos venido a ser escarnio de nuestros vecinos, burla e irrisión de quienes nos rodean."
+        },
+        {
+          "numero": "5",
+          "verso": "¿Hasta cuándo, Señor? ¿Vas a estar airado para siempre?\n¿Hasta cuándo arderán tus celos como fuego?"
+        },
+        {
+          "numero": "8",
+          "verso": "No nos recuerdes nuestras culpas antiguas, que pronto nos preceda tu compasión,\npues estamos en miseria extrema."
+        },
+        {
+          "numero": "9",
+          "verso": "Socórrenos, oh Dios, Salvador nuestro, por la gloria de tu Nombre;\nsálvanos, borra nuestros pecados,\npor amor de tu Nombre."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 7:21-29",
+      "lecturaNombreNormalizado": "Mt7,21-29",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "»No todo el que me dice: «Señor, Señor», entrará en el Reino de los Cielos, sino el que hace la voluntad de mi Padre, que está en los cielos."
+        },
+        {
+          "numero": "22",
+          "verso": "Muchos me dirán aquel día: «Señor, Señor, ¿no hemos profetizado en tu nombre, y hemos expulsado los demonios en tu nombre, y hemos hecho prodigios en tu nombre?»"
+        },
+        {
+          "numero": "23",
+          "verso": "Entonces yo declararé ante ellos: «Jamás os he conocido: apartaos de mí, los que obráis la iniquidad»."
+        },
+        {
+          "numero": "24",
+          "verso": "»Por lo tanto, todo el que oye estas palabras mías y las pone en práctica, es como un hombre prudente que edificó su casa sobre roca;"
+        },
+        {
+          "numero": "25",
+          "verso": "y cayó la lluvia y llegaron las riadas y soplaron los vientos: irrumpieron contra aquella casa, pero no se cayó porque estaba cimentada sobre roca."
+        },
+        {
+          "numero": "26",
+          "verso": "»Pero todo el que oye estas palabras mías y no las pone en práctica es como un hombre necio que edificó su casa sobre arena;"
+        },
+        {
+          "numero": "27",
+          "verso": "y cayó la lluvia y llegaron las riadas y soplaron los vientos: se precipitaron contra aquella casa, y se derrumbó y fue tremenda su ruina."
+        },
+        {
+          "numero": "28",
+          "verso": "Cuando terminó Jesús estos discursos las multitudes quedaron admiradas de su enseñanza,"
+        },
+        {
+          "numero": "29",
+          "verso": "porque les enseñaba como quien tiene potestad y no como los escribas."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "fecha": "2025-12-02",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 11:1-10",
+      "lecturaNombreNormalizado": "Is11,1-10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Saldrá un vástago de la cepa de Jesé, y de sus raíces florecerá un retoño."
+        },
+        {
+          "numero": "2",
+          "verso": "Sobre él reposará el Espíritu del Señor, espíritu de sabiduría y de entendimiento,\nespíritu de consejo y de fortaleza,\nespíritu de ciencia y de temor del Señor."
+        },
+        {
+          "numero": "3",
+          "verso": "Y lo inspirará con el temor del Señor. No juzgará según las apariencias,\nni decidirá según los rumores;"
+        },
+        {
+          "numero": "4",
+          "verso": "sino que juzgará con justicia a los desvalidos, y decidirá con rectitud a favor de los pobres de la tierra.\nGolpeará al país con la vara de su boca,\ny matará al impío con el soplo de sus labios."
+        },
+        {
+          "numero": "5",
+          "verso": "La justicia será el ceñidor de su cintura, y la fe, el cinturón de sus caderas."
+        },
+        {
+          "numero": "6",
+          "verso": "Entonces el lobo convivirá con el cordero, el leopardo se tumbará con el cabrito,\nternero y león joven engordarán juntos,\ny un niño pequeño los guiará."
+        },
+        {
+          "numero": "7",
+          "verso": "La vaca pacerá con la osa, sus crías se recostarán juntas,\ny el león, como el buey, comerá paja."
+        },
+        {
+          "numero": "8",
+          "verso": "El niño de pecho jugará junto al agujero del áspid y el destetado meterá su mano en la madriguera de la víbora."
+        },
+        {
+          "numero": "9",
+          "verso": "Nadie hará mal ni causará daño en todo mi monte santo,\nporque la tierra estará llena del conocimiento del Señor,\ncomo las aguas que cubren el mar."
+        },
+        {
+          "numero": "10",
+          "verso": "Aquel día, la raíz de Jesé se alzará como bandera para los pueblos,\nla buscarán las naciones,\ny su morada será gloriosa."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 72:1, 7-8, 12-13, 17",
+      "lecturaNombreNormalizado": "Sal72,1,7-8,12-13,17",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De Salomón. Dios mío, concede tu juicio al rey\ny tu justicia al hijo del rey."
+        },
+        {
+          "numero": "7",
+          "verso": "Florezca en sus días la justicia, y haya paz abundante mientras perdure la luna."
+        },
+        {
+          "numero": "8",
+          "verso": "Domine de mar a mar, desde el Río hasta los confines de la tierra."
+        },
+        {
+          "numero": "12",
+          "verso": "Porque él librará al desvalido que clama y al pobre que no tiene amparo."
+        },
+        {
+          "numero": "13",
+          "verso": "Tendrá piedad del débil y del desvalido y salvará la vida de los indigentes."
+        },
+        {
+          "numero": "17",
+          "verso": "Su nombre subsistirá por siempre, su nombre se perpetuará mientras dure el sol.\nEn él serán benditas todas las tribus de la tierra;\ntodas las naciones lo proclamarán dichoso."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 10:21-24",
+      "lecturaNombreNormalizado": "Lc10,21-24",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "En aquel mismo momento se llenó de gozo en el Espíritu Santo y dijo: —Yo te alabo, Padre, Señor del cielo y de la tierra, porque has ocultado estas cosas a los sabios y prudentes y las has revelado a los pequeños. Sí, Padre, porque así te ha parecido bien."
+        },
+        {
+          "numero": "22",
+          "verso": "Todo me ha sido entregado por mi Padre, y nadie conoce quién es el Hijo sino el Padre, ni quién es el Padre sino el Hijo, y aquel a quien el Hijo quiera revelarlo."
+        },
+        {
+          "numero": "23",
+          "verso": "Y volviéndose hacia los discípulos les dijo aparte: —Bienaventurados los ojos que ven lo que estáis viendo."
+        },
+        {
+          "numero": "24",
+          "verso": "Pues os aseguro que muchos profetas y reyes quisieron ver lo que vosotros estáis viendo y no lo vieron; y oír lo que estáis oyendo y no lo oyeron."
+        }
+      ]
+    }
+  ]
+}

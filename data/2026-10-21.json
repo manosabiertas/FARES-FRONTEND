@@ -1,0 +1,131 @@
+{
+  "fecha": "2026-10-21",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Efesios 3:2-12",
+      "lecturaNombreNormalizado": "Ef3,2-12",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Ya habréis oído que Dios me concedió el encargo de administrar su gracia en favor vuestro,"
+        },
+        {
+          "numero": "3",
+          "verso": "pues mediante una revelación se me dio a conocer el misterio, como brevemente lo he descrito antes."
+        },
+        {
+          "numero": "4",
+          "verso": "Por su lectura podéis captar el conocimiento que tengo del misterio de Cristo,"
+        },
+        {
+          "numero": "5",
+          "verso": "que no se dio a conocer a los hijos de los hombres en otras generaciones, como ahora ha sido revelado a sus santos apóstoles y profetas por el Espíritu:"
+        },
+        {
+          "numero": "6",
+          "verso": "a saber, que los gentiles son coherederos, miembros de un mismo cuerpo y copartícipes de las promesas en Cristo Jesús mediante el Evangelio,"
+        },
+        {
+          "numero": "7",
+          "verso": "del cual he sido constituido servidor, según el don de la gracia de Dios, que me ha sido dada por su fuerza poderosa."
+        },
+        {
+          "numero": "8",
+          "verso": "A mí, el menor de todos los santos, me ha sido otorgada esta gracia: anunciar a los gentiles la insondable riqueza de Cristo"
+        },
+        {
+          "numero": "9",
+          "verso": "e iluminar a todos acerca del cumplimiento del misterio que durante siglos estuvo escondido en Dios, el Creador de todas las cosas,"
+        },
+        {
+          "numero": "10",
+          "verso": "para dar a conocer ahora a los principados y a las potestades en los cielos las múltiples formas de la sabiduría de Dios, por medio de la Iglesia,"
+        },
+        {
+          "numero": "11",
+          "verso": "conforme al plan eterno que ha realizado por medio de Cristo Jesús, Señor nuestro,"
+        },
+        {
+          "numero": "12",
+          "verso": "en quien tenemos la segura confianza de llegar a Dios, mediante la fe en él."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Isaías 12:2-6",
+      "lecturaNombreNormalizado": "Is12,2-6",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Éste es el Dios de mi salvación: confío y no temo,\nporque el Señor es mi fuerza y mi canción,\ny Él me ha salvado»."
+        },
+        {
+          "numero": "3",
+          "verso": "Sacaréis aguas con gozo de las fuentes de la salvación;"
+        },
+        {
+          "numero": "4",
+          "verso": "y aquel día diréis: «Alabad al Señor, invocad su Nombre,\ncontad a los pueblos sus hazañas,\nrecordad que su Nombre es excelso."
+        },
+        {
+          "numero": "5",
+          "verso": "Cantad al Señor, porque ha hecho proezas ¡que sean conocidas en toda la tierra!"
+        },
+        {
+          "numero": "6",
+          "verso": "¡Exulta y grita de júbilo, tú que habitas en Sión, que es grande en medio de ti el Santo de Israel!»."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 12:39-48",
+      "lecturaNombreNormalizado": "Lc12,39-48",
+      "versos": [
+        {
+          "numero": "39",
+          "verso": "Sabed esto: si el dueño de la casa conociera a qué hora va a llegar el ladrón, no permitiría que se horadase su casa."
+        },
+        {
+          "numero": "40",
+          "verso": "Vosotros estad también preparados, porque a la hora que menos penséis vendrá el Hijo del Hombre."
+        },
+        {
+          "numero": "41",
+          "verso": "Y le preguntó Pedro: —Señor, ¿dices esta parábola por nosotros o por todos?"
+        },
+        {
+          "numero": "42",
+          "verso": "El Señor respondió: —¿Quién es, pues, el administrador fiel y prudente a quien el amo pondrá al frente de la casa para dar la ración adecuada a la hora debida?"
+        },
+        {
+          "numero": "43",
+          "verso": "Dichoso aquel siervo a quien su amo cuando vuelva encuentre obrando así."
+        },
+        {
+          "numero": "44",
+          "verso": "En verdad os digo que le pondrá al frente de toda su hacienda."
+        },
+        {
+          "numero": "45",
+          "verso": "Pero si ese siervo dijera en sus adentros: «Mi amo tarda en venir», y comenzase a golpear a los criados y criadas, a comer, a beber y a emborracharse,"
+        },
+        {
+          "numero": "46",
+          "verso": "llegará el amo de aquel siervo el día menos pensado, a una hora imprevista, lo castigará duramente y le dará el pago de los que no son fieles."
+        },
+        {
+          "numero": "47",
+          "verso": "El siervo que, conociendo la voluntad de su amo, no fue previsor ni actuó conforme a la voluntad de aquél, recibirá muchos azotes;"
+        },
+        {
+          "numero": "48",
+          "verso": "en cambio, el que sin saberlo hizo algo digno de castigo, recibirá pocos azotes. A todo el que se le ha dado mucho, mucho se le exigirá, y al que le encomendaron mucho, mucho le pedirán."
+        }
+      ]
+    }
+  ]
+}

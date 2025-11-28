@@ -1,0 +1,131 @@
+{
+  "fecha": "2026-05-29",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Pedro 4:7-13",
+      "lecturaNombreNormalizado": "1Pedro4,7-13",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "El final de todas las cosas está cerca. Sed, por eso, sensatos y sobrios para poder rezar."
+        },
+        {
+          "numero": "8",
+          "verso": "Ante todo, mantened entre vosotros una ferviente caridad, porque la caridad cubre la multitud de los pecados."
+        },
+        {
+          "numero": "9",
+          "verso": "Sed hospitalarios unos con otros, sin quejaros."
+        },
+        {
+          "numero": "10",
+          "verso": "Que cada uno ponga al servicio de los demás el don que ha recibido, como buenos administradores de la múltiple y variada gracia de Dios."
+        },
+        {
+          "numero": "11",
+          "verso": "Si uno toma la palabra, que sea de verdad palabra de Dios; si uno ejerce un ministerio, hágalo en virtud del poder que Dios le otorga, para que en todas las cosas Dios sea glorificado por Jesucristo. Para él es la gloria y el poder por los siglos de los siglos. Amén."
+        },
+        {
+          "numero": "12",
+          "verso": "Queridísimos: no os extrañéis —como si fuera algo insólito— del incendio que ha prendido entre vosotros para probaros;"
+        },
+        {
+          "numero": "13",
+          "verso": "sino alegraos, porque así como participáis en los padecimientos de Cristo, así también os llenaréis de gozo en la revelación de su gloria."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 96:10-13",
+      "lecturaNombreNormalizado": "Sal96,10-13",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "Decid a las naciones: «El Señor reina. Él afianza el orbe, y no vacilará.\nÉl juzga a los pueblos con rectitud»."
+        },
+        {
+          "numero": "11",
+          "verso": "Alégrense los cielos y exulte la tierra, brame el mar y cuanto lo llena;"
+        },
+        {
+          "numero": "12",
+          "verso": "que se gocen los campos y cuanto hay en ellos. Entonces exultarán todos los árboles del bosque"
+        },
+        {
+          "numero": "13",
+          "verso": "ante el Señor, que ya viene, que viene a juzgar la tierra:\njuzgará al mundo con justicia\ny a los pueblos con rectitud."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 11:11-26",
+      "lecturaNombreNormalizado": "Mc11,11-26",
+      "versos": [
+        {
+          "numero": "11",
+          "verso": "Y entró en Jerusalén en el Templo; y después de observar todo atentamente, como ya era hora tardía, salió para Betania con los doce."
+        },
+        {
+          "numero": "12",
+          "verso": "Al día siguiente, cuando salían de Betania, sintió hambre."
+        },
+        {
+          "numero": "13",
+          "verso": "Viendo de lejos una higuera que tenía hojas, se acercó por si encontraba algo en ella, pero cuando llegó no encontró más que hojas, porque no era tiempo de higos."
+        },
+        {
+          "numero": "14",
+          "verso": "Y la increpó: —Que nunca jamás coma nadie fruto de ti.\nY sus discípulos lo estaban escuchando."
+        },
+        {
+          "numero": "15",
+          "verso": "Llegaron a Jerusalén. Y, entrando en el Templo, comenzó a expulsar a los que vendían y a los que compraban en el Templo, y volcó las mesas de los cambistas y los puestos de los que vendían palomas."
+        },
+        {
+          "numero": "16",
+          "verso": "Y no permitía que nadie transportase cosas por el Templo."
+        },
+        {
+          "numero": "17",
+          "verso": "Y les enseñaba diciendo: —¿No está escrito: Mi casa será llamada casa de oración para todas las naciones? Vosotros, en cambio, la habéis convertido en una cueva de ladrones."
+        },
+        {
+          "numero": "18",
+          "verso": "Lo oyeron los príncipes de los sacerdotes y los escribas, y buscaban el modo de acabar con él; pues le temían, ya que toda la muchedumbre quedaba admirada de su enseñanza."
+        },
+        {
+          "numero": "19",
+          "verso": "Y al atardecer salieron de la ciudad."
+        },
+        {
+          "numero": "20",
+          "verso": "Por la mañana, al pasar, vieron que la higuera se había secado de raíz."
+        },
+        {
+          "numero": "21",
+          "verso": "Y acordándose Pedro, le dijo: —Rabbí, mira, la higuera que maldijiste se ha secado."
+        },
+        {
+          "numero": "22",
+          "verso": "Jesús les contestó: —Tened fe en Dios."
+        },
+        {
+          "numero": "23",
+          "verso": "En verdad os digo que cualquiera que diga a este monte: «Arráncate y échate al mar», sin dudar en su corazón, sino creyendo que se hará lo que dice, le será concedido."
+        },
+        {
+          "numero": "24",
+          "verso": "Por tanto os digo: todo cuanto pidáis en la oración, creed que ya lo recibisteis y se os concederá."
+        },
+        {
+          "numero": "25",
+          "verso": "Y cuando os pongáis de pie para orar, perdonad si tenéis algo contra alguno, a fin de que también vuestro Padre que está en los cielos os perdone vuestros pecados."
+        }
+      ]
+    }
+  ]
+}

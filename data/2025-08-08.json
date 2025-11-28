@@ -1,0 +1,87 @@
+{
+  "fecha": "2025-08-08",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Timoteo 4:1-5",
+      "lecturaNombreNormalizado": "2Timoteo4,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "En la presencia de Dios y de Cristo Jesús, que va a juzgar a vivos y muertos, por su manifestación y por su reino, te advierto seriamente:"
+        },
+        {
+          "numero": "2",
+          "verso": "predica la palabra, insiste con ocasión y sin ella, reprende, reprocha y exhorta siempre con paciencia y doctrina."
+        },
+        {
+          "numero": "3",
+          "verso": "Pues vendrá un tiempo en que no soportarán la sana doctrina, sino que se rodearán de maestros a la medida de sus pasiones para halagarse el oído."
+        },
+        {
+          "numero": "4",
+          "verso": "Cerrarán sus oídos a la verdad y se volverán a los mitos."
+        },
+        {
+          "numero": "5",
+          "verso": "Pero tú sé sobrio en todo, sé recio en el sufrimiento, esfuérzate en la propagación del Evangelio, cumple perfectamente tu ministerio."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 37:3-6, 30-31",
+      "lecturaNombreNormalizado": "Sal37,3-6,30-31",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "(Bet) Confía en el Señor y haz el bien; habita tu tierra y guarda la fidelidad."
+        },
+        {
+          "numero": "4",
+          "verso": "Pon tu delicia en el Señor, y te concederá los deseos de tu corazón."
+        },
+        {
+          "numero": "5",
+          "verso": "(Guímel) Encomienda al Señor tu camino, confía en Él, que Él actuará"
+        },
+        {
+          "numero": "6",
+          "verso": "y hará despuntar tu justicia como la aurora, y tu derecho como luz del mediodía."
+        },
+        {
+          "numero": "30",
+          "verso": "(Pe) La boca del justo habla sabiduría y su lengua pronuncia lo recto;"
+        },
+        {
+          "numero": "31",
+          "verso": "pues en su corazón está la Ley de su Dios: sus pasos no vacilan."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 5:13-16",
+      "lecturaNombreNormalizado": "Mt5,13-16",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "»Vosotros sois la sal de la tierra. Pero si la sal se vuelve sosa ¿con qué se salará? No vale más que para tirarla fuera y que la pisotee la gente."
+        },
+        {
+          "numero": "14",
+          "verso": "»Vosotros sois la luz del mundo. No puede ocultarse una ciudad situada en lo alto de un monte;"
+        },
+        {
+          "numero": "15",
+          "verso": "ni se enciende una luz para ponerla debajo de un celemín, sino sobre un candelero para que alumbre a todos los de la casa."
+        },
+        {
+          "numero": "16",
+          "verso": "Alumbre así vuestra luz ante los hombres, para que vean vuestras buenas obras y glorifiquen a vuestro Padre, que está en los cielos."
+        }
+      ]
+    }
+  ]
+}

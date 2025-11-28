@@ -1,0 +1,187 @@
+{
+  "fecha": "2026-01-28",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Samuel 7:4-17",
+      "lecturaNombreNormalizado": "2Samuel7,4-17",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "Pero esa misma noche la palabra del Señor llegó sobre Natán en estos términos:"
+        },
+        {
+          "numero": "5",
+          "verso": "—Vete y dile a mi siervo David: «Así dice el Señor: “¿Eres tú el que va a edificar una casa para que Yo habite en ella?"
+        },
+        {
+          "numero": "6",
+          "verso": "Nunca he habitado en una casa desde el día en que hice subir a los hijos de Israel de Egipto hasta el día de hoy, sino que he caminado siempre en una tienda y en un tabernáculo."
+        },
+        {
+          "numero": "7",
+          "verso": "Y cuando he caminado por todas partes con el pueblo de Israel ¿me he quejado a alguno de los jueces a quienes encargué que apacentaran a mi pueblo Israel, de que no me edificaran una casa de cedro?”»."
+        },
+        {
+          "numero": "8",
+          "verso": "»Y ahora así dirás a mi siervo David: «Así dice el Señor de los ejércitos: “Yo te he tomado del aprisco, de detrás del rebaño para que seas príncipe sobre mi pueblo Israel;"
+        },
+        {
+          "numero": "9",
+          "verso": "he estado contigo en todas tus andanzas, he eliminado a todos tus enemigos ante ti y he hecho tu nombre grande entre los grandes de la tierra."
+        },
+        {
+          "numero": "10",
+          "verso": "Asignaré un lugar para mi pueblo Israel y lo plantaré para que habite allí y nadie le moleste; los malvados no volverán a oprimirlo como antes,"
+        },
+        {
+          "numero": "11",
+          "verso": "cuando constituí jueces sobre mi pueblo Israel. Te concederé la paz con todos tus enemigos. El Señor te anuncia que Él te edificará una casa."
+        },
+        {
+          "numero": "12",
+          "verso": "Cuando hayas completado los días de tu vida y descanses con tus padres, suscitaré después de ti un linaje salido de tus entrañas y consolidaré su reino."
+        },
+        {
+          "numero": "13",
+          "verso": "Él edificará una casa en honor de mi nombre y yo mantendré el trono de su realeza para siempre."
+        },
+        {
+          "numero": "14",
+          "verso": "Yo seré para él un padre y él será para mí un hijo; si algo hace mal le castigaré con vara de hombres y con golpes humanos."
+        },
+        {
+          "numero": "15",
+          "verso": "Pero no apartaré de él mi amor como lo aparté de Saúl a quien alejé de tu presencia;"
+        },
+        {
+          "numero": "16",
+          "verso": "tu casa y tu reino permanecerán para siempre en mi presencia y tu trono será firme también para siempre”»."
+        },
+        {
+          "numero": "17",
+          "verso": "Natán comunicó a David todas estas palabras y esta visión."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 89:4-5, 27-30",
+      "lecturaNombreNormalizado": "Sal89,4-5,27-30",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "«Una alianza sellé con mi elegido, juré a David, mi siervo:"
+        },
+        {
+          "numero": "5",
+          "verso": "“Afirmaré tu descendencia para siempre, construiré tu trono por todas las generaciones”». (Pausa)"
+        },
+        {
+          "numero": "27",
+          "verso": "Él me invocará: “Tú eres mi Padre, mi Dios, la Roca de mi salvación”."
+        },
+        {
+          "numero": "28",
+          "verso": "Yo lo constituiré mi primogénito, el más eximio entre los reyes de la tierra."
+        },
+        {
+          "numero": "29",
+          "verso": "Le guardaré por siempre mi misericordia, mi alianza con él será firme."
+        },
+        {
+          "numero": "30",
+          "verso": "Asentaré su linaje para siempre, y su trono como los días de los cielos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 4:1-20",
+      "lecturaNombreNormalizado": "Mc4,1-20",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De nuevo comenzó a enseñar al lado del mar. Y se reunió en torno a él una muchedumbre tan grande, que tuvo que subir a sentarse en una barca, en el mar, mientras toda la muchedumbre permanecía en tierra, en la orilla."
+        },
+        {
+          "numero": "2",
+          "verso": "Les explicaba con parábolas muchas cosas, y les decía en su enseñanza:"
+        },
+        {
+          "numero": "3",
+          "verso": "—Escuchad: salió el sembrador a sembrar."
+        },
+        {
+          "numero": "4",
+          "verso": "Y ocurrió que, al echar la semilla, parte cayó junto al camino, y vinieron los pájaros y se la comieron."
+        },
+        {
+          "numero": "5",
+          "verso": "Parte cayó en terreno pedregoso, donde no había mucha tierra, y brotó pronto, por no ser hondo el suelo;"
+        },
+        {
+          "numero": "6",
+          "verso": "pero cuando salió el sol se agostó, y se secó porque no tenía raíz."
+        },
+        {
+          "numero": "7",
+          "verso": "Otra parte cayó entre espinos; crecieron los espinos y la ahogaron, y no dio fruto."
+        },
+        {
+          "numero": "8",
+          "verso": "Y otra cayó en tierra buena, y comenzó a dar fruto: crecía y se desarrollaba; y producía el treinta por uno, el sesenta por uno y el ciento por uno."
+        },
+        {
+          "numero": "9",
+          "verso": "Y decía: —El que tenga oídos para oír, que oiga."
+        },
+        {
+          "numero": "10",
+          "verso": "Y cuando se quedó solo, los que le acompañaban junto con los doce le preguntaron por el significado de las parábolas."
+        },
+        {
+          "numero": "11",
+          "verso": "Y les decía: —A vosotros se os ha concedido el misterio del Reino de Dios; en cambio, a los de fuera todo les llega con parábolas,"
+        },
+        {
+          "numero": "12",
+          "verso": "de modo que los que miran miren y no vean, y los que oyen oigan pero no entiendan,\nno sea que se conviertan y se les perdone."
+        },
+        {
+          "numero": "13",
+          "verso": "Y les dice: —¿No entendéis esta parábola? ¿Y cómo podréis entender las demás parábolas?"
+        },
+        {
+          "numero": "14",
+          "verso": "El que siembra, siembra la palabra."
+        },
+        {
+          "numero": "15",
+          "verso": "Los que están junto al camino donde se siembra la palabra son aquellos que, en cuanto la oyen, al instante viene Satanás y se lleva la palabra sembrada en ellos."
+        },
+        {
+          "numero": "16",
+          "verso": "Los que reciben la semilla sobre terreno pedregoso son aquellos que, cuando oyen la palabra, al momento la reciben con alegría,"
+        },
+        {
+          "numero": "17",
+          "verso": "pero no tienen en sí raíz, sino que son inconstantes; y después, al venir una tribulación o persecución por causa de la palabra, enseguida tropiezan y caen."
+        },
+        {
+          "numero": "18",
+          "verso": "Hay otros que reciben la semilla entre espinos: son aquellos que han oído la palabra,"
+        },
+        {
+          "numero": "19",
+          "verso": "pero las preocupaciones de este mundo, la seducción de las riquezas y los apetitos de las demás cosas les asedian, ahogan la palabra y queda estéril."
+        },
+        {
+          "numero": "20",
+          "verso": "Y los que han recibido la semilla sobre la tierra buena son aquellos que oyen la palabra, la reciben y dan fruto: el treinta por uno, el sesenta por uno y el ciento por uno."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "fecha": "2025-12-16",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Sofonías 3:1-2, 9-13",
+      "lecturaNombreNormalizado": "Sof3,1-2,9-13",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Ay de la rebelde e impura, la ciudad prepotente!"
+        },
+        {
+          "numero": "2",
+          "verso": "No escuchó la voz, ni aceptó la instrucción;\nno confió en el Señor,\nni se acercó a su Dios."
+        },
+        {
+          "numero": "9",
+          "verso": "»Entonces volveré puros los labios de los pueblos,\npara que invoquen, todos ellos,\nel Nombre del Señor,\npara que le sirvan todos juntos."
+        },
+        {
+          "numero": "10",
+          "verso": "Desde más allá de los ríos de Etiopía, los que me veneran,\nla hija de mis dispersos,\nme traerán ofrendas."
+        },
+        {
+          "numero": "11",
+          "verso": "«Aquel día no serás avergonzada por ninguna de las fechorías\ncon que te rebelaste contra Mí;\nporque entonces apartaré de ti\na quienes se jactan en tu altivez,\npara que no vuelvas a engreírte\nen mi monte santo."
+        },
+        {
+          "numero": "12",
+          "verso": "Dejaré en medio de ti un pueblo humilde y pobre».\nY pondrán su esperanza en el Nombre del Señor."
+        },
+        {
+          "numero": "13",
+          "verso": "Los restos de Israel no cometerán iniquidad,\nni hablarán mentira,\nni se encontrará en su boca\nlengua dolosa.\nEllos podrán apacentarse y reposar\nsin que nadie los espante."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 34:2-3, 6-7, 17-19, 23",
+      "lecturaNombreNormalizado": "Sal34,2-3,6-7,17-19,23",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "(Alef) Bendigo al Señor en todo tiempo; su alabanza está en mi boca de continuo."
+        },
+        {
+          "numero": "3",
+          "verso": "(Bet) Mi alma se gloría en el Señor; que lo escuchen los humildes y se alegren."
+        },
+        {
+          "numero": "6",
+          "verso": "(He) Miradle y brillaréis de gozo, vuestros rostros no se avergonzarán."
+        },
+        {
+          "numero": "7",
+          "verso": "(Záin) Cuando el pobre invoca, el Señor le escucha, y lo salva de todas sus angustias."
+        },
+        {
+          "numero": "17",
+          "verso": "(Pe) El rostro del Señor está contra los malhechores para borrar de la tierra su memoria."
+        },
+        {
+          "numero": "18",
+          "verso": "(Sade) Claman y el Señor los escucha, y los libra de todas sus angustias."
+        },
+        {
+          "numero": "19",
+          "verso": "(Qof) El Señor está cerca de los contritos de corazón, y salva a los de espíritu abatido."
+        },
+        {
+          "numero": "23",
+          "verso": "El Señor rescata el alma de sus siervos; cuantos en Él se refugian no serán condenados."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 21:28-32",
+      "lecturaNombreNormalizado": "Mt21,28-32",
+      "versos": [
+        {
+          "numero": "28",
+          "verso": "»¿Qué os parece? Un hombre tenía dos hijos; dirigiéndose al primero, le mandó: «Hijo, vete hoy a trabajar en la viña»."
+        },
+        {
+          "numero": "29",
+          "verso": "Pero él le contestó: «No quiero». Sin embargo se arrepintió después y fue."
+        },
+        {
+          "numero": "30",
+          "verso": "Se dirigió entonces al segundo y le dijo lo mismo. Éste le respondió: «Voy, señor»; pero no fue."
+        },
+        {
+          "numero": "31",
+          "verso": "¿Cuál de los dos hizo la voluntad del padre? —El primero —dijeron ellos.\nJesús prosiguió:\n—En verdad os digo que los publicanos y las meretrices van a estar por delante de vosotros en el Reino de Dios."
+        },
+        {
+          "numero": "32",
+          "verso": "Porque vino Juan a vosotros con un camino de justicia y no le creísteis; en cambio, los publicanos y las meretrices le creyeron. Pero vosotros, ni siquiera viendo esto os arrepentisteis después para poder creerle."
+        }
+      ]
+    }
+  ]
+}

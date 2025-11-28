@@ -1,0 +1,123 @@
+{
+  "fecha": "2026-02-10",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Reyes 8:22-23, 27-30",
+      "lecturaNombreNormalizado": "1Reyes8,22-23,27-30",
+      "versos": [
+        {
+          "numero": "22",
+          "verso": "Luego Salomón se colocó delante del altar del Señor, a la vista de toda la asamblea de Israel, y levantando las manos hacia el cielo"
+        },
+        {
+          "numero": "23",
+          "verso": "dijo: —Señor, Dios de Israel, no hay Dios como Tú, ni arriba en el cielo, ni abajo en la tierra: Tú guardas la alianza y la fidelidad con tus siervos que caminan en tu presencia con todo su corazón."
+        },
+        {
+          "numero": "27",
+          "verso": "Pero, ¿acaso puede Dios habitar realmente en la tierra? Si el cielo y los cielos de los cielos no pueden contenerte, ¡cuánto menos este Templo que yo he edificado!"
+        },
+        {
+          "numero": "28",
+          "verso": "Atiende la oración de tu siervo y su súplica, Señor, Dios mío, escuchando el clamor y la oración que tu siervo pone hoy ante ti."
+        },
+        {
+          "numero": "29",
+          "verso": "Ten los ojos día y noche atentos a este Templo, al lugar del que dijiste: «Allí estará mi nombre», y escucha la oración que tu siervo te dirige en este lugar."
+        },
+        {
+          "numero": "30",
+          "verso": "Escucha el clamor que tu siervo y que tu pueblo Israel te presenten en este lugar. Tú lo escucharás en el lugar de tu morada, en el cielo; lo escucharás y les perdonarás."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 84:3-5, 10-11",
+      "lecturaNombreNormalizado": "Sal84,3-5,10-11",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Mi alma añora, desfallece por los atrios del Señor; mi corazón y mi carne se alegran por el Dios vivo."
+        },
+        {
+          "numero": "4",
+          "verso": "Hasta el pajarillo encuentra una casa, y la golondrina su nido,\ndonde poner sus polluelos:\n¡tus altares, Señor de los ejércitos,\nmi Rey y Dios mío!"
+        },
+        {
+          "numero": "5",
+          "verso": "Dichosos los que habitan en tu Casa te alabarán por siempre."
+        },
+        {
+          "numero": "10",
+          "verso": "¡Escudo nuestro, mira, oh Dios, fíjate en el rostro de tu ungido!"
+        },
+        {
+          "numero": "11",
+          "verso": "Pues más vale un día en tus atrios que mil fuera.\nPrefiero estar en el umbral de la Casa de mi Dios\nque habitar en las tiendas de los impíos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 7:1-13",
+      "lecturaNombreNormalizado": "Mc7,1-13",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Se reunieron junto a él los fariseos y algunos escribas que habían llegado de Jerusalén,"
+        },
+        {
+          "numero": "2",
+          "verso": "y vieron a algunos de sus discípulos que comían los panes con manos impuras, es decir, sin lavar."
+        },
+        {
+          "numero": "3",
+          "verso": "Pues los fariseos y todos los judíos nunca comen si no se lavan las manos muchas veces, observando la tradición de los mayores;"
+        },
+        {
+          "numero": "4",
+          "verso": "y cuando llegan de la plaza no comen, si no se purifican; y hay otras muchas cosas que guardan por tradición: purificaciones de las copas y de las jarras, de las vasijas de cobre y de los lechos."
+        },
+        {
+          "numero": "5",
+          "verso": "Y le preguntaban los fariseos y los escribas: —¿Por qué tus discípulos no se comportan conforme a la tradición de los mayores, sino que comen el pan con manos impuras?"
+        },
+        {
+          "numero": "6",
+          "verso": "Él les respondió: —Bien profetizó Isaías de vosotros, los hipócritas, como está escrito:\nEste pueblo me honra con los labios,\npero su corazón está muy lejos de mí."
+        },
+        {
+          "numero": "7",
+          "verso": "Inútilmente me dan culto, mientras enseñan doctrinas\nque son preceptos humanos."
+        },
+        {
+          "numero": "8",
+          "verso": "»Abandonando el mandamiento de Dios, retenéis la tradición de los hombres."
+        },
+        {
+          "numero": "9",
+          "verso": "Y les decía: —¡Qué bien anuláis el mandamiento de Dios, para guardar vuestra tradición!"
+        },
+        {
+          "numero": "10",
+          "verso": "Porque Moisés dijo: Honra a tu padre y a tu madre. Y el que maldiga a su padre o a su madre, que sea castigado con la muerte."
+        },
+        {
+          "numero": "11",
+          "verso": "Vosotros, en cambio, decís que si un hombre le dice a su padre o a su madre: «Que sea declarada Corbán —que significa “ofrenda”— cualquier cosa que pudieras recibir de mí»,"
+        },
+        {
+          "numero": "12",
+          "verso": "ya no le permitís hacer nada por el padre o por la madre."
+        },
+        {
+          "numero": "13",
+          "verso": "Con ello anuláis la palabra de Dios por vuestra tradición, que vosotros mismos habéis establecido; y hacéis otras muchas cosas parecidas a éstas."
+        }
+      ]
+    }
+  ]
+}

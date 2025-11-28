@@ -1,0 +1,142 @@
+{
+  "fecha": "2026-08-09",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Reyes 19:9, 11-13",
+      "lecturaNombreNormalizado": "1Reyes19,9,11-13",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "Allí entró en una cueva donde pasó la noche. Entonces le llegó la palabra del Señor diciéndole: —¿Qué te trae aquí Elías?"
+        },
+        {
+          "numero": "11",
+          "verso": "El ángel dijo: —Sal y quédate en la montaña, delante del Señor.\nEntonces el Señor pasó y un viento fortísimo conmovió la montaña y partió las rocas delante del Señor; pero el Señor no estaba en el viento. Detrás del viento, un terremoto; pero el Señor no estaba en el terremoto."
+        },
+        {
+          "numero": "12",
+          "verso": "Detrás del terremoto, un fuego; pero el Señor no estaba en el fuego. Detrás del fuego, un susurro de brisa suave."
+        },
+        {
+          "numero": "13",
+          "verso": "Cuando –Elías lo oyó, se cubrió el rostro con el manto, salió y se detuvo a la puerta de la cueva. Entonces le llegó una voz que decía: —¿Qué te trae aquí Elías?"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 85:9-14",
+      "lecturaNombreNormalizado": "Sal85,9-14",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "Escucharé lo que dice Dios: el Señor anuncia la paz a su pueblo y a sus fieles,\ncon tal de que no retornen a la necedad."
+        },
+        {
+          "numero": "10",
+          "verso": "En verdad, ya está cerca la salvación para los que le temen,\npara que en nuestra tierra habite la Gloria."
+        },
+        {
+          "numero": "11",
+          "verso": "Misericordia y fidelidad se encontrarán, justicia y paz se besarán."
+        },
+        {
+          "numero": "12",
+          "verso": "De la tierra germinará la fidelidad, desde los cielos despuntará la justicia."
+        },
+        {
+          "numero": "13",
+          "verso": "Porque el Señor otorgará bienes, y nuestra tierra producirá sus frutos."
+        },
+        {
+          "numero": "14",
+          "verso": "Ante Él marchará la justicia, y sus pasos abrirán camino."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Romanos 9:1-5",
+      "lecturaNombreNormalizado": "Rom9,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Os digo la verdad en Cristo, no miento, y mi conciencia me lo atestigua en el Espíritu Santo:"
+        },
+        {
+          "numero": "2",
+          "verso": "siento una pena muy grande y un continuo dolor en mi corazón."
+        },
+        {
+          "numero": "3",
+          "verso": "Pues le pediría a Dios ser yo mismo anatema de Cristo en favor de mis hermanos, los que son de mi mismo linaje según la carne."
+        },
+        {
+          "numero": "4",
+          "verso": "Ésos son los israelitas: a ellos pertenece la adopción de hijos y la gloria y la alianza y la legislación y el culto y las promesas;"
+        },
+        {
+          "numero": "5",
+          "verso": "de ellos son los patriarcas y de ellos según la carne desciende Cristo, el cual es sobre todas las cosas Dios bendito por los siglos. Amén."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 14:22-33",
+      "lecturaNombreNormalizado": "Mt14,22-33",
+      "versos": [
+        {
+          "numero": "22",
+          "verso": "Y enseguida Jesús mandó a los discípulos que subieran a la barca y que se adelantaran a la otra orilla, mientras él despedía a la gente."
+        },
+        {
+          "numero": "23",
+          "verso": "Y, después de despedirla, subió al monte a orar a solas. Cuando se hizo de noche seguía él solo allí."
+        },
+        {
+          "numero": "24",
+          "verso": "Mientras tanto, la barca ya se había alejado de tierra muchos estadios, sacudida por las olas, porque el viento le era contrario."
+        },
+        {
+          "numero": "25",
+          "verso": "En la cuarta vigilia de la noche vino hacia ellos caminando sobre el mar."
+        },
+        {
+          "numero": "26",
+          "verso": "Cuando le vieron los discípulos andando sobre el mar, se asustaron y dijeron: —¡Es un fantasma! —y llenos de miedo empezaron a gritar."
+        },
+        {
+          "numero": "27",
+          "verso": "Pero al instante Jesús les habló: —Tened confianza, soy yo, no temáis."
+        },
+        {
+          "numero": "28",
+          "verso": "Entonces Pedro le respondió: —Señor, si eres tú, manda que yo vaya a ti sobre las aguas."
+        },
+        {
+          "numero": "29",
+          "verso": "—Ven —le dijo él. Y Pedro se bajó de la barca y comenzó a andar sobre las aguas en dirección a Jesús."
+        },
+        {
+          "numero": "30",
+          "verso": "Pero al ver que el viento era muy fuerte se atemorizó y, al empezar a hundirse, se puso a gritar: —¡Señor, sálvame!"
+        },
+        {
+          "numero": "31",
+          "verso": "Al instante Jesús alargó la mano, lo sujetó y le dijo: —Hombre de poca fe, ¿por qué has dudado?"
+        },
+        {
+          "numero": "32",
+          "verso": "Y cuando subieron a la barca se calmó el viento."
+        },
+        {
+          "numero": "33",
+          "verso": "Los que estaban en la barca le adoraron diciendo: —Verdaderamente eres Hijo de Dios."
+        }
+      ]
+    }
+  ]
+}

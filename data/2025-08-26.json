@@ -1,0 +1,99 @@
+{
+  "fecha": "2025-08-26",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Tesalonicenses 2:1-8",
+      "lecturaNombreNormalizado": "1Tesalonicenses2,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Conocéis bien, hermanos, que nuestra estancia entre vosotros no fue infructuosa,"
+        },
+        {
+          "numero": "2",
+          "verso": "sino que, como sabéis, después de haber padecido sufrimientos e injurias en Filipos, tuvimos confianza en nuestro Dios para predicaros el Evangelio de Dios en medio de muchos combates."
+        },
+        {
+          "numero": "3",
+          "verso": "Nuestra exhortación no procede, por eso, del error ni de la impureza, ni es engañosa."
+        },
+        {
+          "numero": "4",
+          "verso": "Al contrario, ya que Dios nos ha encontrado dignos de confiarnos el Evangelio, hablamos no como quien busca agradar a los hombres, sino a Dios, que ve el fondo de nuestros corazones."
+        },
+        {
+          "numero": "5",
+          "verso": "Como sabéis, nunca nos hemos movido con palabras aduladoras, ni por avaricia disimulada —Dios es testigo—,"
+        },
+        {
+          "numero": "6",
+          "verso": "ni buscando gloria humana, ni de vosotros ni de nadie."
+        },
+        {
+          "numero": "7",
+          "verso": "Aunque, como apóstoles de Cristo, podríamos haber impuesto el peso de nuestra autoridad, sin embargo nos comportamos con dulzura entre vosotros. Como una madre que da alimento y calor a sus hijos,"
+        },
+        {
+          "numero": "8",
+          "verso": "así, movidos por nuestro amor, queríamos entregaros no sólo el Evangelio de Dios, sino incluso nuestras propias vidas, ¡tanto os llegamos a querer!"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 139:1-3, 4-6",
+      "lecturaNombreNormalizado": "Sal139,1-3,4-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Al maestro de coro. De David. Salmo. Señor, Tú me examinas y me conoces."
+        },
+        {
+          "numero": "2",
+          "verso": "Tú sabes cuándo me siento y me levanto. Penetras desde lejos mis pensamientos."
+        },
+        {
+          "numero": "3",
+          "verso": "Camine o descanse, Tú lo adviertes; todas mis sendas te son familiares."
+        },
+        {
+          "numero": "4",
+          "verso": "Pues aún no está una palabra en mi lengua, y ya, Señor, la conoces toda."
+        },
+        {
+          "numero": "5",
+          "verso": "Me aprietas por detrás y por delante, en mí tienes puesta tu mano."
+        },
+        {
+          "numero": "6",
+          "verso": "Misterioso es para mí este saber; demasiado elevado, no puedo alcanzarlo."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 23:23-26",
+      "lecturaNombreNormalizado": "Mt23,23-26",
+      "versos": [
+        {
+          "numero": "23",
+          "verso": "»¡Ay de vosotros, escribas y fariseos hipócritas, que pagáis el diezmo de la menta, del eneldo y del comino, pero habéis abandonado lo más importante de la Ley: la justicia, la misericordia y la fidelidad! Hay que hacer esto sin abandonar lo otro."
+        },
+        {
+          "numero": "24",
+          "verso": "¡Guías ciegos, que coláis un mosquito y os tragáis un camello!"
+        },
+        {
+          "numero": "25",
+          "verso": "»¡Ay de vosotros, escribas y fariseos hipócritas, que limpiáis por fuera la copa y el plato, mientras por dentro quedan llenos de rapiña y de inmundicia!"
+        },
+        {
+          "numero": "26",
+          "verso": "Fariseo ciego, limpia primero lo de dentro de la copa, para que llegue a estar limpio también lo de fuera."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "fecha": "2025-09-08",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Miqueas 5:1-4",
+      "lecturaNombreNormalizado": "Mi5,1-4",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Pero tú, Belén Efrata, aunque tan pequeña entre los clanes de Judá,\nde ti me saldrá\nel que ha de ser dominador en Israel;\nsus orígenes son muy antiguos,\nde días remotos."
+        },
+        {
+          "numero": "2",
+          "verso": "Por eso él los entregará hasta el tiempo en que dé a luz la que ha de dar a luz.\nEntonces, el resto de sus hermanos\nvolverá junto a los hijos de Israel."
+        },
+        {
+          "numero": "3",
+          "verso": "Él estará firme, y apacentará con la fuerza del Señor, con la majestad del Nombre del Señor, su Dios;\ny ellos podrán reposar,\nporque entonces él será grande\nhasta los confines de la tierra."
+        },
+        {
+          "numero": "4",
+          "verso": "Él mismo será la paz. Asiria, si viniere a nuestra tierra,\ny hollare nuestros palacios,\nnosotros le suscitaremos siete pastores\ny ocho príncipes de estirpe."
+        },
+        {
+          "numero": "28",
+          "verso": "Sabemos que todas las cosas cooperan para el bien de los que aman a Dios, de los que son llamados según su designio."
+        },
+        {
+          "numero": "29",
+          "verso": "Porque a los que de antemano eligió también predestinó para que lleguen a ser conformes con la imagen de su Hijo, a fin de que él sea primogénito entre muchos hermanos."
+        },
+        {
+          "numero": "30",
+          "verso": "Y a los que predestinó también los llamó, y a los que llamó también los justificó, y a los que justificó también los glorificó."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 13:6",
+      "lecturaNombreNormalizado": "Sal13,6",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "Yo confío en tu misericordia; mi corazón se goza en tu salvación.\nCantaré al Señor por el bien que me hace."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 1:1-16, 18-23",
+      "lecturaNombreNormalizado": "Mt1,1-16,18-23",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Genealogía de Jesucristo, hijo de David, hijo de Abrahán."
+        },
+        {
+          "numero": "2",
+          "verso": "Abrahán engendró a Isaac, Isaac engendró a Jacob, Jacob engendró a Judá y a sus hermanos,"
+        },
+        {
+          "numero": "3",
+          "verso": "Judá engendró a Farés y a Zara de Tamar, Farés engendró a Esrón, Esrón engendró a Aram,"
+        },
+        {
+          "numero": "4",
+          "verso": "Aram engendró a Aminadab, Aminadab engendró a Naasón, Naasón engendró a Salmón,"
+        },
+        {
+          "numero": "5",
+          "verso": "Salmón engendró a Booz de Rahab, Booz engendró a Obed de Rut, Obed engendró a Jesé,"
+        },
+        {
+          "numero": "6",
+          "verso": "Jesé engendró al rey David. David engendró a Salomón de la que fue mujer de Urías,"
+        },
+        {
+          "numero": "7",
+          "verso": "Salomón engendró a Roboán, Roboán engendró a Abías, Abías engendró a Asá,"
+        },
+        {
+          "numero": "8",
+          "verso": "Asá engendró a Josafat, Josafat engendró a Jorán, Jorán engendró a Ozías,"
+        },
+        {
+          "numero": "9",
+          "verso": "Ozías engendró a Joatán, Joatán engendró a Acaz, Acaz engendró a Ezequías,"
+        },
+        {
+          "numero": "10",
+          "verso": "Ezequías engendró a Manasés, Manasés engendró a Amón, Amón engendró a Josías,"
+        },
+        {
+          "numero": "11",
+          "verso": "Josías engendró a Jeconías y a sus hermanos cuando la deportación a Babilonia."
+        },
+        {
+          "numero": "12",
+          "verso": "Después de la deportación a Babilonia, Jeconías engendró a Salatiel, Salatiel engendró a Zorobabel,"
+        },
+        {
+          "numero": "13",
+          "verso": "Zorobabel engendró a Abiud, Abiud engendró a Eliacim, Eliacim engendró a Azor,"
+        },
+        {
+          "numero": "14",
+          "verso": "Azor engendró a Sadoc, Sadoc engendró a Aquim, Aquim engendró a Eliud,"
+        },
+        {
+          "numero": "15",
+          "verso": "Eliud engendró a Eleazar, Eleazar engendró a Matán, Matán engendró a Jacob,"
+        },
+        {
+          "numero": "16",
+          "verso": "Jacob engendró a José, el esposo de María, de la cual nació Jesús llamado Cristo."
+        },
+        {
+          "numero": "18",
+          "verso": "La generación de Jesucristo fue así: María, su madre, estaba desposada con José, y antes de que conviviesen se encontró con que había concebido en su seno por obra del Espíritu Santo."
+        },
+        {
+          "numero": "19",
+          "verso": "José, su esposo, como era justo y no quería exponerla a infamia, pensó repudiarla en secreto."
+        },
+        {
+          "numero": "20",
+          "verso": "Consideraba él estas cosas, cuando un ángel del Señor se le apareció en sueños y le dijo: —José, hijo de David, no temas recibir a María, tu esposa, porque lo que en ella ha sido concebido es obra del Espíritu Santo."
+        },
+        {
+          "numero": "21",
+          "verso": "Dará a luz un hijo y le pondrás por nombre Jesús, porque él salvará a su pueblo de sus pecados."
+        },
+        {
+          "numero": "22",
+          "verso": "Todo esto sucedió para que se cumpliera lo que dijo el Señor por medio del Profeta:"
+        },
+        {
+          "numero": "23",
+          "verso": "Mirad, la virgen concebirá y dará a luz un hijo, a quien pondrán por nombre Emmanuel,\nque significa Dios–con–nosotros."
+        },
+        {
+          "numero": "18",
+          "verso": "La generación de Jesucristo fue así: María, su madre, estaba desposada con José, y antes de que conviviesen se encontró con que había concebido en su seno por obra del Espíritu Santo."
+        },
+        {
+          "numero": "19",
+          "verso": "José, su esposo, como era justo y no quería exponerla a infamia, pensó repudiarla en secreto."
+        },
+        {
+          "numero": "20",
+          "verso": "Consideraba él estas cosas, cuando un ángel del Señor se le apareció en sueños y le dijo: —José, hijo de David, no temas recibir a María, tu esposa, porque lo que en ella ha sido concebido es obra del Espíritu Santo."
+        },
+        {
+          "numero": "21",
+          "verso": "Dará a luz un hijo y le pondrás por nombre Jesús, porque él salvará a su pueblo de sus pecados."
+        },
+        {
+          "numero": "22",
+          "verso": "Todo esto sucedió para que se cumpliera lo que dijo el Señor por medio del Profeta:"
+        },
+        {
+          "numero": "23",
+          "verso": "Mirad, la virgen concebirá y dará a luz un hijo, a quien pondrán por nombre Emmanuel,\nque significa Dios–con–nosotros."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "fecha": "2026-02-15",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Eclesiástico 15:15-20",
+      "lecturaNombreNormalizado": "Eclo15,15-20",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "Si quieres cumplir los mandatos, ellos te protegerán; si tienes fe en Él, también vivirás."
+        },
+        {
+          "numero": "17",
+          "verso": "Él ha puesto ante ti fuego y agua; adonde quieras extenderás tu mano."
+        },
+        {
+          "numero": "18",
+          "verso": "Ante los hombres están la vida y la muerte, el bien y el mal;\na cada uno se le dará lo que le plazca."
+        },
+        {
+          "numero": "19",
+          "verso": "Grande es la sabiduría del Señor; es el más fuerte en poder y lo ve todo."
+        },
+        {
+          "numero": "20",
+          "verso": "Sus ojos miran a aquellos que le temen, y conoce cualquier acción humana."
+        },
+        {
+          "numero": "21",
+          "verso": "Él no ha mandado a nadie que sea impío, y a nadie ha dado licencia para pecar."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 119:1-2, 4-5, 17-18, 33-34",
+      "lecturaNombreNormalizado": "Sal119,1-2,4-5,17-18,33-34",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "(Alef) Dichosos los de conducta íntegra, los que caminan en la Ley del Señor."
+        },
+        {
+          "numero": "2",
+          "verso": "Dichosos los que guardan sus preceptos y le buscan de todo corazón;"
+        },
+        {
+          "numero": "4",
+          "verso": "Tú ordenaste tus mandatos para que se observen con cuidado."
+        },
+        {
+          "numero": "5",
+          "verso": "Ojalá estén firmes mis caminos para observar tus preceptos."
+        },
+        {
+          "numero": "17",
+          "verso": "(Guímel) Favorece a tu siervo para vivir y guardar tu palabra."
+        },
+        {
+          "numero": "18",
+          "verso": "Abre mis ojos para contemplar las maravillas de tu Ley."
+        },
+        {
+          "numero": "33",
+          "verso": "(He) Enséñame, Señor, el camino de tus decretos, y lo seguiré hasta el fin."
+        },
+        {
+          "numero": "34",
+          "verso": "Dame inteligencia para guardar tu Ley, y observarla de todo corazón."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "1 Corintios 2:6-10",
+      "lecturaNombreNormalizado": "1Corintios2,6-10",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "Ahora bien, enseñamos sabiduría entre los perfectos, pero una sabiduría no de este mundo ni de los gobernantes de este mundo que son pasajeros;"
+        },
+        {
+          "numero": "7",
+          "verso": "sino que enseñamos la sabiduría de Dios, misteriosa, escondida, que Dios predestinó, antes de los siglos, para nuestra gloria."
+        },
+        {
+          "numero": "8",
+          "verso": "Sabiduría que ninguno de los gobernantes de este mundo ha conocido, porque, de haberla conocido, nunca habrían crucificado al Señor de la gloria;"
+        },
+        {
+          "numero": "9",
+          "verso": "sino que, según está escrito: Ni ojo vio, ni oído oyó, ni pasó por el corazón del hombre, las cosas que preparó Dios para los que le aman."
+        },
+        {
+          "numero": "10",
+          "verso": "A nosotros, en cambio, Dios nos lo reveló por medio del Espíritu, porque el Espíritu todo lo escudriña, incluso las profundidades de Dios."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 5:17-37",
+      "lecturaNombreNormalizado": "Mt5,17-37",
+      "versos": [
+        {
+          "numero": "17",
+          "verso": "»No penséis que he venido a abolir la Ley o los Profetas; no he venido a abolirlos sino a darles su plenitud."
+        },
+        {
+          "numero": "18",
+          "verso": "En verdad os digo que mientras no pasen el cielo y la tierra, de la Ley no pasará ni la más pequeña letra o trazo hasta que todo se cumpla."
+        },
+        {
+          "numero": "19",
+          "verso": "Así, el que quebrante uno solo de estos mandamientos, incluso de los más pequeños, y enseñe a los hombres a hacer lo mismo, será el más pequeño en el Reino de los Cielos. Por el contrario, el que los cumpla y enseñe, ése será grande en el Reino de los Cielos."
+        },
+        {
+          "numero": "20",
+          "verso": "Os digo, pues, que si vuestra justicia no es mayor que la de los escribas y fariseos, no entraréis en el Reino de los Cielos."
+        },
+        {
+          "numero": "21",
+          "verso": "»Habéis oído que se dijo a los antiguos: No matarás, y el que mate será reo de juicio."
+        },
+        {
+          "numero": "22",
+          "verso": "Pero yo os digo: todo el que se llene de ira contra su hermano será reo de juicio; y el que insulte a su hermano será reo ante el Sanedrín; y el que le maldiga será reo del fuego del infierno."
+        },
+        {
+          "numero": "23",
+          "verso": "Por lo tanto, si al llevar tu ofrenda al altar recuerdas que tu hermano tiene algo contra ti,"
+        },
+        {
+          "numero": "24",
+          "verso": "deja allí tu ofrenda delante del altar, vete primero a reconciliarte con tu hermano, y vuelve después para presentar tu ofrenda."
+        },
+        {
+          "numero": "25",
+          "verso": "Ponte de acuerdo cuanto antes con tu adversario mientras vas de camino con él; no sea que tu adversario te entregue al juez y el juez al alguacil y te metan en la cárcel."
+        },
+        {
+          "numero": "26",
+          "verso": "Te aseguro que no saldrás de allí hasta que restituyas la última moneda."
+        },
+        {
+          "numero": "27",
+          "verso": "»Habéis oído que se dijo: No cometerás adulterio."
+        },
+        {
+          "numero": "28",
+          "verso": "Pero yo os digo que todo el que mira a una mujer deseándola, ya ha cometido adulterio en su corazón."
+        },
+        {
+          "numero": "29",
+          "verso": "Si tu ojo derecho te escandaliza, arráncatelo y tíralo; porque más te vale que se pierda uno de tus miembros que no que todo tu cuerpo sea arrojado al infierno."
+        },
+        {
+          "numero": "30",
+          "verso": "Y si tu mano derecha te escandaliza, córtala y arrójala lejos de ti; porque más te vale que se pierda uno de tus miembros que no que todo tu cuerpo acabe en el infierno."
+        },
+        {
+          "numero": "31",
+          "verso": "»Se dijo también: Cualquiera que repudie a su mujer, que le dé el libelo de repudio."
+        },
+        {
+          "numero": "32",
+          "verso": "Pero yo os digo que todo el que repudia a su mujer —excepto en el caso de fornicación— la expone a cometer adulterio, y el que se casa con la repudiada comete adulterio."
+        },
+        {
+          "numero": "33",
+          "verso": "»También habéis oído que se dijo a los antiguos: No jurarás en vano, sino que cumplirás los juramentos que le hayas hecho al Señor."
+        },
+        {
+          "numero": "34",
+          "verso": "Pero yo os digo: no juréis de ningún modo; ni por el cielo, porque es el trono de Dios;"
+        },
+        {
+          "numero": "35",
+          "verso": "ni por la tierra, porque es el estrado de sus pies; ni por Jerusalén, porque es la ciudad del Gran Rey."
+        },
+        {
+          "numero": "36",
+          "verso": "Tampoco jures por tu cabeza, porque no puedes volver blanco o negro ni un solo cabello."
+        },
+        {
+          "numero": "37",
+          "verso": "Que vuestro modo de hablar sea: «Sí, sí»; «no, no». Lo que exceda de esto, viene del Maligno."
+        }
+      ]
+    }
+  ]
+}

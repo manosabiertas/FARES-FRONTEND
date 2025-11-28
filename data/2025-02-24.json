@@ -1,0 +1,143 @@
+{
+  "fecha": "2025-02-24",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Eclesiástico 1:1-10",
+      "lecturaNombreNormalizado": "Eclo1,1-10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Toda sabiduría procede del Señor y está eternamente con Él."
+        },
+        {
+          "numero": "2",
+          "verso": "Las arenas del mar, las gotas de lluvia y los días del mundo ¿quién podrá contarlos?"
+        },
+        {
+          "numero": "3",
+          "verso": "La altura del cielo, la anchura de la tierra, el abismo y la sabiduría ¿quién podrá explorarlos?"
+        },
+        {
+          "numero": "4",
+          "verso": "La sabiduría fue creada antes que todas las cosas y el entendimiento prudente existe desde siempre."
+        },
+        {
+          "numero": "5",
+          "verso": "La fuente de la sabiduría es la palabra de Dios en las alturas, y sus canales, los mandamientos eternos."
+        },
+        {
+          "numero": "6",
+          "verso": "La raíz de la sabiduría ¿a quién ha sido revelada?, y sus designios secretos ¿quién los conoce?"
+        },
+        {
+          "numero": "7",
+          "verso": "La ciencia de la sabiduría ¿a quién ha sido manifestada?, y la gran variedad de su arte ¿quién la ha comprendido?"
+        },
+        {
+          "numero": "8",
+          "verso": "Uno sólo es sabio, muy temible, el que está sentado en su trono."
+        },
+        {
+          "numero": "9",
+          "verso": "El Señor mismo creó la sabiduría, la contempló, la midió"
+        },
+        {
+          "numero": "10",
+          "verso": "y la ha infundido en todas sus obras, en todo viviente, conforme a su generosidad,\ny la ha comunicado a los que le aman."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 93:1-2, 5",
+      "lecturaNombreNormalizado": "Sal93,1-2,5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El Señor reina. Vestido está de majestad. El Señor está vestido, ceñido de poder.\nPor eso el orbe se mantiene firme;\nno vacilará."
+        },
+        {
+          "numero": "2",
+          "verso": "Tu trono está firme desde antiguo. Tú eres desde siempre."
+        },
+        {
+          "numero": "5",
+          "verso": "Tus preceptos son firmes. Tu Casa, Señor, exige la santidad,\npor días sin término."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 9:14-29",
+      "lecturaNombreNormalizado": "Mc9,14-29",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "Al llegar junto a los discípulos vieron una gran muchedumbre que les rodeaba, y unos escribas que discutían con ellos."
+        },
+        {
+          "numero": "15",
+          "verso": "Nada más verle, todo el pueblo se quedó sorprendido, y acudían corriendo a saludarle."
+        },
+        {
+          "numero": "16",
+          "verso": "Y él les preguntó: —¿Qué estabais discutiendo entre vosotros?"
+        },
+        {
+          "numero": "17",
+          "verso": "A lo que respondió uno de la muchedumbre: —Maestro, te he traído a mi hijo, que tiene un espíritu mudo;"
+        },
+        {
+          "numero": "18",
+          "verso": "y en cualquier sitio que se apodera de él, lo tira al suelo, le hace echar espumarajos y rechinar los dientes y lo deja rígido. Pedí a tus discípulos que lo expulsaran, pero no han podido."
+        },
+        {
+          "numero": "19",
+          "verso": "Él les contestó: —¡Oh generación incrédula! ¿Hasta cuándo tendré que estar entre vosotros? ¿Hasta cuándo tendré que soportaros? Traédmelo."
+        },
+        {
+          "numero": "20",
+          "verso": "Y se lo trajeron. En cuanto el espíritu vio a Jesús, hizo retorcerse al niño, que cayendo a tierra se revolcaba echando espumarajos."
+        },
+        {
+          "numero": "21",
+          "verso": "Entonces preguntó al padre: —¿Cuánto tiempo hace que le sucede esto?\nLe contestó:\n—Desde muy pequeño;"
+        },
+        {
+          "numero": "22",
+          "verso": "y muchas veces lo ha arrojado al fuego y al agua, para acabar con él. Pero si algo puedes, compadécete de nosotros y ayúdanos."
+        },
+        {
+          "numero": "23",
+          "verso": "Y Jesús le dijo: —¡Si puedes…! ¡Todo es posible para el que cree!"
+        },
+        {
+          "numero": "24",
+          "verso": "Enseguida el padre del niño exclamó: —¡Creo, Señor; ayuda mi incredulidad!"
+        },
+        {
+          "numero": "25",
+          "verso": "Al ver Jesús que aumentaba la muchedumbre, increpó al espíritu impuro diciéndole: —¡Espíritu mudo y sordo: yo te lo mando, sal de él y ya no vuelvas a entrar en él!"
+        },
+        {
+          "numero": "26",
+          "verso": "Y gritando y agitándole violentamente salió. Y quedó como muerto, de manera que muchos decían: —Ha muerto."
+        },
+        {
+          "numero": "27",
+          "verso": "Pero Jesús, tomándolo de la mano, lo levantó y se mantuvo en pie."
+        },
+        {
+          "numero": "28",
+          "verso": "Cuando entró en casa le preguntaron sus discípulos a solas: —¿Por qué nosotros no hemos podido expulsarlo?"
+        },
+        {
+          "numero": "29",
+          "verso": "—Esta raza —les dijo— no puede ser expulsada por ningún medio, sino con la oración."
+        }
+      ]
+    }
+  ]
+}

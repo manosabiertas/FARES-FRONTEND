@@ -1,0 +1,159 @@
+{
+  "fecha": "2025-11-22",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Macabeos 6:1-13",
+      "lecturaNombreNormalizado": "1Macabeos6,1-13",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Mientras el rey Antíoco recorría las regiones septentrionales, se enteró de que en Persia estaba la ciudad de Elimaida, famosa por sus riquezas, por la plata y por el oro,"
+        },
+        {
+          "numero": "2",
+          "verso": "y que tenía un templo riquísimo donde había armaduras de oro, corazas y armas dejadas allí por Alejandro, hijo de Filipo, el rey macedonio que reinó en primer lugar sobre los griegos."
+        },
+        {
+          "numero": "3",
+          "verso": "Se dirigió allí con la intención de apoderarse de la ciudad y saquearla, pero no pudo porque su plan fue descubierto por sus habitantes,"
+        },
+        {
+          "numero": "4",
+          "verso": "que le presentaron batalla obligándole a huir. Y tuvo que marcharse de allí con gran tristeza, y regresar a Babilonia."
+        },
+        {
+          "numero": "5",
+          "verso": "Durante su estancia en Persia llegó un mensajero para comunicarle que las tropas enviadas a tierra de Judá habían tenido que replegarse;"
+        },
+        {
+          "numero": "6",
+          "verso": "que Lisias había ido primero con un poderoso ejército, pero que había tenido que batirse en retirada ante los judíos; que éstos se habían reforzado con armas, con tropas y con el ingente botín de los vencidos;"
+        },
+        {
+          "numero": "7",
+          "verso": "que habían destruido la abominación erigida sobre el altar de Jerusalén, y que habían fortificado con altos muros el Santuario tal como estaba antes y Bet–Sur, ahora ciudad suya."
+        },
+        {
+          "numero": "8",
+          "verso": "Cuando el rey escuchó estas noticias, quedó atónito preso de una gran conmoción. Se acostó, sumergido en una gran tristeza, porque las cosas no habían sucedido como él deseaba."
+        },
+        {
+          "numero": "9",
+          "verso": "Permaneció así durante algunos días, pues su abatimiento se iba haciendo mayor, y vio que se estaba muriendo."
+        },
+        {
+          "numero": "10",
+          "verso": "Entonces llamó a todos sus amigos y les dijo: —El sueño se aparta de mis ojos y mi corazón desfallece por la congoja."
+        },
+        {
+          "numero": "11",
+          "verso": "Me he dicho a mí mismo: ¡a qué grado de aflicción he llegado! ¡En qué terrible zozobra me encuentro! ¡Yo, que era tan generoso y apreciado mientras gobernaba!"
+        },
+        {
+          "numero": "12",
+          "verso": "Ahora recuerdo los daños que he perpetrado contra Jerusalén al apoderarme de todos los utensilios de plata y de oro que estaban allí, y mandar exterminar a los habitantes de Judá sin razón alguna."
+        },
+        {
+          "numero": "13",
+          "verso": "Reconozco que ésta es la causa de que me hayan sobrevenido estos males. Mirad, muero con una gran tristeza en un país extranjero."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 9:2-4, 6, 16, 19",
+      "lecturaNombreNormalizado": "Sal9,2-4,6,16,19",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "(Alef) Te alabo, ¡Señor!, con todo mi corazón; contaré todas tus maravillas."
+        },
+        {
+          "numero": "3",
+          "verso": "Me alegro, me regocijo en Ti, y canto salmos a tu Nombre, ¡oh Altísimo!"
+        },
+        {
+          "numero": "4",
+          "verso": "(Bet) Porque han retrocedido mis enemigos, han tropezado y perecido en tu presencia."
+        },
+        {
+          "numero": "6",
+          "verso": "(Guímel) Has reprobado a los gentiles, has hecho perecer a los impíos,\nhas borrado su nombre para siempre."
+        },
+        {
+          "numero": "16",
+          "verso": "(Tet) Las naciones se hunden en la fosa que cavaron, su pie queda preso en el cepo que escondieron."
+        },
+        {
+          "numero": "19",
+          "verso": "(Kaf) Él no se olvida nunca del pobre, ni se frustra jamás la esperanza de los afligidos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 20:27-40",
+      "lecturaNombreNormalizado": "Lc20,27-40",
+      "versos": [
+        {
+          "numero": "27",
+          "verso": "Se le acercaron algunos de los saduceos —que niegan la resurrección— y le preguntaron:"
+        },
+        {
+          "numero": "28",
+          "verso": "—Maestro, Moisés nos dejó escrito: Si muere el hermano de alguien dejando mujer, sin haber tenido hijos, su hermano la tomará por mujer y dará descendencia a su hermano."
+        },
+        {
+          "numero": "29",
+          "verso": "Pues bien, eran siete hermanos. El primero tomó mujer y murió sin hijos."
+        },
+        {
+          "numero": "30",
+          "verso": "Lo mismo el segundo."
+        },
+        {
+          "numero": "31",
+          "verso": "También el tercero la tomó por mujer. Los siete, de igual manera, murieron sin dejar hijos."
+        },
+        {
+          "numero": "32",
+          "verso": "Después murió también la mujer."
+        },
+        {
+          "numero": "33",
+          "verso": "Entonces, en la resurrección, la mujer ¿de cuál de ellos será esposa?, porque los siete la tuvieron como esposa."
+        },
+        {
+          "numero": "34",
+          "verso": "Jesús les dijo: —Los hijos de este mundo se casan y ellas son dadas en matrimonio;"
+        },
+        {
+          "numero": "35",
+          "verso": "sin embargo, los que hayan sido dignos de alcanzar el otro mundo y la resurrección de los muertos, no se casarán, ni ellas serán dadas en matrimonio."
+        },
+        {
+          "numero": "36",
+          "verso": "Porque ya no pueden morir otra vez, pues al ser hijos de la resurrección son iguales a los ángeles e hijos de Dios."
+        },
+        {
+          "numero": "37",
+          "verso": "Que los muertos resucitarán lo mostró Moisés en el pasaje de la zarza, cuando llama al Señor Dios de Abrahán y Dios de Isaac y Dios de Jacob."
+        },
+        {
+          "numero": "38",
+          "verso": "Pero no es Dios de muertos, sino de vivos; todos viven para Él."
+        },
+        {
+          "numero": "39",
+          "verso": "Tomando la palabra, algunos escribas dijeron: —Maestro, has respondido muy bien."
+        },
+        {
+          "numero": "40",
+          "verso": "Y ya no se atrevían a hacerle más preguntas."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "fecha": "2025-09-25",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Ageo 1:1-8",
+      "lecturaNombreNormalizado": "Ag1,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El año segundo del rey Darío, el día primero del sexto mes, la palabra del Señor fue dirigida, por medio del profeta Ageo, a Zorobabel, hijo de Sealtiel, gobernador de Judá, y a Josué, hijo de Yosadac, sumo sacerdote, diciéndoles:"
+        },
+        {
+          "numero": "2",
+          "verso": "—Así dice el Señor de los ejércitos: «Este pueblo va diciendo: “Aún no ha llegado el momento de reconstruir el Templo del Señor”»."
+        },
+        {
+          "numero": "3",
+          "verso": "Entonces, la palabra del Señor fue dirigida, por medio del profeta Ageo, diciendo:"
+        },
+        {
+          "numero": "4",
+          "verso": "—¿Acaso os ha llegado a vosotros el momento de habitar en vuestras casas artesonadas\nmientras este Templo sigue en ruinas?"
+        },
+        {
+          "numero": "5",
+          "verso": "Ahora, así dice el Señor de los ejércitos: «Reflexionad bien sobre vuestra conducta:"
+        },
+        {
+          "numero": "6",
+          "verso": "Sembrasteis mucho y habéis cosechado poco; comisteis y no os habéis saciado,\nbebisteis y no os habéis embriagado,\nos vestisteis y no os habéis calentado;\ny el jornalero ha echado su paga en saco roto»."
+        },
+        {
+          "numero": "7",
+          "verso": "Así dice el Señor de los ejércitos: «Reflexionad bien sobre vuestra conducta:"
+        },
+        {
+          "numero": "8",
+          "verso": "Subid al monte, traed madera,\nreconstruid el Templo,\nque Yo me complaceré en él\ny seré glorificado\n—dice el Señor—."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 149:1-6, 9",
+      "lecturaNombreNormalizado": "Sal149,1-6,9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Aleluya! Cantad al Señor un cántico nuevo,\nesté su alabanza en la asamblea de los fieles."
+        },
+        {
+          "numero": "2",
+          "verso": "Alégrese Israel en su Hacedor; exulten en su Rey los hijos de Sión."
+        },
+        {
+          "numero": "3",
+          "verso": "Alaben su Nombre con danzas, que le entonen salmos con panderos y cítaras."
+        },
+        {
+          "numero": "4",
+          "verso": "Porque el Señor se deleita en su pueblo, y engalana a los humildes con la salvación."
+        },
+        {
+          "numero": "5",
+          "verso": "Regocíjense los fieles en la gloria, griten de alegría desde sus lechos,"
+        },
+        {
+          "numero": "6",
+          "verso": "con gritos de exaltación a Dios en sus gargantas, y espadas de dos filos en sus manos."
+        },
+        {
+          "numero": "9",
+          "verso": "para ejecutar en ellos la sentencia dictada: será un honor para todos sus fieles.\n¡Aleluya!"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 9:7-9",
+      "lecturaNombreNormalizado": "Lc9,7-9",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "El tetrarca Herodes oyó todo lo que ocurría y estaba perplejo, porque unos decían que Juan había resucitado de entre los muertos,"
+        },
+        {
+          "numero": "8",
+          "verso": "otros que Elías había aparecido, otros que había resucitado alguno de los antiguos profetas."
+        },
+        {
+          "numero": "9",
+          "verso": "Y dijo Herodes: —A Juan lo he decapitado yo, ¿quién es, entonces, éste del que oigo tales cosas?\nY deseaba verlo."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "fecha": "2026-06-30",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Amós 3:1-8; 4:11-12",
+      "lecturaNombreNormalizado": "Am3,1-8;4,11-12",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Escuchad esta palabra que el Señor pronuncia contra vosotros, hijos de Israel, a toda la familia que hice subir de la tierra de Egipto:"
+        },
+        {
+          "numero": "2",
+          "verso": "«Sólo os conocí a vosotros entre todas las familias de la tierra.\nPor eso os visitaré\npor todas vuestras iniquidades."
+        },
+        {
+          "numero": "3",
+          "verso": "»¿Es que caminan juntos dos sin que se pongan de acuerdo?"
+        },
+        {
+          "numero": "4",
+          "verso": "¿Es que ruge el león en el soto si no tiene presa?\n¿Lanza rugidos desde su antro el león joven\nsin que haya cazado?"
+        },
+        {
+          "numero": "5",
+          "verso": "¿Cae el pájaro en la red, a tierra, si no hay señuelo?\n¿Salta la trampa del suelo\nsin haber atrapado algo?"
+        },
+        {
+          "numero": "6",
+          "verso": "¿Si suena la trompeta en la ciudad, no se alarmará el pueblo?\n¿Si ocurre una desgracia en la ciudad,\nno la manda el Señor?"
+        },
+        {
+          "numero": "7",
+          "verso": "En verdad, no hace el Señor Dios cosa alguna sin que revele su designio\na sus siervos los profetas."
+        },
+        {
+          "numero": "8",
+          "verso": "Ruge el león: ¿quién no temerá?\nHabla el Señor Dios:\n¿quién no profetizará?"
+        },
+        {
+          "numero": "11",
+          "verso": "Os convulsioné como convulsionó Dios a Sodoma y Gomorra,\ny quedasteis como tizón extraído de un incendio,\npero no os convertisteis a Mí»\n—oráculo del Señor—."
+        },
+        {
+          "numero": "12",
+          "verso": "Por eso, así voy a hacer contigo, Israel; y porque eso voy a hacer contigo,\nprepárate para el encuentro con tu Dios, Israel."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 5:4-8",
+      "lecturaNombreNormalizado": "Sal5,4-8",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "¡Señor! De mañana oyes mi voz, de mañana me presento a Ti\ny me quedo esperando."
+        },
+        {
+          "numero": "5",
+          "verso": "Tú no eres un Dios que ame la impiedad; el malvado no es tu huésped,"
+        },
+        {
+          "numero": "6",
+          "verso": "ni permanece el arrogante ante tus ojos. Aborreces a los que obran la iniquidad."
+        },
+        {
+          "numero": "7",
+          "verso": "Haces perecer a los que dicen falsedades. El Señor abomina del hombre sanguinario y mentiroso."
+        },
+        {
+          "numero": "8",
+          "verso": "Pero yo, por tu gran bondad, entraré en tu Casa,\nme postraré en tu Templo santo,\nen tu temor."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 8:23-27",
+      "lecturaNombreNormalizado": "Mt8,23-27",
+      "versos": [
+        {
+          "numero": "23",
+          "verso": "Se subió después a una barca, y le siguieron sus discípulos."
+        },
+        {
+          "numero": "24",
+          "verso": "De repente se levantó en el mar una tempestad tan grande que las olas cubrían la barca; pero él dormía."
+        },
+        {
+          "numero": "25",
+          "verso": "Se le acercaron para despertarle diciendo: —¡Señor, sálvanos, que perecemos!"
+        },
+        {
+          "numero": "26",
+          "verso": "Jesús les respondió: —¿Por qué os asustáis, hombres de poca fe?\nEntonces, puesto en pie, increpó a los vientos y al mar y sobrevino una gran calma."
+        },
+        {
+          "numero": "27",
+          "verso": "Los hombres se asombraron y dijeron: —¿Quién es éste, que hasta los vientos y el mar le obedecen?"
+        }
+      ]
+    }
+  ]
+}

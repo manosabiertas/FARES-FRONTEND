@@ -1,0 +1,99 @@
+{
+  "fecha": "2025-10-02",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Éxodo 23:20-23",
+      "lecturaNombreNormalizado": "Ex23,20-23",
+      "versos": [
+        {
+          "numero": "20",
+          "verso": "»He aquí que yo enviaré un ángel delante de ti, para que te guarde en el camino y te conduzca al lugar que he preparado."
+        },
+        {
+          "numero": "21",
+          "verso": "Compórtate en su presencia y escucha su voz. No te rebeles contra él, porque no perdonará vuestro delito ya que mi nombre está en él."
+        },
+        {
+          "numero": "22",
+          "verso": "Pero si escuchas su voz y haces todo lo que yo diga, seré enemigo de tus enemigos y adversario de tus adversarios;"
+        },
+        {
+          "numero": "23",
+          "verso": "pues mi ángel caminará delante de ti y te conducirá a la tierra de los amorreos, hititas, perezeos, cananeos, jeveos y jebuseos; yo los exterminaré."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 91:1-6, 10-11",
+      "lecturaNombreNormalizado": "Sal91,1-6,10-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El que habita al amparo del Altísimo morará a la sombra del Omnipotente."
+        },
+        {
+          "numero": "2",
+          "verso": "Dice al Señor: «Refugio mío, fortaleza mía, Dios mío en quien confío»."
+        },
+        {
+          "numero": "3",
+          "verso": "Él te librará de la red del cazador, de la peste destructora."
+        },
+        {
+          "numero": "4",
+          "verso": "Te cubrirá con sus plumas, bajo sus alas encontrarás refugio:\nsu fidelidad es escudo y coraza."
+        },
+        {
+          "numero": "5",
+          "verso": "No tendrás miedo del terror en la noche, ni de la flecha que vuela de día;"
+        },
+        {
+          "numero": "6",
+          "verso": "ni de la peste que se propaga en tinieblas, ni del azote que devasta a pleno día."
+        },
+        {
+          "numero": "10",
+          "verso": "A ti no te alcanzará ningún mal, ni la plaga se acercará a tu tienda,"
+        },
+        {
+          "numero": "11",
+          "verso": "porque ha dado órdenes a sus ángeles que te guarden en todos tus caminos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 18:1-5, 10",
+      "lecturaNombreNormalizado": "Mt18,1-5,10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "En aquella ocasión se acercaron los discípulos a Jesús y le preguntaron: —¿Quién es pues el mayor en el Reino de los Cielos?"
+        },
+        {
+          "numero": "2",
+          "verso": "Entonces llamó a un niño, lo puso en medio de ellos"
+        },
+        {
+          "numero": "3",
+          "verso": "y dijo: —En verdad os digo: si no os convertís y os hacéis como los niños, no entraréis en el Reino de los Cielos."
+        },
+        {
+          "numero": "4",
+          "verso": "Pues todo el que se humille como este niño, ése es el mayor en el Reino de los Cielos;"
+        },
+        {
+          "numero": "5",
+          "verso": "y el que reciba a un niño como éste en mi nombre, a mí me recibe."
+        },
+        {
+          "numero": "10",
+          "verso": "»Guardaos de despreciar a uno de estos pequeños, porque os digo que sus ángeles en los cielos están viendo siempre el rostro de mi Padre que está en los cielos."
+        }
+      ]
+    }
+  ]
+}

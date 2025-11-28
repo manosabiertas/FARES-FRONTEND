@@ -1,0 +1,135 @@
+{
+  "fecha": "2026-09-30",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Job 9:1-12, 14-16",
+      "lecturaNombreNormalizado": "Job9,1-12,14-16",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Entonces intervino Job diciendo:"
+        },
+        {
+          "numero": "2",
+          "verso": "—En verdad sé que es así. ¿Cómo podrá el hombre ser justo ante Dios?"
+        },
+        {
+          "numero": "3",
+          "verso": "Si alguien quiere disputar con Él, no podrá responder ni una sola vez entre mil."
+        },
+        {
+          "numero": "4",
+          "verso": "Es sabio de corazón y robusto. ¿Quién le ha desafiado y ha salido impune?"
+        },
+        {
+          "numero": "5",
+          "verso": "Desplaza los montes sin que se den cuenta y los zarandea cuando se enfurece."
+        },
+        {
+          "numero": "6",
+          "verso": "Hace temblar la tierra de su sitio, y que se tambaleen sus pilares."
+        },
+        {
+          "numero": "7",
+          "verso": "Manda al sol y no despunta, y encierra las estrellas bajo sello."
+        },
+        {
+          "numero": "8",
+          "verso": "Él extiende los cielos por sí solo y camina por las olas de los mares."
+        },
+        {
+          "numero": "9",
+          "verso": "Él ha hecho la Osa y el Orión, las Pléyades y las Cámaras del Sur."
+        },
+        {
+          "numero": "10",
+          "verso": "Hace obras grandiosas e insondables, maravillas que no se pueden contar."
+        },
+        {
+          "numero": "11",
+          "verso": "Si pasa junto a mí, no lo veo, si me roza no me entero."
+        },
+        {
+          "numero": "12",
+          "verso": "Si se hace con una presa, ¿quién podrá impedirlo?\n¿Quién podrá decirle: «Qué estás haciendo»?"
+        },
+        {
+          "numero": "14",
+          "verso": "¿Cuánto menos voy yo a replicarle, ni a elegir argumentos contra Él?"
+        },
+        {
+          "numero": "15",
+          "verso": "Pues aunque tuviera razón no replicaría, pediría favor a quien me juzga."
+        },
+        {
+          "numero": "16",
+          "verso": "Aunque al invocarle me responda, no creeré que ha escuchado mi voz,"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 88:10-15",
+      "lecturaNombreNormalizado": "Sal88,10-15",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "Mis ojos languidecen de pena. Todo el día, Señor, te invoco,\ntiendo mis manos hacia Ti."
+        },
+        {
+          "numero": "11",
+          "verso": "¿Acaso harás Tú maravillas por los muertos? ¿Se alzarán las sombras para alabarte?"
+        },
+        {
+          "numero": "12",
+          "verso": "¿Se proclama tu misericordia en el sepulcro, o en el abismo tu fidelidad?"
+        },
+        {
+          "numero": "13",
+          "verso": "¿Se conocen tus maravillas en las tinieblas, y tu justicia en el país del olvido?"
+        },
+        {
+          "numero": "14",
+          "verso": "Pero yo, Señor, clamo a Ti, desde el alba va hacia Ti mi plegaria."
+        },
+        {
+          "numero": "15",
+          "verso": "¿Por qué, Señor, rechazas mi alma, me escondes tu rostro?"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 9:57-62",
+      "lecturaNombreNormalizado": "Lc9,57-62",
+      "versos": [
+        {
+          "numero": "57",
+          "verso": "Mientras iban de camino, uno le dijo: —Te seguiré adonde vayas."
+        },
+        {
+          "numero": "58",
+          "verso": "Jesús le dijo: —Las zorras tienen sus guaridas y los pájaros del cielo sus nidos, pero el Hijo del Hombre no tiene dónde reclinar la cabeza."
+        },
+        {
+          "numero": "59",
+          "verso": "A otro le dijo: —Sígueme.\nPero éste contestó:\n—Señor, permíteme ir primero a enterrar a mi padre."
+        },
+        {
+          "numero": "60",
+          "verso": "—Deja a los muertos enterrar a sus muertos —le respondió Jesús—; tú vete a anunciar el Reino de Dios."
+        },
+        {
+          "numero": "61",
+          "verso": "Y otro dijo: —Te seguiré, Señor, pero primero permíteme despedirme de los de mi casa."
+        },
+        {
+          "numero": "62",
+          "verso": "Jesús le dijo: —Nadie que pone su mano en el arado y mira hacia atrás es apto para el Reino de Dios."
+        }
+      ]
+    }
+  ]
+}

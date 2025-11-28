@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-06-05",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Timoteo 3:10-17",
+      "lecturaNombreNormalizado": "2Timoteo3,10-17",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "Tú, en cambio, me has seguido en la doctrina, en la conducta, en los planes, en la fe, en la paciencia, en la caridad y en la constancia;"
+        },
+        {
+          "numero": "11",
+          "verso": "en persecuciones y sufrimientos como los que me sobrevinieron en Antioquía, Iconio y Listra: ¡qué persecuciones sufrí!, y de todas me libró el Señor."
+        },
+        {
+          "numero": "12",
+          "verso": "Por lo demás, todos los que quieren vivir piadosamente en Cristo Jesús serán perseguidos;"
+        },
+        {
+          "numero": "13",
+          "verso": "mientras que los hombres malos y embaucadores irán de mal en peor, engañando a otros y engañándose a sí mismos."
+        },
+        {
+          "numero": "14",
+          "verso": "Pero tú, permanece firme en lo que has aprendido y creído, ya que sabes de quiénes lo aprendiste,"
+        },
+        {
+          "numero": "15",
+          "verso": "y porque desde niño conoces la Sagrada Escritura, que puede darte la sabiduría que conduce a la salvación por medio de la fe en Cristo Jesús."
+        },
+        {
+          "numero": "16",
+          "verso": "Toda la Escritura es inspirada por Dios y útil para enseñar, para argumentar, para corregir y para educar en la justicia,"
+        },
+        {
+          "numero": "17",
+          "verso": "con el fin de que el hombre de Dios esté bien dispuesto, preparado para toda obra buena."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 119:157, 160-161, 165-166, 168",
+      "lecturaNombreNormalizado": "Sal119,157,160-161,165-166,168",
+      "versos": [
+        {
+          "numero": "157",
+          "verso": "Muchos son mis perseguidores y adversarios, pero no me desvío de tus preceptos."
+        },
+        {
+          "numero": "160",
+          "verso": "El compendio de tus palabras es la fidelidad; eterna es cada decisión de tu justicia."
+        },
+        {
+          "numero": "161",
+          "verso": "(Shin) Los príncipes me persiguen sin razón, pero mi corazón sólo teme a tus palabras."
+        },
+        {
+          "numero": "165",
+          "verso": "Completa es la paz de los que aman tu Ley, no hay tropiezo para ellos."
+        },
+        {
+          "numero": "166",
+          "verso": "Espero tu salvación, Señor, y cumplo tus mandamientos."
+        },
+        {
+          "numero": "168",
+          "verso": "Observo tus mandatos y tus preceptos: todos mis caminos te están presentes."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 12:35-37",
+      "lecturaNombreNormalizado": "Mc12,35-37",
+      "versos": [
+        {
+          "numero": "35",
+          "verso": "Y tomando Jesús la palabra, decía enseñando en el Templo: —¿Cómo es que dicen los escribas que el Cristo es hijo de David?"
+        },
+        {
+          "numero": "36",
+          "verso": "El mismo David, movido por el Espíritu Santo, ha dicho: Dijo el Señor a mi Señor:\n«Siéntate a mi derecha,\nhasta que ponga a tus enemigos\nbajo tus pies»."
+        },
+        {
+          "numero": "37",
+          "verso": "»El mismo David le llama «Señor». Entonces, ¿cómo va a ser hijo suyo? Y una inmensa muchedumbre le escuchaba con gusto."
+        }
+      ]
+    }
+  ]
+}

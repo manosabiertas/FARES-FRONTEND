@@ -1,0 +1,95 @@
+{
+  "fecha": "2025-09-03",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Colosenses 1:1-8",
+      "lecturaNombreNormalizado": "Col1,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Pablo, apóstol de Cristo Jesús por voluntad de Dios, y Timoteo, el hermano,"
+        },
+        {
+          "numero": "2",
+          "verso": "a los santos y fieles hermanos en Cristo que están en Colosas: la gracia y la paz de Dios, nuestro Padre, estén con vosotros."
+        },
+        {
+          "numero": "3",
+          "verso": "Damos gracias a Dios, Padre de nuestro Señor Jesucristo, orando siempre por vosotros,"
+        },
+        {
+          "numero": "4",
+          "verso": "al llegarnos noticias de vuestra fe en Cristo Jesús y del amor que tenéis a todos los santos,"
+        },
+        {
+          "numero": "5",
+          "verso": "a causa de la esperanza en lo que os está reservado en los cielos. De ello ya habéis sido instruidos al recibir la palabra de la verdad, el Evangelio"
+        },
+        {
+          "numero": "6",
+          "verso": "que os llegó y que da fruto y crece entre vosotros como en todo el mundo, desde el día en que oísteis y conocisteis de verdad la gracia de Dios."
+        },
+        {
+          "numero": "7",
+          "verso": "Así lo aprendisteis de Epafras, nuestro amado compañero en el servicio, que hace las veces de nosotros como fiel ministro de Cristo"
+        },
+        {
+          "numero": "8",
+          "verso": "y que también nos manifestó vuestro amor en el Espíritu."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 52:10-11",
+      "lecturaNombreNormalizado": "Sal52,10-11",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "Yo, como verde olivo en la Casa de Dios, espero en la misericordia de Dios,\npor siempre, sin fin."
+        },
+        {
+          "numero": "11",
+          "verso": "Te daré gracias siempre por lo que has hecho. Espero en tu Nombre,\nporque eres bueno con tus fieles."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 4:38-44",
+      "lecturaNombreNormalizado": "Lc4,38-44",
+      "versos": [
+        {
+          "numero": "38",
+          "verso": "Saliendo Jesús de la sinagoga, entró en casa de Simón. La suegra de Simón tenía una fiebre muy alta, y le rogaron por ella."
+        },
+        {
+          "numero": "39",
+          "verso": "E inclinándose hacia ella, conminó a la fiebre, y la fiebre desapareció. Y al instante, ella se levantó y se puso a servirles."
+        },
+        {
+          "numero": "40",
+          "verso": "Al ponerse el sol, todos los que tenían enfermos con diversas dolencias se los traían. Y él, poniendo las manos sobre cada uno, los curaba."
+        },
+        {
+          "numero": "41",
+          "verso": "De muchos salían demonios gritando y diciendo: —¡Tú eres el Hijo de Dios!\nY él, increpándoles, no les dejaba hablar porque sabían que él era el Cristo."
+        },
+        {
+          "numero": "42",
+          "verso": "Cuando se hizo de día, salió hacia un lugar solitario, y la multitud le buscaba. Llegaron hasta él, e intentaban detenerlo para que no se alejara de ellos."
+        },
+        {
+          "numero": "43",
+          "verso": "Pero él les dijo: —Es necesario que yo anuncie también a otras ciudades el Evangelio del Reino de Dios, porque para esto he sido enviado."
+        },
+        {
+          "numero": "44",
+          "verso": "E iba predicando por las sinagogas de Judea."
+        }
+      ]
+    }
+  ]
+}

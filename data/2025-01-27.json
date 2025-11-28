@@ -1,0 +1,111 @@
+{
+  "fecha": "2025-01-27",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hebreos 9:15, 24-28",
+      "lecturaNombreNormalizado": "Heb9,15,24-28",
+      "versos": [
+        {
+          "numero": "15",
+          "verso": "Y por esto es mediador de una nueva alianza, de modo que, al haber muerto para redimir las transgresiones cometidas bajo la primera alianza, los que han sido llamados reciban la herencia eterna prometida."
+        },
+        {
+          "numero": "24",
+          "verso": "Porque Cristo no entró en un santuario hecho por mano de hombre —representación del verdadero—, sino en el mismo cielo, para interceder ahora ante Dios en favor nuestro."
+        },
+        {
+          "numero": "25",
+          "verso": "No para ofrecerse muchas veces a sí mismo, como el sumo sacerdote que entra en el santuario todos los años con sangre ajena:"
+        },
+        {
+          "numero": "26",
+          "verso": "porque entonces hubiera debido padecer muchas veces desde la creación del mundo, y, en cambio, se ha manifestado ahora de una vez para siempre, en la plenitud de los tiempos, para destruir el pecado mediante el sacrificio de sí mismo."
+        },
+        {
+          "numero": "27",
+          "verso": "Y así como está establecido que los hombres mueran una sola vez, y que después haya un juicio,"
+        },
+        {
+          "numero": "28",
+          "verso": "así también Cristo, que se ofreció una sola vez para quitar los pecados de todos, por segunda vez, sin relación ya con el pecado, se manifestará a los que le esperan para llevarlos a la salvación."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 98:1-6",
+      "lecturaNombreNormalizado": "Sal98,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. Cantad al Señor un cántico nuevo\nporque ha hecho maravillas.\nSu diestra le ha salvado,\nsu santo brazo."
+        },
+        {
+          "numero": "2",
+          "verso": "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones."
+        },
+        {
+          "numero": "3",
+          "verso": "Se acordó de su misericordia y fidelidad con la casa de Israel.\nTodos los confines de la tierra han visto\nla salvación de nuestro Dios."
+        },
+        {
+          "numero": "4",
+          "verso": "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos."
+        },
+        {
+          "numero": "5",
+          "verso": "Entonad salmos al Señor con la cítara, con la cítara al son de la música;"
+        },
+        {
+          "numero": "6",
+          "verso": "con trompetas y el sonido del cuerno, aclamad ante el Rey y Señor."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 3:22-30",
+      "lecturaNombreNormalizado": "Mc3,22-30",
+      "versos": [
+        {
+          "numero": "22",
+          "verso": "Y los escribas que habían bajado de Jerusalén decían: —Tiene a Beelzebul, y expulsa los demonios por el príncipe de los demonios."
+        },
+        {
+          "numero": "23",
+          "verso": "Y convocándolos les decía con parábolas: —¿Cómo puede Satanás expulsar a Satanás?"
+        },
+        {
+          "numero": "24",
+          "verso": "Si un reino está dividido en su interior, ese reino no puede sostenerse;"
+        },
+        {
+          "numero": "25",
+          "verso": "y si una casa está dividida en su interior, esa casa no podrá sostenerse."
+        },
+        {
+          "numero": "26",
+          "verso": "Y si Satanás se levanta contra sí mismo, entonces se encuentra dividido y no puede sostenerse, sino que ha llegado su fin."
+        },
+        {
+          "numero": "27",
+          "verso": "Pues nadie puede entrar en la casa de uno que es fuerte y arrebatarle sus bienes, si antes no ata al que es fuerte. Sólo entonces podrá arrebatarle su casa."
+        },
+        {
+          "numero": "28",
+          "verso": "»En verdad os digo que todo se les perdonará a los hijos de los hombres: los pecados y cuantas blasfemias profieran;"
+        },
+        {
+          "numero": "29",
+          "verso": "pero el que blasfeme contra el Espíritu Santo jamás tendrá perdón, sino que será reo de delito eterno."
+        },
+        {
+          "numero": "30",
+          "verso": "Porque ellos decían: —Tiene un espíritu impuro."
+        }
+      ]
+    }
+  ]
+}

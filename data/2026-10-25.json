@@ -1,0 +1,134 @@
+{
+  "fecha": "2026-10-25",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Éxodo 22:20-26",
+      "lecturaNombreNormalizado": "Ex22,20-26",
+      "versos": [
+        {
+          "numero": "20",
+          "verso": "»No maltratarás ni oprimirás al extranjero, pues extranjeros fuisteis vosotros en el país de Egipto."
+        },
+        {
+          "numero": "21",
+          "verso": "No maltratarás a la viuda y al huérfano."
+        },
+        {
+          "numero": "22",
+          "verso": "Si le haces daño, clamará a mí y yo escucharé su clamor;"
+        },
+        {
+          "numero": "23",
+          "verso": "se inflamará mi cólera y os haré morir a espada, dejando viudas a vuestras mujeres y huérfanos a vuestros hijos."
+        },
+        {
+          "numero": "24",
+          "verso": "»Si prestas dinero a uno de mi pueblo, al pobre que vive contigo, no te portarás con él como un usurero; no le exigirás intereses."
+        },
+        {
+          "numero": "25",
+          "verso": "»Si tomas en prenda el manto de tu prójimo, se lo devolverás antes de que el sol se ponga,"
+        },
+        {
+          "numero": "26",
+          "verso": "porque es su única ropa y con ella abriga su piel; si no, ¿con qué va a dormir? En caso contrario clamará a mí, y yo le escucharé porque soy misericordioso."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 18:2-4, 47, 51",
+      "lecturaNombreNormalizado": "Sal18,2-4,47,51",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Y dijo: Yo te amo, Señor, fortaleza mía,"
+        },
+        {
+          "numero": "3",
+          "verso": "Señor, mi roca, mi fortaleza, mi libertador, mi Dios, mi peña donde me refugio,\nmi escudo, la fuerza de mi salvación, mi alcázar."
+        },
+        {
+          "numero": "4",
+          "verso": "Invoco al Señor, digno de alabanza, y quedo a salvo de mis enemigos."
+        },
+        {
+          "numero": "47",
+          "verso": "¡Viva el Señor! ¡Bendita sea mi Roca! ¡Exaltado sea el Dios de mi salvación!"
+        },
+        {
+          "numero": "51",
+          "verso": "Él hace grandes las victorias de su rey y tiene misericordia de su Ungido,\nde David y su descendencia por siempre."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "1 Tesalonicenses 1:5-10",
+      "lecturaNombreNormalizado": "1Tesalonicenses1,5-10",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "porque nuestro evangelio no se os predicó sólo con palabras, sino con poder, con el Espíritu Santo y con plena convicción. Bien sabéis cómo nos hemos comportado entre vosotros para vuestro provecho."
+        },
+        {
+          "numero": "6",
+          "verso": "Ciertamente os hicisteis imitadores nuestros y del Señor, acogiendo la palabra con el gozo del Espíritu Santo, aun en medio de grandes tribulaciones;"
+        },
+        {
+          "numero": "7",
+          "verso": "hasta el punto de que os habéis convertido en modelo para todos los creyentes de Macedonia y de Acaya."
+        },
+        {
+          "numero": "8",
+          "verso": "Porque a partir de vosotros se ha difundido la palabra del Señor, no sólo en Macedonia y en Acaya, sino que por todas partes se ha propagado vuestra fe en Dios, de modo que nosotros no tenemos necesidad de decir nada."
+        },
+        {
+          "numero": "9",
+          "verso": "Ellos mismos cuentan qué acogida nos dispensasteis y cómo os convertisteis a Dios abandonando los ídolos, para servir al Dios vivo y verdadero"
+        },
+        {
+          "numero": "10",
+          "verso": "y esperar desde los cielos a su Hijo Jesús —a quien resucitó de entre los muertos— que nos libra de la ira venidera."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 22:34-40",
+      "lecturaNombreNormalizado": "Mt22,34-40",
+      "versos": [
+        {
+          "numero": "34",
+          "verso": "Los fariseos, al oír que había hecho callar a los saduceos, se pusieron de acuerdo,"
+        },
+        {
+          "numero": "35",
+          "verso": "y uno de ellos, doctor de la ley, le preguntó para tentarle:"
+        },
+        {
+          "numero": "36",
+          "verso": "—Maestro, ¿cuál es el mandamiento principal de la Ley?"
+        },
+        {
+          "numero": "37",
+          "verso": "Él le respondió: —Amarás al Señor tu Dios con todo tu corazón y con toda tu alma y con toda tu mente."
+        },
+        {
+          "numero": "38",
+          "verso": "Éste es el mayor y el primer mandamiento."
+        },
+        {
+          "numero": "39",
+          "verso": "El segundo es como éste: Amarás a tu prójimo como a ti mismo."
+        },
+        {
+          "numero": "40",
+          "verso": "De estos dos mandamientos dependen toda la Ley y los Profetas."
+        }
+      ]
+    }
+  ]
+}

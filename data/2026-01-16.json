@@ -1,0 +1,159 @@
+{
+  "fecha": "2026-01-16",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Samuel 8:4-7, 10-22",
+      "lecturaNombreNormalizado": "1Samuel8,4-7,10-22",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "Entonces todos los ancianos de Israel se reunieron y se acercaron a Samuel en Ramá,"
+        },
+        {
+          "numero": "5",
+          "verso": "diciéndole: —Tú te vas haciendo viejo y tus hijos no se comportan como tú. Nómbranos un rey que nos gobierne como hacen las demás naciones."
+        },
+        {
+          "numero": "6",
+          "verso": "Disgustó a Samuel que fueran diciéndole: «Nómbranos un rey que nos gobierne», e invocó al Señor;"
+        },
+        {
+          "numero": "7",
+          "verso": "pero el Señor le dijo: —Escucha la voz del pueblo en todo lo que te propone. No es a ti a quien rechazan, sino a mí; no quieren que sea su rey."
+        },
+        {
+          "numero": "10",
+          "verso": "Samuel transmitió estas palabras del Señor al pueblo que solicitaba un rey,"
+        },
+        {
+          "numero": "11",
+          "verso": "y les dijo: —Éstos son los derechos del rey que reine sobre vosotros: tomará a vuestros hijos, los destinará a sus carros y a sus caballos y les hará correr delante de sus carrozas."
+        },
+        {
+          "numero": "12",
+          "verso": "Los utilizará en su ejército como jefes de centuria y oficiales. Les hará sembrar y segar sus campos, y fabricar armas y carros."
+        },
+        {
+          "numero": "13",
+          "verso": "A vuestras hijas las tomará como perfumistas, panaderas y cocineras."
+        },
+        {
+          "numero": "14",
+          "verso": "Vuestros campos, vuestras viñas y vuestros mejores olivares os los tomará para dárselos a sus sirvientes."
+        },
+        {
+          "numero": "15",
+          "verso": "De vuestras cosechas y de vuestras vendimias os exigirá el diezmo para dárselo a sus cortesanos y servidores."
+        },
+        {
+          "numero": "16",
+          "verso": "Vuestros siervos y siervas, y vuestros mejores bueyes y asnos, los llevará para emplearlos en sus labores."
+        },
+        {
+          "numero": "17",
+          "verso": "Hasta de vuestros rebaños os exigirá diezmos, y vosotros mismos seréis sus siervos."
+        },
+        {
+          "numero": "18",
+          "verso": "Aquel día gritaréis contra los reyes que vosotros mismos habéis elegido, y no os responderá el Señor en aquel día."
+        },
+        {
+          "numero": "19",
+          "verso": "Sin embargo, el pueblo no quiso atender la voz de Samuel y dijeron: —No. Tendremos un rey que nos gobierne"
+        },
+        {
+          "numero": "20",
+          "verso": "y seremos como las demás naciones. Nos gobernará nuestro rey y saldrá delante de nosotros para luchar con nosotros."
+        },
+        {
+          "numero": "21",
+          "verso": "Samuel escuchó todas las peticiones del pueblo y las transmitió ante el Señor."
+        },
+        {
+          "numero": "22",
+          "verso": "Y dijo el Señor a Samuel: —Atiende a sus ruegos y nómbrales un rey."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 89:16-19",
+      "lecturaNombreNormalizado": "Sal89,16-19",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "Dichoso el pueblo que conoce la voz de aclamación; caminarán a la luz de tu rostro, Señor."
+        },
+        {
+          "numero": "17",
+          "verso": "En tu Nombre se regocijarán cada día, en tu justicia se gloriarán;"
+        },
+        {
+          "numero": "18",
+          "verso": "porque Tú eres el encanto de su fuerza, y, con tu favor, se alza nuestra frente."
+        },
+        {
+          "numero": "19",
+          "verso": "Pues del Señor es nuestro escudo, y del Santo de Israel, nuestro rey."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 2:1-12",
+      "lecturaNombreNormalizado": "Mc2,1-12",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Y, al cabo de unos días, entró de nuevo en Cafarnaún. Se supo que estaba en casa"
+        },
+        {
+          "numero": "2",
+          "verso": "y se juntaron tantos, que ni siquiera ante la puerta había ya sitio. Y les predicaba la palabra."
+        },
+        {
+          "numero": "3",
+          "verso": "Entonces vinieron trayéndole un paralítico, llevado entre cuatro."
+        },
+        {
+          "numero": "4",
+          "verso": "Y como no podían acercarlo hasta él a causa del gentío, levantaron la techumbre por el sitio en donde se encontraba y, después de abrir un hueco, descolgaron la camilla en la que yacía el paralítico."
+        },
+        {
+          "numero": "5",
+          "verso": "Al ver Jesús la fe de ellos, le dijo al paralítico: —Hijo, tus pecados te son perdonados."
+        },
+        {
+          "numero": "6",
+          "verso": "Estaban allí sentados algunos de los escribas, y pensaban en sus corazones:"
+        },
+        {
+          "numero": "7",
+          "verso": "«¿Por qué habla éste así? Blasfema. ¿Quién puede perdonar los pecados sino sólo Dios?»"
+        },
+        {
+          "numero": "8",
+          "verso": "Y enseguida, conociendo Jesús en su espíritu que pensaban para sus adentros de este modo, les dijo: —¿Por qué pensáis estas cosas en vuestros corazones?"
+        },
+        {
+          "numero": "9",
+          "verso": "¿Qué es más fácil, decirle al paralítico: «Tus pecados te son perdonados», o decirle: «Levántate, toma tu camilla y anda»?"
+        },
+        {
+          "numero": "10",
+          "verso": "Pues para que sepáis que el Hijo del Hombre tiene potestad en la tierra para perdonar los pecados —se dirigió al paralítico—,"
+        },
+        {
+          "numero": "11",
+          "verso": "a ti te digo: levántate, toma tu camilla y vete a tu casa."
+        },
+        {
+          "numero": "12",
+          "verso": "Y se levantó, y al instante tomó la camilla y salió en presencia de todos, de manera que todos quedaron admirados y glorificaron a Dios diciendo: —Nunca hemos visto nada parecido."
+        }
+      ]
+    }
+  ]
+}

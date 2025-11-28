@@ -1,0 +1,119 @@
+{
+  "fecha": "2025-07-24",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Éxodo 19:1-2, 9-11, 16-20",
+      "lecturaNombreNormalizado": "Ex19,1-2,9-11,16-20",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "A los tres meses de la salida del país de Egipto, ese mismo día, los hijos de Israel llegaron al desierto del Sinaí."
+        },
+        {
+          "numero": "2",
+          "verso": "Habían salido de Refidim, llegaron al desierto del Sinaí y acamparon. Israel puso allí el campamento frente a la montaña."
+        },
+        {
+          "numero": "9",
+          "verso": "Entonces dijo el Señor a Moisés: —He aquí que Yo voy a presentarme a ti en una densa nube para que el pueblo oiga cuándo me comunico contigo, y así te crean a ti siempre.\nY Moisés refirió al Señor la respuesta de su pueblo."
+        },
+        {
+          "numero": "10",
+          "verso": "El Señor dijo a Moisés: —Ve al pueblo y haz que se purifiquen hoy y mañana; que laven sus vestidos."
+        },
+        {
+          "numero": "11",
+          "verso": "Y que estén preparados para el tercer día, porque el día tercero el Señor descenderá a la vista de todo el pueblo sobre el monte Sinaí."
+        },
+        {
+          "numero": "16",
+          "verso": "El día tercero, al despuntar la aurora, hubo truenos y relámpagos, y una densa nube sobre la montaña, y un sonido muy intenso de trompeta. Todo el pueblo que estaba en el campamento se estremeció."
+        },
+        {
+          "numero": "17",
+          "verso": "Moisés hizo salir al pueblo del campamento al encuentro de Dios; ellos se detuvieron al pie de la montaña."
+        },
+        {
+          "numero": "18",
+          "verso": "Todo el monte Sinaí humeaba porque el Señor había descendido sobre él en el fuego. El humo subía como humo de horno y toda la montaña se estremeció violentamente."
+        },
+        {
+          "numero": "19",
+          "verso": "El sonido de la trompeta se fue haciendo más intenso: Moisés hablaba y Dios le respondía con el trueno."
+        },
+        {
+          "numero": "20",
+          "verso": "El Señor descendió sobre el monte Sinaí, sobre la cima de la montaña. Luego el Señor llamó a Moisés a la cumbre de la montaña y allí subió Moisés."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Daniel 3:52-56",
+      "lecturaNombreNormalizado": "Dn3,52-56",
+      "versos": [
+        {
+          "numero": "52",
+          "verso": "—Bendito eres, Señor, Dios de nuestros padres, digno de alabanza y ensalzado por los siglos.\nBendito el santo Nombre de tu gloria,\nmuy digno de alabanza y ensalzado por los siglos."
+        },
+        {
+          "numero": "53",
+          "verso": "Bendito eres en el Templo de tu santa gloria, muy digno de alabanza y glorioso por los siglos."
+        },
+        {
+          "numero": "54",
+          "verso": "Bendito eres sobre el trono de tu reino: muy digno de alabanza y ensalzado por los siglos."
+        },
+        {
+          "numero": "55",
+          "verso": "Bendito eres Tú, que sondeas los abismos sentado sobre querubines, digno de alabanza y ensalzado por los siglos."
+        },
+        {
+          "numero": "56",
+          "verso": "Bendito eres en la bóveda del cielo, digno de alabanza y glorioso por los siglos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 13:10-17",
+      "lecturaNombreNormalizado": "Mt13,10-17",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "Los discípulos se acercaron a decirle: —¿Por qué les hablas con parábolas?"
+        },
+        {
+          "numero": "11",
+          "verso": "Él les respondió: —A vosotros se os ha concedido el conocer los misterios del Reino de los Cielos, pero a ellos no se les ha concedido."
+        },
+        {
+          "numero": "12",
+          "verso": "Porque al que tiene se le dará y tendrá en abundancia; pero al que no tiene incluso lo que tiene se le quitará."
+        },
+        {
+          "numero": "13",
+          "verso": "Por eso les hablo con parábolas, porque viendo no ven, y oyendo no oyen ni entienden."
+        },
+        {
+          "numero": "14",
+          "verso": "Y se cumple en ellos la profecía de Isaías, que dice: Con el oído oiréis, pero no entenderéis;\ncon la vista miraréis, pero no veréis."
+        },
+        {
+          "numero": "15",
+          "verso": "Porque se ha embotado el corazón de este pueblo,\nhan hecho duros sus oídos,\ny han cerrado sus ojos;\nno sea que vean con los ojos,\ny oigan con los oídos,\ny entiendan con el corazón y se conviertan,\ny yo los sane."
+        },
+        {
+          "numero": "16",
+          "verso": "»Bienaventurados, en cambio, vuestros ojos porque ven y vuestros oídos porque oyen."
+        },
+        {
+          "numero": "17",
+          "verso": "Porque en verdad os digo que muchos profetas y justos ansiaron ver lo que estáis viendo y no lo vieron, y oír lo que estáis oyendo y no lo oyeron."
+        }
+      ]
+    }
+  ]
+}

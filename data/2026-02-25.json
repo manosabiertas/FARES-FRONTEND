@@ -1,0 +1,107 @@
+{
+  "fecha": "2026-02-25",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Jonás 3:1-10",
+      "lecturaNombreNormalizado": "Jon3,1-10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "La palabra del Señor fue dirigida a Jonás por segunda vez, diciéndole:"
+        },
+        {
+          "numero": "2",
+          "verso": "—Levántate, vete a Nínive, la gran ciudad, y pregona en ella el mensaje que voy a decirte."
+        },
+        {
+          "numero": "3",
+          "verso": "Jonás se levantó y se encaminó a Nínive, con arreglo a la orden del Señor. Nínive era una gran ciudad ante Dios. Tres días hacían falta para recorrerla."
+        },
+        {
+          "numero": "4",
+          "verso": "Estuvo Jonás deambulando un día entero por la ciudad, predicando y diciendo: —Dentro de cuarenta días Nínive será destruida."
+        },
+        {
+          "numero": "5",
+          "verso": "Las gentes de Nínive creyeron en Dios. Convocaron a un ayuno y se vistieron de saco del mayor al más pequeño."
+        },
+        {
+          "numero": "6",
+          "verso": "Cuando llegó la noticia al rey de Nínive, se levantó de su trono, se quitó el manto, se cubrió de saco y se sentó en la ceniza."
+        },
+        {
+          "numero": "7",
+          "verso": "Y mandó pregonar y decir en Nínive, por decreto del rey y de sus magnates, lo siguiente: —Hombres y bestias, vacas y ovejas, que no prueben nada, ni pasten ni beban agua."
+        },
+        {
+          "numero": "8",
+          "verso": "Que hombres y bestias se cubran de saco y clamen a Dios con fuerza. Que cada uno se convierta de su mala conducta y de la violencia de sus manos."
+        },
+        {
+          "numero": "9",
+          "verso": "¿Quién sabe si Dios se dolerá y se retraerá, y retornará del ardor de su ira, y no pereceremos nosotros?"
+        },
+        {
+          "numero": "10",
+          "verso": "Dios miró sus obras, cómo se convertían de su mala conducta, y se arrepintió Dios del mal que había dicho que les iba a hacer, y no lo hizo."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 51:3-4, 12-13, 18-19",
+      "lecturaNombreNormalizado": "Sal51,3-4,12-13,18-19",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Ten misericordia de mí, Dios mío, según tu bondad; según tu inmensa compasión\nborra mi delito."
+        },
+        {
+          "numero": "4",
+          "verso": "Lávame por completo de mi culpa, y purifícame de mi pecado."
+        },
+        {
+          "numero": "12",
+          "verso": "Crea en mí, Dios mío, un corazón puro, y renueva en mi interior un espíritu firme."
+        },
+        {
+          "numero": "13",
+          "verso": "No me arrojes de tu presencia, ni me retires tu santo Espíritu."
+        },
+        {
+          "numero": "18",
+          "verso": "No te complaces en los sacrificios, y si te ofreciera un holocausto, no te agradaría."
+        },
+        {
+          "numero": "19",
+          "verso": "El sacrificio grato a Dios es un espíritu contrito: un corazón contrito y humillado,\nDios mío, no lo desprecias."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 11:29-32",
+      "lecturaNombreNormalizado": "Lc11,29-32",
+      "versos": [
+        {
+          "numero": "29",
+          "verso": "Habiéndose reunido una gran muchedumbre, comenzó a decir: —Esta generación es una generación perversa; busca una señal y no se le dará otra señal que la de Jonás."
+        },
+        {
+          "numero": "30",
+          "verso": "Porque, así como Jonás fue señal para los habitantes de Nínive, del mismo modo lo será también el Hijo del Hombre para esta generación."
+        },
+        {
+          "numero": "31",
+          "verso": "La reina del Sur se levantará en el Juicio contra los hombres de esta generación y los condenará: porque vino de los confines de la tierra para oír la sabiduría de Salomón, y daos cuenta de que aquí hay algo más que Salomón."
+        },
+        {
+          "numero": "32",
+          "verso": "Los hombres de Nínive se levantarán en el Juicio contra esta generación y la condenarán: porque ellos se convirtieron ante la predicación de Jonás, y daos cuenta de que aquí hay algo más que Jonás."
+        }
+      ]
+    }
+  ]
+}

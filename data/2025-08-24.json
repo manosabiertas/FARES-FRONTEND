@@ -1,0 +1,118 @@
+{
+  "fecha": "2025-08-24",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 66:18-21",
+      "lecturaNombreNormalizado": "Is66,18-21",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "Yo, que conozco sus obras y sus pensamientos, vendré para reunir a todas las naciones y lenguas, que acudirán y verán mi gloria."
+        },
+        {
+          "numero": "19",
+          "verso": "Pondré en ellos una señal y enviaré los supervivientes de ellos a las naciones, a Tarsis, Put, Lud, Mésec, Ros, Tubal y Yaván, a las islas remotas, que no oyeron hablar de Mí ni vieron mi gloria. Ellos anunciarán mi gloria a las naciones."
+        },
+        {
+          "numero": "20",
+          "verso": "Traerán a todos vuestros hermanos de todas las naciones, como ofrenda al Señor, a caballo y en carros, en literas, en mulos y dromedarios a mi monte santo, a Jerusalén —dice el Señor—, del mismo modo que los hijos de Israel traen la oblación en recipientes puros al Templo del Señor."
+        },
+        {
+          "numero": "21",
+          "verso": "Y tomaré también de entre ellos sacerdotes y levitas —dice el Señor—."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 117:1-2",
+      "lecturaNombreNormalizado": "Sal117,1-2",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Aleluya! Alabad al Señor todas las naciones,\naclamadlo todos los pueblos."
+        },
+        {
+          "numero": "2",
+          "verso": "Porque firme es con nosotros su misericordia, la fidelidad del Señor permanece para siempre."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Hebreos 12:5-7, 11-13",
+      "lecturaNombreNormalizado": "Heb12,5-7,11-13",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "y habéis olvidado la exhortación dirigida a vosotros como a hijos: Hijo mío, no desprecies la corrección del Señor,\nni te desanimes cuando Él te reprenda;"
+        },
+        {
+          "numero": "6",
+          "verso": "porque el Señor corrige al que ama y azota a todo aquel que reconoce como hijo."
+        },
+        {
+          "numero": "7",
+          "verso": "Lo que sufrís sirve para vuestra corrección. Dios os trata como a hijos, ¿y qué hijo hay a quien su padre no corrija?"
+        },
+        {
+          "numero": "11",
+          "verso": "Toda corrección, al momento, no parece agradable sino penosa, pero luego produce fruto apacible de justicia en los que en ella se ejercitan."
+        },
+        {
+          "numero": "12",
+          "verso": "Por lo tanto, levantad las manos caídas y las rodillas debilitadas,"
+        },
+        {
+          "numero": "13",
+          "verso": "y dad pasos derechos con vuestros pies, para que los miembros cojos no se tuerzan, sino más bien se curen."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 13:22-30",
+      "lecturaNombreNormalizado": "Lc13,22-30",
+      "versos": [
+        {
+          "numero": "22",
+          "verso": "Y recorría ciudades y aldeas enseñando, mientras caminaba hacia Jerusalén."
+        },
+        {
+          "numero": "23",
+          "verso": "Y uno le dijo: —Señor, ¿son pocos los que se salvan?\nÉl les contestó:"
+        },
+        {
+          "numero": "24",
+          "verso": "—Esforzaos para entrar por la puerta angosta, porque muchos, os digo, intentarán entrar y no podrán."
+        },
+        {
+          "numero": "25",
+          "verso": "Una vez que el dueño de la casa haya entrado y haya cerrado la puerta, os quedaréis fuera y empezaréis a golpear la puerta, diciendo: «Señor, ábrenos». Y os responderá: «No sé de dónde sois»."
+        },
+        {
+          "numero": "26",
+          "verso": "Entonces empezaréis a decir: «Hemos comido y hemos bebido contigo, y has enseñado en nuestras plazas»."
+        },
+        {
+          "numero": "27",
+          "verso": "Y os dirá: «No sé de dónde sois; apartaos de mí todos los servidores de la iniquidad»."
+        },
+        {
+          "numero": "28",
+          "verso": "Allí habrá llanto y rechinar de dientes, cuando veáis a Abrahán y a Isaac y a Jacob y a todos los profetas en el Reino de Dios, mientras que vosotros sois arrojados fuera."
+        },
+        {
+          "numero": "29",
+          "verso": "Y vendrán de oriente y de occidente y del norte y del sur y se pondrán a la mesa en el Reino de Dios."
+        },
+        {
+          "numero": "30",
+          "verso": "Pues hay últimos que serán primeros, y primeros que serán últimos."
+        }
+      ]
+    }
+  ]
+}

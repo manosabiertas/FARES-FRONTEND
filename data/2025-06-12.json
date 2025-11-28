@@ -1,0 +1,115 @@
+{
+  "fecha": "2025-06-12",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Corintios 3:15--4:1, 3-6",
+      "lecturaNombreNormalizado": "2Corintios3,15--4,1,3-6",
+      "versos": [
+        {
+          "numero": "15",
+          "verso": "verdaderamente, hasta hoy, siempre que se lee a Moisés, está puesto un velo sobre sus corazones;"
+        },
+        {
+          "numero": "16",
+          "verso": "pero cuando se conviertan al Señor, será quitado el velo."
+        },
+        {
+          "numero": "17",
+          "verso": "El Señor es Espíritu, y donde está el Espíritu del Señor hay libertad."
+        },
+        {
+          "numero": "18",
+          "verso": "Todos nosotros, que con el rostro descubierto reflejamos como en un espejo la gloria del Señor, vamos siendo transformados en su misma imagen, cada vez más gloriosos, conforme obra en nosotros el Espíritu del Señor."
+        },
+        {
+          "numero": "1",
+          "verso": "Por eso, teniendo este ministerio por la misericordia que se nos hizo, no desfallecemos."
+        },
+        {
+          "numero": "3",
+          "verso": "Y si todavía nuestro evangelio está velado, lo está para los que se pierden,"
+        },
+        {
+          "numero": "4",
+          "verso": "para los incrédulos, cuyas inteligencias cegó el dios de este mundo para que no vean la luz del Evangelio glorioso de Cristo, el cual es la imagen de Dios."
+        },
+        {
+          "numero": "5",
+          "verso": "Pues no nos predicamos a nosotros mismos, sino a Jesucristo como Señor, y a nosotros como siervos vuestros por Jesús."
+        },
+        {
+          "numero": "6",
+          "verso": "Porque el mismo Dios que mandó: «Del seno de las tinieblas brille la luz», hizo brillar la luz en nuestros corazones, para que irradien el conocimiento de la gloria de Dios que está en el rostro de Cristo."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 85:9-14",
+      "lecturaNombreNormalizado": "Sal85,9-14",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "Escucharé lo que dice Dios: el Señor anuncia la paz a su pueblo y a sus fieles,\ncon tal de que no retornen a la necedad."
+        },
+        {
+          "numero": "10",
+          "verso": "En verdad, ya está cerca la salvación para los que le temen,\npara que en nuestra tierra habite la Gloria."
+        },
+        {
+          "numero": "11",
+          "verso": "Misericordia y fidelidad se encontrarán, justicia y paz se besarán."
+        },
+        {
+          "numero": "12",
+          "verso": "De la tierra germinará la fidelidad, desde los cielos despuntará la justicia."
+        },
+        {
+          "numero": "13",
+          "verso": "Porque el Señor otorgará bienes, y nuestra tierra producirá sus frutos."
+        },
+        {
+          "numero": "14",
+          "verso": "Ante Él marchará la justicia, y sus pasos abrirán camino."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 5:20-26",
+      "lecturaNombreNormalizado": "Mt5,20-26",
+      "versos": [
+        {
+          "numero": "20",
+          "verso": "Os digo, pues, que si vuestra justicia no es mayor que la de los escribas y fariseos, no entraréis en el Reino de los Cielos."
+        },
+        {
+          "numero": "21",
+          "verso": "»Habéis oído que se dijo a los antiguos: No matarás, y el que mate será reo de juicio."
+        },
+        {
+          "numero": "22",
+          "verso": "Pero yo os digo: todo el que se llene de ira contra su hermano será reo de juicio; y el que insulte a su hermano será reo ante el Sanedrín; y el que le maldiga será reo del fuego del infierno."
+        },
+        {
+          "numero": "23",
+          "verso": "Por lo tanto, si al llevar tu ofrenda al altar recuerdas que tu hermano tiene algo contra ti,"
+        },
+        {
+          "numero": "24",
+          "verso": "deja allí tu ofrenda delante del altar, vete primero a reconciliarte con tu hermano, y vuelve después para presentar tu ofrenda."
+        },
+        {
+          "numero": "25",
+          "verso": "Ponte de acuerdo cuanto antes con tu adversario mientras vas de camino con él; no sea que tu adversario te entregue al juez y el juez al alguacil y te metan en la cárcel."
+        },
+        {
+          "numero": "26",
+          "verso": "Te aseguro que no saldrás de allí hasta que restituyas la última moneda."
+        }
+      ]
+    }
+  ]
+}

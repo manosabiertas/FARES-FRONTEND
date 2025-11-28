@@ -1,0 +1,123 @@
+{
+  "fecha": "2026-03-16",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 65:17-21",
+      "lecturaNombreNormalizado": "Is65,17-21",
+      "versos": [
+        {
+          "numero": "17",
+          "verso": "Porque he aquí que Yo creo unos cielos nuevos y una tierra nueva.\nLas cosas pasadas no serán recordadas,\nni vendrán a la memoria."
+        },
+        {
+          "numero": "18",
+          "verso": "Al contrario, alegraos y regocijaos eternamente de lo que Yo voy a crear,\npues voy a crear a Jerusalén para el gozo,\ny a su pueblo para la alegría."
+        },
+        {
+          "numero": "19",
+          "verso": "Me gozaré en Jerusalén y me alegraré en su pueblo,\ny no se oirán más en ella\nvoces de llanto ni clamor de gemidos."
+        },
+        {
+          "numero": "20",
+          "verso": "Ya no habrá allí niño que viva pocos días, ni anciano que no colme sus días,\npues se considerará que era joven\nel que muera centenario,\ny a quien no llegue a los cien años\nse le tendrá por maldito."
+        },
+        {
+          "numero": "21",
+          "verso": "Edificarán casas y las habitarán, plantarán viñas y comerán de sus frutos."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 30:2, 4-6, 11-13",
+      "lecturaNombreNormalizado": "Sal30,2,4-6,11-13",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Te ensalzaré, Señor, porque me has librado, no has dejado a mis enemigos alegrarse a mi costa."
+        },
+        {
+          "numero": "4",
+          "verso": "Señor, sacaste mi alma del sheol, me hiciste revivir cuando bajaba a la tumba."
+        },
+        {
+          "numero": "5",
+          "verso": "Entonad, fieles, salmos al Señor, alabad su santo Nombre,"
+        },
+        {
+          "numero": "6",
+          "verso": "porque su ira dura un instante, su bondad, toda la vida;\nal atardecer se hospeda el llanto,\nal amanecer, el júbilo."
+        },
+        {
+          "numero": "11",
+          "verso": "Escucha, Señor, ten piedad de mí. Señor, sé mi socorro."
+        },
+        {
+          "numero": "12",
+          "verso": "Has cambiado mi llanto en danza, has desatado mi saco y me has vestido de alegría."
+        },
+        {
+          "numero": "13",
+          "verso": "Por eso mi corazón te entona salmos sin cesar. Señor, Dios mío, te alabaré por siempre."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 4:43-54",
+      "lecturaNombreNormalizado": "Jn4,43-54",
+      "versos": [
+        {
+          "numero": "43",
+          "verso": "Dos días después marchó de allí hacia Galilea."
+        },
+        {
+          "numero": "44",
+          "verso": "Pues Jesús mismo había dado testimonio de que a un profeta no le honran en su propia tierra."
+        },
+        {
+          "numero": "45",
+          "verso": "Cuando vino a Galilea, le recibieron los galileos porque habían visto todo cuanto hizo en Jerusalén durante la fiesta, pues también ellos habían ido a la fiesta."
+        },
+        {
+          "numero": "46",
+          "verso": "Entonces vino de nuevo a Caná de Galilea, donde había convertido el agua en vino. Había allí un funcionario real, cuyo hijo estaba enfermo en Cafarnaún,"
+        },
+        {
+          "numero": "47",
+          "verso": "el cual, al oír que Jesús venía de Judea hacia Galilea, se le acercó para rogarle que bajase y curara a su hijo, porque estaba a punto de morir."
+        },
+        {
+          "numero": "48",
+          "verso": "Jesús le dijo: —Si no veis signos y prodigios, no creéis."
+        },
+        {
+          "numero": "49",
+          "verso": "Le respondió el funcionario real: —Señor, baja antes de que se muera mi hijo."
+        },
+        {
+          "numero": "50",
+          "verso": "Jesús le contestó: —Vete, tu hijo está vivo.\nAquel hombre creyó en la palabra que Jesús le dijo y se marchó."
+        },
+        {
+          "numero": "51",
+          "verso": "Mientras bajaba, sus siervos le salieron al encuentro diciendo que su hijo estaba vivo."
+        },
+        {
+          "numero": "52",
+          "verso": "Les preguntó la hora en que empezó a mejorar. Le respondieron: —Ayer a la hora séptima le dejó la fiebre."
+        },
+        {
+          "numero": "53",
+          "verso": "Entonces el padre cayó en la cuenta de que precisamente en aquella hora Jesús le había dicho: «Tu hijo está vivo». Y creyó él y toda su casa."
+        },
+        {
+          "numero": "54",
+          "verso": "Este segundo signo lo hizo Jesús cuando vino de Judea a Galilea."
+        }
+      ]
+    }
+  ]
+}

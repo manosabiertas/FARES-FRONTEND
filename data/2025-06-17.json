@@ -1,0 +1,111 @@
+{
+  "fecha": "2025-06-17",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Corintios 8:1-9",
+      "lecturaNombreNormalizado": "2Corintios8,1-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Os hacemos saber, hermanos, la gracia de Dios concedida a las iglesias de Macedonia."
+        },
+        {
+          "numero": "2",
+          "verso": "En medio de una gran tribulación con que han sido probados, su rebosante gozo y su extrema pobreza se desbordaron en tesoros de generosidad;"
+        },
+        {
+          "numero": "3",
+          "verso": "porque doy testimonio de que según sus posibilidades, y aun por encima de ellas, espontáneamente"
+        },
+        {
+          "numero": "4",
+          "verso": "nos pidieron con mucha insistencia la gracia de participar en el servicio a favor de los santos."
+        },
+        {
+          "numero": "5",
+          "verso": "Y no sólo como esperábamos, sino que se dieron a sí mismos, primeramente al Señor y luego, por voluntad de Dios, a nosotros."
+        },
+        {
+          "numero": "6",
+          "verso": "De manera que rogamos a Tito que, según había comenzado, así llevase a cabo esta gracia también entre vosotros."
+        },
+        {
+          "numero": "7",
+          "verso": "Y así como tenéis abundancia de todo —de fe, de palabra, de ciencia, de todo desvelo y de la caridad que os hemos comunicado—, sed también abundantes en esta gracia."
+        },
+        {
+          "numero": "8",
+          "verso": "No lo digo como una orden, sino que, mediante el desvelo por otros, quiero probar también la autenticidad de vuestra caridad."
+        },
+        {
+          "numero": "9",
+          "verso": "Porque conocéis la gracia de nuestro Señor Jesucristo, que, siendo rico, se hizo pobre por vosotros, para que vosotros seáis ricos por su pobreza."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 146:2, 5-9",
+      "lecturaNombreNormalizado": "Sal146,2,5-9",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Alabaré al Señor mientras viva; entonaré salmos a mi Dios mientras exista."
+        },
+        {
+          "numero": "5",
+          "verso": "Dichoso el que tiene su auxilio en el Dios de Jacob, su esperanza en el Señor, su Dios,"
+        },
+        {
+          "numero": "6",
+          "verso": "que hizo los cielos y la tierra, el mar y cuanto hay en él;\nque guarda fidelidad eternamente;"
+        },
+        {
+          "numero": "7",
+          "verso": "que hace justicia a los oprimidos, da pan a los hambrientos.\nEl Señor libera a los cautivos;"
+        },
+        {
+          "numero": "8",
+          "verso": "el Señor abre los ojos a los ciegos; el Señor endereza a los que se encorvan;\nel Señor ama a los justos."
+        },
+        {
+          "numero": "9",
+          "verso": "El Señor guarda a los extranjeros, sustenta al huérfano y a la viuda,\npero tuerce el camino de los impíos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 5:43-48",
+      "lecturaNombreNormalizado": "Mt5,43-48",
+      "versos": [
+        {
+          "numero": "43",
+          "verso": "»Habéis oído que se dijo: Amarás a tu prójimo y odiarás a tu enemigo."
+        },
+        {
+          "numero": "44",
+          "verso": "Pero yo os digo: amad a vuestros enemigos y rezad por los que os persigan,"
+        },
+        {
+          "numero": "45",
+          "verso": "para que seáis hijos de vuestro Padre que está en los cielos, que hace salir su sol sobre buenos y malos, y hace llover sobre justos y pecadores."
+        },
+        {
+          "numero": "46",
+          "verso": "Porque si amáis a los que os aman, ¿qué recompensa tenéis? ¿No hacen eso también los publicanos?"
+        },
+        {
+          "numero": "47",
+          "verso": "Y si saludáis solamente a vuestros hermanos, ¿qué hacéis de más? ¿No hacen eso también los paganos?"
+        },
+        {
+          "numero": "48",
+          "verso": "Por eso, sed vosotros perfectos como vuestro Padre celestial es perfecto."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "fecha": "2026-02-08",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 58:7-10",
+      "lecturaNombreNormalizado": "Is58,7-10",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "¿No es compartir tu pan con el hambriento, e invitar a tu casa a los pobres sin asilo?\nAl que veas desnudo, cúbrelo\ny no te escondas de quien es carne tuya."
+        },
+        {
+          "numero": "8",
+          "verso": "Entonces tu luz despuntará como la aurora, y tu curación aparecerá al instante,\ntu justicia te precederá\ny la gloria del Señor cerrará tu marcha."
+        },
+        {
+          "numero": "9",
+          "verso": "Entonces clamarás, y el Señor te responderá, pedirás socorro, y Él te dirá: «Aquí estoy».\nSi apartas de en medio de ti el yugo,\nel señalar con el dedo,\ny la maledicencia,"
+        },
+        {
+          "numero": "10",
+          "verso": "y ofreces tu propio sustento al hambriento, y sacias el alma afligida,\nentonces tu luz despuntará en las tinieblas\ny tu oscuridad será como el mediodía."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 112:4-9",
+      "lecturaNombreNormalizado": "Sal112,4-9",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "(Záin) Para los rectos brilla como luz en las tinieblas, (Het) el clemente, compasivo y justo."
+        },
+        {
+          "numero": "5",
+          "verso": "(Tet) Feliz el hombre compasivo y que presta, (Yod) y que administra sus asuntos con justicia;"
+        },
+        {
+          "numero": "6",
+          "verso": "(Kaf) no vacilará jamás. (Lámed) El justo será siempre recordado;"
+        },
+        {
+          "numero": "7",
+          "verso": "(Mem) no temerá las malas noticias; (Nun) su corazón está firme, confiado en el Señor;"
+        },
+        {
+          "numero": "8",
+          "verso": "(Sámek) su corazón está seguro, sin temer, (Áin) hasta que mire por encima a sus enemigos."
+        },
+        {
+          "numero": "9",
+          "verso": "(Pe) Reparte generosamente a los pobres; (Sade) su justicia permanece para siempre;\n(Qof) lleva alta su frente con honor."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "1 Corintios 2:1-5",
+      "lecturaNombreNormalizado": "1Corintios2,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Y yo, hermanos, cuando vine a vosotros, no vine a anunciaros el misterio de Dios con elocuencia o sabiduría sublimes,"
+        },
+        {
+          "numero": "2",
+          "verso": "pues no me he preciado de saber otra cosa entre vosotros sino a Jesucristo, y a éste, crucificado."
+        },
+        {
+          "numero": "3",
+          "verso": "Y me he presentado ante vosotros débil, y con temor y mucho temblor,"
+        },
+        {
+          "numero": "4",
+          "verso": "y mi mensaje y mi predicación no se han basado en palabras persuasivas de sabiduría, sino en la manifestación del Espíritu y del poder,"
+        },
+        {
+          "numero": "5",
+          "verso": "para que vuestra fe no se fundamente en la sabiduría humana, sino en el poder de Dios."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 5:13-16",
+      "lecturaNombreNormalizado": "Mt5,13-16",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "»Vosotros sois la sal de la tierra. Pero si la sal se vuelve sosa ¿con qué se salará? No vale más que para tirarla fuera y que la pisotee la gente."
+        },
+        {
+          "numero": "14",
+          "verso": "»Vosotros sois la luz del mundo. No puede ocultarse una ciudad situada en lo alto de un monte;"
+        },
+        {
+          "numero": "15",
+          "verso": "ni se enciende una luz para ponerla debajo de un celemín, sino sobre un candelero para que alumbre a todos los de la casa."
+        },
+        {
+          "numero": "16",
+          "verso": "Alumbre así vuestra luz ante los hombres, para que vean vuestras buenas obras y glorifiquen a vuestro Padre, que está en los cielos."
+        }
+      ]
+    }
+  ]
+}

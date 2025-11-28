@@ -1,0 +1,131 @@
+{
+  "fecha": "2026-06-08",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Reyes 17:1-6",
+      "lecturaNombreNormalizado": "1Reyes17,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Elías, el tesbita, de Tisbé de Galaad, dijo a Ajab: —Vive el Señor, Dios de Israel, en cuya presencia estoy, que durante estos años no habrá rocío ni lluvia, si no es por mi palabra."
+        },
+        {
+          "numero": "2",
+          "verso": "Entonces le llegó la palabra del Señor, diciéndole:"
+        },
+        {
+          "numero": "3",
+          "verso": "—Vete de aquí, marcha hacia oriente y ocúltate en el torrente Querit que se encuentra al este del Jordán."
+        },
+        {
+          "numero": "4",
+          "verso": "Allí beberás del torrente. Yo ya he dado orden a los cuervos para que te alimenten en aquel lugar."
+        },
+        {
+          "numero": "5",
+          "verso": "Él fue y actuó según la palabra del Señor; se marchó y se estableció en el torrente Querit que se encuentra al este del Jordán."
+        },
+        {
+          "numero": "6",
+          "verso": "Los cuervos le traían pan y carne por la mañana, y pan y carne por la tarde; y él bebía del torrente."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 121:1-8",
+      "lecturaNombreNormalizado": "Sal121,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. Alzo mis ojos a los montes:\n¿de dónde me llegará el auxilio?"
+        },
+        {
+          "numero": "2",
+          "verso": "Mi auxilio me viene del Señor, que hizo los cielos y la tierra."
+        },
+        {
+          "numero": "3",
+          "verso": "No permitirá que tropiece tu pie, no duerme el que te guarda."
+        },
+        {
+          "numero": "4",
+          "verso": "No, no dormita, no se duerme el que guarda a Israel."
+        },
+        {
+          "numero": "5",
+          "verso": "El Señor es tu guardián, el Señor, a tu derecha,\nes tu sombra protectora."
+        },
+        {
+          "numero": "6",
+          "verso": "De día no te dañará el sol, ni la luna de noche."
+        },
+        {
+          "numero": "7",
+          "verso": "El Señor te guarda de todo mal, guarda tu alma."
+        },
+        {
+          "numero": "8",
+          "verso": "El Señor guarda tus salidas y entradas, desde ahora y por siempre."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 5:1-12",
+      "lecturaNombreNormalizado": "Mt5,1-12",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Al ver Jesús a las multitudes, subió al monte; se sentó y se le acercaron sus discípulos;"
+        },
+        {
+          "numero": "2",
+          "verso": "y abriendo su boca les enseñaba diciendo:"
+        },
+        {
+          "numero": "3",
+          "verso": "—Bienaventurados los pobres de espíritu, porque suyo es el Reino de los Cielos."
+        },
+        {
+          "numero": "4",
+          "verso": "»Bienaventurados los que lloran, porque serán consolados."
+        },
+        {
+          "numero": "5",
+          "verso": "»Bienaventurados los mansos, porque heredarán la tierra."
+        },
+        {
+          "numero": "6",
+          "verso": "»Bienaventurados los que tienen hambre y sed de justicia, porque quedarán saciados."
+        },
+        {
+          "numero": "7",
+          "verso": "»Bienaventurados los misericordiosos, porque alcanzarán misericordia."
+        },
+        {
+          "numero": "8",
+          "verso": "»Bienaventurados los limpios de corazón, porque verán a Dios."
+        },
+        {
+          "numero": "9",
+          "verso": "»Bienaventurados los pacíficos, porque serán llamados hijos de Dios."
+        },
+        {
+          "numero": "10",
+          "verso": "»Bienaventurados los que padecen persecución por causa de la justicia, porque suyo es el Reino de los Cielos."
+        },
+        {
+          "numero": "11",
+          "verso": "»Bienaventurados cuando os injurien, os persigan y, mintiendo, digan contra vosotros todo tipo de maldad por mi causa."
+        },
+        {
+          "numero": "12",
+          "verso": "Alegraos y regocijaos, porque vuestra recompensa será grande en el cielo: de la misma manera persiguieron a los profetas de antes de vosotros."
+        }
+      ]
+    }
+  ]
+}

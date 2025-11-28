@@ -1,0 +1,95 @@
+{
+  "fecha": "2025-02-22",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Pedro 5:1-4",
+      "lecturaNombreNormalizado": "1Pedro5,1-4",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "A los presbíteros que hay entre vosotros, yo —presbítero como ellos y, además, testigo de los padecimientos de Cristo y partícipe de la gloria que va a manifestarse— os exhorto:"
+        },
+        {
+          "numero": "2",
+          "verso": "apacentad la grey de Dios que se os ha confiado, gobernando no a la fuerza, sino de buena gana según Dios; no por mezquino afán de lucro, sino de corazón;"
+        },
+        {
+          "numero": "3",
+          "verso": "no como tiranos sobre la heredad del Señor, sino haciéndoos modelo de la grey."
+        },
+        {
+          "numero": "4",
+          "verso": "Así, cuando se manifieste el Pastor Supremo, recibiréis la corona de gloria que no se marchita."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 23:1-6",
+      "lecturaNombreNormalizado": "Sal23,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. De David. El Señor es mi pastor, nada me falta."
+        },
+        {
+          "numero": "2",
+          "verso": "En verdes prados me hace reposar; hacia aguas tranquilas me guía;"
+        },
+        {
+          "numero": "3",
+          "verso": "reconforta mi alma, me conduce por sendas rectas\npor honor de su Nombre."
+        },
+        {
+          "numero": "4",
+          "verso": "Aunque camine por valles oscuros, no temo ningún mal, porque Tú estás conmigo;\ntu vara y tu cayado me sosiegan."
+        },
+        {
+          "numero": "5",
+          "verso": "Preparas una mesa para mí frente a mis adversarios.\nUnges con óleo mi cabeza,\nmi copa rebosa."
+        },
+        {
+          "numero": "6",
+          "verso": "Tu bondad y misericordia me acompañan todos los días de mi vida;\ny habitaré en la Casa del Señor\npor dilatados días."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 16:13-19",
+      "lecturaNombreNormalizado": "Mt16,13-19",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "Cuando llegó Jesús a la región de Cesarea de Filipo, comenzó a preguntar a sus discípulos: —¿Quién dicen los hombres que es el Hijo del Hombre?"
+        },
+        {
+          "numero": "14",
+          "verso": "Ellos respondieron: —Unos que Juan el Bautista, otros que Elías, y otros que Jeremías o alguno de los profetas."
+        },
+        {
+          "numero": "15",
+          "verso": "Él les dijo: —Y vosotros, ¿quién decís que soy yo?"
+        },
+        {
+          "numero": "16",
+          "verso": "Respondió Simón Pedro: —Tú eres el Cristo, el Hijo de Dios vivo."
+        },
+        {
+          "numero": "17",
+          "verso": "Jesús le respondió: —Bienaventurado eres, Simón, hijo de Juan, porque no te ha revelado eso ni la carne ni la sangre, sino mi Padre que está en los cielos."
+        },
+        {
+          "numero": "18",
+          "verso": "Y yo te digo que tú eres Pedro, y sobre esta piedra edificaré mi Iglesia, y las puertas del infierno no prevalecerán contra ella."
+        },
+        {
+          "numero": "19",
+          "verso": "Te daré las llaves del Reino de los Cielos; y todo lo que ates sobre la tierra quedará atado en los cielos, y todo lo que desates sobre la tierra quedará desatado en los cielos."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "fecha": "2026-08-26",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Tesalonicenses 3:6-10, 16-18",
+      "lecturaNombreNormalizado": "2Tesalonicenses3,6-10,16-18",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "Hermanos, os ordenamos en nombre de nuestro Señor Jesucristo que os alejéis de todo hermano que ande ocioso y no conforme a la tradición que recibieron de nosotros."
+        },
+        {
+          "numero": "7",
+          "verso": "Pues vosotros sabéis bien cómo debéis imitarnos, porque entre vosotros no estuvimos ociosos;"
+        },
+        {
+          "numero": "8",
+          "verso": "y no comimos gratis el pan de nadie, sino que trabajamos día y noche con esfuerzo y fatiga, para no ser gravosos a ninguno."
+        },
+        {
+          "numero": "9",
+          "verso": "No porque no tuviéramos derecho, sino para mostrarnos ante vosotros como modelo que imitar."
+        },
+        {
+          "numero": "10",
+          "verso": "Pues también cuando estábamos con vosotros os dábamos esta norma: «Si alguno no quiere trabajar, que no coma»."
+        },
+        {
+          "numero": "16",
+          "verso": "Que Él, el Señor de la paz, os conceda la paz siempre y en todo. El Señor esté con todos vosotros."
+        },
+        {
+          "numero": "17",
+          "verso": "El saludo es de mi puño y letra, Pablo. Ésta es la señal en todas mis cartas; así es como escribo."
+        },
+        {
+          "numero": "18",
+          "verso": "La gracia de nuestro Señor Jesucristo esté con todos vosotros."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 128:1-2, 4-5",
+      "lecturaNombreNormalizado": "Sal128,1-2,4-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. Dichoso el que teme al Señor\ny anda por sus caminos."
+        },
+        {
+          "numero": "2",
+          "verso": "Del trabajo de tus manos comerás; serás dichoso, y te irá bien."
+        },
+        {
+          "numero": "4",
+          "verso": "Pues así es bendecido el hombre que teme al Señor."
+        },
+        {
+          "numero": "5",
+          "verso": "Que el Señor te bendiga desde Sión. Que veas el bienestar de Jerusalén\ntodos los días de tu vida."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 23:27-32",
+      "lecturaNombreNormalizado": "Mt23,27-32",
+      "versos": [
+        {
+          "numero": "27",
+          "verso": "»¡Ay de vosotros, escribas y fariseos hipócritas, que os parecéis a sepulcros blanqueados, que por fuera aparecen hermosos, pero por dentro están llenos de huesos de muertos y de toda podredumbre!"
+        },
+        {
+          "numero": "28",
+          "verso": "Así también vosotros por fuera os mostráis justos ante los hombres, pero por dentro estáis llenos de hipocresía y de iniquidad."
+        },
+        {
+          "numero": "29",
+          "verso": "»¡Ay de vosotros, escribas y fariseos hipócritas, que edificáis las tumbas de los profetas y adornáis los sepulcros de los justos,"
+        },
+        {
+          "numero": "30",
+          "verso": "y decís: «Si hubiéramos vivido en tiempos de nuestros padres, no habríamos sido sus cómplices en la sangre de los profetas!»."
+        },
+        {
+          "numero": "31",
+          "verso": "Así pues, atestiguáis contra vosotros mismos que sois hijos de los que mataron a los profetas."
+        },
+        {
+          "numero": "32",
+          "verso": "Y vosotros, colmad la medida de vuestros padres."
+        }
+      ]
+    }
+  ]
+}

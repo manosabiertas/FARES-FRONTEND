@@ -1,0 +1,103 @@
+{
+  "fecha": "2026-01-24",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Samuel 1:1-4, 11-12, 19, 23-27",
+      "lecturaNombreNormalizado": "2Samuel1,1-4,11-12,19,23-27",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Después de la muerte de Saúl, David, que había regresado de su victoria sobre los amalecitas, se había instalado en Siquelag desde hacía dos días."
+        },
+        {
+          "numero": "2",
+          "verso": "Al tercer día llegó del campamento de Saúl un hombre con las vestiduras rasgadas y polvo sobre la cabeza. Cuando estuvo junto a David, se postró ante él rostro en tierra"
+        },
+        {
+          "numero": "3",
+          "verso": "y David le preguntó: —¿De dónde vienes?\nÉl respondió:\n—Vengo huyendo del campamento de Israel."
+        },
+        {
+          "numero": "4",
+          "verso": "David le dijo: —¿Qué es lo que ha pasado? Cuéntamelo.\nÉl contestó:\n—La gente ha huido de la batalla, y muchos han caído y han muerto; también han muerto Saúl y su hijo Jonatán."
+        },
+        {
+          "numero": "11",
+          "verso": "Tomó David sus vestiduras y las rasgó, y lo mismo hicieron los que estaban con él."
+        },
+        {
+          "numero": "12",
+          "verso": "Luego hicieron duelo, lloraron y ayunaron hasta la tarde por Saúl y por su hijo Jonatán, por el pueblo del Señor y por la casa de Israel, pues habían caído a espada."
+        },
+        {
+          "numero": "19",
+          "verso": "«¡La gala de Israel yace herida en tus colinas! ¡Cómo han caído los valientes!"
+        },
+        {
+          "numero": "23",
+          "verso": "Saúl y Jonatán, siempre amados, siempre queridos, ni en vida ni en muerte se han separado.\n¡Más rápidos que águilas,\nmás fuertes que leones!"
+        },
+        {
+          "numero": "24",
+          "verso": "Hijas de Israel, llorad a Saúl, que os vestía de púrpura y de lujo,\ny os adornaba con oro los vestidos."
+        },
+        {
+          "numero": "25",
+          "verso": "¡Cómo han caído los fuertes en la pelea! ¡Jonatán, muerto sobre tus collados!"
+        },
+        {
+          "numero": "26",
+          "verso": "Siento angustia por ti, Jonatán, hermano mío, tan grato para mí.\nEra tu amor para mí más preciado\nque el amor de las mujeres."
+        },
+        {
+          "numero": "27",
+          "verso": "¡Cómo han caído los valientes, cómo han perecido los guerreros!»."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 80:2-3, 5-7",
+      "lecturaNombreNormalizado": "Sal80,2-3,5-7",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Pastor de Israel, inclina tu oído, Tú que guías a José como un rebaño,\nque estás sentado sobre los querubines,\nmuestra tu esplendor"
+        },
+        {
+          "numero": "3",
+          "verso": "ante Efraím, Benjamín y Manasés, despierta tu fuerza y ven a salvarnos."
+        },
+        {
+          "numero": "5",
+          "verso": "Señor, Dios de los ejércitos, ¿hasta cuándo arderás de ira\ncontra la plegaria de tu pueblo?"
+        },
+        {
+          "numero": "6",
+          "verso": "Les has dado de comer un pan de lágrimas, les has dado de beber lágrimas en abundancia."
+        },
+        {
+          "numero": "7",
+          "verso": "Nos has convertido en presa disputada de nuestros vecinos, y nuestros enemigos se burlan de nosotros."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 3:20-21",
+      "lecturaNombreNormalizado": "Mc3,20-21",
+      "versos": [
+        {
+          "numero": "20",
+          "verso": "Entonces llegó a casa; y se volvió a juntar la muchedumbre, de manera que no podían ni siquiera comer."
+        },
+        {
+          "numero": "21",
+          "verso": "Se enteraron sus parientes y fueron a llevárselo porque decían que había perdido el juicio."
+        }
+      ]
+    }
+  ]
+}

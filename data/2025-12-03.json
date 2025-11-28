@@ -1,0 +1,107 @@
+{
+  "fecha": "2025-12-03",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 25:6-10",
+      "lecturaNombreNormalizado": "Is25,6-10",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "El Señor de los ejércitos ofrecerá a todos los pueblos, en este monte,\nun banquete de sabrosos manjares,\nun banquete de vinos añejos,\nmanjares suculentos,\ny vinos exquisitos."
+        },
+        {
+          "numero": "7",
+          "verso": "Y eliminará en este monte el velo que cubre el rostro de todos los pueblos,\ny el manto que recubre todas las naciones."
+        },
+        {
+          "numero": "8",
+          "verso": "Eliminará para siempre la muerte. El Señor Dios enjugará las lágrimas de todos los rostros,\ny apartará el oprobio de su pueblo en toda la tierra,\nporque ha hablado el Señor."
+        },
+        {
+          "numero": "9",
+          "verso": "Aquel día se dirá: «Aquí está nuestro Dios. En Él esperábamos para que nos salvara;\nes el Señor, en quien esperábamos:\nexultemos y gocémonos de su salvación»."
+        },
+        {
+          "numero": "10",
+          "verso": "Porque la mano del Señor descansará en este monte. Pero Moab será pisado allá donde está,\ncomo se pisa la paja en el estercolero."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 23:1-6",
+      "lecturaNombreNormalizado": "Sal23,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. De David. El Señor es mi pastor, nada me falta."
+        },
+        {
+          "numero": "2",
+          "verso": "En verdes prados me hace reposar; hacia aguas tranquilas me guía;"
+        },
+        {
+          "numero": "3",
+          "verso": "reconforta mi alma, me conduce por sendas rectas\npor honor de su Nombre."
+        },
+        {
+          "numero": "4",
+          "verso": "Aunque camine por valles oscuros, no temo ningún mal, porque Tú estás conmigo;\ntu vara y tu cayado me sosiegan."
+        },
+        {
+          "numero": "5",
+          "verso": "Preparas una mesa para mí frente a mis adversarios.\nUnges con óleo mi cabeza,\nmi copa rebosa."
+        },
+        {
+          "numero": "6",
+          "verso": "Tu bondad y misericordia me acompañan todos los días de mi vida;\ny habitaré en la Casa del Señor\npor dilatados días."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 15:29-37",
+      "lecturaNombreNormalizado": "Mt15,29-37",
+      "versos": [
+        {
+          "numero": "29",
+          "verso": "Y cuando Jesús se marchó de aquel lugar, vino junto al mar de Galilea, subió al monte y se sentó allí."
+        },
+        {
+          "numero": "30",
+          "verso": "Acudió a él mucha gente que traía consigo cojos, ciegos, lisiados, mudos y otros muchos enfermos, y los pusieron a sus pies, y él los curó;"
+        },
+        {
+          "numero": "31",
+          "verso": "de tal modo que se maravillaba la multitud viendo hablar a los mudos y restablecerse a los lisiados, andar a los cojos y ver a los ciegos. Y glorificaban al Dios de Israel."
+        },
+        {
+          "numero": "32",
+          "verso": "Jesús llamó a sus discípulos y dijo: —Me da mucha pena la muchedumbre, porque ya llevan tres días conmigo y no tienen qué comer, y no quiero despedirlos en ayunas, no vaya a ser que desfallezcan en el camino."
+        },
+        {
+          "numero": "33",
+          "verso": "Pero le decían los discípulos: —¿De dónde vamos a sacar en un desierto panes suficientes para alimentar a tan gran muchedumbre?"
+        },
+        {
+          "numero": "34",
+          "verso": "Jesús les dijo: —¿Cuántos panes tenéis?\n—Siete y unos pocos pececillos —respondieron ellos."
+        },
+        {
+          "numero": "35",
+          "verso": "Entonces ordenó a la multitud que se acomodase en el suelo."
+        },
+        {
+          "numero": "36",
+          "verso": "Tomó los siete panes y los peces y, después de dar gracias, los partió y los fue dando a los discípulos, y los discípulos a la multitud."
+        },
+        {
+          "numero": "37",
+          "verso": "Y comieron todos y quedaron satisfechos. Con los trozos sobrantes recogieron siete espuertas llenas."
+        }
+      ]
+    }
+  ]
+}

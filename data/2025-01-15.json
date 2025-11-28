@@ -1,0 +1,123 @@
+{
+  "fecha": "2025-01-15",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hebreos 2:14-18",
+      "lecturaNombreNormalizado": "Heb2,14-18",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "Porque así como los hijos comparten la sangre y la carne, también él participó de ellas, para destruir con la muerte al que tenía el poder de la muerte, es decir, al diablo,"
+        },
+        {
+          "numero": "15",
+          "verso": "y liberar así a todos los que con el miedo a la muerte estaban toda su vida sujetos a esclavitud."
+        },
+        {
+          "numero": "16",
+          "verso": "Porque es seguro que él no asumió a los ángeles sino al linaje de Abrahán."
+        },
+        {
+          "numero": "17",
+          "verso": "Por eso tuvo que asemejarse en todo a sus hermanos, a fin de ser misericordioso y Sumo Sacerdote fiel en las cosas que se refieren a Dios, para expiar los pecados del pueblo."
+        },
+        {
+          "numero": "18",
+          "verso": "Por haber sido puesto a prueba en los padecimientos, es capaz de ayudar a los que también son sometidos a prueba."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 105:1-4, 6-9",
+      "lecturaNombreNormalizado": "Sal105,1-4,6-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Dad gracias al Señor, invocad su Nombre, anunciad entre los pueblos sus hazañas."
+        },
+        {
+          "numero": "2",
+          "verso": "Cantadle, entonadle salmos, proclamad todas sus maravillas."
+        },
+        {
+          "numero": "3",
+          "verso": "Gloriaos en su Nombre santo; que se alegre el corazón de los que buscan al Señor."
+        },
+        {
+          "numero": "4",
+          "verso": "Acudid al Señor y a su poder, buscad su rostro de continuo."
+        },
+        {
+          "numero": "6",
+          "verso": "linaje de Abrahán, su siervo, hijos de Jacob, su elegido!"
+        },
+        {
+          "numero": "7",
+          "verso": "Él es el Señor, nuestro Dios; sus juicios alcanzan toda la tierra."
+        },
+        {
+          "numero": "8",
+          "verso": "Él recuerda siempre su alianza, la palabra que ordenó por mil generaciones,"
+        },
+        {
+          "numero": "9",
+          "verso": "que selló con Abrahán; el juramento hecho a Isaac,"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 1:29-39",
+      "lecturaNombreNormalizado": "Mc1,29-39",
+      "versos": [
+        {
+          "numero": "29",
+          "verso": "En cuanto salieron de la sinagoga, fueron a la casa de Simón y de Andrés, con Santiago y Juan."
+        },
+        {
+          "numero": "30",
+          "verso": "La suegra de Simón estaba acostada con fiebre, y enseguida le hablaron de ella."
+        },
+        {
+          "numero": "31",
+          "verso": "Se acercó, la tomó de la mano y la levantó; le desapareció la fiebre y ella se puso a servirles."
+        },
+        {
+          "numero": "32",
+          "verso": "Al atardecer, cuando se había puesto el sol, comenzaron a llevarle a todos los enfermos y a los endemoniados."
+        },
+        {
+          "numero": "33",
+          "verso": "Y toda la ciudad se agolpaba en la puerta."
+        },
+        {
+          "numero": "34",
+          "verso": "Y curó a muchos que padecían diversas enfermedades y expulsó a muchos demonios, y no les permitía hablar porque sabían quién era."
+        },
+        {
+          "numero": "35",
+          "verso": "De madrugada, todavía muy oscuro, se levantó, salió y se fue a un lugar solitario, y allí hacía oración."
+        },
+        {
+          "numero": "36",
+          "verso": "Salió a buscarle Simón y los que estaban con él,"
+        },
+        {
+          "numero": "37",
+          "verso": "y cuando lo encontraron le dijeron: —Todos te buscan."
+        },
+        {
+          "numero": "38",
+          "verso": "Y les dijo: —Vámonos a otra parte, a las aldeas vecinas, para que predique también allí, porque para esto he venido."
+        },
+        {
+          "numero": "39",
+          "verso": "Y pasó por toda Galilea predicando en sus sinagogas y expulsando a los demonios."
+        }
+      ]
+    }
+  ]
+}

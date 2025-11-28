@@ -1,0 +1,99 @@
+{
+  "fecha": "2026-10-14",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Gálatas 5:18-25",
+      "lecturaNombreNormalizado": "Gal5,18-25",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "Si os dejáis conducir por el Espíritu, no estáis sujetos a la Ley."
+        },
+        {
+          "numero": "19",
+          "verso": "Ahora bien, están claras cuáles son las obras de la carne: la fornicación, la impureza, la lujuria,"
+        },
+        {
+          "numero": "20",
+          "verso": "la idolatría, la hechicería, las enemistades, los pleitos, los celos, las iras, las riñas, las discusiones, las divisiones,"
+        },
+        {
+          "numero": "21",
+          "verso": "las envidias, las embriagueces, las orgías y cosas semejantes. Sobre ellas os prevengo, como ya os he dicho, que los que hacen esas cosas no heredarán el Reino de Dios."
+        },
+        {
+          "numero": "22",
+          "verso": "En cambio, los frutos del Espíritu son: la caridad, el gozo, la paz, la longanimidad, la benignidad, la bondad, la fe,"
+        },
+        {
+          "numero": "23",
+          "verso": "la mansedumbre, la continencia. Contra estos frutos no hay ley."
+        },
+        {
+          "numero": "24",
+          "verso": "Los que son de Jesucristo han crucificado su carne con sus pasiones y concupiscencias."
+        },
+        {
+          "numero": "25",
+          "verso": "Si vivimos por el Espíritu, caminemos también según el Espíritu."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 1:1-4, 6",
+      "lecturaNombreNormalizado": "Sal1,1-4,6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Dichoso el hombre que no sigue el consejo de impíos,\nni se detiene en el camino de pecadores,\nni toma asiento con farsantes,"
+        },
+        {
+          "numero": "2",
+          "verso": "sino que se complace en la Ley del Señor, y noche y día medita en su Ley."
+        },
+        {
+          "numero": "3",
+          "verso": "Será como un árbol plantado al borde de la acequia,\nque da fruto a su tiempo,\ny no se marchitan sus hojas:\ncuanto hace prospera."
+        },
+        {
+          "numero": "4",
+          "verso": "No así los impíos, no así. Son como polvo que dispersa el viento."
+        },
+        {
+          "numero": "6",
+          "verso": "Porque el Señor vela sobre el camino de los justos, mientras el de los impíos acaba en perdición."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 11:42-46",
+      "lecturaNombreNormalizado": "Lc11,42-46",
+      "versos": [
+        {
+          "numero": "42",
+          "verso": "Pero, ¡ay de vosotros, fariseos, que pagáis el diezmo de la menta, de la ruda y de todas las legumbres, pero despreciáis la justicia y el amor de Dios! ¡Hay que hacer esto sin descuidar lo otro!"
+        },
+        {
+          "numero": "43",
+          "verso": "»¡Ay de vosotros, fariseos, porque apetecéis los primeros asientos en las sinagogas y que os saluden en las plazas!"
+        },
+        {
+          "numero": "44",
+          "verso": "»¡Ay de vosotros, que sois como sepulcros disimulados, sobre los que pasan los hombres sin saberlo!"
+        },
+        {
+          "numero": "45",
+          "verso": "Entonces, cierto doctor de la Ley, tomando la palabra, le replica: —Maestro, diciendo tales cosas nos ofendes también a nosotros."
+        },
+        {
+          "numero": "46",
+          "verso": "Pero él dijo: —¡Ay también de vosotros, los doctores de la Ley, porque imponéis a los hombres cargas insoportables, pero vosotros ni con uno de vuestros dedos las tocáis!"
+        }
+      ]
+    }
+  ]
+}

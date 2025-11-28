@@ -1,0 +1,154 @@
+{
+  "fecha": "2025-01-05",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 60:1-6",
+      "lecturaNombreNormalizado": "Is60,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Levántate, resplandece, que llega tu luz, y la gloria del Señor amanece sobre ti!"
+        },
+        {
+          "numero": "2",
+          "verso": "Mira que las tinieblas cubren la tierra, y la oscuridad, los pueblos,\npero sobre ti amanece el Señor,\nsobre ti aparece su gloria."
+        },
+        {
+          "numero": "3",
+          "verso": "Las naciones caminarán a tu luz, los reyes, al resplandor de tu aurora."
+        },
+        {
+          "numero": "4",
+          "verso": "Alza tus ojos y mira alrededor: todos ellos se congregan, vienen a ti.\nTus hijos vienen de lejos,\ntus hijas abrazadas a su costado."
+        },
+        {
+          "numero": "5",
+          "verso": "Entonces, mirarás y te pondrás radiante, palpitará y se ensanchará tu corazón,\npues la abundancia del mar se volcará sobre ti,\nllegará a ti la riqueza de las naciones."
+        },
+        {
+          "numero": "6",
+          "verso": "Te cubrirá una multitud de camellos, dromedarios de Madián y Efá,\ntodos vendrán de Sabá\ncargados de oro e incienso,\ny pregonando alabanzas al Señor."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 72:1-2, 7-8, 10-13",
+      "lecturaNombreNormalizado": "Sal72,1-2,7-8,10-13",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De Salomón. Dios mío, concede tu juicio al rey\ny tu justicia al hijo del rey."
+        },
+        {
+          "numero": "2",
+          "verso": "Que gobierne a tu pueblo con justicia y a tus pobres con equidad."
+        },
+        {
+          "numero": "7",
+          "verso": "Florezca en sus días la justicia, y haya paz abundante mientras perdure la luna."
+        },
+        {
+          "numero": "8",
+          "verso": "Domine de mar a mar, desde el Río hasta los confines de la tierra."
+        },
+        {
+          "numero": "10",
+          "verso": "Que le traigan presentes los reyes de Tarsis y de las Islas, le ofrezcan dones los reyes de Sebá y de Sabá."
+        },
+        {
+          "numero": "11",
+          "verso": "Que se prosternen ante él todos los reyes y le sirvan todas las naciones."
+        },
+        {
+          "numero": "12",
+          "verso": "Porque él librará al desvalido que clama y al pobre que no tiene amparo."
+        },
+        {
+          "numero": "13",
+          "verso": "Tendrá piedad del débil y del desvalido y salvará la vida de los indigentes."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Efesios 3:2-3, 5-6",
+      "lecturaNombreNormalizado": "Ef3,2-3,5-6",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Ya habréis oído que Dios me concedió el encargo de administrar su gracia en favor vuestro,"
+        },
+        {
+          "numero": "3",
+          "verso": "pues mediante una revelación se me dio a conocer el misterio, como brevemente lo he descrito antes."
+        },
+        {
+          "numero": "5",
+          "verso": "que no se dio a conocer a los hijos de los hombres en otras generaciones, como ahora ha sido revelado a sus santos apóstoles y profetas por el Espíritu:"
+        },
+        {
+          "numero": "6",
+          "verso": "a saber, que los gentiles son coherederos, miembros de un mismo cuerpo y copartícipes de las promesas en Cristo Jesús mediante el Evangelio,"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 2:1-12",
+      "lecturaNombreNormalizado": "Mt2,1-12",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Después de nacer Jesús en Belén de Judá en tiempos del rey Herodes, unos Magos llegaron de Oriente a Jerusalén"
+        },
+        {
+          "numero": "2",
+          "verso": "preguntando: —¿Dónde está el Rey de los Judíos que ha nacido? Porque vimos su estrella en el Oriente y hemos venido a adorarle."
+        },
+        {
+          "numero": "3",
+          "verso": "Al oír esto, el rey Herodes se inquietó, y con él toda Jerusalén."
+        },
+        {
+          "numero": "4",
+          "verso": "Y, reuniendo a todos los príncipes de los sacerdotes y a los escribas del pueblo, les interrogaba dónde había de nacer el Mesías."
+        },
+        {
+          "numero": "5",
+          "verso": "—En Belén de Judá —le dijeron—, pues así está escrito por medio del Profeta:"
+        },
+        {
+          "numero": "6",
+          "verso": "Y tú, Belén, tierra de Judá, ciertamente no eres la menor\nentre las principales ciudades de Judá;\npues de ti saldrá un jefe\nque apacentará a mi pueblo, Israel."
+        },
+        {
+          "numero": "7",
+          "verso": "Entonces, Herodes, llamando en secreto a los Magos, se informó cuidadosamente por ellos del tiempo en que había aparecido la estrella;"
+        },
+        {
+          "numero": "8",
+          "verso": "y les envió a Belén, diciéndoles: —Id e informaos bien acerca del niño; y cuando lo encontréis, avisadme para que también yo vaya a adorarle."
+        },
+        {
+          "numero": "9",
+          "verso": "Ellos, después de oír al rey, se pusieron en marcha. Y entonces, la estrella que habían visto en el Oriente se colocó delante de ellos, hasta pararse sobre el sitio donde estaba el niño."
+        },
+        {
+          "numero": "10",
+          "verso": "Al ver la estrella se llenaron de inmensa alegría."
+        },
+        {
+          "numero": "11",
+          "verso": "Y entrando en la casa, vieron al niño con María, su madre, y postrándose le adoraron; luego, abrieron sus cofres y le ofrecieron presentes: oro, incienso y mirra."
+        },
+        {
+          "numero": "12",
+          "verso": "Y, después de recibir en sueños aviso de no volver a Herodes, regresaron a su país por otro camino."
+        }
+      ]
+    }
+  ]
+}

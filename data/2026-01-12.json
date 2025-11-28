@@ -1,0 +1,119 @@
+{
+  "fecha": "2026-01-12",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Samuel 1:1-8",
+      "lecturaNombreNormalizado": "1Samuel1,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Había un hombre sufita llamado Elcaná, de Ramá, de la montaña de Efraím, hijo de Yerojam, hijo de Elí, hijo de Tojú, hijo de Suf, efraimita,"
+        },
+        {
+          "numero": "2",
+          "verso": "que tenía dos mujeres: una llamada Ana y otra Peniná. Peniná tenía hijos pero Ana no."
+        },
+        {
+          "numero": "3",
+          "verso": "Elcaná subía cada año desde su ciudad para adorar y ofrecer sacrificios al Señor de los ejércitos en Siló, donde los dos hijos de Elí, Jofní y Pinjás, eran sacerdotes del Señor."
+        },
+        {
+          "numero": "4",
+          "verso": "El día en que Elcaná ofrecía sacrificios daba a Peniná y a todos sus hijos las porciones correspondientes."
+        },
+        {
+          "numero": "5",
+          "verso": "Sin embargo, a Ana, aunque la amaba, le daba una sola porción, pues el Señor había cerrado su seno."
+        },
+        {
+          "numero": "6",
+          "verso": "Su rival la importunaba con insolencia hasta humillarla porque el Señor la había hecho estéril."
+        },
+        {
+          "numero": "7",
+          "verso": "Esto ocurría año tras año; siempre que subían a la casa del Señor la importunaba del mismo modo. Así que Ana lloraba y no quería comer."
+        },
+        {
+          "numero": "8",
+          "verso": "Su marido Elcaná, le decía: —Ana, ¿por qué lloras y no comes? ¿Por qué se aflige tu corazón? ¿No soy yo para ti mejor que diez hijos?"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 116:12-19",
+      "lecturaNombreNormalizado": "Sal116,12-19",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "¿Cómo pagaré al Señor todo el bien que me ha dado?"
+        },
+        {
+          "numero": "13",
+          "verso": "Alzaré la copa de la salvación e invocaré el Nombre del Señor."
+        },
+        {
+          "numero": "14",
+          "verso": "Cumpliré al Señor mis votos en presencia de todo su pueblo."
+        },
+        {
+          "numero": "15",
+          "verso": "Preciosa es a los ojos del Señor la muerte de sus fieles."
+        },
+        {
+          "numero": "16",
+          "verso": "¡Ah, Señor, yo soy tu siervo, tu siervo soy, el hijo de tu esclava!\nTú has soltado mis cadenas."
+        },
+        {
+          "numero": "17",
+          "verso": "Te ofreceré un sacrificio de acción de gracias, e invocaré el Nombre del Señor."
+        },
+        {
+          "numero": "18",
+          "verso": "Cumpliré al Señor mis votos en presencia de todo su pueblo,"
+        },
+        {
+          "numero": "19",
+          "verso": "en los atrios de la Casa del Señor, en medio de ti, Jerusalén."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 1:14-20",
+      "lecturaNombreNormalizado": "Mc1,14-20",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "Después de haber sido apresado Juan, vino Jesús a Galilea predicando el Evangelio de Dios,"
+        },
+        {
+          "numero": "15",
+          "verso": "y diciendo: —El tiempo se ha cumplido y el Reino de Dios está al llegar; convertíos y creed en el Evangelio."
+        },
+        {
+          "numero": "16",
+          "verso": "Y, mientras pasaba junto al mar de Galilea, vio a Simón y a Andrés, el hermano de Simón, que echaban las redes en el mar, pues eran pescadores."
+        },
+        {
+          "numero": "17",
+          "verso": "Y les dijo Jesús: —Seguidme y haré que seáis pescadores de hombres."
+        },
+        {
+          "numero": "18",
+          "verso": "Y, al momento, dejaron las redes y le siguieron."
+        },
+        {
+          "numero": "19",
+          "verso": "Y pasando un poco más adelante, vio a Santiago el de Zebedeo y a Juan, su hermano, que estaban en la barca remendando las redes;"
+        },
+        {
+          "numero": "20",
+          "verso": "y enseguida los llamó. Y dejaron a su padre Zebedeo en la barca con los jornaleros y se fueron tras él."
+        }
+      ]
+    }
+  ]
+}

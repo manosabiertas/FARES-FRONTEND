@@ -1,0 +1,111 @@
+{
+  "fecha": "2025-01-03",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Filipenses 2:5-11",
+      "lecturaNombreNormalizado": "Flp2,5-11",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "Tened entre vosotros los mismos sentimientos que tuvo Cristo Jesús,"
+        },
+        {
+          "numero": "6",
+          "verso": "el cual, siendo de condición divina, no consideró como presa codiciable\nel ser igual a Dios,"
+        },
+        {
+          "numero": "7",
+          "verso": "sino que se anonadó a sí mismo tomando la forma de siervo,\nhecho semejante a los hombres;\ny, mostrándose igual que los demás hombres,"
+        },
+        {
+          "numero": "8",
+          "verso": "se humilló a sí mismo haciéndose obediente hasta la muerte,\ny muerte de cruz."
+        },
+        {
+          "numero": "9",
+          "verso": "Y por eso Dios lo exaltó y le otorgó el nombre\nque está sobre todo nombre;"
+        },
+        {
+          "numero": "10",
+          "verso": "para que al nombre de Jesús toda rodilla se doble en los cielos, en la tierra y en los abismos,"
+        },
+        {
+          "numero": "11",
+          "verso": "y toda lengua confiese: «¡Jesucristo es el Señor!»,\npara gloria de Dios Padre."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 113:1-8",
+      "lecturaNombreNormalizado": "Sal113,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Aleluya! Alabad, siervos del Señor,\nalabad el Nombre del Señor."
+        },
+        {
+          "numero": "2",
+          "verso": "Bendito sea el Nombre del Señor, ahora y por siempre, sin fin."
+        },
+        {
+          "numero": "3",
+          "verso": "Desde la salida del sol hasta el ocaso, alabado sea el Nombre del Señor."
+        },
+        {
+          "numero": "4",
+          "verso": "Excelso sobre todas las naciones es el Señor, por encima de los cielos está su gloria."
+        },
+        {
+          "numero": "5",
+          "verso": "¿Quién como el Señor, nuestro Dios, que se sienta en las alturas,"
+        },
+        {
+          "numero": "6",
+          "verso": "y se abaja para mirar los cielos y la tierra?"
+        },
+        {
+          "numero": "7",
+          "verso": "Él levanta del polvo al indigente, y del estiércol hace subir al mísero,"
+        },
+        {
+          "numero": "8",
+          "verso": "para hacerlo sentar entre los príncipes, entre los príncipes de su pueblo."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 1:18-23",
+      "lecturaNombreNormalizado": "Mt1,18-23",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "La generación de Jesucristo fue así: María, su madre, estaba desposada con José, y antes de que conviviesen se encontró con que había concebido en su seno por obra del Espíritu Santo."
+        },
+        {
+          "numero": "19",
+          "verso": "José, su esposo, como era justo y no quería exponerla a infamia, pensó repudiarla en secreto."
+        },
+        {
+          "numero": "20",
+          "verso": "Consideraba él estas cosas, cuando un ángel del Señor se le apareció en sueños y le dijo: —José, hijo de David, no temas recibir a María, tu esposa, porque lo que en ella ha sido concebido es obra del Espíritu Santo."
+        },
+        {
+          "numero": "21",
+          "verso": "Dará a luz un hijo y le pondrás por nombre Jesús, porque él salvará a su pueblo de sus pecados."
+        },
+        {
+          "numero": "22",
+          "verso": "Todo esto sucedió para que se cumpliera lo que dijo el Señor por medio del Profeta:"
+        },
+        {
+          "numero": "23",
+          "verso": "Mirad, la virgen concebirá y dará a luz un hijo, a quien pondrán por nombre Emmanuel,\nque significa Dios–con–nosotros."
+        }
+      ]
+    }
+  ]
+}

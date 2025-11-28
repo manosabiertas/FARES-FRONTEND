@@ -1,0 +1,154 @@
+{
+  "fecha": "2025-04-06",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 43:16-21",
+      "lecturaNombreNormalizado": "Is43,16-21",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "Así dice el Señor, que abrió camino en el mar\ny sendero en las aguas impetuosas;"
+        },
+        {
+          "numero": "17",
+          "verso": "que hizo salir a carros y caballos, ejércitos y héroes:\ntodos cayeron a una, no se levantarán;\nse extinguieron, se apagaron como un pabilo."
+        },
+        {
+          "numero": "18",
+          "verso": "«No recordaréis las cosas pasadas, ni pensaréis en las cosas antiguas."
+        },
+        {
+          "numero": "19",
+          "verso": "Mirad que voy a hacer cosas nuevas; ya despuntan, ¿no os dais cuenta?\nVoy a abrir camino en el desierto,\ny ríos en la estepa."
+        },
+        {
+          "numero": "20",
+          "verso": "Me glorificarán las bestias del campo, los chacales y los avestruces,\nporque he puesto agua en el desierto\ny ríos en la estepa\npara dar de beber a mi pueblo elegido."
+        },
+        {
+          "numero": "21",
+          "verso": "El pueblo que formé para mí proclamará mi alabanza."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 126:1-6",
+      "lecturaNombreNormalizado": "Sal126,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. Cuando el Señor hizo volver a los cautivos de Sión,\nnos parecía soñar."
+        },
+        {
+          "numero": "2",
+          "verso": "Se nos llenaba de risas la boca, la lengua, de cantares de alegría.\nEntonces se decía entre las naciones:\n«El Señor ha hecho con ellos cosas grandes»."
+        },
+        {
+          "numero": "3",
+          "verso": "El Señor ha hecho con nosotros cosas grandes: estamos llenos de alegría."
+        },
+        {
+          "numero": "4",
+          "verso": "Haz volver, Señor, a nuestros cautivos como los torrentes del Négueb."
+        },
+        {
+          "numero": "5",
+          "verso": "Los que siembran con lágrimas cosechan entre cantares de alegría."
+        },
+        {
+          "numero": "6",
+          "verso": "Al marchar iban llorando, llevando las semillas.\nAl volver vienen cantando,\ntrayendo sus gavillas."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Filipenses 3:8-14",
+      "lecturaNombreNormalizado": "Flp3,8-14",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "Es más, considero que todo es pérdida ante la sublimidad del conocimiento de Cristo Jesús, mi Señor. Por él perdí todas las cosas, y las considero como basura con tal de ganar a Cristo"
+        },
+        {
+          "numero": "9",
+          "verso": "y vivir en él, no por mi justicia, la que procede de la Ley, sino por la que viene de la fe en Cristo, justicia que procede de Dios, por la fe."
+        },
+        {
+          "numero": "10",
+          "verso": "Y, de este modo, lograr conocerle a él y la fuerza de su resurrección, y participar así de sus padecimientos, asemejándome a él en su muerte,"
+        },
+        {
+          "numero": "11",
+          "verso": "con la esperanza de alcanzar la resurrección de entre los muertos."
+        },
+        {
+          "numero": "12",
+          "verso": "No es que ya lo haya conseguido, o que ya sea perfecto, sino que continúo esforzándome por ver si lo alcanzo, puesto que yo mismo he sido alcanzado por Cristo Jesús."
+        },
+        {
+          "numero": "13",
+          "verso": "Hermanos, yo no pienso haberlo conseguido aún; pero, olvidando lo que queda atrás, una cosa intento: lanzarme hacia lo que tengo por delante,"
+        },
+        {
+          "numero": "14",
+          "verso": "correr hacia la meta, para alcanzar el premio al que Dios nos llama desde lo alto por Cristo Jesús."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 8:1-11",
+      "lecturaNombreNormalizado": "Jn8,1-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Jesús marchó al Monte de los Olivos."
+        },
+        {
+          "numero": "2",
+          "verso": "Muy de mañana volvió de nuevo al Templo, y todo el pueblo acudía a él; se sentó y se puso a enseñarles."
+        },
+        {
+          "numero": "3",
+          "verso": "Los escribas y fariseos trajeron a una mujer sorprendida en adulterio y la pusieron en medio."
+        },
+        {
+          "numero": "4",
+          "verso": "—Maestro —le dijeron—, esta mujer ha sido sorprendida en flagrante adulterio."
+        },
+        {
+          "numero": "5",
+          "verso": "Moisés en la Ley nos mandó lapidar a mujeres así; ¿tú qué dices?"
+        },
+        {
+          "numero": "6",
+          "verso": "—se lo decían tentándole, para tener de qué acusarle. Pero Jesús, se agachó y se puso a escribir con el dedo en la tierra."
+        },
+        {
+          "numero": "7",
+          "verso": "Como ellos insistían en preguntarle, se incorporó y les dijo: —El que de vosotros esté sin pecado que tire la piedra el primero."
+        },
+        {
+          "numero": "8",
+          "verso": "Y agachándose otra vez, siguió escribiendo en la tierra."
+        },
+        {
+          "numero": "9",
+          "verso": "Al oírle, empezaron a marcharse uno tras otro, comenzando por los más viejos, y quedó Jesús solo, y la mujer, de pie, en medio."
+        },
+        {
+          "numero": "10",
+          "verso": "Jesús se incorporó y le dijo: —Mujer, ¿dónde están? ¿Ninguno te ha condenado?"
+        },
+        {
+          "numero": "11",
+          "verso": "—Ninguno, Señor —respondió ella. Le dijo Jesús:\n—Tampoco yo te condeno; vete y a partir de ahora no peques más."
+        }
+      ]
+    }
+  ]
+}

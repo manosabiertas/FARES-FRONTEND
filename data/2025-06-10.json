@@ -1,0 +1,87 @@
+{
+  "fecha": "2025-06-10",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Corintios 1:18-22",
+      "lecturaNombreNormalizado": "2Corintios1,18-22",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "Por la fidelidad de Dios, que la palabra que os dirigimos no es sí y no."
+        },
+        {
+          "numero": "19",
+          "verso": "Porque Jesucristo, el Hijo de Dios —que os predicamos Silvano, Timoteo y yo— no fue sí y no, sino que en él se ha hecho realidad el sí."
+        },
+        {
+          "numero": "20",
+          "verso": "Porque cuantas promesas hay de Dios, en él tienen su sí; por eso también decimos por su mediación el Amén a Dios para su gloria."
+        },
+        {
+          "numero": "21",
+          "verso": "Y es Dios quien nos confirma con vosotros en Cristo, y quien nos ungió,"
+        },
+        {
+          "numero": "22",
+          "verso": "y quien nos marcó con su sello, y nos dio como arras el Espíritu en nuestros corazones."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 119:129-133, 135",
+      "lecturaNombreNormalizado": "Sal119,129-133,135",
+      "versos": [
+        {
+          "numero": "129",
+          "verso": "(Pe) Admirables son tus preceptos, por eso los guarda mi alma."
+        },
+        {
+          "numero": "130",
+          "verso": "La revelación de tus palabras ilumina, da inteligencia a los sencillos."
+        },
+        {
+          "numero": "131",
+          "verso": "Abro la boca y aspiro el aliento, pues ansío tus mandatos."
+        },
+        {
+          "numero": "132",
+          "verso": "Vuélvete a mí y ten piedad, como acostumbras con los que aman tu Nombre."
+        },
+        {
+          "numero": "133",
+          "verso": "Guía mis pasos según tu promesa, para que no me domine ninguna maldad."
+        },
+        {
+          "numero": "135",
+          "verso": "Haz brillar tu rostro sobre tu siervo y enséñame tus decretos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 5:13-16",
+      "lecturaNombreNormalizado": "Mt5,13-16",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "»Vosotros sois la sal de la tierra. Pero si la sal se vuelve sosa ¿con qué se salará? No vale más que para tirarla fuera y que la pisotee la gente."
+        },
+        {
+          "numero": "14",
+          "verso": "»Vosotros sois la luz del mundo. No puede ocultarse una ciudad situada en lo alto de un monte;"
+        },
+        {
+          "numero": "15",
+          "verso": "ni se enciende una luz para ponerla debajo de un celemín, sino sobre un candelero para que alumbre a todos los de la casa."
+        },
+        {
+          "numero": "16",
+          "verso": "Alumbre así vuestra luz ante los hombres, para que vean vuestras buenas obras y glorifiquen a vuestro Padre, que está en los cielos."
+        }
+      ]
+    }
+  ]
+}

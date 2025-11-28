@@ -1,0 +1,123 @@
+{
+  "fecha": "2025-10-16",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Romanos 3:21-30",
+      "lecturaNombreNormalizado": "Rom3,21-30",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "Ahora, en cambio, la justicia de Dios, atestiguada por la Ley y los Profetas, se ha manifestado con independencia de la Ley:"
+        },
+        {
+          "numero": "22",
+          "verso": "justicia de Dios por medio de la fe en Jesucristo, para todos los que creen. Porque no hay distinción,"
+        },
+        {
+          "numero": "23",
+          "verso": "ya que todos han pecado y están privados de la gloria de Dios"
+        },
+        {
+          "numero": "24",
+          "verso": "y son justificados gratuitamente por su gracia, mediante la redención que está en Cristo Jesús."
+        },
+        {
+          "numero": "25",
+          "verso": "A él lo ha puesto Dios como propiciatorio en su sangre —mediante la fe— para mostrar su justicia tolerando los pecados precedentes,"
+        },
+        {
+          "numero": "26",
+          "verso": "en el tiempo de la paciencia de Dios, con el fin de mostrar su justicia en el tiempo presente, y así ser Él justo y justificar al que vive de la fe en Jesús."
+        },
+        {
+          "numero": "27",
+          "verso": "Entonces, ¿en qué se fundamenta la jactancia? Ha quedado excluida. ¿Y por qué ley?, ¿la de las obras? No: por la ley de la fe."
+        },
+        {
+          "numero": "28",
+          "verso": "Afirmamos, por tanto, que el hombre es justificado por la fe con independencia de las obras de la Ley."
+        },
+        {
+          "numero": "29",
+          "verso": "¿Acaso Dios lo es sólo de los judíos? ¿No lo es también de los gentiles? Sí, también de los gentiles."
+        },
+        {
+          "numero": "30",
+          "verso": "Porque un solo Dios es el mismo que justificará la circuncisión a partir de la fe y la falta de circuncisión mediante la fe."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 130:1-6",
+      "lecturaNombreNormalizado": "Sal130,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. Desde lo más profundo, Te invoco, Señor."
+        },
+        {
+          "numero": "2",
+          "verso": "Señor, escucha mi clamor; estén atentos tus oídos a la voz de mi súplica."
+        },
+        {
+          "numero": "3",
+          "verso": "Si llevas cuenta de las culpas, Señor, Señor mío, ¿quién podrá quedar en pie?"
+        },
+        {
+          "numero": "4",
+          "verso": "Pero en Ti está el perdón, y así mantenemos tu temor."
+        },
+        {
+          "numero": "5",
+          "verso": "Espero en Ti, Señor. Mi alma espera en su palabra;"
+        },
+        {
+          "numero": "6",
+          "verso": "mi alma espera en el Señor más que los centinelas la aurora."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 11:47-54",
+      "lecturaNombreNormalizado": "Lc11,47-54",
+      "versos": [
+        {
+          "numero": "47",
+          "verso": "»¡Ay de vosotros, que edificáis los sepulcros de los profetas, después que vuestros padres los mataron!"
+        },
+        {
+          "numero": "48",
+          "verso": "Así pues, sois testigos de las obras de vuestros padres y consentís en ellas, porque ellos los mataron, y vosotros edificáis sus sepulcros."
+        },
+        {
+          "numero": "49",
+          "verso": "Por eso dijo la sabiduría de Dios: «Les enviaré profetas y apóstoles, y a algunos los matarán y perseguirán,"
+        },
+        {
+          "numero": "50",
+          "verso": "para que se pida cuentas a esta generación de la sangre de todos los profetas derramada desde la creación del mundo,"
+        },
+        {
+          "numero": "51",
+          "verso": "desde la sangre de Abel hasta la sangre de Zacarías, asesinado entre el altar y el Templo». Sí, os lo aseguro: se le pedirán cuentas a esta generación."
+        },
+        {
+          "numero": "52",
+          "verso": "»¡Ay de vosotros, doctores de la Ley, porque os habéis apoderado de la llave de la sabiduría! Vosotros no habéis entrado y a los que querían entrar se lo habéis impedido."
+        },
+        {
+          "numero": "53",
+          "verso": "Cuando salió de allí, los escribas y fariseos comenzaron a atacarle con furia y a acosarle a preguntas sobre muchas cosas,"
+        },
+        {
+          "numero": "54",
+          "verso": "acechándole para cazarle en alguna palabra."
+        }
+      ]
+    }
+  ]
+}

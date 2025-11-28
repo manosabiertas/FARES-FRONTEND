@@ -1,0 +1,138 @@
+{
+  "fecha": "2025-12-14",
+  "color": "rosado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 35:1-6, 10",
+      "lecturaNombreNormalizado": "Is35,1-6,10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Que el desierto y la tierra árida se alegren, que se goce la estepa y florezca como las azucenas!"
+        },
+        {
+          "numero": "2",
+          "verso": "Florezca pujante y alégrese con gozo y cánticos de júbilo.\nSe le ha dado la gloria del Líbano,\nla gala del Carmelo y del Sarón;\nellos verán la gloria del Señor,\nla majestad de nuestro Dios."
+        },
+        {
+          "numero": "3",
+          "verso": "Fortaleced las manos débiles, y consolidad las rodillas que flaquean."
+        },
+        {
+          "numero": "4",
+          "verso": "Decid a los pusilánimes: «¡Cobrad ánimo, no temáis!\nAquí está vuestro Dios,\nllega la venganza, la retribución de Dios.\nÉl vendrá y os salvará»."
+        },
+        {
+          "numero": "5",
+          "verso": "Entonces se abrirán los ojos de los ciegos y se destaparán los oídos de los sordos."
+        },
+        {
+          "numero": "6",
+          "verso": "Entonces el cojo saltará como un ciervo, y la lengua del mudo gritará de júbilo,\nporque manarán aguas en el desierto\ny torrentes en la estepa;"
+        },
+        {
+          "numero": "10",
+          "verso": "Regresarán los redimidos del Señor, llegarán a Sión con gritos de júbilo\ne infinita alegría en sus rostros,\ntraerán regocijo y alegría,\ny desaparecerán la pena y los lamentos."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 146:6-10",
+      "lecturaNombreNormalizado": "Sal146,6-10",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "que hizo los cielos y la tierra, el mar y cuanto hay en él;\nque guarda fidelidad eternamente;"
+        },
+        {
+          "numero": "7",
+          "verso": "que hace justicia a los oprimidos, da pan a los hambrientos.\nEl Señor libera a los cautivos;"
+        },
+        {
+          "numero": "8",
+          "verso": "el Señor abre los ojos a los ciegos; el Señor endereza a los que se encorvan;\nel Señor ama a los justos."
+        },
+        {
+          "numero": "9",
+          "verso": "El Señor guarda a los extranjeros, sustenta al huérfano y a la viuda,\npero tuerce el camino de los impíos."
+        },
+        {
+          "numero": "10",
+          "verso": "El Señor reina eternamente, tu Dios, Sión, de generación en generación."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Santiago 5:7-10",
+      "lecturaNombreNormalizado": "Stg5,7-10",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Por tanto, hermanos, tened paciencia hasta la venida del Señor. Mirad: el labrador espera el fruto precioso de la tierra, aguardándolo con paciencia hasta recibir las lluvias tempranas y las tardías."
+        },
+        {
+          "numero": "8",
+          "verso": "Tened también vosotros paciencia, fortaleced vuestros corazones, porque la venida del Señor está cerca."
+        },
+        {
+          "numero": "9",
+          "verso": "No os quejéis, hermanos, unos de otros, para que no seáis juzgados; mirad que el Juez está ya a la puerta."
+        },
+        {
+          "numero": "10",
+          "verso": "Tomad, hermanos, como modelos de una vida sufrida y paciente a los profetas, que hablaron en nombre del Señor."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 11:2-11",
+      "lecturaNombreNormalizado": "Mt11,2-11",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Entretanto Juan, que en la cárcel había tenido noticia de las obras de Cristo, envió a preguntarle por mediación de sus discípulos:"
+        },
+        {
+          "numero": "3",
+          "verso": "—¿Eres tú el que va a venir, o esperamos a otro?"
+        },
+        {
+          "numero": "4",
+          "verso": "Y Jesús les respondió: —Id y anunciadle a Juan lo que estáis viendo y oyendo:"
+        },
+        {
+          "numero": "5",
+          "verso": "los ciegos ven y los cojos andan, los leprosos quedan limpios y los sordos oyen, los muertos resucitan y a los pobres se les anuncia el Evangelio."
+        },
+        {
+          "numero": "6",
+          "verso": "Y bienaventurado el que no se escandalice de mí."
+        },
+        {
+          "numero": "7",
+          "verso": "Cuando ellos se fueron, Jesús se puso a hablar de Juan a la multitud: —¿Qué salisteis a ver en el desierto? ¿Una caña sacudida por el viento?"
+        },
+        {
+          "numero": "8",
+          "verso": "Entonces, ¿qué salisteis a ver? ¿A un hombre vestido con finos ropajes? Daos cuenta de que los que llevan finos ropajes se encuentran en los palacios reales."
+        },
+        {
+          "numero": "9",
+          "verso": "Entonces, ¿qué salisteis a ver? ¿A un profeta? Sí, os lo aseguro, y más que un profeta."
+        },
+        {
+          "numero": "10",
+          "verso": "Éste es de quien está escrito: Mira que yo envío a mi mensajero delante de ti,\npara que vaya preparándote el camino."
+        },
+        {
+          "numero": "11",
+          "verso": "»En verdad os digo que no ha surgido entre los nacidos de mujer nadie mayor que Juan el Bautista; pero el más pequeño en el Reino de los Cielos es mayor que él."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "fecha": "2025-09-18",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Timoteo 4:12-16",
+      "lecturaNombreNormalizado": "1Timoteo4,12-16",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Que nadie te menosprecie por tu juventud. Debes ser, más bien, un modelo para los fieles en el hablar, en el trato, en la caridad, en la fe y en la pureza."
+        },
+        {
+          "numero": "13",
+          "verso": "Hasta que yo llegue, pon cuidado en la lectura, la exhortación y la enseñanza."
+        },
+        {
+          "numero": "14",
+          "verso": "No descuides la gracia que hay en ti, que te fue conferida mediante la profecía junto con la imposición de manos del presbiterio."
+        },
+        {
+          "numero": "15",
+          "verso": "Medita estas cosas y pon atención en ellas, para que tu progreso sea patente a todos."
+        },
+        {
+          "numero": "16",
+          "verso": "Cuida de ti mismo y de la enseñanza. Persevera en esta disposición, pues actuando así te salvarás a ti mismo y a los que te escuchen."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 111:7-10",
+      "lecturaNombreNormalizado": "Sal111,7-10",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "(Mem) Las obras de sus manos son verdad y justicia. (Nun) Dignos de confianza, todos sus mandatos;"
+        },
+        {
+          "numero": "8",
+          "verso": "(Sámek) promulgados para siempre, (Áin) se han de cumplir con fidelidad y rectitud."
+        },
+        {
+          "numero": "9",
+          "verso": "(Pe) Envió la redención a su pueblo; (Sade) ordenó para siempre su alianza.\n(Qof) Su Nombre es santo y temible."
+        },
+        {
+          "numero": "10",
+          "verso": "(Resh) Principio de la sabiduría es el temor del Señor. (Shin) Sensatos son cuantos lo practican.\n(Tav) Su alabanza permanece para siempre."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 7:36-50",
+      "lecturaNombreNormalizado": "Lc7,36-50",
+      "versos": [
+        {
+          "numero": "36",
+          "verso": "Uno de los fariseos le rogaba que comiera con él; y entrando en casa del fariseo se recostó a la mesa."
+        },
+        {
+          "numero": "37",
+          "verso": "Y entonces una mujer pecadora que había en la ciudad, al enterarse de que estaba recostado a la mesa en casa del fariseo, llevó un frasco de alabastro con perfume,"
+        },
+        {
+          "numero": "38",
+          "verso": "y por detrás se puso a sus pies llorando; y comenzó a bañarle los pies con sus lágrimas, y los enjugaba con sus cabellos, los besaba y los ungía con el perfume."
+        },
+        {
+          "numero": "39",
+          "verso": "Al ver esto el fariseo que le había invitado, se decía: «Si éste fuera profeta, sabría con certeza quién y qué clase de mujer es la que le toca: que es una pecadora»."
+        },
+        {
+          "numero": "40",
+          "verso": "Jesús tomó la palabra y le dijo: —Simón, tengo que decirte una cosa.\nY él contestó:\n—Maestro, di."
+        },
+        {
+          "numero": "41",
+          "verso": "—Un prestamista tenía dos deudores: uno le debía quinientos denarios y otro cincuenta."
+        },
+        {
+          "numero": "42",
+          "verso": "Como ellos no tenían con qué pagar, se lo perdonó a los dos. ¿Cuál de ellos le amará más?"
+        },
+        {
+          "numero": "43",
+          "verso": "—Supongo que aquel a quien perdonó más —contestó Simón. Entonces Jesús le dijo:\n—Has juzgado con rectitud."
+        },
+        {
+          "numero": "44",
+          "verso": "Y vuelto hacia la mujer, le dijo a Simón: —¿Ves a esta mujer? Entré en tu casa y no me diste agua para los pies. Ella en cambio me ha bañado los pies con sus lágrimas y me los ha enjugado con sus cabellos."
+        },
+        {
+          "numero": "45",
+          "verso": "No me diste el beso. Pero ella, desde que entré no ha dejado de besar mis pies."
+        },
+        {
+          "numero": "46",
+          "verso": "No has ungido mi cabeza con aceite. Ella en cambio ha ungido mis pies con perfume."
+        },
+        {
+          "numero": "47",
+          "verso": "Por eso te digo: le son perdonados sus muchos pecados, porque ha amado mucho. Aquel a quien poco se le perdona, poco ama."
+        },
+        {
+          "numero": "48",
+          "verso": "Entonces le dijo a ella: —Tus pecados quedan perdonados."
+        },
+        {
+          "numero": "49",
+          "verso": "Y los convidados comenzaron a decir entre sí: —¿Quién es éste que hasta perdona los pecados?"
+        },
+        {
+          "numero": "50",
+          "verso": "Él le dijo a la mujer: —Tu fe te ha salvado; vete en paz."
+        }
+      ]
+    }
+  ]
+}

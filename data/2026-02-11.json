@@ -1,0 +1,127 @@
+{
+  "fecha": "2026-02-11",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Reyes 10:1-10",
+      "lecturaNombreNormalizado": "1Reyes10,1-10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "La reina de Sabá, al enterarse de la fama que Salomón tenía en nombre del Señor, vino para ponerlo a prueba con enigmas."
+        },
+        {
+          "numero": "2",
+          "verso": "Entró en Jerusalén con un espléndido séquito: camellos cargados de aromas, de gran cantidad de oro y de piedras preciosas. Se presentó a Salomón y le expuso todo lo que tenía pensado."
+        },
+        {
+          "numero": "3",
+          "verso": "Salomón respondió a todas sus preguntas; no hubo ninguna cuestión desconocida para el rey, ninguna que éste no resolviese."
+        },
+        {
+          "numero": "4",
+          "verso": "Cuando la reina de Sabá vio toda la sabiduría de Salomón, el edificio que había construido,"
+        },
+        {
+          "numero": "5",
+          "verso": "los manjares de su mesa, las habitaciones de sus siervos, el porte de sus criados y sus indumentarias, así como sus bodegas y los holocaustos que ofrecía en el Templo, se quedó sin aliento"
+        },
+        {
+          "numero": "6",
+          "verso": "y dijo al rey: —Es verdad lo que he oído en mi tierra sobre ti y sobre tu sabiduría."
+        },
+        {
+          "numero": "7",
+          "verso": "No he dado crédito a esas noticias hasta que he venido y lo he visto con mis ojos, aunque ciertamente no estaba informada ni de la mitad. Sobrepasas en sabiduría y riquezas las noticias que había escuchado."
+        },
+        {
+          "numero": "8",
+          "verso": "Dichosas tus mujeres y dichosos tus siervos, que están siempre junto a ti y escuchan tu sabiduría."
+        },
+        {
+          "numero": "9",
+          "verso": "Bendito sea el Señor, tu Dios, que se ha complacido en ti sentándote en el trono de Israel, en virtud del amor del Señor hacia Israel para siempre, y te ha constituido rey para ejercer el derecho y la justicia."
+        },
+        {
+          "numero": "10",
+          "verso": "Ella regaló al rey ciento veinte talentos de oro y gran cantidad de aromas y piedras preciosas. Nunca llegó tal cantidad de aromas como la que la reina de Sabá regaló al rey Salomón."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 37:5-6, 30-31, 39-40",
+      "lecturaNombreNormalizado": "Sal37,5-6,30-31,39-40",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "(Guímel) Encomienda al Señor tu camino, confía en Él, que Él actuará"
+        },
+        {
+          "numero": "6",
+          "verso": "y hará despuntar tu justicia como la aurora, y tu derecho como luz del mediodía."
+        },
+        {
+          "numero": "30",
+          "verso": "(Pe) La boca del justo habla sabiduría y su lengua pronuncia lo recto;"
+        },
+        {
+          "numero": "31",
+          "verso": "pues en su corazón está la Ley de su Dios: sus pasos no vacilan."
+        },
+        {
+          "numero": "39",
+          "verso": "(Tav) El Señor salva a los justos, Él es su refugio en tiempo de angustia."
+        },
+        {
+          "numero": "40",
+          "verso": "El Señor los socorre y los libra, los libra de los impíos y los salva,\nporque en Él buscan refugio."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 7:14-23",
+      "lecturaNombreNormalizado": "Mc7,14-23",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "Y después de llamar de nuevo a la muchedumbre, les decía: —Escuchadme todos y entendedlo bien:"
+        },
+        {
+          "numero": "15",
+          "verso": "nada hay fuera del hombre que, al entrar en él, pueda hacerlo impuro; las cosas que salen del hombre, ésas son las que hacen impuro al hombre."
+        },
+        {
+          "numero": "17",
+          "verso": "Y cuando entró en casa, ya sin la muchedumbre, sus discípulos le preguntaron el sentido de la parábola."
+        },
+        {
+          "numero": "18",
+          "verso": "Y les dice: —¿Así que también vosotros sois incapaces de entender? ¿No sabéis que todo lo que entra en el hombre desde fuera no puede hacerlo impuro,"
+        },
+        {
+          "numero": "19",
+          "verso": "porque no entra en su corazón, sino en el vientre, y va a la cloaca? De este modo declaraba puros todos los alimentos."
+        },
+        {
+          "numero": "20",
+          "verso": "Pues decía: —Lo que sale del hombre es lo que hace impuro al hombre."
+        },
+        {
+          "numero": "21",
+          "verso": "Porque del interior del corazón de los hombres proceden los malos pensamientos, las fornicaciones, los robos, los homicidios,"
+        },
+        {
+          "numero": "22",
+          "verso": "los adulterios, los deseos avariciosos, las maldades, el fraude, la deshonestidad, la envidia, la blasfemia, la soberbia y la insensatez."
+        },
+        {
+          "numero": "23",
+          "verso": "Todas estas cosas malas proceden del interior y hacen impuro al hombre."
+        }
+      ]
+    }
+  ]
+}

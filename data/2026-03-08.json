@@ -1,0 +1,346 @@
+{
+  "fecha": "2026-03-08",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Éxodo 17:3-7",
+      "lecturaNombreNormalizado": "Ex17,3-7",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Pero el pueblo continuaba sediento y murmuró contra Moisés: —¿Por qué nos has sacado de Egipto para dejarnos morir de sed, a nosotros, a nuestros hijos y a nuestros ganados?"
+        },
+        {
+          "numero": "4",
+          "verso": "Moisés clamó al Señor diciendo: —¿Qué puedo hacer con este pueblo? Casi llegan a apedrearme."
+        },
+        {
+          "numero": "5",
+          "verso": "Respondió el Señor a Moisés: —Pasa delante del pueblo acompañado de algunos ancianos de Israel, lleva en tu mano el bastón con que golpeaste el Nilo y emprende la marcha."
+        },
+        {
+          "numero": "6",
+          "verso": "Yo estaré junto a ti sobre la roca en el Horeb; golpearás la roca y saldrá agua para que beba el pueblo. Lo hizo así Moisés a la vista de los ancianos de Israel."
+        },
+        {
+          "numero": "7",
+          "verso": "Y llamó a aquel lugar Masá y Meribá por la querella de los hijos de Israel y por haber tentado al Señor diciendo: «¿Está el Señor entre nosotros, o no?»"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 95:1-2, 6-9",
+      "lecturaNombreNormalizado": "Sal95,1-2,6-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Venid!, cantemos jubilosos al Señor, aclamemos a la Roca de nuestra salvación."
+        },
+        {
+          "numero": "2",
+          "verso": "Vayamos a su presencia con acción de gracias, aclamémosle con salmos."
+        },
+        {
+          "numero": "6",
+          "verso": "Venid, adoremos y postrémonos, pongámonos de hinojos\nante el Señor, nuestro Hacedor."
+        },
+        {
+          "numero": "7",
+          "verso": "Pues Él es nuestro Dios, y nosotros el pueblo que Él apacienta,\nlas ovejas que Él cuida.\n¡Ojalá escuchéis hoy su voz!"
+        },
+        {
+          "numero": "8",
+          "verso": "No endurezcáis vuestro corazón como en Meribá, como el día de Masá, en el desierto,"
+        },
+        {
+          "numero": "9",
+          "verso": "donde me tentaron vuestros padres, me pusieron a prueba,\naunque habían visto mis obras."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Romanos 5:1-2, 5-8",
+      "lecturaNombreNormalizado": "Rom5,1-2,5-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Justificados, por tanto, por la fe, estamos en paz con Dios por medio de nuestro Señor Jesucristo,"
+        },
+        {
+          "numero": "2",
+          "verso": "por quien también tenemos acceso en virtud de la fe a esta gracia en la que permanecemos, y nos gloriamos apoyados en la esperanza de la gloria de Dios."
+        },
+        {
+          "numero": "5",
+          "verso": "Una esperanza que no defrauda, porque el amor de Dios ha sido derramado en nuestros corazones por medio del Espíritu Santo que se nos ha dado."
+        },
+        {
+          "numero": "6",
+          "verso": "Porque Cristo, cuando todavía nosotros éramos débiles, murió por los impíos en el tiempo establecido."
+        },
+        {
+          "numero": "7",
+          "verso": "En realidad, es difícil encontrar alguien que muera por un hombre justo. Quizá alguien se atreva a morir por una persona buena."
+        },
+        {
+          "numero": "8",
+          "verso": "Pero Dios demuestra su amor hacia nosotros porque, siendo todavía pecadores, Cristo murió por nosotros."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 4:5-42",
+      "lecturaNombreNormalizado": "Jn4,5-42",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "Llegó entonces a una ciudad de Samaría, llamada Sicar, junto al campo que le dio Jacob a su hijo José."
+        },
+        {
+          "numero": "6",
+          "verso": "Estaba allí el pozo de Jacob. Jesús, fatigado del camino, se había sentado en el pozo. Era más o menos la hora sexta."
+        },
+        {
+          "numero": "7",
+          "verso": "Vino una mujer de Samaría a sacar agua. Jesús le dijo: —Dame de beber"
+        },
+        {
+          "numero": "8",
+          "verso": "—sus discípulos se habían marchado a la ciudad a comprar alimentos."
+        },
+        {
+          "numero": "9",
+          "verso": "Entonces le dijo la mujer samaritana: —¿Cómo tú, siendo judío, me pides de beber a mí, que soy una mujer samaritana? —porque los judíos no se tratan con los samaritanos."
+        },
+        {
+          "numero": "10",
+          "verso": "Jesús le respondió: —Si conocieras el don de Dios y quién es el que te dice: «Dame de beber», tú le habrías pedido a él y él te habría dado agua viva."
+        },
+        {
+          "numero": "11",
+          "verso": "La mujer le dijo: —Señor, no tienes nada con qué sacar agua, y el pozo es hondo, ¿de dónde vas a sacar el agua viva?"
+        },
+        {
+          "numero": "12",
+          "verso": "¿O es que eres tú mayor que nuestro padre Jacob, que nos dio este pozo, del cual bebieron él, sus hijos y sus ganados?"
+        },
+        {
+          "numero": "13",
+          "verso": "—Todo el que bebe de esta agua tendrá sed de nuevo —respondió Jesús—,"
+        },
+        {
+          "numero": "14",
+          "verso": "pero el que beba del agua que yo le daré no tendrá sed nunca más, sino que el agua que yo le daré se hará en él fuente de agua que salta hasta la vida eterna."
+        },
+        {
+          "numero": "15",
+          "verso": "—Señor, dame de esa agua, para que no tenga sed ni tenga que venir hasta aquí a sacarla —le dijo la mujer."
+        },
+        {
+          "numero": "16",
+          "verso": "Él le contestó: —Anda, llama a tu marido y vuelve aquí."
+        },
+        {
+          "numero": "17",
+          "verso": "—No tengo marido —le respondió la mujer. Jesús le contestó:\n—Bien has dicho: «No tengo marido»,"
+        },
+        {
+          "numero": "18",
+          "verso": "porque has tenido cinco y el que tienes ahora no es tu marido; en esto has dicho la verdad."
+        },
+        {
+          "numero": "19",
+          "verso": "—Señor, veo que tú eres un profeta —le dijo la mujer—."
+        },
+        {
+          "numero": "20",
+          "verso": "Nuestros padres adoraron a Dios en este monte, y vosotros decís que el lugar donde se debe adorar está en Jerusalén."
+        },
+        {
+          "numero": "21",
+          "verso": "Le respondió Jesús: —Créeme, mujer, llega la hora en que ni en este monte ni en Jerusalén adoraréis al Padre."
+        },
+        {
+          "numero": "22",
+          "verso": "Vosotros adoráis lo que no conocéis, nosotros adoramos lo que conocemos, porque la salvación procede de los judíos."
+        },
+        {
+          "numero": "23",
+          "verso": "Pero llega la hora, y es ésta, en la que los verdaderos adoradores adorarán al Padre en espíritu y en verdad. Porque así son los adoradores que el Padre busca."
+        },
+        {
+          "numero": "24",
+          "verso": "Dios es espíritu, y los que le adoran deben adorar en espíritu y en verdad."
+        },
+        {
+          "numero": "25",
+          "verso": "—Sé que el Mesías, el llamado Cristo, va a venir —le dijo la mujer—. Cuando él venga nos anunciará todas las cosas."
+        },
+        {
+          "numero": "26",
+          "verso": "Le respondió Jesús: —Yo soy, el que habla contigo."
+        },
+        {
+          "numero": "27",
+          "verso": "A continuación llegaron sus discípulos, y se sorprendieron de que estuviera hablando con una mujer. Pero ninguno le preguntó: «¿Qué buscas?», o «¿de qué hablas con ella?»"
+        },
+        {
+          "numero": "28",
+          "verso": "La mujer dejó su cántaro, fue a la ciudad y le dijo a la gente:"
+        },
+        {
+          "numero": "29",
+          "verso": "—Venid a ver a un hombre que me ha dicho todo lo que he hecho. ¿No será él el Cristo?"
+        },
+        {
+          "numero": "30",
+          "verso": "Salieron de la ciudad y fueron adonde él estaba."
+        },
+        {
+          "numero": "31",
+          "verso": "Entretanto los discípulos le rogaban diciendo: —Rabbí, come."
+        },
+        {
+          "numero": "32",
+          "verso": "Pero él les dijo: —Para comer yo tengo un alimento que vosotros no conocéis."
+        },
+        {
+          "numero": "33",
+          "verso": "Decían los discípulos entre sí: —¿Pero es que le ha traído alguien de comer?"
+        },
+        {
+          "numero": "34",
+          "verso": "Jesús les dijo: —Mi alimento es hacer la voluntad del que me ha enviado y llevar a cabo su obra."
+        },
+        {
+          "numero": "35",
+          "verso": "¿No decís vosotros que faltan cuatro meses para la siega? Pues yo os digo: levantad los ojos y mirad los campos que están dorados para la siega;"
+        },
+        {
+          "numero": "36",
+          "verso": "el segador recibe ya su jornal y recoge el fruto para la vida eterna, para que se gocen juntos el que siembra y el que siega."
+        },
+        {
+          "numero": "37",
+          "verso": "Pues en esto es verdadero el refrán de que uno es el que siembra y otro el que siega."
+        },
+        {
+          "numero": "38",
+          "verso": "Yo os envié a segar lo que vosotros no habéis trabajado; otros trabajaron y vosotros os habéis aprovechado de su esfuerzo."
+        },
+        {
+          "numero": "39",
+          "verso": "Muchos samaritanos de aquella ciudad creyeron en él por la palabra de la mujer que atestiguaba: «Me ha dicho todo lo que he hecho»."
+        },
+        {
+          "numero": "40",
+          "verso": "Así que, cuando los samaritanos llegaron adonde él estaba, le pidieron que se quedara con ellos. Y se quedó allí dos días."
+        },
+        {
+          "numero": "41",
+          "verso": "Entonces creyeron en él muchos más por su predicación."
+        },
+        {
+          "numero": "42",
+          "verso": "Y le decían a la mujer: —Ya no creemos por tu palabra; nosotros mismos hemos oído y sabemos que éste es en verdad el Salvador del mundo."
+        },
+        {
+          "numero": "5",
+          "verso": "Llegó entonces a una ciudad de Samaría, llamada Sicar, junto al campo que le dio Jacob a su hijo José."
+        },
+        {
+          "numero": "6",
+          "verso": "Estaba allí el pozo de Jacob. Jesús, fatigado del camino, se había sentado en el pozo. Era más o menos la hora sexta."
+        },
+        {
+          "numero": "7",
+          "verso": "Vino una mujer de Samaría a sacar agua. Jesús le dijo: —Dame de beber"
+        },
+        {
+          "numero": "8",
+          "verso": "—sus discípulos se habían marchado a la ciudad a comprar alimentos."
+        },
+        {
+          "numero": "9",
+          "verso": "Entonces le dijo la mujer samaritana: —¿Cómo tú, siendo judío, me pides de beber a mí, que soy una mujer samaritana? —porque los judíos no se tratan con los samaritanos."
+        },
+        {
+          "numero": "10",
+          "verso": "Jesús le respondió: —Si conocieras el don de Dios y quién es el que te dice: «Dame de beber», tú le habrías pedido a él y él te habría dado agua viva."
+        },
+        {
+          "numero": "11",
+          "verso": "La mujer le dijo: —Señor, no tienes nada con qué sacar agua, y el pozo es hondo, ¿de dónde vas a sacar el agua viva?"
+        },
+        {
+          "numero": "12",
+          "verso": "¿O es que eres tú mayor que nuestro padre Jacob, que nos dio este pozo, del cual bebieron él, sus hijos y sus ganados?"
+        },
+        {
+          "numero": "13",
+          "verso": "—Todo el que bebe de esta agua tendrá sed de nuevo —respondió Jesús—,"
+        },
+        {
+          "numero": "14",
+          "verso": "pero el que beba del agua que yo le daré no tendrá sed nunca más, sino que el agua que yo le daré se hará en él fuente de agua que salta hasta la vida eterna."
+        },
+        {
+          "numero": "15",
+          "verso": "—Señor, dame de esa agua, para que no tenga sed ni tenga que venir hasta aquí a sacarla —le dijo la mujer."
+        },
+        {
+          "numero": "19",
+          "verso": "—Señor, veo que tú eres un profeta —le dijo la mujer—."
+        },
+        {
+          "numero": "20",
+          "verso": "Nuestros padres adoraron a Dios en este monte, y vosotros decís que el lugar donde se debe adorar está en Jerusalén."
+        },
+        {
+          "numero": "21",
+          "verso": "Le respondió Jesús: —Créeme, mujer, llega la hora en que ni en este monte ni en Jerusalén adoraréis al Padre."
+        },
+        {
+          "numero": "22",
+          "verso": "Vosotros adoráis lo que no conocéis, nosotros adoramos lo que conocemos, porque la salvación procede de los judíos."
+        },
+        {
+          "numero": "23",
+          "verso": "Pero llega la hora, y es ésta, en la que los verdaderos adoradores adorarán al Padre en espíritu y en verdad. Porque así son los adoradores que el Padre busca."
+        },
+        {
+          "numero": "24",
+          "verso": "Dios es espíritu, y los que le adoran deben adorar en espíritu y en verdad."
+        },
+        {
+          "numero": "25",
+          "verso": "—Sé que el Mesías, el llamado Cristo, va a venir —le dijo la mujer—. Cuando él venga nos anunciará todas las cosas."
+        },
+        {
+          "numero": "26",
+          "verso": "Le respondió Jesús: —Yo soy, el que habla contigo."
+        },
+        {
+          "numero": "39",
+          "verso": "Muchos samaritanos de aquella ciudad creyeron en él por la palabra de la mujer que atestiguaba: «Me ha dicho todo lo que he hecho»."
+        },
+        {
+          "numero": "40",
+          "verso": "Así que, cuando los samaritanos llegaron adonde él estaba, le pidieron que se quedara con ellos. Y se quedó allí dos días."
+        },
+        {
+          "numero": "41",
+          "verso": "Entonces creyeron en él muchos más por su predicación."
+        },
+        {
+          "numero": "42",
+          "verso": "Y le decían a la mujer: —Ya no creemos por tu palabra; nosotros mismos hemos oído y sabemos que éste es en verdad el Salvador del mundo."
+        }
+      ]
+    }
+  ]
+}

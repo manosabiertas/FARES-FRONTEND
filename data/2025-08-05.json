@@ -1,0 +1,167 @@
+{
+  "fecha": "2025-08-05",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Números 12:1-13",
+      "lecturaNombreNormalizado": "Nm12,1-13",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "María y Aarón murmuraron contra Moisés por causa de la cusita que había tomado por esposa —pues se había desposado con una mujer cusita—,"
+        },
+        {
+          "numero": "2",
+          "verso": "y dijeron: —¿Acaso el Señor ha hablado sólo con Moisés? ¿No ha hablado también con nosotros?\nY el Señor los oyó."
+        },
+        {
+          "numero": "3",
+          "verso": "Pero este hombre, Moisés, era muy humilde, más que ningún otro hombre sobre la faz de la tierra."
+        },
+        {
+          "numero": "4",
+          "verso": "De improviso, el Señor dijo a Moisés, a Aarón y a María: —Salid los tres hacia la Tienda de la Reunión.\nY salieron los tres."
+        },
+        {
+          "numero": "5",
+          "verso": "El Señor bajó en una columna de nube, se puso a la entrada de la tienda, llamó a Aarón y María, y salieron ambos."
+        },
+        {
+          "numero": "6",
+          "verso": "Y dijo: —Escuchad, pues, mis palabras:\nCuando hay entre vosotros un profeta del Señor,\nmediante visiones yo me doy a conocer,\nen el sueño yo le hablo."
+        },
+        {
+          "numero": "7",
+          "verso": "Esto no lo hago con mi siervo Moisés. Ningún otro es tan fiel en toda mi casa."
+        },
+        {
+          "numero": "8",
+          "verso": "Conversamos cara a cara. Mediante visión, no por enigmas,\ncontempla la figura del Señor.\n¿Cómo no teméis murmurar contra mi siervo Moisés?"
+        },
+        {
+          "numero": "9",
+          "verso": "Se encendió la ira del Señor contra ellos y el Señor se marchó."
+        },
+        {
+          "numero": "10",
+          "verso": "La nube se apartó de encima de la tienda y María quedó leprosa, blanca como la nieve. Aarón se dirigió hacia María y vio que estaba leprosa."
+        },
+        {
+          "numero": "11",
+          "verso": "Entonces Aarón dijo a Moisés: —Por favor, señor mío, no cargues sobre nosotros este pecado que tan neciamente hemos cometido."
+        },
+        {
+          "numero": "12",
+          "verso": "¡Que ella no sea como un aborto que, cuando sale de las entrañas de su madre, tiene consumida la mitad de su carne!"
+        },
+        {
+          "numero": "13",
+          "verso": "Moisés clamó al Señor diciendo: —Oh Dios, ¡cúrala, por favor!"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 51:3-7, 12-13",
+      "lecturaNombreNormalizado": "Sal51,3-7,12-13",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Ten misericordia de mí, Dios mío, según tu bondad; según tu inmensa compasión\nborra mi delito."
+        },
+        {
+          "numero": "4",
+          "verso": "Lávame por completo de mi culpa, y purifícame de mi pecado."
+        },
+        {
+          "numero": "5",
+          "verso": "Pues yo reconozco mi delito, y mi pecado está de continuo ante mí."
+        },
+        {
+          "numero": "6",
+          "verso": "Contra Ti, contra Ti sólo he pecado, y he hecho lo que es malo a tus ojos.\nPor eso has de ser justo en tu sentencia,\nhas de tener razón en tu juicio."
+        },
+        {
+          "numero": "7",
+          "verso": "¡Mira! En culpa nací, y en pecado me concibió mi madre."
+        },
+        {
+          "numero": "12",
+          "verso": "Crea en mí, Dios mío, un corazón puro, y renueva en mi interior un espíritu firme."
+        },
+        {
+          "numero": "13",
+          "verso": "No me arrojes de tu presencia, ni me retires tu santo Espíritu."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 14:22-36",
+      "lecturaNombreNormalizado": "Mt14,22-36",
+      "versos": [
+        {
+          "numero": "22",
+          "verso": "Y enseguida Jesús mandó a los discípulos que subieran a la barca y que se adelantaran a la otra orilla, mientras él despedía a la gente."
+        },
+        {
+          "numero": "23",
+          "verso": "Y, después de despedirla, subió al monte a orar a solas. Cuando se hizo de noche seguía él solo allí."
+        },
+        {
+          "numero": "24",
+          "verso": "Mientras tanto, la barca ya se había alejado de tierra muchos estadios, sacudida por las olas, porque el viento le era contrario."
+        },
+        {
+          "numero": "25",
+          "verso": "En la cuarta vigilia de la noche vino hacia ellos caminando sobre el mar."
+        },
+        {
+          "numero": "26",
+          "verso": "Cuando le vieron los discípulos andando sobre el mar, se asustaron y dijeron: —¡Es un fantasma! —y llenos de miedo empezaron a gritar."
+        },
+        {
+          "numero": "27",
+          "verso": "Pero al instante Jesús les habló: —Tened confianza, soy yo, no temáis."
+        },
+        {
+          "numero": "28",
+          "verso": "Entonces Pedro le respondió: —Señor, si eres tú, manda que yo vaya a ti sobre las aguas."
+        },
+        {
+          "numero": "29",
+          "verso": "—Ven —le dijo él. Y Pedro se bajó de la barca y comenzó a andar sobre las aguas en dirección a Jesús."
+        },
+        {
+          "numero": "30",
+          "verso": "Pero al ver que el viento era muy fuerte se atemorizó y, al empezar a hundirse, se puso a gritar: —¡Señor, sálvame!"
+        },
+        {
+          "numero": "31",
+          "verso": "Al instante Jesús alargó la mano, lo sujetó y le dijo: —Hombre de poca fe, ¿por qué has dudado?"
+        },
+        {
+          "numero": "32",
+          "verso": "Y cuando subieron a la barca se calmó el viento."
+        },
+        {
+          "numero": "33",
+          "verso": "Los que estaban en la barca le adoraron diciendo: —Verdaderamente eres Hijo de Dios."
+        },
+        {
+          "numero": "34",
+          "verso": "Acabaron la travesía y llegaron a tierra a la altura de Genesaret."
+        },
+        {
+          "numero": "35",
+          "verso": "Al reconocerlo los hombres de aquel lugar mandaron aviso a toda la comarca y le trajeron a todos los que se sentían mal,"
+        },
+        {
+          "numero": "36",
+          "verso": "y le suplicaban poder tocar aunque sólo fuera el borde de su manto. Y todos los que lo tocaron quedaron sanos."
+        }
+      ]
+    }
+  ]
+}

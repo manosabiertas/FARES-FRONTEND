@@ -1,0 +1,106 @@
+{
+  "fecha": "2026-09-06",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Ezequiel 33:7-9",
+      "lecturaNombreNormalizado": "Ez33,7-9",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "»A ti, hijo de hombre, te he puesto como centinela sobre la casa de Israel: escucharás la palabra de mi boca y les advertirás de mi parte."
+        },
+        {
+          "numero": "8",
+          "verso": "Si digo al impío: «Impío, vas a morir», y no hablas para advertir al impío de su camino, este impío morirá por su culpa, pero reclamaré su sangre de tu mano."
+        },
+        {
+          "numero": "9",
+          "verso": "Pero si tú adviertes al impío para que se aparte de su camino y no se aparta, él morirá por su culpa pero tú habrás salvado tu vida."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 95:1-2, 6-9",
+      "lecturaNombreNormalizado": "Sal95,1-2,6-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Venid!, cantemos jubilosos al Señor, aclamemos a la Roca de nuestra salvación."
+        },
+        {
+          "numero": "2",
+          "verso": "Vayamos a su presencia con acción de gracias, aclamémosle con salmos."
+        },
+        {
+          "numero": "6",
+          "verso": "Venid, adoremos y postrémonos, pongámonos de hinojos\nante el Señor, nuestro Hacedor."
+        },
+        {
+          "numero": "7",
+          "verso": "Pues Él es nuestro Dios, y nosotros el pueblo que Él apacienta,\nlas ovejas que Él cuida.\n¡Ojalá escuchéis hoy su voz!"
+        },
+        {
+          "numero": "8",
+          "verso": "No endurezcáis vuestro corazón como en Meribá, como el día de Masá, en el desierto,"
+        },
+        {
+          "numero": "9",
+          "verso": "donde me tentaron vuestros padres, me pusieron a prueba,\naunque habían visto mis obras."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Romanos 13:8-10",
+      "lecturaNombreNormalizado": "Rom13,8-10",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "No debáis nada a nadie, a no ser el amaros unos a otros; porque el que ama al prójimo ha cumplido plenamente la Ley."
+        },
+        {
+          "numero": "9",
+          "verso": "Pues no adulterarás, no matarás, no robarás, no codiciarás y cualquier otro precepto, se compendian en este mandamiento: Amarás a tu prójimo como a ti mismo."
+        },
+        {
+          "numero": "10",
+          "verso": "La caridad no hace mal al prójimo. Por tanto, la caridad es la plenitud de la Ley."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 18:15-20",
+      "lecturaNombreNormalizado": "Mt18,15-20",
+      "versos": [
+        {
+          "numero": "15",
+          "verso": "»Si tu hermano peca, vete y corrígele a solas tú con él. Si te escucha, habrás ganado a tu hermano."
+        },
+        {
+          "numero": "16",
+          "verso": "Si no escucha, toma entonces contigo a uno o dos, para que cualquier asunto quede firme por la palabra de dos o tres testigos."
+        },
+        {
+          "numero": "17",
+          "verso": "Pero si no quiere escucharlos, díselo a la Iglesia. Si tampoco quiere escuchar a la Iglesia, tenlo por pagano y publicano."
+        },
+        {
+          "numero": "18",
+          "verso": "»Os aseguro que todo lo que atéis en la tierra quedará atado en el cielo, y todo lo que desatéis en la tierra quedará desatado en el cielo."
+        },
+        {
+          "numero": "19",
+          "verso": "»Os aseguro también que si dos de vosotros se ponen de acuerdo en la tierra sobre cualquier cosa que quieran pedir, mi Padre que está en los cielos se lo concederá."
+        },
+        {
+          "numero": "20",
+          "verso": "Pues donde hay dos o tres reunidos en mi nombre, allí estoy yo en medio de ellos."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "fecha": "2025-06-13",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Sabiduría 7:7-14",
+      "lecturaNombreNormalizado": "Sab7,7-14",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Por eso, rogué prudencia y se me concedió; invoqué un espíritu de sabiduría y vino a mí."
+        },
+        {
+          "numero": "8",
+          "verso": "La antepuse a cetros y tronos y, comparada con ella, tuve en nada la riqueza."
+        },
+        {
+          "numero": "9",
+          "verso": "La piedra más preciosa no la iguala, porque, a la vista de ella, todo el oro es un poco de arena\ny, ante ella, la plata vale lo que el barro."
+        },
+        {
+          "numero": "10",
+          "verso": "La quise más que la salud y la belleza y preferí tenerla como luz,\nporque su resplandor no tiene ocaso."
+        },
+        {
+          "numero": "11",
+          "verso": "Con ella me vinieron a la vez todos los bienes, pues en sus manos hay riqueza incalculable."
+        },
+        {
+          "numero": "12",
+          "verso": "De todos disfruté, porque los trae la sabiduría, aunque ignoraba que ella es la madre de todos."
+        },
+        {
+          "numero": "13",
+          "verso": "La aprendí sin engaño y la comunico sin envidia; no escondo sus riquezas."
+        },
+        {
+          "numero": "14",
+          "verso": "Ella es para los hombres un tesoro inagotable; los que lo alcanzan consiguen la amistad de Dios,\npues les recomienda el don de su enseñanza."
+        },
+        {
+          "numero": "7",
+          "verso": "A cada uno de nosotros, sin embargo, ha sido dada la gracia en la medida en que Cristo quiere otorgar sus dones."
+        },
+        {
+          "numero": "11",
+          "verso": "Él constituyó a algunos como apóstoles, a otros profetas, a otros evangelizadores, a otros pastores y doctores,"
+        },
+        {
+          "numero": "12",
+          "verso": "a fin de que trabajen en perfeccionar a los santos cumpliendo con su ministerio, para la edificación del cuerpo de Cristo,"
+        },
+        {
+          "numero": "13",
+          "verso": "hasta que lleguemos todos a la unidad de la fe y del conocimiento del Hijo de Dios, al hombre perfecto, a la medida de la plenitud de Cristo,"
+        },
+        {
+          "numero": "14",
+          "verso": "para que ya no seamos niños que van de un lado a otro y están zarandeados por cualquier corriente doctrinal, por el engaño de los hombres, por la astucia que lleva al error."
+        },
+        {
+          "numero": "15",
+          "verso": "Por el contrario, viviendo la verdad con caridad, crezcamos en todo hacia aquel que es la cabeza, Cristo,"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 40:3-4, 10-11, 17",
+      "lecturaNombreNormalizado": "Sal40,3-4,10-11,17",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Me sacó del pozo de la miseria, del fango cenagoso,\nasentó mis pies sobre roca\ny consolidó mis pasos."
+        },
+        {
+          "numero": "4",
+          "verso": "Ha puesto en mi boca un cántico nuevo, una alabanza a nuestro Dios.\nMuchos, al verlo, temerán\ny esperarán en el Señor."
+        },
+        {
+          "numero": "10",
+          "verso": "He anunciado la justicia en la gran asamblea; no he cerrado mis labios,\nSeñor, Tú lo sabes bien."
+        },
+        {
+          "numero": "11",
+          "verso": "No he escondido tu justicia dentro de mi corazón; he proclamado tu fidelidad y tu salvación,\nno he ocultado tu bondad y tu lealtad\na la gran asamblea."
+        },
+        {
+          "numero": "17",
+          "verso": "Que se gocen y se alegren en Ti todos los que te buscan.\nDigan sin cesar: «¡Grande es el Señor!»,\nlos que aman tu salvación."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 16:15-20",
+      "lecturaNombreNormalizado": "Mc16,15-20",
+      "versos": [
+        {
+          "numero": "15",
+          "verso": "Y les dijo: —Id al mundo entero y predicad el Evangelio a todo lo creado."
+        },
+        {
+          "numero": "16",
+          "verso": "El que crea y sea bautizado será salvado; pero el que no crea será condenado."
+        },
+        {
+          "numero": "17",
+          "verso": "A los que crean acompañarán estos signos: en mi nombre expulsarán demonios, hablarán lenguas nuevas,"
+        },
+        {
+          "numero": "18",
+          "verso": "agarrarán serpientes con las manos y, si bebieran algún veneno, no les dañará; impondrán las manos sobre los enfermos y quedarán curados."
+        },
+        {
+          "numero": "19",
+          "verso": "El Señor, Jesús, después de hablarles, se elevó al cielo y está sentado a la derecha de Dios."
+        },
+        {
+          "numero": "20",
+          "verso": "Y ellos, partiendo de allí, predicaron por todas partes, y el Señor cooperaba y confirmaba la palabra con los milagros que la acompañaban."
+        }
+      ]
+    }
+  ]
+}

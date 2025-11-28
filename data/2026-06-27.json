@@ -1,0 +1,147 @@
+{
+  "fecha": "2026-06-27",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Lamentaciones 2:2, 10-14, 18-19",
+      "lecturaNombreNormalizado": "Lam2,2,10-14,18-19",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "(Bet) Destruyó el Señor sin piedad los pastos de Jacob;\nderribó en su furor\nlas fortalezas de la hija de Judá;\nechó por tierra, profanó,\nel reino y sus príncipes."
+        },
+        {
+          "numero": "10",
+          "verso": "(Yod) Se sientan en tierra: están en silencio los ancianos de la hija de Sión,\nse echan ceniza a la cabeza,\nse ciñen de saco.\nAbajan su cabeza a tierra\nlas doncellas de Jerusalén."
+        },
+        {
+          "numero": "11",
+          "verso": "(Kaf) Mis ojos están consumidos por las lágrimas, me hierven las entrañas,\nderramados por tierra mis hígados,\npor la ruina de la hija de mi pueblo,\nporque niñitos y lactantes desfallecen\nen las plazas de la ciudad."
+        },
+        {
+          "numero": "12",
+          "verso": "(Lámed) Preguntan a sus madres: «¿Dónde hay pan y vino?»,\nmientras desfallecen como malheridos\nen las plazas de la ciudad,\ny exhalan su espíritu\nen el regazo de sus madres."
+        },
+        {
+          "numero": "13",
+          "verso": "(Mem) ¿Con qué te compararía yo, con qué te asemejaría, hija de Jerusalén?\n¿Con qué te igualaría para consolarte,\ndoncella, hija de Sión?\nPues grande como el mar es tu quebranto,\n¿quién te podrá curar?"
+        },
+        {
+          "numero": "14",
+          "verso": "(Nun) Tus profetas te ofrecieron visiones vanas y estúpidas,\ny no te desvelaron tu iniquidad\npara hacerte cambiar,\nsino que te ofrecieron visiones\nde vaticinios vanos y seductores."
+        },
+        {
+          "numero": "18",
+          "verso": "(Sade) ¡Clama al Señor con todo el corazón, por la muralla de la hija de Sión!\nQue corran torrentes de lágrimas\ndía y noche.\nNo te permitas descanso,\nni tengan tregua las niñas de tus ojos."
+        },
+        {
+          "numero": "19",
+          "verso": "(Qof) ¡Levántate! Grita en la noche cuando empiezan los turnos de centinela.\nQue tu corazón se derrita como agua\nante la presencia del Señor.\nÁlzale tus manos\npor la vida de tus niñitos,\nque desfallecen de hambre\nen la esquina de cada calle."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 74:1-7, 20-21",
+      "lecturaNombreNormalizado": "Sal74,1-7,20-21",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Masquil. De Asaf. ¿Por qué nos has rechazado para siempre, Dios mío,\nse ha encendido tu ira con las ovejas de tu rebaño?"
+        },
+        {
+          "numero": "2",
+          "verso": "Acuérdate de la comunidad que te adquiriste antaño, la tribu de tu heredad que redimiste,\ndel monte Sión, en que pusiste tu morada."
+        },
+        {
+          "numero": "3",
+          "verso": "Alza tus pasos sobre las ruinas perennes: todo lo ha desolado el enemigo en el Templo."
+        },
+        {
+          "numero": "4",
+          "verso": "Tus adversarios rugían en medio de tu lugar sagrado; izaron como insignia sus propias insignias."
+        },
+        {
+          "numero": "5",
+          "verso": "Se parecían a los que blanden las hachas subiendo por la espesura del bosque."
+        },
+        {
+          "numero": "6",
+          "verso": "Destrozaron por completo sus puertas con hachas y martillos."
+        },
+        {
+          "numero": "7",
+          "verso": "Prendieron fuego a tu Santuario, profanaron abatiéndola a tierra la Morada de tu Nombre."
+        },
+        {
+          "numero": "20",
+          "verso": "Mira la alianza: porque los escondrijos de la tierra están llenos de cubiles de violencia."
+        },
+        {
+          "numero": "21",
+          "verso": "Que el oprimido no vuelva avergonzado. Que el pobre y el desvalido puedan alabar tu Nombre."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 8:5-17",
+      "lecturaNombreNormalizado": "Mt8,5-17",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "Al entrar en Cafarnaún se le acercó un centurión que le rogó:"
+        },
+        {
+          "numero": "6",
+          "verso": "—Señor, mi criado yace paralítico en casa con dolores muy fuertes."
+        },
+        {
+          "numero": "7",
+          "verso": "Jesús le dijo: —Yo iré y le curaré."
+        },
+        {
+          "numero": "8",
+          "verso": "Pero el centurión le respondió: —Señor, no soy digno de que entres en mi casa. Pero basta que lo digas de palabra y mi criado quedará sano."
+        },
+        {
+          "numero": "9",
+          "verso": "Pues también yo soy un hombre que se encuentra bajo disciplina y tengo soldados a mis órdenes. Le digo a uno: «Vete», y va; y a otro: «Ven», y viene; y a mi siervo: «Haz esto», y lo hace."
+        },
+        {
+          "numero": "10",
+          "verso": "Al oírlo Jesús se admiró y les dijo a los que le seguían: —En verdad os digo que en nadie de Israel he encontrado una fe tan grande."
+        },
+        {
+          "numero": "11",
+          "verso": "Y os digo que muchos de oriente y occidente vendrán y se sentarán a la mesa con Abrahán, Isaac y Jacob en el Reino de los Cielos,"
+        },
+        {
+          "numero": "12",
+          "verso": "mientras que los hijos del Reino serán arrojados a las tinieblas de afuera: allí habrá llanto y rechinar de dientes."
+        },
+        {
+          "numero": "13",
+          "verso": "Y le dijo Jesús al centurión: —Vete y que se haga conforme has creído.\nY en aquel momento quedó sano el criado."
+        },
+        {
+          "numero": "14",
+          "verso": "Al llegar Jesús a casa de Pedro vio a la suegra de éste en cama, con fiebre."
+        },
+        {
+          "numero": "15",
+          "verso": "Le tocó de la mano y le desapareció la fiebre; entonces ella se levantó y se puso a servirle."
+        },
+        {
+          "numero": "16",
+          "verso": "Al atardecer, le trajeron muchos endemoniados; expulsó a los espíritus con su palabra y curó a todos los enfermos,"
+        },
+        {
+          "numero": "17",
+          "verso": "para que se cumpliera lo dicho por medio del profeta Isaías: Él tomó nuestras dolencias\ny cargó con nuestras enfermedades."
+        }
+      ]
+    }
+  ]
+}

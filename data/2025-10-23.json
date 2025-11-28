@@ -1,0 +1,87 @@
+{
+  "fecha": "2025-10-23",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Romanos 6:19-23",
+      "lecturaNombreNormalizado": "Rom6,19-23",
+      "versos": [
+        {
+          "numero": "19",
+          "verso": "Hablo a lo humano en atención a la flaqueza de vuestra carne. Igual que ofrecisteis vuestros miembros al servicio de la impureza y de la iniquidad para cometer iniquidades, ofreced ahora vuestros miembros al servicio de la justicia para la santidad."
+        },
+        {
+          "numero": "20",
+          "verso": "Cuando erais esclavos del pecado, estabais libres respecto de la justicia."
+        },
+        {
+          "numero": "21",
+          "verso": "¿Qué fruto obteníais entonces de esas cosas que ahora os avergüenzan? Pues su final es la muerte."
+        },
+        {
+          "numero": "22",
+          "verso": "Ahora, en cambio, liberados del pecado y hechos siervos de Dios, dais vuestro fruto para la santidad; y tenéis como fin la vida eterna."
+        },
+        {
+          "numero": "23",
+          "verso": "Pues el salario del pecado es la muerte; en cambio el don de Dios es la vida eterna en Cristo Jesús, Señor nuestro."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 1:1-4, 6",
+      "lecturaNombreNormalizado": "Sal1,1-4,6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Dichoso el hombre que no sigue el consejo de impíos,\nni se detiene en el camino de pecadores,\nni toma asiento con farsantes,"
+        },
+        {
+          "numero": "2",
+          "verso": "sino que se complace en la Ley del Señor, y noche y día medita en su Ley."
+        },
+        {
+          "numero": "3",
+          "verso": "Será como un árbol plantado al borde de la acequia,\nque da fruto a su tiempo,\ny no se marchitan sus hojas:\ncuanto hace prospera."
+        },
+        {
+          "numero": "4",
+          "verso": "No así los impíos, no así. Son como polvo que dispersa el viento."
+        },
+        {
+          "numero": "6",
+          "verso": "Porque el Señor vela sobre el camino de los justos, mientras el de los impíos acaba en perdición."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 12:49-53",
+      "lecturaNombreNormalizado": "Lc12,49-53",
+      "versos": [
+        {
+          "numero": "49",
+          "verso": "»Fuego he venido a traer a la tierra, y ¿qué quiero sino que ya arda?"
+        },
+        {
+          "numero": "50",
+          "verso": "Tengo que ser bautizado con un bautismo, y ¡qué ansias tengo hasta que se lleve a cabo!"
+        },
+        {
+          "numero": "51",
+          "verso": "¿Pensáis que he venido a traer paz a la tierra? No, os digo, sino división."
+        },
+        {
+          "numero": "52",
+          "verso": "Pues desde ahora, habrá cinco en una casa divididos: tres contra dos y dos contra tres;"
+        },
+        {
+          "numero": "53",
+          "verso": "se dividirán el padre contra el hijo y el hijo contra el padre, la madre contra la hija y la hija contra la madre, la suegra contra la nuera y la nuera contra la suegra."
+        }
+      ]
+    }
+  ]
+}

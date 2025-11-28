@@ -1,0 +1,103 @@
+{
+  "fecha": "2026-01-19",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Samuel 15:16-23",
+      "lecturaNombreNormalizado": "1Samuel15,16-23",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "Dijo entonces Samuel a Saúl: —Déjame comunicarte lo que el Señor me ha dicho esta noche.\nSaúl le respondió:\n—Habla."
+        },
+        {
+          "numero": "17",
+          "verso": "Y dijo Samuel: —¿No es cierto que, aun considerándote el más pequeño, tú eres el jefe de las tribus de Israel porque el Señor te ha ungido como rey de Israel?"
+        },
+        {
+          "numero": "18",
+          "verso": "El Señor te ha enviado a esta misión diciendo: «Vete y entrega al anatema a los pecadores amalecitas; pelea contra ellos hasta exterminarlos»."
+        },
+        {
+          "numero": "19",
+          "verso": "¿Por qué no has escuchado la voz del Señor y te has lanzado sobre el botín haciendo así el mal a los ojos del Señor?"
+        },
+        {
+          "numero": "20",
+          "verso": "Saúl respondió a Samuel: —¡Yo he escuchado la voz del Señor y he cumplido la misión a la que me envió el Señor! He traído a Agag, rey de Amalec, y he entregado al anatema a los amalecitas."
+        },
+        {
+          "numero": "21",
+          "verso": "El pueblo ha tomado del botín ganado mayor y menor, lo mejor del anatema, sólo para ofrecerlo en sacrificio al Señor, tu Dios, en Guilgal."
+        },
+        {
+          "numero": "22",
+          "verso": "Pero Samuel dijo: —¿Se complace el Señor en holocaustos y sacrificios\no más bien en quien escucha la voz del Señor?\nObedecer es más que un sacrificio,\nla docilidad más que la grasa de carneros."
+        },
+        {
+          "numero": "23",
+          "verso": "Pecado de hechicero es la rebeldía, crimen de idolatría, la obstinación.\nPor haber rechazado la palabra del Señor\nÉl te rechaza como rey."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 50:8-9, 16-17, 21, 23",
+      "lecturaNombreNormalizado": "Sal50,8-9,16-17,21,23",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "No te reprendo por tus sacrificios, pues tus holocaustos están siempre ante Mí."
+        },
+        {
+          "numero": "9",
+          "verso": "No tomaré de tu casa ni un ternero, ni un cabrito de tus apriscos;"
+        },
+        {
+          "numero": "16",
+          "verso": "Dios dice al impío: «¿Por qué repites mis preceptos\ny tienes en tu boca mi alianza,"
+        },
+        {
+          "numero": "17",
+          "verso": "tú, que aborreces mi doctrina y postergas mis mandatos?"
+        },
+        {
+          "numero": "21",
+          "verso": "Tú has hecho estas cosas y Yo me he callado.\nPensabas que soy como tú.\nPero Yo te acusaré y te reprocharé cara a cara."
+        },
+        {
+          "numero": "23",
+          "verso": "Quien ofrece un sacrificio de alabanza me da gloria.\nAl que es íntegro en el camino\nle mostraré la salvación de Dios»."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 2:18-22",
+      "lecturaNombreNormalizado": "Mc2,18-22",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "Los discípulos de Juan y los fariseos estaban de ayuno; y vinieron a decirle: —¿Por qué los discípulos de Juan y los de los fariseos ayunan y, en cambio, tus discípulos no ayunan?"
+        },
+        {
+          "numero": "19",
+          "verso": "Jesús les respondió: —¿Acaso pueden ayunar los amigos del esposo, mientras el esposo está con ellos? Durante el tiempo en que tienen al esposo con ellos no pueden ayunar."
+        },
+        {
+          "numero": "20",
+          "verso": "Ya vendrán días en que les será arrebatado el esposo; entonces, en aquel día, ya ayunarán."
+        },
+        {
+          "numero": "21",
+          "verso": "»Nadie cose un remiendo de paño nuevo a un vestido viejo; porque entonces lo añadido tira de él, lo nuevo de lo viejo, y se produce un desgarrón peor."
+        },
+        {
+          "numero": "22",
+          "verso": "Tampoco echa nadie vino nuevo en odres viejos; porque entonces el vino hace reventar los odres, y se pierden el vino y los odres. Para vino nuevo, odres nuevos."
+        }
+      ]
+    }
+  ]
+}

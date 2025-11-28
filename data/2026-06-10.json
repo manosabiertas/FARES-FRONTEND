@@ -1,0 +1,143 @@
+{
+  "fecha": "2026-06-10",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Reyes 18:20-39",
+      "lecturaNombreNormalizado": "1Reyes18,20-39",
+      "versos": [
+        {
+          "numero": "20",
+          "verso": "Ajab convocó a todos los israelitas y congregó a los profetas en el monte Carmelo."
+        },
+        {
+          "numero": "21",
+          "verso": "Entonces Elías se dirigió a todo el pueblo y dijo: —¿Hasta cuándo andaréis cojeando con dos muletas? Si el Señor es Dios, id tras Él; y si es Baal, id tras él.\nEl pueblo no le respondía ni palabra."
+        },
+        {
+          "numero": "22",
+          "verso": "Elías dijo entonces al pueblo: —Solamente he quedado yo como profeta del Señor, mientras que los profetas de Baal son cuatrocientos cincuenta hombres."
+        },
+        {
+          "numero": "23",
+          "verso": "Traednos dos novillos: que ellos elijan uno, lo descuarticen y lo coloquen sobre la leña sin prenderle fuego; yo prepararé el otro, lo pondré sobre la leña y tampoco le prenderé fuego."
+        },
+        {
+          "numero": "24",
+          "verso": "Vosotros invocaréis el nombre de vuestro dios y yo invocaré el nombre del Señor. El dios que responda con el fuego, ése es el verdadero Dios. Todo el pueblo contestó diciendo:\n—La propuesta es buena."
+        },
+        {
+          "numero": "25",
+          "verso": "Entonces dijo Elías a los profetas de Baal: —Escoged un novillo y preparadlo vosotros primero porque sois muchos; después invocad el nombre de vuestro Dios, pero no prendáis el fuego."
+        },
+        {
+          "numero": "26",
+          "verso": "Ellos tomaron el novillo que les habían entregado, lo prepararon e invocaron el nombre de Baal desde la mañana hasta el mediodía, diciendo: —¡Baal, respóndenos!\nPero no hubo ni una voz ni quien respondiera mientras ellos danzaban en torno al altar que habían levantado."
+        },
+        {
+          "numero": "27",
+          "verso": "Al mediodía Elías se reía de ellos y les decía: —Gritad con voz más fuerte, porque él es dios, pero quizá esté meditando, o tenga alguna necesidad, o esté de viaje, o a lo mejor está dormido y tiene que despertarse."
+        },
+        {
+          "numero": "28",
+          "verso": "Ellos gritaban con voz más fuerte y, según sus ritos, se hacían incisiones con espadas y lanzas hasta que la sangre corría por su cuerpo."
+        },
+        {
+          "numero": "29",
+          "verso": "Pasado el mediodía, entraron en trance profético hasta la llegada del sacrificio vespertino; pero no hubo ninguna voz, ni quien les respondiera ni les hiciera caso."
+        },
+        {
+          "numero": "30",
+          "verso": "Entonces dijo Elías a todo el pueblo: —Acercaos a mí.\nTodo el pueblo se le acercó y él rehizo por completo el altar del Señor que había sido derruido."
+        },
+        {
+          "numero": "31",
+          "verso": "Después Elías tomó doce piedras, conforme al número de las tribus de los hijos de Jacob, aquél a quien le llegó la palabra del Señor diciéndole: «Tu nombre será Israel»."
+        },
+        {
+          "numero": "32",
+          "verso": "Con las piedras construyó un altar en honor del nombre del Señor y alrededor de él hizo una zanja como para dos medidas de simiente."
+        },
+        {
+          "numero": "33",
+          "verso": "Luego amontonó la leña, despedazó el novillo y lo colocó sobre la leña."
+        },
+        {
+          "numero": "34",
+          "verso": "Entonces dijo: —Llenad cuatro cántaros de agua y echadla sobre el holocausto y sobre la leña.\nLuego volvió a decir:\n—Hacedlo por segunda vez —y lo hicieron por segunda vez.\nY aún les dijo:\n—Hacedlo por tercera vez —y lo hicieron por tercera vez."
+        },
+        {
+          "numero": "35",
+          "verso": "El agua corrió alrededor del altar, e incluso la zanja se llenó de agua."
+        },
+        {
+          "numero": "36",
+          "verso": "Al llegar la hora del sacrificio vespertino, el profeta Elías se acercó y dijo: —Señor, Dios de Abrahán, Isaac e Israel, muestra hoy que Tú eres Dios en Israel y que yo soy tu siervo, y he hecho todo esto por orden tuya."
+        },
+        {
+          "numero": "37",
+          "verso": "Respóndeme, Señor, respóndeme para que este pueblo reconozca que Tú eres el Señor, su Dios, y que Tú has hecho volver de nuevo su corazón."
+        },
+        {
+          "numero": "38",
+          "verso": "Entonces cayó el fuego del Señor y devoró el holocausto y la leña, las piedras y la tierra; incluso prendió el agua que había en la zanja."
+        },
+        {
+          "numero": "39",
+          "verso": "Todo el pueblo, al verlo, cayó rostro en tierra y exclamó: —¡El Señor es el verdadero Dios! ¡El Señor es el verdadero Dios!"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 16:1-2, 4-5, 8, 11",
+      "lecturaNombreNormalizado": "Sal16,1-2,4-5,8,11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Mictam. De David. Guárdame, Dios mío, que me refugio en Ti."
+        },
+        {
+          "numero": "2",
+          "verso": "Yo digo al Señor: «Tú eres mi Señor.\nNo tengo otro bien que Tú»."
+        },
+        {
+          "numero": "4",
+          "verso": "Pero han multiplicado sus ídolos, corren tras ellos. No derramaré yo sus libaciones de sangre,\nni pronunciaré sus nombres con mis labios."
+        },
+        {
+          "numero": "5",
+          "verso": "Señor, Tú eres el lote de mi heredad y de mi copa: Tú sostienes mi parte."
+        },
+        {
+          "numero": "8",
+          "verso": "Pongo ante mí al Señor sin cesar; con Él a mi derecha, no vacilo."
+        },
+        {
+          "numero": "11",
+          "verso": "Me enseñas la senda de la vida, saciedad de gozo en tu presencia,\ndicha perpetua a tu derecha."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 5:17-19",
+      "lecturaNombreNormalizado": "Mt5,17-19",
+      "versos": [
+        {
+          "numero": "17",
+          "verso": "»No penséis que he venido a abolir la Ley o los Profetas; no he venido a abolirlos sino a darles su plenitud."
+        },
+        {
+          "numero": "18",
+          "verso": "En verdad os digo que mientras no pasen el cielo y la tierra, de la Ley no pasará ni la más pequeña letra o trazo hasta que todo se cumpla."
+        },
+        {
+          "numero": "19",
+          "verso": "Así, el que quebrante uno solo de estos mandamientos, incluso de los más pequeños, y enseñe a los hombres a hacer lo mismo, será el más pequeño en el Reino de los Cielos. Por el contrario, el que los cumpla y enseñe, ése será grande en el Reino de los Cielos."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "fecha": "2026-08-17",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Ezequiel 24:15-23",
+      "lecturaNombreNormalizado": "Ez24,15-23",
+      "versos": [
+        {
+          "numero": "15",
+          "verso": "Me fue dirigida la palabra del Señor, diciendo:"
+        },
+        {
+          "numero": "16",
+          "verso": "—Hijo de hombre, voy a quitarte de improviso la delicia de tus ojos. Pero no harás lamentos, ni llorarás, ni derramarás lágrimas."
+        },
+        {
+          "numero": "17",
+          "verso": "Gime en silencio, no hagas el luto de los muertos; tú cíñete el turbante y pon en tus pies tu calzado. No veles tu cara ni comas pan de duelo."
+        },
+        {
+          "numero": "18",
+          "verso": "Hablé al pueblo por la mañana, y por la tarde había muerto mi esposa. A la mañana siguiente hice lo que me había mandado."
+        },
+        {
+          "numero": "19",
+          "verso": "Y me dijo el pueblo: —¿Por qué no nos explicas qué significa lo que haces?"
+        },
+        {
+          "numero": "20",
+          "verso": "Y les contesté: —Me ha sido dirigida la palabra del Señor, diciendo:"
+        },
+        {
+          "numero": "21",
+          "verso": "«Habla a la casa de Israel, esto dice el Señor Dios: “Voy a profanar mi santuario, orgullo de vuestro vigor, delicia de vuestros ojos y anhelo de vuestras almas. Vuestros hijos e hijas, que habéis dejado, caerán a espada."
+        },
+        {
+          "numero": "22",
+          "verso": "Vosotros haréis lo que Yo he hecho: no velaréis vuestra cara ni comeréis pan de duelo,"
+        },
+        {
+          "numero": "23",
+          "verso": "llevaréis el turbante en vuestras cabezas y calzado en los pies, no haréis lamentos, no derramaréis lágrimas, sino que os consumiréis por vuestras iniquidades y gemiréis unos con otros."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Deuteronomio 32:18-21",
+      "lecturaNombreNormalizado": "Dt32,18-21",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "En cambio, desprecias a la Roca que te engendró, te olvidas de Dios, que te dio a luz."
+        },
+        {
+          "numero": "19",
+          "verso": "Pero el Señor lo ha visto, se ha irritado, se ha enojado con sus hijos e hijas."
+        },
+        {
+          "numero": "20",
+          "verso": "Y ha dicho: «Les esconderé mi rostro, veré cómo terminan,\npues son una generación perversa,\nhijos muy desleales."
+        },
+        {
+          "numero": "21",
+          "verso": "Me han dado celos con un no–dios, me han provocado a la ira con sus ídolos vanos.\nPues yo también les daré celos con un no–pueblo,\nYo les provocaré a la ira con una vil nación."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 19:16-22",
+      "lecturaNombreNormalizado": "Mt19,16-22",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "Y se le acercó uno, y le dijo: —Maestro, ¿qué obra buena debo hacer para alcanzar la vida eterna?"
+        },
+        {
+          "numero": "17",
+          "verso": "Él le respondió: —¿Por qué me preguntas sobre lo bueno? Uno solo es el bueno. Pero si quieres entrar en la Vida, guarda los mandamientos."
+        },
+        {
+          "numero": "18",
+          "verso": "—¿Cuáles? —le preguntó. Jesús le respondió:\n—No matarás, no cometerás adulterio, no robarás, no dirás falso testimonio,"
+        },
+        {
+          "numero": "19",
+          "verso": "honra a tu padre y a tu madre, y amarás a tu prójimo como a ti mismo."
+        },
+        {
+          "numero": "20",
+          "verso": "—Todo esto lo he guardado —le dijo el joven—. ¿Qué me falta aún?"
+        },
+        {
+          "numero": "21",
+          "verso": "Jesús le respondió: —Si quieres ser perfecto, anda, vende tus bienes y dáselos a los pobres, y tendrás un tesoro en los cielos. Luego, ven y sígueme."
+        },
+        {
+          "numero": "22",
+          "verso": "Al oír el joven estas palabras se marchó triste, porque tenía muchas posesiones."
+        }
+      ]
+    }
+  ]
+}

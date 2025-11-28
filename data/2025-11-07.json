@@ -1,0 +1,107 @@
+{
+  "fecha": "2025-11-07",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Romanos 15:14-21",
+      "lecturaNombreNormalizado": "Rom15,14-21",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "Hermanos míos: por lo que se refiere a vosotros, yo mismo estoy persuadido de que también vosotros estáis llenos de bondad, repletos de toda ciencia, hasta el punto de que podéis amonestaros unos a otros."
+        },
+        {
+          "numero": "15",
+          "verso": "Os he escrito, en parte, con cierta audacia para reavivar vuestra memoria, en virtud de la gracia que me ha sido dada por Dios"
+        },
+        {
+          "numero": "16",
+          "verso": "de ser ministro de Cristo Jesús entre los gentiles, cumpliendo el ministerio sagrado del Evangelio de Dios, para que la ofrenda de los gentiles llegue a ser grata, santificada en el Espíritu Santo."
+        },
+        {
+          "numero": "17",
+          "verso": "Tengo, por eso, de qué gloriarme en Cristo Jesús en las cosas que se refieren a Dios;"
+        },
+        {
+          "numero": "18",
+          "verso": "y no me atreveré a hablar de algo que Cristo no haya realizado a través de mí para la obediencia de los gentiles, de palabra y de obra,"
+        },
+        {
+          "numero": "19",
+          "verso": "con la eficacia de milagros y prodigios, y con la fuerza del Espíritu de Dios. De tal forma que, desde Jerusalén y por todas partes hasta la Iliria, he dado cumplimiento al Evangelio de Cristo;"
+        },
+        {
+          "numero": "20",
+          "verso": "teniendo cuidado, sin embargo, de predicar el Evangelio donde aún no era conocido el nombre de Cristo, para no construir sobre los cimientos puestos por otro,"
+        },
+        {
+          "numero": "21",
+          "verso": "sino conforme está escrito: Los que no han recibido anuncio de él lo verán;\ny los que no oyeron lo comprenderán."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 98:1-4",
+      "lecturaNombreNormalizado": "Sal98,1-4",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. Cantad al Señor un cántico nuevo\nporque ha hecho maravillas.\nSu diestra le ha salvado,\nsu santo brazo."
+        },
+        {
+          "numero": "2",
+          "verso": "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones."
+        },
+        {
+          "numero": "3",
+          "verso": "Se acordó de su misericordia y fidelidad con la casa de Israel.\nTodos los confines de la tierra han visto\nla salvación de nuestro Dios."
+        },
+        {
+          "numero": "4",
+          "verso": "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 16:1-8",
+      "lecturaNombreNormalizado": "Lc16,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Decía también a los discípulos: —Había un hombre rico que tenía un administrador, al que acusaron ante el amo de malversar la hacienda."
+        },
+        {
+          "numero": "2",
+          "verso": "Le llamó y le dijo: «¿Qué es esto que oigo de ti? Dame cuentas de tu administración, porque ya no podrás seguir administrando»."
+        },
+        {
+          "numero": "3",
+          "verso": "Y dijo para sí el administrador: «¿Qué voy a hacer, ya que mi señor me quita la administración? Cavar no puedo; mendigar me da vergüenza."
+        },
+        {
+          "numero": "4",
+          "verso": "Ya sé lo que haré para que me reciban en sus casas cuando me despidan de la administración»."
+        },
+        {
+          "numero": "5",
+          "verso": "Y, convocando uno a uno a los deudores de su amo, le dijo al primero: «¿Cuánto debes a mi señor?»"
+        },
+        {
+          "numero": "6",
+          "verso": "Él respondió: «Cien medidas de aceite». Y le dijo: «Toma tu recibo; aprisa, siéntate y escribe cincuenta»."
+        },
+        {
+          "numero": "7",
+          "verso": "Después le dijo a otro: «¿Y tú cuánto debes?» Él respondió: «Cien cargas de trigo». Y le dijo: «Toma tu recibo y escribe ochenta»."
+        },
+        {
+          "numero": "8",
+          "verso": "El amo alabó al administrador infiel por haber actuado sagazmente; porque los hijos de este mundo son más sagaces en lo suyo que los hijos de la luz."
+        }
+      ]
+    }
+  ]
+}

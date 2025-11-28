@@ -1,0 +1,111 @@
+{
+  "fecha": "2026-02-09",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Reyes 8:1-7, 9-13",
+      "lecturaNombreNormalizado": "1Reyes8,1-7,9-13",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Entonces Salomón congregó en Jerusalén ante él a todos los ancianos de Israel, a todos los jefes de las tribus y a los cabezas de familia de los israelitas, para trasladar el arca de la alianza del Señor desde la ciudad de David, esto es, desde Sión."
+        },
+        {
+          "numero": "2",
+          "verso": "Todos los israelitas se reunieron en torno al rey Salomón en el mes de Etanim, es decir, el mes séptimo, con motivo de la fiesta."
+        },
+        {
+          "numero": "3",
+          "verso": "Llegaron todos los ancianos de Israel. Los sacerdotes cargaron con el arca"
+        },
+        {
+          "numero": "4",
+          "verso": "y subieron el arca del Señor, junto con la Tienda de la Reunión y todos los objetos sagrados que había en la Tienda. Los subieron los sacerdotes y los levitas."
+        },
+        {
+          "numero": "5",
+          "verso": "El rey Salomón y toda la comunidad de Israel que se le había unido sacrificaron con él, ante el arca, un número incalculable de ovejas y de bueyes."
+        },
+        {
+          "numero": "6",
+          "verso": "A continuación los sacerdotes introdujeron el arca de la alianza del Señor en su lugar reservado, el camarín del Templo, el Santo de los Santos, debajo de las alas de los querubines."
+        },
+        {
+          "numero": "7",
+          "verso": "De esta forma, los querubines con las alas extendidas sobre el lugar del arca protegían desde arriba el arca y sus varales."
+        },
+        {
+          "numero": "9",
+          "verso": "Dentro del arca no había nada más que las dos tablas de piedra que había puesto allí Moisés en el Horeb, cuando el Señor pactó la alianza con los israelitas al salir éstos del país de Egipto."
+        },
+        {
+          "numero": "10",
+          "verso": "Y cuando los sacerdotes salían del Santuario, la nube llenó el Templo del Señor."
+        },
+        {
+          "numero": "11",
+          "verso": "Y los sacerdotes no pudieron permanecer allí ni realizar su sacrificio a causa de la nube, porque la gloria del Señor había llenado el Templo del Señor."
+        },
+        {
+          "numero": "12",
+          "verso": "Entonces exclamó Salomón: —El Señor ha dicho que habita en la nube oscura."
+        },
+        {
+          "numero": "13",
+          "verso": "Y yo he construido un Templo, morada para ti, un lugar para que habites siempre."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 132:6-10",
+      "lecturaNombreNormalizado": "Sal132,6-10",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "Hemos oído que estaba en Efrata, la hemos encontrado en los campos de Yaar."
+        },
+        {
+          "numero": "7",
+          "verso": "Entremos en su morada, postrémonos ante el estrado de sus pies."
+        },
+        {
+          "numero": "8",
+          "verso": "Levántate, Señor, hacia el lugar de tu reposo, Tú y el Arca de tu poder."
+        },
+        {
+          "numero": "9",
+          "verso": "Que tus sacerdotes se revistan de justicia y tus fieles canten jubilosos."
+        },
+        {
+          "numero": "10",
+          "verso": "Por amor a David, tu siervo, no rechaces el rostro de tu Ungido."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 6:53-56",
+      "lecturaNombreNormalizado": "Mc6,53-56",
+      "versos": [
+        {
+          "numero": "53",
+          "verso": "Acabaron la travesía hasta la costa, llegaron a Genesaret y atracaron."
+        },
+        {
+          "numero": "54",
+          "verso": "Cuando bajaron de la barca, enseguida lo reconocieron."
+        },
+        {
+          "numero": "55",
+          "verso": "Y recorrían toda aquella región, y adonde oían que estaba él le traían sobre las camillas a todos los que se sentían mal."
+        },
+        {
+          "numero": "56",
+          "verso": "Y en cualquier lugar que entraba, en pueblos o en ciudades o en aldeas, colocaban a los enfermos en las plazas, y le suplicaban que les dejase tocar al menos el borde de su manto; y todos los que le tocaban quedaban sanos."
+        }
+      ]
+    }
+  ]
+}

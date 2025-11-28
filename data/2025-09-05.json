@@ -1,0 +1,95 @@
+{
+  "fecha": "2025-09-05",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Colosenses 1:15-20",
+      "lecturaNombreNormalizado": "Col1,15-20",
+      "versos": [
+        {
+          "numero": "15",
+          "verso": "El cual es la imagen del Dios invisible, primogénito de toda creación,"
+        },
+        {
+          "numero": "16",
+          "verso": "porque en él fueron creadas todas las cosas en los cielos y sobre la tierra,\nlas visibles y las invisibles,\nsean los tronos o las dominaciones,\nlos principados o las potestades.\nTodo ha sido creado por él y para él."
+        },
+        {
+          "numero": "17",
+          "verso": "Él es antes que todas las cosas y todas subsisten en él."
+        },
+        {
+          "numero": "18",
+          "verso": "Él es también la cabeza del cuerpo, que es la Iglesia;\nél es el principio, el primogénito\nde entre los muertos,\npara que él sea el primero en todo,"
+        },
+        {
+          "numero": "19",
+          "verso": "pues Dios tuvo a bien que en él habitase toda la plenitud,"
+        },
+        {
+          "numero": "20",
+          "verso": "y por él reconciliar todos los seres consigo, restableciendo la paz, por medio de su sangre\nderramada en la cruz,\ntanto en las criaturas de la tierra\ncomo en las celestiales."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 100:2-5",
+      "lecturaNombreNormalizado": "Sal100,2-5",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "servid al Señor con alegría, entrad a su presencia con júbilo."
+        },
+        {
+          "numero": "3",
+          "verso": "Sabed que el Señor es Dios: Él nos hizo y somos suyos,\nsomos su pueblo y ovejas que Él apacienta."
+        },
+        {
+          "numero": "4",
+          "verso": "Entrad por sus puertas con acción de gracias, en sus atrios con cantos de alabanza,\ndadle gracias, bendecid su Nombre."
+        },
+        {
+          "numero": "5",
+          "verso": "Porque el Señor es bueno: su misericordia es eterna,\ny su fidelidad, por todas las generaciones."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 5:33-39",
+      "lecturaNombreNormalizado": "Lc5,33-39",
+      "versos": [
+        {
+          "numero": "33",
+          "verso": "Pero ellos le dijeron: —¿Por qué los discípulos de Juan ayunan con frecuencia y hacen oraciones, y lo mismo los de los fariseos; y en cambio, los tuyos comen y beben?"
+        },
+        {
+          "numero": "34",
+          "verso": "Jesús les respondió: —¿Acaso pueden ayunar los invitados a la boda, mientras el esposo está con ellos?"
+        },
+        {
+          "numero": "35",
+          "verso": "Ya vendrán los días en que les será arrebatado el esposo; entonces, en aquellos días, ayunarán."
+        },
+        {
+          "numero": "36",
+          "verso": "Y les decía también una parábola: —Nadie pone a un vestido viejo un remiendo cortado de un vestido nuevo, porque entonces, además de romper el nuevo, el remiendo del vestido nuevo no le iría bien al viejo."
+        },
+        {
+          "numero": "37",
+          "verso": "Tampoco echa nadie vino nuevo en odres viejos; porque entonces el vino nuevo reventará los odres, y se derramará, y los odres se perderán."
+        },
+        {
+          "numero": "38",
+          "verso": "El vino nuevo debe echarse en odres nuevos."
+        },
+        {
+          "numero": "39",
+          "verso": "Y ninguno acostumbrado a beber vino añejo quiere del nuevo, porque dice: «El añejo es mejor»."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "fecha": "2026-09-16",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Corintios 12:31--13:13",
+      "lecturaNombreNormalizado": "1Corintios12,31--13,13",
+      "versos": [
+        {
+          "numero": "31",
+          "verso": "Aspirad a los carismas mejores. Sin embargo, todavía os voy a mostrar un camino más excelente."
+        },
+        {
+          "numero": "1",
+          "verso": "Aunque hablara las lenguas de los hombres y de los ángeles, si no tengo caridad, sería como el bronce que resuena o un golpear de platillos."
+        },
+        {
+          "numero": "2",
+          "verso": "Y aunque tuviera el don de profecía y conociera todos los misterios y toda la ciencia, y aunque tuviera tanta fe como para trasladar montañas, si no tengo caridad, no sería nada."
+        },
+        {
+          "numero": "3",
+          "verso": "Y aunque repartiera todos mis bienes, y entregara mi cuerpo para dejarme quemar, si no tengo caridad, de nada me aprovecharía."
+        },
+        {
+          "numero": "4",
+          "verso": "La caridad es paciente, la caridad es amable; no es envidiosa, no obra con soberbia, no se jacta,"
+        },
+        {
+          "numero": "5",
+          "verso": "no es ambiciosa, no busca lo suyo, no se irrita, no toma en cuenta el mal,"
+        },
+        {
+          "numero": "6",
+          "verso": "no se alegra por la injusticia, se complace en la verdad;"
+        },
+        {
+          "numero": "7",
+          "verso": "todo lo aguanta, todo lo cree, todo lo espera, todo lo soporta."
+        },
+        {
+          "numero": "8",
+          "verso": "La caridad nunca acaba. Las profecías desaparecerán, las lenguas cesarán, la ciencia quedará anulada."
+        },
+        {
+          "numero": "9",
+          "verso": "Porque ahora nuestro conocimiento es imperfecto, e imperfecta nuestra profecía."
+        },
+        {
+          "numero": "10",
+          "verso": "Pero cuando venga lo perfecto, desaparecerá lo imperfecto."
+        },
+        {
+          "numero": "11",
+          "verso": "Cuando yo era niño, hablaba como niño, sentía como niño, razonaba como niño. Cuando he llegado a ser hombre, me he desprendido de las cosas de niño."
+        },
+        {
+          "numero": "12",
+          "verso": "Porque ahora vemos como en un espejo, borrosamente; entonces veremos cara a cara. Ahora conozco de modo imperfecto, entonces conoceré como soy conocido."
+        },
+        {
+          "numero": "13",
+          "verso": "Ahora permanecen la fe, la esperanza, la caridad: las tres virtudes. Pero de ellas la más grande es la caridad."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 33:2-5, 12, 22",
+      "lecturaNombreNormalizado": "Sal33,2-5,12,22",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Alabad al Señor con la cítara, entonadle salmos con el arpa de diez cuerdas."
+        },
+        {
+          "numero": "3",
+          "verso": "Cantadle un cántico nuevo, acompasadlo con sonidos de trompeta."
+        },
+        {
+          "numero": "4",
+          "verso": "La palabra del Señor es recta, y hace con fidelidad todas sus obras."
+        },
+        {
+          "numero": "5",
+          "verso": "Él ama la justicia y el derecho: la tierra está llena de su misericordia."
+        },
+        {
+          "numero": "12",
+          "verso": "Dichosa la nación cuyo Dios es el Señor, el pueblo que Él se eligió como heredad."
+        },
+        {
+          "numero": "22",
+          "verso": "Que tu misericordia, Señor, esté sobre nosotros, que hemos puesto en Ti nuestra esperanza."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 7:31-35",
+      "lecturaNombreNormalizado": "Lc7,31-35",
+      "versos": [
+        {
+          "numero": "31",
+          "verso": "»Así pues, ¿con quién voy a comparar a los hombres de esta generación? ¿A quién se parecen?"
+        },
+        {
+          "numero": "32",
+          "verso": "Se parecen a los niños sentados en la plaza y que se gritan unos a otros aquello que dice: «Hemos tocado para vosotros la flauta\ny no habéis bailado;\nhemos cantado lamentaciones\ny no habéis llorado»."
+        },
+        {
+          "numero": "33",
+          "verso": "»Porque viene Juan el Bautista, que no come pan ni bebe vino, y decís: «Tiene un demonio»."
+        },
+        {
+          "numero": "34",
+          "verso": "Viene el Hijo del Hombre, que come y bebe, y decís: «Fijaos: un hombre comilón y bebedor, amigo de publicanos y de pecadores»."
+        },
+        {
+          "numero": "35",
+          "verso": "»Pero la sabiduría queda acreditada por todos sus hijos."
+        }
+      ]
+    }
+  ]
+}

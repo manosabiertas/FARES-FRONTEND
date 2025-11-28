@@ -1,0 +1,123 @@
+{
+  "fecha": "2026-01-22",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Samuel 18:6-9; 19:1-7",
+      "lecturaNombreNormalizado": "1Samuel18,6-9;19,1-7",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "Sucedió que a su regreso, cuando volvía David de vencer al filisteo, las mujeres salían de todas las ciudades de Israel cantando y danzando ante el rey Saúl, al son de alegres panderos y tímpanos."
+        },
+        {
+          "numero": "7",
+          "verso": "Las mujeres cantaban gozosas a coro: «Saúl ha matado a mil\ny David a diez mil»."
+        },
+        {
+          "numero": "8",
+          "verso": "Se irritó mucho Saúl y le desagradó esta copla, pues decía: —Le atribuyen a David diez mil y a mí sólo mil; no les falta más que hacerlo rey."
+        },
+        {
+          "numero": "9",
+          "verso": "Desde aquel día Saúl no miraba a David con buenos ojos."
+        },
+        {
+          "numero": "1",
+          "verso": "Saúl habló a Jonatán, su hijo, y a todos sus servidores sobre la intención de matar a David. Pero Jonatán, hijo de Saúl, tenía mucho afecto a David"
+        },
+        {
+          "numero": "2",
+          "verso": "y le previno: —Saúl, mi padre, te busca para matarte; por tanto, mañana ten cuidado. Retírate y escóndete."
+        },
+        {
+          "numero": "3",
+          "verso": "Yo saldré y permaneceré junto a mi padre en la zona en que tú estás. Le hablaré de ti y todo lo que vea te lo comunicaré."
+        },
+        {
+          "numero": "4",
+          "verso": "Contó, pues, Jonatán muchas cosas buenas de David a su padre Saúl, diciéndole: —No haga daño el rey a su siervo David, que él nada malo ha hecho; al contrario, sus obras te han sido favorables."
+        },
+        {
+          "numero": "5",
+          "verso": "Ha puesto su vida en peligro, ha matado al filisteo y el Señor ha concedido una gran victoria a todo Israel. Tú mismo te alegraste al verlo, ¿por qué ahora vas a hacerte reo de sangre inocente, matando a David que no tiene la culpa?"
+        },
+        {
+          "numero": "6",
+          "verso": "Saúl atendió las palabras de Jonatán y juró: —¡Por vida del Señor, no morirá!"
+        },
+        {
+          "numero": "7",
+          "verso": "Llamó enseguida Jonatán a David y le comunicó todas estas palabras; luego lo llevó ante Saúl y David siguió a su servicio como antes."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 56:2-3, 9-13",
+      "lecturaNombreNormalizado": "Sal56,2-3,9-13",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Ten piedad de mí, Dios mío, porque un hombre me pisotea,\ntodo el día me hostiga y me oprime;"
+        },
+        {
+          "numero": "3",
+          "verso": "todo el día mis adversarios me aplastan, son muchos los que me acosan, ¡oh Altísimo!"
+        },
+        {
+          "numero": "9",
+          "verso": "Tú llevas la cuenta de mi vida errante; recoge mis lágrimas en tu odre:\n¿no están en tu libro?"
+        },
+        {
+          "numero": "10",
+          "verso": "Entonces retrocederán mis enemigos, el día en que yo invoque;\npues esto sé, que Dios está de mi parte."
+        },
+        {
+          "numero": "11",
+          "verso": "De Dios alabo la palabra, del Señor alabo la palabra"
+        },
+        {
+          "numero": "12",
+          "verso": "en Dios confío, no temo: ¿qué podrá hacerme un hombre?"
+        },
+        {
+          "numero": "13",
+          "verso": "Soy deudor, Dios mío, de los votos que te hice,\ncumpliré los sacrificios de alabanza que te debo;"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 3:7-12",
+      "lecturaNombreNormalizado": "Mc3,7-12",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Jesús se alejó con sus discípulos hacia el mar. Y le siguió una gran muchedumbre de Galilea y de Judea."
+        },
+        {
+          "numero": "8",
+          "verso": "También de Jerusalén, de Idumea, de más allá del Jordán y de los alrededores de Tiro y de Sidón, vino hacia él una gran multitud al oír las cosas que hacía."
+        },
+        {
+          "numero": "9",
+          "verso": "Y les dijo a sus discípulos que le tuviesen dispuesta una pequeña barca, por causa de la muchedumbre, para que no le aplastasen;"
+        },
+        {
+          "numero": "10",
+          "verso": "porque sanaba a tantos, que todos los que tenían enfermedades se le echaban encima para tocarle."
+        },
+        {
+          "numero": "11",
+          "verso": "Y los espíritus impuros, cuando lo veían, se arrojaban a sus pies y gritaban diciendo: —¡Tú eres el Hijo de Dios!"
+        },
+        {
+          "numero": "12",
+          "verso": "Y les ordenaba con mucha fuerza que no le descubriesen."
+        }
+      ]
+    }
+  ]
+}

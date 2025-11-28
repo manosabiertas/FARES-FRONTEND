@@ -1,0 +1,151 @@
+{
+  "fecha": "2026-03-17",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Ezequiel 47:1-9, 12",
+      "lecturaNombreNormalizado": "Ez47,1-9,12",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Me hizo volver a la entrada del Templo y vi que brotaba agua de debajo del umbral del Templo hacia oriente; porque la fachada del Templo daba a oriente. El agua bajaba desde el lado derecho del Templo, por la parte meridional del altar."
+        },
+        {
+          "numero": "2",
+          "verso": "Me hizo salir por la puerta del norte y me hizo volver por fuera, hasta la puerta exterior que da a oriente. El agua manaba desde el lado derecho."
+        },
+        {
+          "numero": "3",
+          "verso": "Salió aquel hombre hacia oriente con una cuerda en la mano. Midió mil codos y me hizo vadear el agua: el agua me llegaba a los tobillos."
+        },
+        {
+          "numero": "4",
+          "verso": "Midió mil más y me hizo vadear: el agua me llegaba a las rodillas. Midió mil más y me hizo vadear: el agua me llegaba a la cintura."
+        },
+        {
+          "numero": "5",
+          "verso": "Midió otros mil: el torrente era imposible de vadear porque había crecido y sólo podía pasarse a nado, era un torrente que no se podía vadear."
+        },
+        {
+          "numero": "6",
+          "verso": "Y me dijo: —¿Has visto, hijo de hombre?\nY me hizo caminar y volver a la orilla del torrente."
+        },
+        {
+          "numero": "7",
+          "verso": "Cuando volví a la orilla del torrente, había a un lado y a otro gran cantidad de árboles."
+        },
+        {
+          "numero": "8",
+          "verso": "Y me dijo: —Esta agua que brota hacia la región oriental desciende hasta la Arabá y llega al mar de aguas salobres; pero las sanará."
+        },
+        {
+          "numero": "9",
+          "verso": "Todo ser viviente que se mueve por donde llega el torrente vivirá. Habrá gran abundancia de peces allí donde llegue el agua porque las aguas serán sanadas y vivirá todo lo que haya en el lugar donde el torrente llegue;"
+        },
+        {
+          "numero": "12",
+          "verso": "Junto al torrente, a una y otra orilla, crecerá toda clase de árboles frutales. Sus hojas no se marchitarán ni se acabará su fruto. Todos los meses darán frutos nuevos porque sus aguas fluyen del santuario. Sus frutos serán comestibles y sus hojas medicinales."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 46:2-3, 5-6, 8-9",
+      "lecturaNombreNormalizado": "Sal46,2-3,5-6,8-9",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Dios es nuestro refugio y fortaleza, socorro fácil de encontrar en las angustias."
+        },
+        {
+          "numero": "3",
+          "verso": "Por eso no tememos aunque se conmueva la tierra, y se derrumben los montes en lo hondo del mar;"
+        },
+        {
+          "numero": "5",
+          "verso": "Un río y sus canales alegran la ciudad de Dios, la morada santa del Altísimo."
+        },
+        {
+          "numero": "6",
+          "verso": "Dios está en medio de ella: no podrá retemblar; al despuntar el alba, Dios la asiste."
+        },
+        {
+          "numero": "8",
+          "verso": "El Señor de los ejércitos está con nosotros, nuestra fortaleza es el Dios de Jacob."
+        },
+        {
+          "numero": "9",
+          "verso": "Venid a ver los prodigios del Señor, que hace maravillas en la tierra."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 5:1-16",
+      "lecturaNombreNormalizado": "Jn5,1-16",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Después de esto se celebraba una fiesta de los judíos, y Jesús subió a Jerusalén."
+        },
+        {
+          "numero": "2",
+          "verso": "Hay en Jerusalén, junto a la puerta de las ovejas, una piscina, llamada en hebreo Betzata, que tiene cinco pórticos,"
+        },
+        {
+          "numero": "3",
+          "verso": "bajo los que yacía una muchedumbre de enfermos, ciegos, cojos y paralíticos."
+        },
+        {
+          "numero": "5",
+          "verso": "Estaba allí un hombre que padecía una enfermedad desde hacía treinta y ocho años."
+        },
+        {
+          "numero": "6",
+          "verso": "Jesús, al verlo tendido y sabiendo que llevaba ya mucho tiempo, le dijo: —¿Quieres curarte?"
+        },
+        {
+          "numero": "7",
+          "verso": "El enfermo le contestó: —Señor, no tengo a nadie que me meta en la piscina cuando se mueve el agua; mientras voy, baja otro antes que yo."
+        },
+        {
+          "numero": "8",
+          "verso": "Le dijo Jesús: —Levántate, toma tu camilla y ponte a andar."
+        },
+        {
+          "numero": "9",
+          "verso": "Al instante aquel hombre quedó sano, tomó su camilla y echó a andar. Aquel día era sábado."
+        },
+        {
+          "numero": "10",
+          "verso": "Entonces le dijeron los judíos al que había sido curado: —Es sábado y no te es lícito llevar la camilla."
+        },
+        {
+          "numero": "11",
+          "verso": "Él les respondió: —El que me ha curado es el que me dijo: «Toma tu camilla y anda»."
+        },
+        {
+          "numero": "12",
+          "verso": "Le interrogaron: —¿Quién es el hombre que te dijo: «Toma tu camilla y anda»?"
+        },
+        {
+          "numero": "13",
+          "verso": "El que había sido curado no sabía quién era, pues Jesús se había apartado de la muchedumbre allí congregada."
+        },
+        {
+          "numero": "14",
+          "verso": "Después de esto lo encontró Jesús en el Templo y le dijo: —Mira, estás curado; no peques más para que no te ocurra algo peor."
+        },
+        {
+          "numero": "15",
+          "verso": "Se marchó aquel hombre y les dijo a los judíos que era Jesús el que le había curado."
+        },
+        {
+          "numero": "16",
+          "verso": "Por eso perseguían los judíos a Jesús, porque había hecho esto un sábado."
+        }
+      ]
+    }
+  ]
+}

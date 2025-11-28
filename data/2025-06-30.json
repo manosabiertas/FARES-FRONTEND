@@ -1,0 +1,151 @@
+{
+  "fecha": "2025-06-30",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Génesis 18:16-33",
+      "lecturaNombreNormalizado": "Gn18,16-33",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "Los hombres se levantaron de allí y se dirigieron hacia Sodoma. Abrahán iba con ellos para despedirlos."
+        },
+        {
+          "numero": "17",
+          "verso": "Entonces el Señor se dijo: «¿Cómo podré ocultar a Abrahán lo que voy a hacer,"
+        },
+        {
+          "numero": "18",
+          "verso": "cuando Abrahán se va a convertir en un pueblo grande y poderoso, y en él van a ser bendecidos todos los pueblos de la tierra?;"
+        },
+        {
+          "numero": "19",
+          "verso": "pues a él lo he elegido para que instruya a sus hijos y a su futura casa, y para que guarden el camino del Señor practicando la justicia y el derecho, de forma que el Señor conceda a Abrahán lo que le ha prometido»."
+        },
+        {
+          "numero": "20",
+          "verso": "Y dijo el Señor: —Se ha extendido un gran clamor contra Sodoma y Gomorra, y su pecado es gravísimo;"
+        },
+        {
+          "numero": "21",
+          "verso": "bajaré y veré si han obrado en todo según ese clamor que contra ella ha llegado hasta mí, y si no es así lo sabré."
+        },
+        {
+          "numero": "22",
+          "verso": "Los hombres partieron de allí y se dirigieron a Sodoma, mientras Abrahán permanecía todavía junto al Señor."
+        },
+        {
+          "numero": "23",
+          "verso": "Abrahán se acercó a Dios y le dijo: —¿Vas a destruir al justo con el malvado?"
+        },
+        {
+          "numero": "24",
+          "verso": "Quizá haya cincuenta justos dentro de la ciudad; ¿la vas a destruir?, ¿no la perdonarás en atención a los cincuenta justos que haya dentro de ella?"
+        },
+        {
+          "numero": "25",
+          "verso": "Lejos de ti hacer tal cosa; matar al justo con el malvado, y equiparar al justo y al malvado; lejos de ti. ¿Es que el juez de toda la tierra no va a hacer justicia?"
+        },
+        {
+          "numero": "26",
+          "verso": "El Señor respondió: —Si encuentro en Sodoma cincuenta justos dentro de la ciudad, la perdonaré en atención a ellos."
+        },
+        {
+          "numero": "27",
+          "verso": "Abrahán contestó diciendo: —Soy en verdad un atrevido al hablar a mi Señor, yo que soy polvo y ceniza;"
+        },
+        {
+          "numero": "28",
+          "verso": "quizá falten cinco para los cincuenta justos. ¿Acaso destruirás por cinco toda la ciudad? Dios respondió:\n—No la destruiré si encuentro allí cuarenta y cinco."
+        },
+        {
+          "numero": "29",
+          "verso": "Todavía volvió a hablarle Abrahán diciendo: —Quizá se encuentren allí cuarenta.\nDijo Dios:\n—No lo haré en atención a los cuarenta."
+        },
+        {
+          "numero": "30",
+          "verso": "Continuó Abrahán: —No se enfade mi Señor si sigo hablando; quizá se encuentren allí treinta.\nDijo Dios:\n—No lo haré si encuentro allí treinta."
+        },
+        {
+          "numero": "31",
+          "verso": "Insistió Abrahán: —Soy en verdad un atrevido al hablar a mi Señor; quizá se encuentren sólo veinte.\nContestó Dios:\n—No la destruiré en atención a los veinte."
+        },
+        {
+          "numero": "32",
+          "verso": "Abrahán siguió: —No se enfade mi Señor si hablo una vez más; quizá se encuentren allí diez.\nDios contestó:\n—No la destruiré en atención a los diez."
+        },
+        {
+          "numero": "33",
+          "verso": "Cuando terminó de hablar con Abrahán, el Señor se marchó, y Abrahán volvió a su lugar."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 103:1-4, 8-11",
+      "lecturaNombreNormalizado": "Sal103,1-4,8-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Bendice, alma mía, al Señor,\ny todo mi ser a su Nombre santo."
+        },
+        {
+          "numero": "2",
+          "verso": "Bendice, alma mía, al Señor, no olvides ninguno de sus beneficios."
+        },
+        {
+          "numero": "3",
+          "verso": "Él es quien perdona tus culpas, quien sana tus enfermedades."
+        },
+        {
+          "numero": "4",
+          "verso": "Quien rescata tu vida de la fosa, quien te corona de misericordia y compasión."
+        },
+        {
+          "numero": "8",
+          "verso": "El Señor es compasivo y misericordioso, lento a la ira y rico en misericordia."
+        },
+        {
+          "numero": "9",
+          "verso": "No dura siempre su querella, ni guarda rencor perpetuamente."
+        },
+        {
+          "numero": "10",
+          "verso": "No nos trata según nuestros pecados, ni nos paga según nuestras culpas."
+        },
+        {
+          "numero": "11",
+          "verso": "Pues cuanto se elevan los cielos sobre la tierra, así prevalece su misericordia con los que le temen."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 8:18-22",
+      "lecturaNombreNormalizado": "Mt8,18-22",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "Al ver Jesús a la multitud que estaba a su alrededor, ordenó marchar a la otra orilla."
+        },
+        {
+          "numero": "19",
+          "verso": "Y se le acercó un escriba: —Maestro, te seguiré adonde vayas —le dijo."
+        },
+        {
+          "numero": "20",
+          "verso": "Jesús le contestó: —Las zorras tienen sus guaridas y los pájaros del cielo sus nidos, pero el Hijo del Hombre no tiene dónde reclinar la cabeza."
+        },
+        {
+          "numero": "21",
+          "verso": "Otro de sus discípulos le dijo: —Señor, permíteme ir primero a enterrar a mi padre."
+        },
+        {
+          "numero": "22",
+          "verso": "—Sígueme y deja a los muertos enterrar a sus muertos —le respondió Jesús."
+        }
+      ]
+    }
+  ]
+}

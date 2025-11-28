@@ -1,0 +1,95 @@
+{
+  "fecha": "2025-11-03",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Romanos 11:29-36",
+      "lecturaNombreNormalizado": "Rom11,29-36",
+      "versos": [
+        {
+          "numero": "29",
+          "verso": "Porque los dones y la vocación de Dios son irrevocables."
+        },
+        {
+          "numero": "30",
+          "verso": "Pues así como vosotros en otro tiempo fuisteis desobedientes a Dios, y ahora habéis alcanzado misericordia a causa de su desobediencia,"
+        },
+        {
+          "numero": "31",
+          "verso": "así también ellos ahora no han obedecido, para que vosotros alcancéis misericordia, a fin de que también ellos consigan la misericordia."
+        },
+        {
+          "numero": "32",
+          "verso": "Porque Dios encerró a todos en la desobediencia, para tener misericordia de todos."
+        },
+        {
+          "numero": "33",
+          "verso": "¡Oh profundidad de la riqueza, de la sabiduría y de la ciencia de Dios! ¡Qué incomprensibles son sus juicios y qué inescrutables sus caminos!"
+        },
+        {
+          "numero": "34",
+          "verso": "Pues ¿quién conoció los designios del Señor?, o ¿quién llegó a ser su consejero?,"
+        },
+        {
+          "numero": "35",
+          "verso": "o ¿quién le dio primero algo, para poder recibir a cambio una recompensa?"
+        },
+        {
+          "numero": "36",
+          "verso": "Porque de Él, por Él y para Él son todas las cosas. A Él la gloria por los siglos. Amén."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 69:30-31, 33-34, 36-37",
+      "lecturaNombreNormalizado": "Sal69,30-31,33-34,36-37",
+      "versos": [
+        {
+          "numero": "30",
+          "verso": "Yo soy un pobre y afligido, que tu salvación, Dios mío, me proteja."
+        },
+        {
+          "numero": "31",
+          "verso": "Ensalzaré el Nombre de Dios con un cántico, y proclamaré su grandeza con la acción de gracias,"
+        },
+        {
+          "numero": "33",
+          "verso": "Que lo vean los pobres y se alegren. Los que buscáis a Dios, reanimad vuestro corazón."
+        },
+        {
+          "numero": "34",
+          "verso": "Porque el Señor escucha a los necesitados, no desdeña a sus cautivos."
+        },
+        {
+          "numero": "36",
+          "verso": "Porque Dios salvará a Sión, reconstruirá las ciudades de Judá,\ny habitarán en ella y la poseerán."
+        },
+        {
+          "numero": "37",
+          "verso": "La descendencia de sus siervos la heredará, y los que aman su Nombre morarán en ella."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 14:12-14",
+      "lecturaNombreNormalizado": "Lc14,12-14",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Decía también al que le había invitado: —Cuando des una comida o cena, no llames a tus amigos, ni a tus hermanos, ni a tus parientes, ni a vecinos ricos, no sea que también ellos te devuelvan la invitación y te sirva de recompensa."
+        },
+        {
+          "numero": "13",
+          "verso": "Al contrario, cuando des un banquete, llama a pobres, a tullidos, a cojos y a ciegos;"
+        },
+        {
+          "numero": "14",
+          "verso": "y serás bienaventurado, porque no tienen para corresponderte. Se te recompensará en la resurrección de los justos."
+        }
+      ]
+    }
+  ]
+}

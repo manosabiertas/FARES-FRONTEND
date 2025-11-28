@@ -1,0 +1,103 @@
+{
+  "fecha": "2025-11-05",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Sabiduría 3:1-9",
+      "lecturaNombreNormalizado": "Sab3,1-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Pero las almas de los justos están en manos de Dios y no les tocará tormento."
+        },
+        {
+          "numero": "2",
+          "verso": "A los ojos de los necios parecía que morían, su partida era considerada una desdicha"
+        },
+        {
+          "numero": "3",
+          "verso": "y la separación de nosotros, exterminio; pero ellos están en la paz."
+        },
+        {
+          "numero": "4",
+          "verso": "Porque, si a la vista de los hombres sufrían castigo, ellos esperaban plenamente la inmortalidad:"
+        },
+        {
+          "numero": "5",
+          "verso": "a cambio de una leve pena recibirán grandes bienes, porque Dios los puso a prueba\ny los encontró dignos de Él."
+        },
+        {
+          "numero": "6",
+          "verso": "Los probó como oro en el crisol, los aceptó como sacrificio de holocausto."
+        },
+        {
+          "numero": "7",
+          "verso": "A la hora de su prueba resplandecerán y se propagarán como chispas en cañaveral."
+        },
+        {
+          "numero": "8",
+          "verso": "Juzgarán a naciones y dominarán a pueblos, y el Señor reinará sobre ellos para siempre."
+        },
+        {
+          "numero": "9",
+          "verso": "Los que confían en Él comprenderán la verdad, los que son fieles en el amor permanecerán junto a Él,\nporque la gracia y la misericordia son para sus santos\ny Él mira por sus elegidos."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 23:1-6",
+      "lecturaNombreNormalizado": "Sal23,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. De David. El Señor es mi pastor, nada me falta."
+        },
+        {
+          "numero": "2",
+          "verso": "En verdes prados me hace reposar; hacia aguas tranquilas me guía;"
+        },
+        {
+          "numero": "3",
+          "verso": "reconforta mi alma, me conduce por sendas rectas\npor honor de su Nombre."
+        },
+        {
+          "numero": "4",
+          "verso": "Aunque camine por valles oscuros, no temo ningún mal, porque Tú estás conmigo;\ntu vara y tu cayado me sosiegan."
+        },
+        {
+          "numero": "5",
+          "verso": "Preparas una mesa para mí frente a mis adversarios.\nUnges con óleo mi cabeza,\nmi copa rebosa."
+        },
+        {
+          "numero": "6",
+          "verso": "Tu bondad y misericordia me acompañan todos los días de mi vida;\ny habitaré en la Casa del Señor\npor dilatados días."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 6:37-40",
+      "lecturaNombreNormalizado": "Jn6,37-40",
+      "versos": [
+        {
+          "numero": "37",
+          "verso": "Todo lo que me da el Padre vendrá a mí, y al que viene a mí no lo echaré fuera,"
+        },
+        {
+          "numero": "38",
+          "verso": "porque he bajado del cielo no para hacer mi voluntad sino la voluntad de Aquel que me ha enviado."
+        },
+        {
+          "numero": "39",
+          "verso": "Ésta es la voluntad de Aquel que me ha enviado: que no pierda nada de lo que Él me ha dado, sino que lo resucite en el último día."
+        },
+        {
+          "numero": "40",
+          "verso": "Porque ésta es la voluntad de mi Padre: que todo el que ve al Hijo y cree en él tenga vida eterna, y yo le resucitaré en el último día."
+        }
+      ]
+    }
+  ]
+}

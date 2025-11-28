@@ -1,0 +1,155 @@
+{
+  "fecha": "2025-07-12",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Génesis 49:29-32; 50:15-26",
+      "lecturaNombreNormalizado": "Gn49,29-32;50,15-26",
+      "versos": [
+        {
+          "numero": "29",
+          "verso": "Luego les dio la siguiente orden: —Yo voy a reunirme con los míos; enterradme junto a mis padres en la cueva que está en el campo de Efrón el hitita;"
+        },
+        {
+          "numero": "30",
+          "verso": "en la cueva que está en el campo de Macpelá, frente a Mambré, en el país de Canaán, el campo que compró Abrahán a Efrón, el hitita, como propiedad sepulcral."
+        },
+        {
+          "numero": "31",
+          "verso": "Allí están sepultados Abrahán y su esposa Sara; allí sepultaron a Isaac y a su esposa Rebeca; y allí sepulté yo a Lía."
+        },
+        {
+          "numero": "32",
+          "verso": "El campo y la cueva que hay en él fueron adquiridos de los hijos de Het."
+        },
+        {
+          "numero": "15",
+          "verso": "Al ver los hermanos de José que había muerto su padre se dijeron: —Quizá José nos guarde rencor y nos devuelva todo el mal que le hicimos."
+        },
+        {
+          "numero": "16",
+          "verso": "Entonces mandaron decir a José: —Tu padre, antes de su muerte, dio esta orden:"
+        },
+        {
+          "numero": "17",
+          "verso": "«Así diréis a José: “Por favor, perdona el crimen de tus hermanos y su pecado, pues te hicieron mal”. Ahora perdona el crimen de los siervos del Dios de tu padre». Al hablarle así, José se echó a llorar."
+        },
+        {
+          "numero": "18",
+          "verso": "Entonces fueron también sus hermanos, se postraron ante él y dijeron: —Aquí nos tienes como esclavos tuyos."
+        },
+        {
+          "numero": "19",
+          "verso": "José les respondió: —No temáis. ¿Acaso estoy yo en lugar de Dios?"
+        },
+        {
+          "numero": "20",
+          "verso": "Vosotros planeasteis el mal contra mí, pero Dios lo planeó para el bien, para hacer, tal como hoy ocurre, que viviera un pueblo numeroso."
+        },
+        {
+          "numero": "21",
+          "verso": "Ahora, pues, no temáis; yo os alimentaré a vosotros y a vuestros hijos. Y José los consoló hablándoles al corazón."
+        },
+        {
+          "numero": "22",
+          "verso": "José vivió en Egipto con la casa de su padre, y llegó a los ciento diez años."
+        },
+        {
+          "numero": "23",
+          "verso": "José vio a los descendientes de Efraím hasta la tercera generación; también los hijos de Maquir, hijo de Manasés, nacieron sobre las rodillas de José."
+        },
+        {
+          "numero": "24",
+          "verso": "José dijo a sus hermanos: —Yo voy a morir; pero Dios os visitará sin falta y os hará subir desde esta tierra a la tierra que juró a Abrahán, Isaac y Jacob."
+        },
+        {
+          "numero": "25",
+          "verso": "Luego José hizo jurar a los hijos de Israel de esta manera: —Cuando Dios os visite, sacaréis mis huesos de aquí."
+        },
+        {
+          "numero": "26",
+          "verso": "José murió a los ciento diez años; lo embalsamaron y fue puesto en un féretro en Egipto."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 105:1-4, 6-7",
+      "lecturaNombreNormalizado": "Sal105,1-4,6-7",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Dad gracias al Señor, invocad su Nombre, anunciad entre los pueblos sus hazañas."
+        },
+        {
+          "numero": "2",
+          "verso": "Cantadle, entonadle salmos, proclamad todas sus maravillas."
+        },
+        {
+          "numero": "3",
+          "verso": "Gloriaos en su Nombre santo; que se alegre el corazón de los que buscan al Señor."
+        },
+        {
+          "numero": "4",
+          "verso": "Acudid al Señor y a su poder, buscad su rostro de continuo."
+        },
+        {
+          "numero": "6",
+          "verso": "linaje de Abrahán, su siervo, hijos de Jacob, su elegido!"
+        },
+        {
+          "numero": "7",
+          "verso": "Él es el Señor, nuestro Dios; sus juicios alcanzan toda la tierra."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 10:24-33",
+      "lecturaNombreNormalizado": "Mt10,24-33",
+      "versos": [
+        {
+          "numero": "24",
+          "verso": "No está el discípulo por encima del maestro, ni el siervo por encima de su señor."
+        },
+        {
+          "numero": "25",
+          "verso": "Al discípulo le basta llegar a ser como su maestro, y al siervo como su señor. Si al amo de la casa le han llamado Beelzebul, cuánto más a los de su misma casa."
+        },
+        {
+          "numero": "26",
+          "verso": "»No les tengáis miedo, porque nada hay oculto que no vaya a ser descubierto, ni secreto que no llegue a saberse."
+        },
+        {
+          "numero": "27",
+          "verso": "Lo que os digo en la oscuridad, decidlo a plena luz; y lo que escuchasteis al oído, pregonadlo desde los terrados."
+        },
+        {
+          "numero": "28",
+          "verso": "No tengáis miedo a los que matan el cuerpo pero no pueden matar el alma; temed ante todo al que puede hacer perder alma y cuerpo en el infierno."
+        },
+        {
+          "numero": "29",
+          "verso": "¿No se vende un par de pajarillos por un as? Pues bien, ni uno solo de ellos caerá en tierra sin que lo permita vuestro Padre."
+        },
+        {
+          "numero": "30",
+          "verso": "En cuanto a vosotros, hasta los cabellos de vuestra cabeza están todos contados."
+        },
+        {
+          "numero": "31",
+          "verso": "Por tanto, no tengáis miedo: vosotros valéis más que muchos pajarillos."
+        },
+        {
+          "numero": "32",
+          "verso": "»A todo el que me confiese delante de los hombres, también yo le confesaré delante de mi Padre que está en los cielos."
+        },
+        {
+          "numero": "33",
+          "verso": "Pero al que me niegue delante de los hombres, también yo le negaré delante de mi Padre que está en los cielos."
+        }
+      ]
+    }
+  ]
+}

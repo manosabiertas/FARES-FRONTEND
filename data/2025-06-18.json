@@ -1,0 +1,107 @@
+{
+  "fecha": "2025-06-18",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Corintios 9:6-11",
+      "lecturaNombreNormalizado": "2Corintios9,6-11",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "Os digo esto: quien siembra escasamente, escasamente cosechará; y quien siembra copiosamente, copiosamente cosechará."
+        },
+        {
+          "numero": "7",
+          "verso": "Que cada uno dé según se ha propuesto en su corazón, no de mala gana ni forzado, porque Dios ama al que da con alegría."
+        },
+        {
+          "numero": "8",
+          "verso": "Y poderoso es Dios para colmaros de toda gracia, para que, teniendo siempre en todas las cosas todo lo necesario, tengáis abundancia en toda obra buena,"
+        },
+        {
+          "numero": "9",
+          "verso": "según está escrito: Repartió con largueza, dio a los pobres;\nsu justicia permanece para siempre."
+        },
+        {
+          "numero": "10",
+          "verso": "Aquel que provee de semilla al sembrador y de pan para comer, os dará y multiplicará la semilla y acrecentará los frutos de vuestra justicia."
+        },
+        {
+          "numero": "11",
+          "verso": "Así seréis enriquecidos en todo para toda obra generosa, que mediante nosotros fructifica en acción de gracias a Dios."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 112:1-4, 9",
+      "lecturaNombreNormalizado": "Sal112,1-4,9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Aleluya. (Alef) Dichoso el hombre que teme al Señor,\n(Bet) y se complace de lleno en sus mandamientos."
+        },
+        {
+          "numero": "2",
+          "verso": "(Guímel) Poderoso en la tierra será su linaje. (Dálet) Bendita será la descendencia de los rectos."
+        },
+        {
+          "numero": "3",
+          "verso": "(He) En su casa habrá fortuna y riqueza; (Vav) su justicia permanecerá para siempre."
+        },
+        {
+          "numero": "4",
+          "verso": "(Záin) Para los rectos brilla como luz en las tinieblas, (Het) el clemente, compasivo y justo."
+        },
+        {
+          "numero": "9",
+          "verso": "(Pe) Reparte generosamente a los pobres; (Sade) su justicia permanece para siempre;\n(Qof) lleva alta su frente con honor."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 6:1-6, 16-18",
+      "lecturaNombreNormalizado": "Mt6,1-6,16-18",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "»Guardaos de hacer vuestra justicia delante de los hombres con el fin de que os vean; de otro modo no tendréis recompensa de vuestro Padre que está en los cielos."
+        },
+        {
+          "numero": "2",
+          "verso": "»Por lo tanto, cuando des limosna no lo vayas pregonando, como hacen los hipócritas en las sinagogas y en las calles, con el fin de que los alaben los hombres. En verdad os digo que ya recibieron su recompensa."
+        },
+        {
+          "numero": "3",
+          "verso": "Tú, por el contrario, cuando des limosna, que tu mano izquierda no sepa lo que hace tu mano derecha,"
+        },
+        {
+          "numero": "4",
+          "verso": "para que tu limosna quede en lo oculto; de este modo, tu Padre, que ve en lo oculto, te recompensará."
+        },
+        {
+          "numero": "5",
+          "verso": "»Cuando oréis, no seáis como los hipócritas, que son amigos de orar puestos de pie en las sinagogas y en las esquinas de las plazas, para exhibirse delante de los hombres; en verdad os digo que ya recibieron su recompensa."
+        },
+        {
+          "numero": "6",
+          "verso": "Tú, por el contrario, cuando te pongas a orar, entra en tu aposento y, con la puerta cerrada, ora a tu Padre, que está en lo oculto; y tu Padre, que ve en lo oculto, te recompensará."
+        },
+        {
+          "numero": "16",
+          "verso": "»Cuando ayunéis no os finjáis tristes como los hipócritas, que desfiguran su rostro para que los hombres noten que ayunan. En verdad os digo que ya recibieron su recompensa."
+        },
+        {
+          "numero": "17",
+          "verso": "Tú, en cambio, cuando ayunes, perfuma tu cabeza y lávate la cara,"
+        },
+        {
+          "numero": "18",
+          "verso": "para que no adviertan los hombres que ayunas, sino tu Padre, que está en lo oculto; y tu Padre, que ve en lo oculto, te recompensará."
+        }
+      ]
+    }
+  ]
+}

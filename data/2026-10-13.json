@@ -1,0 +1,91 @@
+{
+  "fecha": "2026-10-13",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Gálatas 5:1-6",
+      "lecturaNombreNormalizado": "Gal5,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Para esta libertad Cristo nos ha liberado. Manteneos, por eso, firmes, y no os dejéis sujetar de nuevo bajo el yugo de la servidumbre."
+        },
+        {
+          "numero": "2",
+          "verso": "Mirad: yo, Pablo, os digo que, si os circuncidáis, Cristo no os servirá de nada."
+        },
+        {
+          "numero": "3",
+          "verso": "Y lo vuelvo a atestiguar a todo hombre que se circuncida: queda obligado a cumplir toda la Ley."
+        },
+        {
+          "numero": "4",
+          "verso": "Os habéis separado de Cristo los que buscáis la justicia en la Ley; os habéis apartado de la gracia."
+        },
+        {
+          "numero": "5",
+          "verso": "Pues nosotros, por el Espíritu, anhelamos a partir de la fe el fruto de la justicia."
+        },
+        {
+          "numero": "6",
+          "verso": "Porque en Cristo Jesús no tienen valor ni la circuncisión ni la falta de circuncisión, sino la fe que actúa por la caridad."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 119:41, 43, 45, 47-48",
+      "lecturaNombreNormalizado": "Sal119,41,43,45,47-48",
+      "versos": [
+        {
+          "numero": "41",
+          "verso": "(Vav) Venga a mí tu misericordia, Señor, tu salvación, según tu promesa,"
+        },
+        {
+          "numero": "43",
+          "verso": "No quites de mi boca la palabra veraz, pues espero en tus juicios;"
+        },
+        {
+          "numero": "45",
+          "verso": "Caminaré por vía espaciosa, pues estudio tus mandatos."
+        },
+        {
+          "numero": "47",
+          "verso": "Me deleitaré en tus mandamientos, que tanto amo."
+        },
+        {
+          "numero": "48",
+          "verso": "Alzaré mis manos hacia tus mandatos, y meditaré en tus preceptos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 11:37-41",
+      "lecturaNombreNormalizado": "Lc11,37-41",
+      "versos": [
+        {
+          "numero": "37",
+          "verso": "Cuando terminó de hablar, cierto fariseo le rogó que comiera en su casa. Entró y se puso a la mesa."
+        },
+        {
+          "numero": "38",
+          "verso": "El fariseo se quedó extrañado al ver que Jesús no se había lavado antes de la comida."
+        },
+        {
+          "numero": "39",
+          "verso": "Pero el Señor le dijo: —Así que vosotros, los fariseos, limpiáis por fuera la copa y el plato, pero por dentro estáis llenos de rapiña y de maldad."
+        },
+        {
+          "numero": "40",
+          "verso": "¡Insensatos! ¿Acaso quien hizo lo de fuera no ha hecho también lo de dentro?"
+        },
+        {
+          "numero": "41",
+          "verso": "Dad, más bien, limosna de lo que guardáis dentro, y así todo será límpio para vosotros."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "fecha": "2026-06-23",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Reyes 19:9-11, 14-21, 31-36",
+      "lecturaNombreNormalizado": "2Reyes19,9-11,14-21,31-36",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "porque oyó decir de Tirhacá, rey de Etiopía: «Mira, ha salido a hacer la guerra contra ti». Entonces el rey se volvió y envió mensajeros a Ezequías ordenándoles:"
+        },
+        {
+          "numero": "10",
+          "verso": "«Así diréis a Ezequías, rey de Judá: “No te engañe tu Dios en quien confías afirmando que no entregará a Jerusalén en manos del rey de Asiria."
+        },
+        {
+          "numero": "11",
+          "verso": "Ya has oído cuanto hicieron los reyes de Asiria a todos los países hasta exterminarlos, y tú, ¿te vas a salvar?"
+        },
+        {
+          "numero": "14",
+          "verso": "Tomó Ezequías las cartas de manos de los mensajeros y las leyó. Luego subió al Templo del Señor y Ezequías las extendió ante el Señor."
+        },
+        {
+          "numero": "15",
+          "verso": "Y oró así en presencia del Señor: —Señor, Dios de Israel, que te sientas sobre los querubines, sólo Tú eres el Dios de todos los reinos de la tierra. Tú hiciste los cielos y la tierra."
+        },
+        {
+          "numero": "16",
+          "verso": "Señor, inclina tu oído y escucha. Abre, Señor, tus ojos y mira. Escucha las palabras que ha lanzado Senaquerib ofendiendo al Dios vivo."
+        },
+        {
+          "numero": "17",
+          "verso": "Es verdad, Señor, que los reyes de Asiria han desolado las naciones y sus territorios,"
+        },
+        {
+          "numero": "18",
+          "verso": "y han arrojado sus dioses al fuego porque no eran dioses, sino fabricación de manos humanas, madera y piedra, y los han destruido."
+        },
+        {
+          "numero": "19",
+          "verso": "Ahora, Señor, Dios nuestro, sálvanos, por favor, de su mano, y todos los reinos de la tierra sabrán que sólo Tú, el Señor, eres Dios."
+        },
+        {
+          "numero": "20",
+          "verso": "Isaías, hijo de Amós, mandó decir a Ezequías: «Esto dice el Señor, Dios de Israel: “He escuchado cuanto me has pedido en oración respecto a Senaquerib, rey de Asiria."
+        },
+        {
+          "numero": "21",
+          "verso": "Ésta es la palabra que ha pronunciado el Señor sobre él: Te ha despreciado y te ha ridiculizado,\nvirgen, hija de Sión.\nCon desprecio ha movido la cabeza a tus espaldas,\nhija de Jerusalén."
+        },
+        {
+          "numero": "31",
+          "verso": "pues de Jerusalén saldrá un resto y un grupo superviviente de la montaña de Sión.\nEl celo del Señor de los ejércitos lo hará”."
+        },
+        {
+          "numero": "32",
+          "verso": "Por eso así dice el Señor sobre el rey de Asiria: “No entrará en esta ciudad,\nni lanzará una flecha contra ella,\nno permanecerá ante ella con escudo,\nni amontonará un terraplén en su contra."
+        },
+        {
+          "numero": "33",
+          "verso": "Por el mismo camino que ha venido se marchará, y no entrará en esta ciudad. Oráculo del Señor."
+        },
+        {
+          "numero": "34",
+          "verso": "Protegeré a esta ciudad y la salvaré, por mí y por mi siervo David”»."
+        },
+        {
+          "numero": "35",
+          "verso": "Sucedió que aquella noche salió el ángel del Señor e hirió a ciento ochenta y cinco mil en el campamento de los asirios. Cuando se levantaron por la mañana, vieron que todos aquellos eran cadáveres."
+        },
+        {
+          "numero": "36",
+          "verso": "Senaquerib, rey de Asiria, levantó el campamento y se marchó de vuelta a su tierra; después permaneció en Nínive."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 48:2-4, 10-11",
+      "lecturaNombreNormalizado": "Sal48,2-4,10-11",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "El Señor es grande y digno de toda alabanza en la ciudad de nuestro Dios, su monte santo."
+        },
+        {
+          "numero": "3",
+          "verso": "La más bella cima, gozo de toda la tierra, monte Sión, arcano del Norte,\nciudad del gran Rey."
+        },
+        {
+          "numero": "4",
+          "verso": "Dios, en sus palacios, se muestra como defensa segura."
+        },
+        {
+          "numero": "10",
+          "verso": "Meditamos, oh Dios, en tu misericordia en medio de tu Templo."
+        },
+        {
+          "numero": "11",
+          "verso": "Como tu Nombre, oh Dios, así suena tu alabanza hasta los confines de la tierra.\nTu diestra rebosa de justicia."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 7:6, 12-14",
+      "lecturaNombreNormalizado": "Mt7,6,12-14",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "»No deis las cosas santas a los perros, ni echéis vuestras perlas a los cerdos, no sea que las pisoteen con sus patas y al revolverse os despedacen."
+        },
+        {
+          "numero": "12",
+          "verso": "»Todo lo que queráis que hagan los hombres con vosotros, hacedlo también vosotros con ellos: ésta es la Ley y los Profetas."
+        },
+        {
+          "numero": "13",
+          "verso": "»Entrad por la puerta angosta, porque amplia es la puerta y ancho el camino que conduce a la perdición, y son muchos los que entran por ella."
+        },
+        {
+          "numero": "14",
+          "verso": "¡Qué angosta es la puerta y estrecho el camino que conduce a la Vida, y qué pocos son los que la encuentran!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "fecha": "2025-11-04",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Romanos 12:5-16",
+      "lecturaNombreNormalizado": "Rom12,5-16",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "así nosotros, que somos muchos, formamos en Cristo un solo cuerpo, siendo todos miembros los unos de los otros."
+        },
+        {
+          "numero": "6",
+          "verso": "Tenemos dones diferentes conforme a la gracia que se nos ha dado: si se trata de profecía, que sea de acuerdo con la fe,"
+        },
+        {
+          "numero": "7",
+          "verso": "y si se trata del ministerio, que sea sirviendo. Y si uno tiene que enseñar, que enseñe,"
+        },
+        {
+          "numero": "8",
+          "verso": "y si tiene que exhortar, que exhorte. El que da, que dé con sencillez; el que preside, que lo haga con esmero; el que ejercita la misericordia, que lo haga con alegría."
+        },
+        {
+          "numero": "9",
+          "verso": "Que la caridad esté libre de hipocresía, abominando el mal, adhiriéndoos al bien;"
+        },
+        {
+          "numero": "10",
+          "verso": "amándoos de corazón unos a otros con el amor fraterno, honrando cada uno a los otros más que a sí mismo;"
+        },
+        {
+          "numero": "11",
+          "verso": "diligentes en el deber, fervorosos en el espíritu, servidores del Señor;"
+        },
+        {
+          "numero": "12",
+          "verso": "alegres en la esperanza, pacientes en la tribulación; constantes en la oración;"
+        },
+        {
+          "numero": "13",
+          "verso": "compartiendo las necesidades de los santos, procurando practicar la hospitalidad."
+        },
+        {
+          "numero": "14",
+          "verso": "Bendecid a los que os persiguen; bendecidlos y no los maldigáis."
+        },
+        {
+          "numero": "15",
+          "verso": "Alegraos con los que se alegran, llorad con los que lloran."
+        },
+        {
+          "numero": "16",
+          "verso": "Tened los mismos sentimientos los unos hacia los otros, sin dejaros llevar por pensamientos soberbios, sino acomodándoos a las cosas humildes. No os tengáis por sabios ante vosotros mismos."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 131:1-3",
+      "lecturaNombreNormalizado": "Sal131,1-3",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. De David. Señor, mi corazón no se ha engreído,\nni mis ojos se han alzado altivos.\nNo he marchado en pos de grandezas,\nni de portentos que me exceden."
+        },
+        {
+          "numero": "2",
+          "verso": "He moderado y acallado mi alma como un niño en el regazo de su madre.\nComo niño satisfecho está mi alma."
+        },
+        {
+          "numero": "3",
+          "verso": "¡Espera, Israel, en el Señor, desde ahora y para siempre!"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 14:15-24",
+      "lecturaNombreNormalizado": "Lc14,15-24",
+      "versos": [
+        {
+          "numero": "15",
+          "verso": "Cuando oyó esto uno de los comensales, le dijo: —Bienaventurado el que coma el pan en el Reino de Dios."
+        },
+        {
+          "numero": "16",
+          "verso": "Pero él le dijo: —Un hombre daba una gran cena e invitó a muchos."
+        },
+        {
+          "numero": "17",
+          "verso": "Y envió a su siervo a la hora de la cena para decir a los invitados: «Venid, que ya está todo preparado»."
+        },
+        {
+          "numero": "18",
+          "verso": "Y todos a una comenzaron a excusarse. El primero le dijo: «He comprado un campo y tengo necesidad de ir a verlo; te ruego que me des por excusado»."
+        },
+        {
+          "numero": "19",
+          "verso": "Y otro dijo: «Compré cinco yuntas de bueyes, y voy a probarlas; te ruego que me des por excusado»."
+        },
+        {
+          "numero": "20",
+          "verso": "Otro dijo: «Acabo de casarme, y por eso no puedo ir»."
+        },
+        {
+          "numero": "21",
+          "verso": "Regresó el siervo y contó esto a su señor. Entonces, irritado el amo de la casa, le dijo a su siervo: «Sal ahora mismo a las plazas y calles de la ciudad y trae aquí a los pobres, a los tullidos, a los ciegos y a los cojos»."
+        },
+        {
+          "numero": "22",
+          "verso": "Y el siervo dijo: «Señor, se ha hecho lo que mandaste, y todavía hay sitio»."
+        },
+        {
+          "numero": "23",
+          "verso": "Entonces dijo el señor a su siervo: «Sal a los caminos y a los cercados y obliga a entrar, para que se llene mi casa."
+        },
+        {
+          "numero": "24",
+          "verso": "Porque os aseguro que ninguno de aquellos hombres invitados gustará mi cena»."
+        }
+      ]
+    }
+  ]
+}

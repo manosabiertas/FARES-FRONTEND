@@ -1,0 +1,159 @@
+{
+  "fecha": "2025-02-04",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hebreos 12:1-4",
+      "lecturaNombreNormalizado": "Heb12,1-4",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Por consiguiente, también nosotros, que estamos rodeados de una nube tan grande de testigos, sacudámonos todo lastre y el pecado que nos asedia, y continuemos corriendo con perseverancia la carrera emprendida:"
+        },
+        {
+          "numero": "2",
+          "verso": "fijos los ojos en Jesús, iniciador y consumador de la fe, que, despreciando la ignominia, soportó la cruz en lugar del gozo que se le proponía, y está sentado a la diestra del trono de Dios."
+        },
+        {
+          "numero": "3",
+          "verso": "Por eso, pensad atentamente en aquel que soportó tanta contradicción por parte de los pecadores, para que no desfallezcáis ni decaiga vuestro ánimo."
+        },
+        {
+          "numero": "4",
+          "verso": "No habéis resistido todavía hasta la sangre al combatir contra el pecado"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 22:26-28, 30-32",
+      "lecturaNombreNormalizado": "Sal22,26-28,30-32",
+      "versos": [
+        {
+          "numero": "26",
+          "verso": "Te alabaré ante la gran asamblea. Cumpliré mis votos delante de quienes le temen."
+        },
+        {
+          "numero": "27",
+          "verso": "Los pobres comerán hasta saciarse, alabarán al Señor los que le buscan.\n¡Que vuestro corazón viva por siempre!"
+        },
+        {
+          "numero": "28",
+          "verso": "Se acordarán y se convertirán al Señor los enteros confines de la tierra;\nse postrarán en su presencia\ntodas las familias de las naciones,"
+        },
+        {
+          "numero": "30",
+          "verso": "Ante Él solo se postrarán los que duermen en la tierra, ante Él doblarán la rodilla cuantos bajan al polvo.\nPero mi alma vivirá para Él."
+        },
+        {
+          "numero": "31",
+          "verso": "Mi descendencia le servirá, hablará del Señor a la generación venidera,"
+        },
+        {
+          "numero": "32",
+          "verso": "y proclamarán su justicia al pueblo que ha de nacer: «Así lo hará el Señor»."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 5:21-43",
+      "lecturaNombreNormalizado": "Mc5,21-43",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "Y tras cruzar de nuevo Jesús en la barca hasta la orilla opuesta, se congregó una gran muchedumbre a su alrededor mientras él estaba junto al mar."
+        },
+        {
+          "numero": "22",
+          "verso": "Viene uno de los jefes de la sinagoga, que se llamaba Jairo. Al verlo, se postra a sus pies"
+        },
+        {
+          "numero": "23",
+          "verso": "y le suplica con insistencia diciendo: —Mi hija está en las últimas. Ven, pon las manos sobre ella para que se salve y viva."
+        },
+        {
+          "numero": "24",
+          "verso": "Se fue con él, y le seguía la muchedumbre, que le apretujaba."
+        },
+        {
+          "numero": "25",
+          "verso": "Y una mujer que tenía un flujo de sangre desde hacía doce años,"
+        },
+        {
+          "numero": "26",
+          "verso": "y que había sufrido mucho a manos de muchos médicos y se había gastado todos sus bienes sin aprovecharle de nada, sino que iba de mal en peor,"
+        },
+        {
+          "numero": "27",
+          "verso": "cuando oyó hablar de Jesús, vino por detrás entre la muchedumbre y le tocó el manto"
+        },
+        {
+          "numero": "28",
+          "verso": "—porque decía: «Con que toque sus ropas, me curaré»—."
+        },
+        {
+          "numero": "29",
+          "verso": "Y de repente se secó la fuente de sangre y sintió en su cuerpo que estaba curada de la enfermedad."
+        },
+        {
+          "numero": "30",
+          "verso": "Y al momento Jesús conoció en sí mismo la fuerza salida de él y, vuelto hacia la muchedumbre, decía: —¿Quién me ha tocado la ropa?"
+        },
+        {
+          "numero": "31",
+          "verso": "Y le decían sus discípulos: —Ves que la muchedumbre te apretuja y dices: «¿Quién me ha tocado?»."
+        },
+        {
+          "numero": "32",
+          "verso": "Y miraba a su alrededor para ver a la que había hecho esto."
+        },
+        {
+          "numero": "33",
+          "verso": "La mujer, asustada y temblando, sabiendo lo que le había ocurrido, se acercó, se postró ante él y le dijo toda la verdad."
+        },
+        {
+          "numero": "34",
+          "verso": "Él entonces le dijo: —Hija, tu fe te ha salvado. Vete en paz y queda curada de tu dolencia."
+        },
+        {
+          "numero": "35",
+          "verso": "Todavía estaba él hablando, cuando llegan desde la casa del jefe de la sinagoga, diciendo: —Tu hija ha muerto, ¿para qué molestas ya al Maestro?"
+        },
+        {
+          "numero": "36",
+          "verso": "Jesús, al oír lo que hablaban, le dice al jefe de la sinagoga: —No temas, tan sólo ten fe."
+        },
+        {
+          "numero": "37",
+          "verso": "Y no permitió que nadie le siguiera, excepto Pedro, Santiago y Juan, el hermano de Santiago."
+        },
+        {
+          "numero": "38",
+          "verso": "Llegan a la casa del jefe de la sinagoga, y ve el alboroto y a los que lloraban y a las plañideras."
+        },
+        {
+          "numero": "39",
+          "verso": "Y al entrar, les dice: —¿Por qué alborotáis y estáis llorando? La niña no ha muerto, sino que duerme."
+        },
+        {
+          "numero": "40",
+          "verso": "Y se burlaban de él. Pero él, haciendo salir a todos, toma consigo al padre y a la madre de la niña y a los que le acompañaban, y entra donde estaba la niña."
+        },
+        {
+          "numero": "41",
+          "verso": "Y tomando la mano de la niña, le dice: —Talitha qum —que significa: «Niña, a ti te digo, levántate»."
+        },
+        {
+          "numero": "42",
+          "verso": "Y enseguida la niña se levantó y se puso a andar, pues tenía doce años. Y quedaron llenos de asombro."
+        },
+        {
+          "numero": "43",
+          "verso": "Les insistió mucho en que nadie lo supiera, y dijo que le dieran a ella de comer."
+        }
+      ]
+    }
+  ]
+}

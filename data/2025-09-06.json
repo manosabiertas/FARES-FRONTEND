@@ -1,0 +1,75 @@
+{
+  "fecha": "2025-09-06",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Colosenses 1:21-23",
+      "lecturaNombreNormalizado": "Col1,21-23",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "Y a vosotros, que en otro tiempo erais extraños y enemigos por vuestros pensamientos y malas obras,"
+        },
+        {
+          "numero": "22",
+          "verso": "ahora sin embargo os reconcilió mediante la muerte sufrida en su cuerpo de carne, para presentaros santos, sin mancha e irreprochables delante de él,"
+        },
+        {
+          "numero": "23",
+          "verso": "con tal de que permanezcáis cimentados en la fe, firmes e inconmovibles en la esperanza del Evangelio que escuchasteis, que fue predicado a toda criatura que hay bajo el cielo, y del cual yo, Pablo, he sido constituido servidor."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 54:3-4, 6, 8",
+      "lecturaNombreNormalizado": "Sal54,3-4,6,8",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Dios mío, sálvame por tu Nombre, hazme justicia con tu poder."
+        },
+        {
+          "numero": "4",
+          "verso": "Dios mío, escucha mi oración, presta oídos a las palabras de mi boca."
+        },
+        {
+          "numero": "6",
+          "verso": "Pero Dios es el que me ayuda, el Señor es el que sostiene mi vida."
+        },
+        {
+          "numero": "8",
+          "verso": "Te ofreceré un sacrificio voluntario, daré gracias a tu Nombre, Señor;\nporque es bueno."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 6:1-5",
+      "lecturaNombreNormalizado": "Lc6,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Un sábado pasaba él por entre unos sembrados, y sus discípulos arrancaban espigas, las desgranaban con las manos y se las comían."
+        },
+        {
+          "numero": "2",
+          "verso": "Algunos fariseos les dijeron: —¿Por qué hacéis en sábado lo que no es lícito?"
+        },
+        {
+          "numero": "3",
+          "verso": "Y Jesús respondiéndoles dijo: —¿No habéis leído lo que hizo David, cuando tuvieron hambre él y los que le acompañaban?"
+        },
+        {
+          "numero": "4",
+          "verso": "¿Cómo entró en la Casa de Dios, tomó los panes de la proposición y comió y dio a los que le acompañaban, a pesar de que sólo a los sacerdotes les es lícito comerlos?"
+        },
+        {
+          "numero": "5",
+          "verso": "Y les decía: —El Hijo del Hombre es señor del sábado."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "fecha": "2026-09-22",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Proverbios 21:1-6, 10-13",
+      "lecturaNombreNormalizado": "Prov21,1-6,10-13",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El corazón del rey es como un torrente de agua en mano del Señor: lo inclina adonde quiere."
+        },
+        {
+          "numero": "2",
+          "verso": "Al hombre le parecen rectos todos sus caminos, pero quien examina los corazones es el Señor."
+        },
+        {
+          "numero": "3",
+          "verso": "Practicar justicia y derecho es mejor ante el Señor que sacrificio de víctimas."
+        },
+        {
+          "numero": "4",
+          "verso": "Ojos altaneros y corazón ambicioso son lámpara de malvados, son pecado."
+        },
+        {
+          "numero": "5",
+          "verso": "Los proyectos del laborioso producen ganancias, y todo el que se precipita, se arruina."
+        },
+        {
+          "numero": "6",
+          "verso": "Hacer tesoros con lengua mentirosa es soplo fugaz de los que buscan la muerte."
+        },
+        {
+          "numero": "10",
+          "verso": "El alma de malvado ansía el mal, su prójimo no halla gracia a sus ojos."
+        },
+        {
+          "numero": "11",
+          "verso": "Cuando se castiga al insolente se vuelve cauto el ingenuo,\ny cuando se instruye al sabio, adquiere más saber."
+        },
+        {
+          "numero": "12",
+          "verso": "Observa el Justo la casa del malvado, precipita a los malvados en el mal."
+        },
+        {
+          "numero": "13",
+          "verso": "Quien cierra el oído al clamor del pobre, también él gritará sin encontrar respuesta."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 119:1, 27, 30, 34-35, 44",
+      "lecturaNombreNormalizado": "Sal119,1,27,30,34-35,44",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "(Alef) Dichosos los de conducta íntegra, los que caminan en la Ley del Señor."
+        },
+        {
+          "numero": "27",
+          "verso": "Hazme entender el camino de tus mandatos, y meditaré en tus maravillas."
+        },
+        {
+          "numero": "30",
+          "verso": "He elegido el camino de la verdad, me he ajustado a tus normas;"
+        },
+        {
+          "numero": "34",
+          "verso": "Dame inteligencia para guardar tu Ley, y observarla de todo corazón."
+        },
+        {
+          "numero": "35",
+          "verso": "Encamíname por la senda de tus mandamientos, porque en ella me deleito."
+        },
+        {
+          "numero": "44",
+          "verso": "y guardaré siempre tu Ley, eternamente."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 8:19-21",
+      "lecturaNombreNormalizado": "Lc8,19-21",
+      "versos": [
+        {
+          "numero": "19",
+          "verso": "Vinieron a verle su madre y sus hermanos, y no podían acercarse a él a causa de la muchedumbre."
+        },
+        {
+          "numero": "20",
+          "verso": "Y le avisaron: —Tu madre y tus hermanos están ahí fuera y quieren verte."
+        },
+        {
+          "numero": "21",
+          "verso": "Él, en respuesta, les dijo: —Mi madre y mis hermanos son los que oyen la palabra de Dios y la cumplen."
+        }
+      ]
+    }
+  ]
+}

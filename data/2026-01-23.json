@@ -1,0 +1,151 @@
+{
+  "fecha": "2026-01-23",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Samuel 24:3-21",
+      "lecturaNombreNormalizado": "1Samuel24,3-21",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Tomó entonces tres mil hombres selectos de todo Israel y marchó en busca de David y sus hombres hacia los roquedales de Yeelim."
+        },
+        {
+          "numero": "4",
+          "verso": "Llegó a unos apriscos que hay junto al camino donde había una cueva y Saúl entró en ella para sus necesidades. David y sus hombres estaban escondidos en el fondo de la cueva."
+        },
+        {
+          "numero": "5",
+          "verso": "Los hombres de David le dijeron: —Mira, hoy es el día que te anunció el Señor: «Pongo a tu enemigo en tus manos para que hagas con él lo que mejor te parezca».\nDavid se levantó y cortó sigilosamente la punta del manto de Saúl."
+        },
+        {
+          "numero": "6",
+          "verso": "Después de esto el corazón de David latía con fuerza por haber cortado la punta del manto de Saúl,"
+        },
+        {
+          "numero": "7",
+          "verso": "y dijo a sus hombres: —Dios me libre de hacer ningún daño a mi señor, al ungido del Señor, de alzar mi mano contra el que es el ungido del Señor."
+        },
+        {
+          "numero": "8",
+          "verso": "Amonestó a sus hombres con palabras enérgicas y les prohibió lanzarse contra Saúl. Saúl salió de la cueva y siguió su camino."
+        },
+        {
+          "numero": "9",
+          "verso": "Después salió también David de la cueva y gritó detrás de él: —Señor mío, mi rey.\nSaúl volvió la vista atrás y David inclinándose se postró ante él rostro en tierra,"
+        },
+        {
+          "numero": "10",
+          "verso": "y le dijo: —¿Por qué escuchas a la gente que va diciendo que David busca tu desgracia?"
+        },
+        {
+          "numero": "11",
+          "verso": "Hoy han visto tus ojos que el Señor te ha puesto en mis manos en la cueva; me decían que te matara, pero te he respetado, pues me dije: «No alzaré mi mano contra mi señor, puesto que es el ungido del Señor»."
+        },
+        {
+          "numero": "12",
+          "verso": "Padre mío, mira en mi mano la punta de tu manto. Si al cortar la punta de tu manto no llegué a matarte, reconoce con claridad que no hay maldad ni delito en mis manos, que nunca he pecado contra ti. Tú, en cambio, me acechas para quitarme la vida."
+        },
+        {
+          "numero": "13",
+          "verso": "Que el Señor juzgue entre tú y yo. Que Él me vengue de ti, porque mi mano nunca caerá sobre ti."
+        },
+        {
+          "numero": "14",
+          "verso": "Como dice el antiguo proverbio: «De los malos brota la maldad». Mi mano nunca caerá sobre ti."
+        },
+        {
+          "numero": "15",
+          "verso": "¿Contra quién ha salido el rey de Israel? ¿A quién persigues? A un perro muerto, a una pulga."
+        },
+        {
+          "numero": "16",
+          "verso": "Que el Señor sea juez y dictamine entre tú y yo. Que Él examine y defienda mi causa librándome de tus manos."
+        },
+        {
+          "numero": "17",
+          "verso": "Cuando David terminó de decir todo esto a Saúl, éste respondió: —¿No es ésta tu voz, hijo mío, David?\nY alzando la voz rompió a llorar."
+        },
+        {
+          "numero": "18",
+          "verso": "Mientras, decía a David: —Más justo eres tú que yo. Tú me has proporcionado bienes y yo te he devuelto males."
+        },
+        {
+          "numero": "19",
+          "verso": "Hoy me has demostrado que te portas bien conmigo, que Dios me ha puesto en tus manos y no me has matado."
+        },
+        {
+          "numero": "20",
+          "verso": "¿Qué hombre encuentra a su enemigo y le deja seguir tranquilo su camino? Que el Señor te pague el bien que hoy has hecho conmigo."
+        },
+        {
+          "numero": "21",
+          "verso": "Ahora he comprendido que con toda certeza serás rey y que el reino de Israel se consolidará en tus manos."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 57:2-4, 6, 11",
+      "lecturaNombreNormalizado": "Sal57,2-4,6,11",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Ten piedad de mí, Dios mío, ten piedad de mí, que en Ti se refugia mi alma;\na la sombra de tus alas me refugio\nhasta que pase el peligro."
+        },
+        {
+          "numero": "3",
+          "verso": "Invoco al Dios Altísimo, a Dios que me lo ha hecho todo."
+        },
+        {
+          "numero": "4",
+          "verso": "Enviará desde los cielos a salvarme afrentará a quien me pisotea.\nEnviará Dios su misericordia y su fidelidad."
+        },
+        {
+          "numero": "6",
+          "verso": "¡Álzate sobre los cielos, oh Dios, sobre toda la tierra sea tu gloria!"
+        },
+        {
+          "numero": "11",
+          "verso": "Porque tu misericordia es más grande que los cielos, tu fidelidad, más alta que las nubes."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 3:13-19",
+      "lecturaNombreNormalizado": "Mc3,13-19",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "Y subiendo al monte llamó a los que él quiso, y fueron donde él estaba."
+        },
+        {
+          "numero": "14",
+          "verso": "Y constituyó a doce, para que estuvieran con él y para enviarlos a predicar"
+        },
+        {
+          "numero": "15",
+          "verso": "con potestad de expulsar demonios:"
+        },
+        {
+          "numero": "16",
+          "verso": "a Simón, a quien le dio el nombre de Pedro;"
+        },
+        {
+          "numero": "17",
+          "verso": "a Santiago el de Zebedeo y a Juan, el hermano de Santiago, a quienes les dio el nombre de Boanerges, es decir, «hijos del trueno»;"
+        },
+        {
+          "numero": "18",
+          "verso": "a Andrés, a Felipe, a Bartolomé, a Mateo, a Tomás, a Santiago el de Alfeo, a Tadeo, a Simón el Cananeo"
+        },
+        {
+          "numero": "19",
+          "verso": "y a Judas Iscariote, el que le entregó."
+        }
+      ]
+    }
+  ]
+}

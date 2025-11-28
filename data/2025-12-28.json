@@ -1,0 +1,186 @@
+{
+  "fecha": "2025-12-28",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Eclesiástico 3:2-7, 12-14",
+      "lecturaNombreNormalizado": "Eclo3,2-7,12-14",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "El Señor glorifica al padre en los hijos, y establece la autoridad de la madre sobre la prole."
+        },
+        {
+          "numero": "4",
+          "verso": "Quien honra al padre expía los pecados;"
+        },
+        {
+          "numero": "5",
+          "verso": "quien da gloria a la madre es como si juntara tesoros."
+        },
+        {
+          "numero": "6",
+          "verso": "El que honra al padre recibirá alegría de sus hijos, y será escuchado en el día de su plegaria."
+        },
+        {
+          "numero": "7",
+          "verso": "Quien honra al padre vivirá largos días; y quien obedece al Señor será el consuelo de su madre."
+        },
+        {
+          "numero": "8",
+          "verso": "Quien teme al Señor honra a los padres, y como a señores servirá a los que le engendraron."
+        },
+        {
+          "numero": "14",
+          "verso": "Hijo, socorre a tu padre en la vejez, y no le entristezcas durante su vida."
+        },
+        {
+          "numero": "15",
+          "verso": "Aunque perdiese el juicio, sé indulgente con él, y no le desprecies cuando tú estés en pleno vigor;\npues la piedad con el padre no será olvidada,"
+        },
+        {
+          "numero": "16",
+          "verso": "sino que te servirá de disculpa frente a tus pecados."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 128:1-5",
+      "lecturaNombreNormalizado": "Sal128,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. Dichoso el que teme al Señor\ny anda por sus caminos."
+        },
+        {
+          "numero": "2",
+          "verso": "Del trabajo de tus manos comerás; serás dichoso, y te irá bien."
+        },
+        {
+          "numero": "3",
+          "verso": "Tu mujer será como viña fecunda paredes adentro de tu casa.\nTus hijos, como brotes de olivos,\nen torno a tu mesa."
+        },
+        {
+          "numero": "4",
+          "verso": "Pues así es bendecido el hombre que teme al Señor."
+        },
+        {
+          "numero": "5",
+          "verso": "Que el Señor te bendiga desde Sión. Que veas el bienestar de Jerusalén\ntodos los días de tu vida."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Colosenses 3:12-21",
+      "lecturaNombreNormalizado": "Col3,12-21",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Por tanto, como elegidos de Dios, santos y amados, revestíos de entrañas de misericordia, de bondad, de humildad, de mansedumbre, de paciencia."
+        },
+        {
+          "numero": "13",
+          "verso": "Sobrellevaos mutuamente y perdonaos cuando alguno tenga queja contra otro; como el Señor os ha perdonado, hacedlo así también vosotros."
+        },
+        {
+          "numero": "14",
+          "verso": "Sobre todo, revestíos con la caridad, que es el vínculo de la perfección."
+        },
+        {
+          "numero": "15",
+          "verso": "Y que la paz de Cristo se adueñe de vuestros corazones: a ella habéis sido llamados en un solo cuerpo. Y sed agradecidos."
+        },
+        {
+          "numero": "16",
+          "verso": "Que la palabra de Cristo habite en vosotros abundantemente. Enseñaos con la verdadera sabiduría, animaos unos a otros con salmos, himnos y cánticos espirituales, cantando agradecidos a Dios en vuestros corazones."
+        },
+        {
+          "numero": "17",
+          "verso": "Y todo cuanto hagáis de palabra o de obra, hacedlo todo en nombre del Señor Jesús, dando gracias a Dios Padre por medio de él."
+        },
+        {
+          "numero": "18",
+          "verso": "Mujeres: estad sujetas a vuestros maridos, como conviene en el Señor."
+        },
+        {
+          "numero": "19",
+          "verso": "Maridos: amad a vuestras mujeres y no seáis ásperos con ellas."
+        },
+        {
+          "numero": "20",
+          "verso": "Hijos: obedeced en todo a vuestros padres, pues esto es agradable al Señor."
+        },
+        {
+          "numero": "21",
+          "verso": "Padres: no os excedáis al reprender a vuestros hijos, no sea que se vuelvan pusilánimes."
+        },
+        {
+          "numero": "12",
+          "verso": "Por tanto, como elegidos de Dios, santos y amados, revestíos de entrañas de misericordia, de bondad, de humildad, de mansedumbre, de paciencia."
+        },
+        {
+          "numero": "13",
+          "verso": "Sobrellevaos mutuamente y perdonaos cuando alguno tenga queja contra otro; como el Señor os ha perdonado, hacedlo así también vosotros."
+        },
+        {
+          "numero": "14",
+          "verso": "Sobre todo, revestíos con la caridad, que es el vínculo de la perfección."
+        },
+        {
+          "numero": "15",
+          "verso": "Y que la paz de Cristo se adueñe de vuestros corazones: a ella habéis sido llamados en un solo cuerpo. Y sed agradecidos."
+        },
+        {
+          "numero": "16",
+          "verso": "Que la palabra de Cristo habite en vosotros abundantemente. Enseñaos con la verdadera sabiduría, animaos unos a otros con salmos, himnos y cánticos espirituales, cantando agradecidos a Dios en vuestros corazones."
+        },
+        {
+          "numero": "17",
+          "verso": "Y todo cuanto hagáis de palabra o de obra, hacedlo todo en nombre del Señor Jesús, dando gracias a Dios Padre por medio de él."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 2:13-15, 19-23",
+      "lecturaNombreNormalizado": "Mt2,13-15,19-23",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "Cuando se marcharon, un ángel del Señor se le apareció en sueños a José y le dijo: —Levántate, toma al niño y a su madre, huye a Egipto y quédate allí hasta que yo te diga, porque Herodes va a buscar al niño para matarlo."
+        },
+        {
+          "numero": "14",
+          "verso": "Él se levantó, tomó de noche al niño y a su madre y huyó a Egipto."
+        },
+        {
+          "numero": "15",
+          "verso": "Allí permaneció hasta la muerte de Herodes, para que se cumpliera lo que dijo el Señor por medio del Profeta: De Egipto llamé a mi hijo."
+        },
+        {
+          "numero": "19",
+          "verso": "Muerto Herodes, un ángel del Señor se le apareció en sueños a José en Egipto"
+        },
+        {
+          "numero": "20",
+          "verso": "y le dijo: —Levántate, toma al niño y a su madre y vete a la tierra de Israel; porque han muerto ya los que atentaban contra la vida del niño."
+        },
+        {
+          "numero": "21",
+          "verso": "Se levantó, tomó al niño y a su madre y vino a la tierra de Israel."
+        },
+        {
+          "numero": "22",
+          "verso": "Pero al oír que Arquelao reinaba en Judea en lugar de su padre Herodes, temió ir allá; y avisado en sueños marchó a la región de Galilea."
+        },
+        {
+          "numero": "23",
+          "verso": "Y se fue a vivir a una ciudad llamada Nazaret, para que se cumpliera lo dicho por medio de los Profetas: «Será llamado nazareno»."
+        }
+      ]
+    }
+  ]
+}

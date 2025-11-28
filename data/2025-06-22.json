@@ -1,0 +1,106 @@
+{
+  "fecha": "2025-06-22",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Génesis 14:18-20",
+      "lecturaNombreNormalizado": "Gn14,18-20",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "Melquisedec, rey de Salem, que era sacerdote del Dios Altísimo, ofreció pan y vino,"
+        },
+        {
+          "numero": "19",
+          "verso": "y le bendijo diciendo: —Bendito sea Abrán por parte del Dios Altísimo,\ncreador de cielo y tierra;"
+        },
+        {
+          "numero": "20",
+          "verso": "y bendito sea el Dios Altísimo que puso a tus enemigos en tus manos.\nY Abrán le dio el diezmo de todo."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 110:1-4",
+      "lecturaNombreNormalizado": "Sal110,1-4",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Salmo. Oráculo del Señor a mi señor:\n«Siéntate a mi derecha\nhasta que ponga a tus enemigos\ncomo estrado de tus pies»."
+        },
+        {
+          "numero": "2",
+          "verso": "El Señor extenderá desde Sión el poder de tu cetro:\n«Domina en medio de tus enemigos»."
+        },
+        {
+          "numero": "3",
+          "verso": "Para ti es el principado el día de tu poder,\nentre esplendores sagrados.\nDesde el seno, antes de la aurora,\ncomo el rocío, te he engendrado."
+        },
+        {
+          "numero": "4",
+          "verso": "El Señor lo ha jurado y no se arrepiente:\n«Tú eres sacerdote para siempre\nsegún el orden de Melquisedec»."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "1 Corintios 11:23-26",
+      "lecturaNombreNormalizado": "1Corintios11,23-26",
+      "versos": [
+        {
+          "numero": "23",
+          "verso": "Porque yo recibí del Señor lo que también os transmití: que el Señor Jesús, la noche en que fue entregado, tomó pan,"
+        },
+        {
+          "numero": "24",
+          "verso": "y dando gracias, lo partió y dijo: «Esto es mi cuerpo, que se da por vosotros; haced esto en memoria mía»."
+        },
+        {
+          "numero": "25",
+          "verso": "Y de la misma manera, después de cenar, tomó el cáliz, diciendo: «Este cáliz es la nueva alianza en mi sangre; cuantas veces lo bebáis, hacedlo en memoria mía»."
+        },
+        {
+          "numero": "26",
+          "verso": "Porque cada vez que coméis este pan y bebéis este cáliz, anunciáis la muerte del Señor, hasta que venga."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 9:11-17",
+      "lecturaNombreNormalizado": "Lc9,11-17",
+      "versos": [
+        {
+          "numero": "11",
+          "verso": "Cuando la gente se dio cuenta, le siguió. Y les acogió y les hablaba del Reino de Dios, y sanaba a los que tenían necesidad."
+        },
+        {
+          "numero": "12",
+          "verso": "Empezaba a declinar el día, y se acercaron los doce para decirle: —Despide a la muchedumbre, para que se vayan a los pueblos y aldeas de alrededor, a buscar albergue y a proveerse de alimentos; porque aquí estamos en un lugar desierto."
+        },
+        {
+          "numero": "13",
+          "verso": "Él les dijo: —Dadles vosotros de comer.\nPero ellos dijeron:\n—No tenemos más que cinco panes y dos peces, a no ser que vayamos nosotros y compremos comida para todo este gentío"
+        },
+        {
+          "numero": "14",
+          "verso": "—había unos cinco mil hombres. Entonces les dijo a sus discípulos:\n—Hacedlos sentar en grupos de cincuenta."
+        },
+        {
+          "numero": "15",
+          "verso": "Así lo hicieron, y acomodaron a todos."
+        },
+        {
+          "numero": "16",
+          "verso": "Tomando los cinco panes y los dos peces, levantó los ojos al cielo y pronunció la bendición sobre ellos, los partió y se puso a dárselos a sus discípulos, para que los distribuyeran entre la muchedumbre."
+        },
+        {
+          "numero": "17",
+          "verso": "Comieron hasta que todos quedaron satisfechos. Y de los trozos que sobraron, ellos recogieron doce cestos."
+        }
+      ]
+    }
+  ]
+}

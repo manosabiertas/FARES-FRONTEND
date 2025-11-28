@@ -1,0 +1,111 @@
+{
+  "fecha": "2026-07-14",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 7:1-9",
+      "lecturaNombreNormalizado": "Is7,1-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Sucedió en los días de Ajaz, hijo de Jotam, hijo de Uzías, rey de Judá, que Resín, rey de Siria, y Pecaj, hijo de Remalías, rey de Israel, subieron hacia Jerusalén para atacarla —aunque no podrían conquistarla—."
+        },
+        {
+          "numero": "2",
+          "verso": "La noticia llegó a la casa de David: «Siria ha acampado en Efraím». Entonces se estremeció su corazón y el corazón de su pueblo, como se estremecen los árboles del bosque por el viento."
+        },
+        {
+          "numero": "3",
+          "verso": "Y el Señor dijo a Isaías: —Sal al encuentro de Ajaz, tú y Sear–Yasub, tu hijo, al extremo del acueducto de la alberca de arriba, junto al camino del campo del Batanero,"
+        },
+        {
+          "numero": "4",
+          "verso": "y dile: «Ponte en alerta, pero tranquilo. No temas, que no desmaye tu corazón por esos dos tizones humeantes, por el ardor de la ira de Resín y Siria, y del hijo de Remalías,"
+        },
+        {
+          "numero": "5",
+          "verso": "porque Siria, Efraím y el hijo de Remalías hayan tomado una decisión perversa contra ti diciendo:"
+        },
+        {
+          "numero": "6",
+          "verso": "“Vamos a subir contra Judá, para llenarla de temor, conquistarla y poner como rey de ella al hijo de Tabeel”»."
+        },
+        {
+          "numero": "7",
+          "verso": "Porque así ha dicho el Señor Dios: «No lo conseguirán ni sucederá.\nPues la cabeza de Siria es Damasco,\ny la cabeza de Damasco, Resín."
+        },
+        {
+          "numero": "8",
+          "verso": "Dentro de sesenta y cinco años Efraím dejará de ser pueblo."
+        },
+        {
+          "numero": "9",
+          "verso": "La cabeza de Efraím es Samaría, y la cabeza de Samaría, el hijo de Remalías.\nSi no creéis, no subsistiréis»."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 48:2-8",
+      "lecturaNombreNormalizado": "Sal48,2-8",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "El Señor es grande y digno de toda alabanza en la ciudad de nuestro Dios, su monte santo."
+        },
+        {
+          "numero": "3",
+          "verso": "La más bella cima, gozo de toda la tierra, monte Sión, arcano del Norte,\nciudad del gran Rey."
+        },
+        {
+          "numero": "4",
+          "verso": "Dios, en sus palacios, se muestra como defensa segura."
+        },
+        {
+          "numero": "5",
+          "verso": "Así, cuando se aliaron los reyes, y se acercaron juntos,"
+        },
+        {
+          "numero": "6",
+          "verso": "al verla, se asombraron, se atemorizaron,\ny huyeron."
+        },
+        {
+          "numero": "7",
+          "verso": "Allí los atrapó el temblor, espasmos como de mujer en parto,"
+        },
+        {
+          "numero": "8",
+          "verso": "como viento solano que destroza las naves de Tarsis."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 11:20-24",
+      "lecturaNombreNormalizado": "Mt11,20-24",
+      "versos": [
+        {
+          "numero": "20",
+          "verso": "Entonces se puso a reprochar a las ciudades donde se habían realizado la mayoría de sus milagros, porque no se habían convertido:"
+        },
+        {
+          "numero": "21",
+          "verso": "—¡Ay de ti, Corazín, ay de ti, Betsaida! Porque si en Tiro y en Sidón se hubieran realizado los milagros que se han obrado en vosotras, hace tiempo que habrían hecho penitencia en saco y ceniza."
+        },
+        {
+          "numero": "22",
+          "verso": "Sin embargo, os digo que en el día del Juicio Tiro y Sidón serán tratadas con menos rigor que vosotras."
+        },
+        {
+          "numero": "23",
+          "verso": "»Y tú, Cafarnaún, ¿acaso serás exaltada hasta el cielo? ¡Hasta los infiernos vas a descender! Porque si en Sodoma hubieran sido realizados los milagros que se han obrado en ti, perduraría hasta hoy."
+        },
+        {
+          "numero": "24",
+          "verso": "En verdad os digo que en el día del Juicio la tierra de Sodoma será tratada con menos rigor que tú."
+        }
+      ]
+    }
+  ]
+}

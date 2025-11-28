@@ -1,0 +1,91 @@
+{
+  "fecha": "2026-08-07",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Nahún 2:1, 3; 3:1-3, 6-7",
+      "lecturaNombreNormalizado": "Nahún2,1,3;3,1-3,6-7",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Mirad sobre los montes los pies del mensajero\nque anuncia la paz.\nCelebra tus fiestas, Judá,\ncumple tus votos,\nque no volverá más\na pasar por ti Belial:\nha sido del todo aniquilado."
+        },
+        {
+          "numero": "3",
+          "verso": "Porque el Señor devuelve la majestad de Jacob,\nla majestad de Israel:\nunos salteadores habían asolado\ny arrancado sus sarmientos."
+        },
+        {
+          "numero": "1",
+          "verso": "¡Ay de la ciudad sanguinaria, toda ella mentira, repleta de rapiñas,\ninsaciable de presas!"
+        },
+        {
+          "numero": "2",
+          "verso": "Chasquidos de látigo, trepidar de ruedas,\ncaballos al galope,\nbrincos de carruajes."
+        },
+        {
+          "numero": "3",
+          "verso": "Jinetes a la carga, refulgir de espadas\ncentellear de lanzas,\nmultitud de víctimas,\nmontones de muertos,\ncadáveres sin fin,\ncuerpos en los que se tropieza."
+        },
+        {
+          "numero": "6",
+          "verso": "Echaré sobre ti inmundicias, te afrentaré y te expondré como ludibrio."
+        },
+        {
+          "numero": "7",
+          "verso": "De modo que cualquiera que te vea se apartará de ti diciendo:\n“¡Devastada está Nínive!\n¿Quién se apiadará de ella?\n¿Dónde encontraré quien te consuele?”."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Deuteronomio 32:35-36, 39, 41",
+      "lecturaNombreNormalizado": "Dt32,35-36,39,41",
+      "versos": [
+        {
+          "numero": "35",
+          "verso": "Mía es la venganza y el castigo para el momento en que sus pies vacilen;\npróximo está ya el día de su ruina,\ny se apresura su destino."
+        },
+        {
+          "numero": "36",
+          "verso": "Pues el Señor hará justicia a su pueblo y de sus siervos tendrá misericordia,\npues verá que se extinguió su fuerza\ny no queda ni cautivo ni libre."
+        },
+        {
+          "numero": "39",
+          "verso": "Ved ahora que yo, sólo yo soy, y no existe otro dios frente a Mí.\nYo doy la muerte y doy la vida,\nyo hago la herida y yo mismo la curo,\ny no hay quien pueda librar de mi mano."
+        },
+        {
+          "numero": "41",
+          "verso": "Afilaré el rayo de mi espada y mi mano empuñará el juicio;\nde mis rivales tomaré venganza\ny daré su paga a quien me odia."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 16:24-28",
+      "lecturaNombreNormalizado": "Mt16,24-28",
+      "versos": [
+        {
+          "numero": "24",
+          "verso": "Entonces les dijo Jesús a sus discípulos: —Si alguno quiere venir detrás de mí, que se niegue a sí mismo, que tome su cruz y que me siga."
+        },
+        {
+          "numero": "25",
+          "verso": "Porque el que quiera salvar su vida la perderá; pero el que pierda su vida por mí, la encontrará."
+        },
+        {
+          "numero": "26",
+          "verso": "»Porque, ¿de qué le servirá al hombre ganar el mundo entero si pierde su vida?, o ¿qué podrá dar el hombre a cambio de su vida?"
+        },
+        {
+          "numero": "27",
+          "verso": "Porque el Hijo del Hombre va a venir en la gloria de su Padre acompañado de sus ángeles, y entonces retribuirá a cada uno según su conducta."
+        },
+        {
+          "numero": "28",
+          "verso": "En verdad os digo que hay algunos de los aquí presentes que no sufrirán la muerte hasta que vean al Hijo del Hombre venir en su Reino."
+        }
+      ]
+    }
+  ]
+}

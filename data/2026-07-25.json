@@ -1,0 +1,123 @@
+{
+  "fecha": "2026-07-25",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Corintios 4:7-15",
+      "lecturaNombreNormalizado": "2Corintios4,7-15",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Pero llevamos este tesoro en vasos de barro, para que se reconozca que la sobreabundancia del poder es de Dios y que no proviene de nosotros:"
+        },
+        {
+          "numero": "8",
+          "verso": "en todo atribulados, pero no angustiados; perplejos, pero no desesperados;"
+        },
+        {
+          "numero": "9",
+          "verso": "perseguidos, pero no abandonados; derribados, pero no aniquilados,"
+        },
+        {
+          "numero": "10",
+          "verso": "llevando siempre en nuestro cuerpo el morir de Jesús, para que también la vida de Jesús se manifieste en nuestro cuerpo."
+        },
+        {
+          "numero": "11",
+          "verso": "Porque nosotros, aunque vivimos, nos vemos continuamente entregados a la muerte por causa de Jesús, para que también la vida de Jesús se manifieste en nuestra carne mortal."
+        },
+        {
+          "numero": "12",
+          "verso": "De manera que en nosotros actúe la muerte, y en vosotros la vida."
+        },
+        {
+          "numero": "13",
+          "verso": "Pero teniendo el mismo espíritu de fe —según lo que está escrito: Creí, por eso hablé—, también nosotros creemos, y por eso hablamos,"
+        },
+        {
+          "numero": "14",
+          "verso": "sabiendo que quien resucitó al Señor Jesús también nos resucitará con Jesús y nos pondrá a su lado con vosotros."
+        },
+        {
+          "numero": "15",
+          "verso": "Porque todo es para vuestro bien, a fin de que la gracia, multiplicada a través de muchos, haga abundar la acción de gracias para la gloria de Dios."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 126:1-6",
+      "lecturaNombreNormalizado": "Sal126,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. Cuando el Señor hizo volver a los cautivos de Sión,\nnos parecía soñar."
+        },
+        {
+          "numero": "2",
+          "verso": "Se nos llenaba de risas la boca, la lengua, de cantares de alegría.\nEntonces se decía entre las naciones:\n«El Señor ha hecho con ellos cosas grandes»."
+        },
+        {
+          "numero": "3",
+          "verso": "El Señor ha hecho con nosotros cosas grandes: estamos llenos de alegría."
+        },
+        {
+          "numero": "4",
+          "verso": "Haz volver, Señor, a nuestros cautivos como los torrentes del Négueb."
+        },
+        {
+          "numero": "5",
+          "verso": "Los que siembran con lágrimas cosechan entre cantares de alegría."
+        },
+        {
+          "numero": "6",
+          "verso": "Al marchar iban llorando, llevando las semillas.\nAl volver vienen cantando,\ntrayendo sus gavillas."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 20:20-28",
+      "lecturaNombreNormalizado": "Mt20,20-28",
+      "versos": [
+        {
+          "numero": "20",
+          "verso": "Entonces se le acercó la madre de los hijos de Zebedeo con sus hijos, y se postró ante él para hacerle una petición."
+        },
+        {
+          "numero": "21",
+          "verso": "Él le preguntó: —¿Qué quieres?\nElla le dijo:\n—Di que estos dos hijos míos se sienten en tu Reino, uno a tu derecha y otro a tu izquierda."
+        },
+        {
+          "numero": "22",
+          "verso": "Jesús respondió: —No sabéis lo que pedís. ¿Podéis beber el cáliz que yo he de beber?\n—Podemos —le dijeron."
+        },
+        {
+          "numero": "23",
+          "verso": "Él añadió: —Beberéis mi cáliz; pero sentarse a mi derecha o a mi izquierda no me corresponde concederlo, sino que es para quienes está dispuesto por mi Padre."
+        },
+        {
+          "numero": "24",
+          "verso": "Al oír esto, los diez se indignaron contra los dos hermanos."
+        },
+        {
+          "numero": "25",
+          "verso": "Pero Jesús les llamó y les dijo: —Sabéis que los que gobiernan las naciones las oprimen y los poderosos las avasallan."
+        },
+        {
+          "numero": "26",
+          "verso": "No tiene que ser así entre vosotros; al contrario: quien entre vosotros quiera llegar a ser grande, que sea vuestro servidor;"
+        },
+        {
+          "numero": "27",
+          "verso": "y quien entre vosotros quiera ser el primero, que sea vuestro esclavo."
+        },
+        {
+          "numero": "28",
+          "verso": "De la misma manera que el Hijo del Hombre no ha venido a ser servido, sino a servir y dar su vida en redención de muchos."
+        }
+      ]
+    }
+  ]
+}

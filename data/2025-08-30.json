@@ -1,0 +1,123 @@
+{
+  "fecha": "2025-08-30",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Tesalonicenses 4:9-11",
+      "lecturaNombreNormalizado": "1Tesalonicenses4,9-11",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "En cuanto al amor fraterno, no tenéis necesidad de que os escriba, pues vosotros mismos habéis sido instruidos por Dios para que os améis los unos a los otros,"
+        },
+        {
+          "numero": "10",
+          "verso": "y, en efecto, así lo estáis poniendo por obra con todos los hermanos en toda Macedonia. Pero os encarecemos, hermanos, a que progreséis más"
+        },
+        {
+          "numero": "11",
+          "verso": "y a que os esmeréis en vivir con serenidad, ocupándoos de vuestros asuntos y trabajando con vuestras manos, como os lo ordenamos,"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 98:1, 7-9",
+      "lecturaNombreNormalizado": "Sal98,1,7-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. Cantad al Señor un cántico nuevo\nporque ha hecho maravillas.\nSu diestra le ha salvado,\nsu santo brazo."
+        },
+        {
+          "numero": "7",
+          "verso": "Brame el mar y cuanto lo llena, el orbe y sus habitantes."
+        },
+        {
+          "numero": "8",
+          "verso": "Aplaudan los ríos, festejen a una las montañas"
+        },
+        {
+          "numero": "9",
+          "verso": "ante el Señor, que ya viene a juzgar la tierra: juzgará al orbe con justicia,\ny a los pueblos con rectitud."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 25:14-30",
+      "lecturaNombreNormalizado": "Mt25,14-30",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "»Porque es como un hombre que al marcharse de su tierra llamó a sus servidores y les entregó sus bienes."
+        },
+        {
+          "numero": "15",
+          "verso": "A uno le dio cinco talentos, a otro dos y a otro uno sólo: a cada uno según su capacidad; y se marchó."
+        },
+        {
+          "numero": "16",
+          "verso": "El que había recibido cinco talentos fue, trabajó con ellos y ganó otros cinco."
+        },
+        {
+          "numero": "17",
+          "verso": "Del mismo modo, el que había recibido dos ganó otros dos."
+        },
+        {
+          "numero": "18",
+          "verso": "Pero el que había recibido uno fue, hizo un hoyo en la tierra y escondió el dinero de su señor."
+        },
+        {
+          "numero": "19",
+          "verso": "Después de mucho tiempo, regresó el amo de dichos servidores e hizo cuentas con ellos."
+        },
+        {
+          "numero": "20",
+          "verso": "Cuando se presentó el que había recibido los cinco talentos, entregó otros cinco diciendo: «Señor, cinco talentos me entregaste; mira, he ganado otros cinco talentos»."
+        },
+        {
+          "numero": "21",
+          "verso": "Le respondió su amo: «Muy bien, siervo bueno y fiel; como has sido fiel en lo poco, yo te confiaré lo mucho: entra en la alegría de tu señor»."
+        },
+        {
+          "numero": "22",
+          "verso": "Se presentó también el que había recibido los dos talentos y dijo: «Señor, dos talentos me entregaste; mira, he ganado otros dos talentos»."
+        },
+        {
+          "numero": "23",
+          "verso": "Le respondió su amo: «Muy bien, siervo bueno y fiel; como has sido fiel en lo poco, yo te confiaré lo mucho: entra en la alegría de tu señor»."
+        },
+        {
+          "numero": "24",
+          "verso": "Cuando llegó por fin el que había recibido un talento, dijo: «Señor, sé que eres hombre duro, que cosechas donde no sembraste y recoges donde no esparciste;"
+        },
+        {
+          "numero": "25",
+          "verso": "por eso tuve miedo, fui y escondí tu talento en tierra: aquí tienes lo tuyo»."
+        },
+        {
+          "numero": "26",
+          "verso": "Su amo le respondió: «Siervo malo y perezoso, sabías que cosecho donde no he sembrado y que recojo donde no he esparcido;"
+        },
+        {
+          "numero": "27",
+          "verso": "por eso mismo debías haber dado tu dinero a los banqueros, y así, al venir yo, hubiera recibido lo mío con los intereses."
+        },
+        {
+          "numero": "28",
+          "verso": "Por lo tanto, quitadle el talento y dádselo al que tiene los diez."
+        },
+        {
+          "numero": "29",
+          "verso": "»Porque a todo el que tiene se le dará y tendrá en abundancia; pero al que no tiene incluso lo que tiene se le quitará."
+        },
+        {
+          "numero": "30",
+          "verso": "En cuanto al siervo inútil, arrojadlo a las tinieblas de afuera: allí habrá llanto y rechinar de dientes»."
+        }
+      ]
+    }
+  ]
+}

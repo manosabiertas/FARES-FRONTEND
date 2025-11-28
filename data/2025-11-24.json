@@ -1,0 +1,139 @@
+{
+  "fecha": "2025-11-24",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Daniel 1:1-6, 8-20",
+      "lecturaNombreNormalizado": "Dn1,1-6,8-20",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El año tercero del reinado de Yoyaquim, rey de Judá, Nabucodonosor, rey de Babilonia, llegó a Jerusalén y la sitió."
+        },
+        {
+          "numero": "2",
+          "verso": "El Señor puso en sus manos a Yoyaquim, rey de Judá, y parte de los objetos del Templo. Nabucodonosor los llevó a Sinar, al templo de su dios, y depositó los objetos en la cámara del tesoro de su dios."
+        },
+        {
+          "numero": "3",
+          "verso": "El rey ordenó a Aspenaz, capitán de sus guardias, traer a algunos israelitas de estirpe real y de familias nobles,"
+        },
+        {
+          "numero": "4",
+          "verso": "jóvenes que no tuviesen ningún defecto físico, de buen parecer, instruidos en toda clase de sabiduría, prudentes e inteligentes, que fuesen aptos para vivir en el palacio real, y que se les enseñase la escritura y la lengua de los caldeos."
+        },
+        {
+          "numero": "5",
+          "verso": "El rey les asignó una ración diaria de la comida real y del vino que él bebía, para que fueran educados durante tres años y después estuvieran al servicio del rey."
+        },
+        {
+          "numero": "6",
+          "verso": "Entre ellos había algunos judíos: Daniel, Ananías, Misael y Azarías."
+        },
+        {
+          "numero": "8",
+          "verso": "Daniel se propuso en su corazón que no se iba a contaminar con la comida del rey ni con el vino que bebía, y pidió al capitán de los guardias no contaminarse."
+        },
+        {
+          "numero": "9",
+          "verso": "Dios concedió a Daniel gracia y misericordia ante el capitán de los guardias."
+        },
+        {
+          "numero": "10",
+          "verso": "El capitán de los guardias le dijo a Daniel: —Tengo miedo a mi señor, el rey, que ha asignado vuestra comida y vuestra bebida, porque, si ve vuestros rostros más macilentos que los de los jóvenes de vuestra edad, ponéis en peligro mi cabeza delante del rey."
+        },
+        {
+          "numero": "11",
+          "verso": "Daniel le propuso al encargado que el capitán de los guardias había designado para Daniel, Ananías, Misael y Azarías:"
+        },
+        {
+          "numero": "12",
+          "verso": "—Por favor, pon a prueba a tus siervos durante diez días y que nos den legumbres para comer y agua para beber."
+        },
+        {
+          "numero": "13",
+          "verso": "Que después examinen ante ti nuestro aspecto y el de los jóvenes que comen de la comida real, y según lo que veas actúa con tus siervos."
+        },
+        {
+          "numero": "14",
+          "verso": "Él les aceptó esta propuesta y los puso a prueba durante diez días."
+        },
+        {
+          "numero": "15",
+          "verso": "Al cabo de diez días ellos presentaban mejor aspecto y estaban más robustos que todos los jóvenes que comían la comida real."
+        },
+        {
+          "numero": "16",
+          "verso": "Entonces el encargado se llevaba la comida y el vino que habían de beber, y les daba legumbres."
+        },
+        {
+          "numero": "17",
+          "verso": "A aquellos cuatro jóvenes Dios les concedió inteligencia, comprensión de cualquier escritura y sabiduría; y Daniel entendía todas las visiones y sueños."
+        },
+        {
+          "numero": "18",
+          "verso": "Pasados los días que había fijado el rey para que se los presentaran, el capitán de los guardias los llevó ante Nabucodonosor."
+        },
+        {
+          "numero": "19",
+          "verso": "El rey habló con ellos y, de entre todos, no se encontró ninguno como Daniel, Ananías, Misael y Azarías, por lo que quedaron al servicio del rey."
+        },
+        {
+          "numero": "20",
+          "verso": "En cuantos asuntos de sabiduría e inteligencia les consultó el rey, los encontró diez veces superiores a todos los magos y adivinos que había en su reino."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Daniel 3:52-56",
+      "lecturaNombreNormalizado": "Dn3,52-56",
+      "versos": [
+        {
+          "numero": "52",
+          "verso": "—Bendito eres, Señor, Dios de nuestros padres, digno de alabanza y ensalzado por los siglos.\nBendito el santo Nombre de tu gloria,\nmuy digno de alabanza y ensalzado por los siglos."
+        },
+        {
+          "numero": "53",
+          "verso": "Bendito eres en el Templo de tu santa gloria, muy digno de alabanza y glorioso por los siglos."
+        },
+        {
+          "numero": "54",
+          "verso": "Bendito eres sobre el trono de tu reino: muy digno de alabanza y ensalzado por los siglos."
+        },
+        {
+          "numero": "55",
+          "verso": "Bendito eres Tú, que sondeas los abismos sentado sobre querubines, digno de alabanza y ensalzado por los siglos."
+        },
+        {
+          "numero": "56",
+          "verso": "Bendito eres en la bóveda del cielo, digno de alabanza y glorioso por los siglos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 21:1-4",
+      "lecturaNombreNormalizado": "Lc21,1-4",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Al levantar la vista, vio a unos ricos que echaban sus ofrendas en el gazofilacio."
+        },
+        {
+          "numero": "2",
+          "verso": "Vio también a una viuda pobre que echaba allí dos monedas pequeñas,"
+        },
+        {
+          "numero": "3",
+          "verso": "y dijo: —En verdad os digo que esta viuda pobre ha echado más que todos;"
+        },
+        {
+          "numero": "4",
+          "verso": "pues todos estos han echado como ofrenda algo de lo que les sobra, ella, en cambio, en su necesidad ha echado todo lo que tenía para su sustento."
+        }
+      ]
+    }
+  ]
+}

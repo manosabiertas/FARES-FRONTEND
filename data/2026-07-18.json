@@ -1,0 +1,107 @@
+{
+  "fecha": "2026-07-18",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Miqueas 2:1-5",
+      "lecturaNombreNormalizado": "Mi2,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Ay de los que maquinan la iniquidad!, los que traman el mal en sus lechos,\ny lo ejecutan a la luz de la mañana,\nporque en sus manos está el hacerlo."
+        },
+        {
+          "numero": "2",
+          "verso": "Codician campos y los arrebatan, casas, y las toman;\noprimen al varón y su casa,\nal hombre y su heredad."
+        },
+        {
+          "numero": "3",
+          "verso": "Por eso, así dice el Señor: «Mirad que preparo un mal para esta gente,\ndel que no podréis apartar vuestros cuellos,\nni caminar erguidos,\nporque será tiempo de desgracia."
+        },
+        {
+          "numero": "4",
+          "verso": "Aquel día se dirá contra vosotros un refrán, y se entonará una lamentación lúgubre, que dirá:\n“Estamos arruinados por completo.\nÉl ha enajenado la herencia de mi pueblo,\n¿cómo me la restituirá?\n¡Ha repartido nuestros campos a los infieles!”."
+        },
+        {
+          "numero": "5",
+          "verso": "Por eso no tendrás quien mida los lotes con la cuerda\nen la comunidad del Señor»."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 10:1-4, 7-8, 14",
+      "lecturaNombreNormalizado": "Sal10,1-4,7-8,14",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "(Lámed) ¿Por qué, Señor, te quedas lejos, te ocultas en los momentos de angustia?"
+        },
+        {
+          "numero": "2",
+          "verso": "Con arrogancia el impío oprime al pobre. ¡Queden presos en las intrigas que tramaron!"
+        },
+        {
+          "numero": "3",
+          "verso": "El impío se jacta de sus pasiones, el avaro maldice, injuria al Señor."
+        },
+        {
+          "numero": "4",
+          "verso": "(Nun) El impío dice en su arrogancia: «No indagará, no hay Dios».\nEs lo que piensa."
+        },
+        {
+          "numero": "7",
+          "verso": "(Pe) Su boca está llena de insultos, engaños y abusos;\nsu lengua encubre opresión y malicia."
+        },
+        {
+          "numero": "8",
+          "verso": "Se agazapa en escondrijos de poblados, a escondidas asesina al inocente,\nsus ojos espían al desdichado."
+        },
+        {
+          "numero": "14",
+          "verso": "(Resh) Pero Tú ves. Miras la pena y la aflicción para tomarlas en tus manos.\nEn Ti se abandona el desdichado;\nTú eres el que socorre al huérfano."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 12:14-21",
+      "lecturaNombreNormalizado": "Mt12,14-21",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "Al salir, los fariseos se pusieron de acuerdo contra él, para ver cómo perderle."
+        },
+        {
+          "numero": "15",
+          "verso": "Jesús, sabiéndolo, se alejó de allí, y le siguieron muchos y los curó a todos,"
+        },
+        {
+          "numero": "16",
+          "verso": "y les ordenó que no le descubriesen,"
+        },
+        {
+          "numero": "17",
+          "verso": "para que se cumpliera lo dicho por medio del profeta Isaías:"
+        },
+        {
+          "numero": "18",
+          "verso": "Aquí está mi Siervo, a quien elegí, mi amado, en quien se complace mi alma.\nPondré mi Espíritu sobre él\ny anunciará la justicia a las naciones."
+        },
+        {
+          "numero": "19",
+          "verso": "No disputará ni gritará, nadie oirá su voz en las plazas."
+        },
+        {
+          "numero": "20",
+          "verso": "No quebrará la caña cascada, ni apagará la mecha humeante,\nhasta que haga triunfar la justicia."
+        },
+        {
+          "numero": "21",
+          "verso": "Y en su nombre pondrán su esperanza las naciones."
+        }
+      ]
+    }
+  ]
+}

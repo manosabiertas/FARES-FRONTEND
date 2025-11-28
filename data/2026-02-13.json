@@ -1,0 +1,99 @@
+{
+  "fecha": "2026-02-13",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Reyes 11:29-32; 12:19",
+      "lecturaNombreNormalizado": "1Reyes11,29-32;12,19",
+      "versos": [
+        {
+          "numero": "29",
+          "verso": "Por aquel entonces Jeroboam salió de Jerusalén y el profeta Ajías de Siló se lo encontró por el camino. Éste vestía un manto nuevo, y los dos estaban solos en el campo."
+        },
+        {
+          "numero": "30",
+          "verso": "Ajías se quitó el manto nuevo que llevaba y lo rasgó en doce trozos."
+        },
+        {
+          "numero": "31",
+          "verso": "Entonces dijo a Jeroboam: —Toma diez trozos, pues así dice el Señor, Dios de Israel: «Voy a desgarrar el reino de la mano de Salomón y te daré a ti diez tribus."
+        },
+        {
+          "numero": "32",
+          "verso": "Él conservará una tribu en atención a mi siervo David y a Jerusalén, la ciudad que elegí entre todas las tribus de Israel."
+        },
+        {
+          "numero": "19",
+          "verso": "Israel se separó de la casa de David hasta el día de hoy."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 81:10-15",
+      "lecturaNombreNormalizado": "Sal81,10-15",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "No tendrás un dios extraño, ni te postrarás ante un dios extranjero."
+        },
+        {
+          "numero": "11",
+          "verso": "Yo soy el Señor, tu Dios, que te hice subir de la tierra de Egipto.\nAbre bien tu boca y Yo la llenaré."
+        },
+        {
+          "numero": "12",
+          "verso": "Pero mi pueblo no escuchó mi voz, Israel no me obedeció."
+        },
+        {
+          "numero": "13",
+          "verso": "Y los abandoné a la dureza de su corazón, a que marchase según sus propósitos."
+        },
+        {
+          "numero": "14",
+          "verso": "¡Ay si mi pueblo me escuchase, si Israel marchara por mis caminos!"
+        },
+        {
+          "numero": "15",
+          "verso": "Yo, al punto, humillaría a sus enemigos, volvería mi mano contra sus adversarios."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 7:31-37",
+      "lecturaNombreNormalizado": "Mc7,31-37",
+      "versos": [
+        {
+          "numero": "31",
+          "verso": "De nuevo, salió de la región de Tiro y vino a través de Sidón hacia el mar de Galilea, cruzando el territorio de la Decápolis."
+        },
+        {
+          "numero": "32",
+          "verso": "Le traen a uno que era sordo y que a duras penas podía hablar y le ruegan que le imponga la mano."
+        },
+        {
+          "numero": "33",
+          "verso": "Y apartándolo de la muchedumbre, le metió los dedos en las orejas y le tocó con saliva la lengua;"
+        },
+        {
+          "numero": "34",
+          "verso": "y mirando al cielo, suspiró, y le dijo: —Effetha —que significa: «Ábrete»."
+        },
+        {
+          "numero": "35",
+          "verso": "Y se le abrieron los oídos, quedó suelta la atadura de su lengua y empezó a hablar correctamente."
+        },
+        {
+          "numero": "36",
+          "verso": "Y les ordenó que no se lo dijeran a nadie. Pero cuanto más se lo mandaba, más lo proclamaban;"
+        },
+        {
+          "numero": "37",
+          "verso": "y estaban tan maravillados que decían: —Todo lo ha hecho bien, hace oír a los sordos y hablar a los mudos."
+        }
+      ]
+    }
+  ]
+}

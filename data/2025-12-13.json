@@ -1,0 +1,99 @@
+{
+  "fecha": "2025-12-13",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Eclesiástico 48:1-4, 9-11",
+      "lecturaNombreNormalizado": "Eclo48,1-4,9-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Luego surgió el profeta Elías, semejante al fuego, cuya palabra quemaba como una antorcha."
+        },
+        {
+          "numero": "2",
+          "verso": "Él atrajo sobre ellos el hambre, y con su celo los redujo a pocos."
+        },
+        {
+          "numero": "3",
+          "verso": "Por mandato del Señor cerró el cielo e hizo bajar fuego tres veces."
+        },
+        {
+          "numero": "4",
+          "verso": "¡Qué glorioso fuiste, Elías, con tus prodigios! ¿Quién puede jactarse de ser como tú?"
+        },
+        {
+          "numero": "9",
+          "verso": "Tú fuiste arrebatado en un torbellino de llamas, en un carro tirado por caballos de fuego."
+        },
+        {
+          "numero": "10",
+          "verso": "Tú eres el designado para reprochar en tiempo oportuno, para aplacar la ira del Señor antes del furor,\npara convertir el corazón del padre hacia el hijo\ny restablecer las tribus de Jacob."
+        },
+        {
+          "numero": "11",
+          "verso": "¡Dichosos los que te vieron y los que han muerto en tu amistad!"
+        },
+        {
+          "numero": "12",
+          "verso": "También nosotros alcanzaremos sin duda la vida."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 80:2-3, 15-16, 18-19",
+      "lecturaNombreNormalizado": "Sal80,2-3,15-16,18-19",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Pastor de Israel, inclina tu oído, Tú que guías a José como un rebaño,\nque estás sentado sobre los querubines,\nmuestra tu esplendor"
+        },
+        {
+          "numero": "3",
+          "verso": "ante Efraím, Benjamín y Manasés, despierta tu fuerza y ven a salvarnos."
+        },
+        {
+          "numero": "15",
+          "verso": "¡Oh Dios de los ejércitos, vuélvete! Mira desde los cielos, fíjate,\nven a visitar esta viña."
+        },
+        {
+          "numero": "16",
+          "verso": "Protégela, es la que tu diestra plantó, el hijo que te adoptaste:"
+        },
+        {
+          "numero": "18",
+          "verso": "Proteja tu mano al hombre de tu diestra, al hijo del hombre que adoptaste."
+        },
+        {
+          "numero": "19",
+          "verso": "No nos apartaremos más de Ti. Tú nos volverás a la vida,\ny nosotros invocaremos tu Nombre."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 17:10-13",
+      "lecturaNombreNormalizado": "Mt17,10-13",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "Sus discípulos le preguntaron: —¿Por qué entonces dicen los escribas que Elías debe venir primero?"
+        },
+        {
+          "numero": "11",
+          "verso": "Él les respondió: —Elías ciertamente vendrá y restablecerá todas las cosas."
+        },
+        {
+          "numero": "12",
+          "verso": "Pero yo os digo que Elías ya ha venido y no lo han reconocido, sino que han hecho con él lo que han querido. Así también el Hijo del Hombre va a padecer a manos de ellos."
+        },
+        {
+          "numero": "13",
+          "verso": "Entonces comprendieron los discípulos que les hablaba de Juan el Bautista."
+        }
+      ]
+    }
+  ]
+}

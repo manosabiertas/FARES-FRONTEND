@@ -1,0 +1,107 @@
+{
+  "fecha": "2025-10-30",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Romanos 8:31-39",
+      "lecturaNombreNormalizado": "Rom8,31-39",
+      "versos": [
+        {
+          "numero": "31",
+          "verso": "¿Qué diremos a esto? Si Dios está con nosotros, ¿quién contra nosotros?"
+        },
+        {
+          "numero": "32",
+          "verso": "El que no perdonó a su propio Hijo, sino que lo entregó por todos nosotros, ¿cómo no nos dará con él todas las cosas?"
+        },
+        {
+          "numero": "33",
+          "verso": "¿Quién presentará acusación contra los elegidos de Dios? ¿Dios, el que justifica?"
+        },
+        {
+          "numero": "34",
+          "verso": "¿Quién condenará? ¿Cristo Jesús, el que murió, más aún, el que fue resucitado, el que además está a la derecha de Dios, el que está intercediendo por nosotros?"
+        },
+        {
+          "numero": "35",
+          "verso": "¿Quién nos apartará del amor de Cristo? ¿La tribulación, o la angustia, o la persecución, o el hambre, o la desnudez, o el peligro, o la espada?"
+        },
+        {
+          "numero": "36",
+          "verso": "Como dice la Escritura: Por tu causa somos llevados a la muerte todo el día,\nsomos considerados como ovejas\ndestinadas al matadero."
+        },
+        {
+          "numero": "37",
+          "verso": "Pero en todas estas cosas vencemos con creces gracias a aquel que nos amó."
+        },
+        {
+          "numero": "38",
+          "verso": "Porque estoy convencido de que ni la muerte, ni la vida, ni los ángeles, ni los principados, ni las cosas presentes, ni las futuras, ni las potestades,"
+        },
+        {
+          "numero": "39",
+          "verso": "ni la altura, ni la profundidad, ni cualquier otra criatura podrá separarnos del amor de Dios, que está en Cristo Jesús, Señor nuestro."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 109:21-22, 26-27, 30-31",
+      "lecturaNombreNormalizado": "Sal109,21-22,26-27,30-31",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "Tú, Señor, Dios mío, obra conmigo en honor de tu Nombre:\nlíbrame, pues tu misericordia es benévola,"
+        },
+        {
+          "numero": "22",
+          "verso": "Que yo soy un pobre y necesitado, y mi corazón está herido en lo más íntimo."
+        },
+        {
+          "numero": "26",
+          "verso": "Socórreme, Señor, Dios mío, sálvame por tu misericordia."
+        },
+        {
+          "numero": "27",
+          "verso": "Sepan que ésta es tu mano, que Tú, Señor, has hecho estas cosas."
+        },
+        {
+          "numero": "30",
+          "verso": "Yo daré a boca llena muchas gracias al Señor, lo alabaré en medio de la multitud,"
+        },
+        {
+          "numero": "31",
+          "verso": "pues se alza a la diestra del necesitado, para salvar su alma de los que le juzgan."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 13:31-35",
+      "lecturaNombreNormalizado": "Lc13,31-35",
+      "versos": [
+        {
+          "numero": "31",
+          "verso": "En aquel momento se acercaron algunos fariseos diciéndole: —Sal y aléjate de aquí, porque Herodes te quiere matar."
+        },
+        {
+          "numero": "32",
+          "verso": "Y les dijo: —Id a decir a ese zorro: «Mira: expulso demonios y realizo curaciones hoy y mañana, y al tercer día acabo."
+        },
+        {
+          "numero": "33",
+          "verso": "Pero es necesario que yo siga mi camino hoy y mañana y al día siguiente, porque no es posible que un profeta muera fuera de Jerusalén»."
+        },
+        {
+          "numero": "34",
+          "verso": "»¡Jerusalén, Jerusalén!, que matas a los profetas y lapidas a los que te son enviados. Cuántas veces he querido reunir a tus hijos como la gallina a sus polluelos bajo las alas, y no quisiste."
+        },
+        {
+          "numero": "35",
+          "verso": "Mirad que vuestra casa se os va a quedar desierta. Os aseguro que no me veréis hasta que llegue el día en que digáis: Bendito el que viene en nombre del Señor."
+        }
+      ]
+    }
+  ]
+}

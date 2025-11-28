@@ -1,0 +1,111 @@
+{
+  "fecha": "2026-09-01",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Corintios 2:10-16",
+      "lecturaNombreNormalizado": "1Corintios2,10-16",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "A nosotros, en cambio, Dios nos lo reveló por medio del Espíritu, porque el Espíritu todo lo escudriña, incluso las profundidades de Dios."
+        },
+        {
+          "numero": "11",
+          "verso": "Pues ¿qué hombre sabe lo que hay en el hombre, sino el espíritu del hombre que está en él? Así también, las cosas de Dios nadie las ha conocido sino el Espíritu de Dios."
+        },
+        {
+          "numero": "12",
+          "verso": "Pero nosotros no hemos recibido el espíritu del mundo, sino el Espíritu que viene de Dios, para que conozcamos los dones que Dios nos ha concedido;"
+        },
+        {
+          "numero": "13",
+          "verso": "y enseñamos estas cosas no con palabras aprendidas por sabiduría humana, sino con palabras aprendidas del Espíritu, expresando las cosas espirituales con palabras espirituales."
+        },
+        {
+          "numero": "14",
+          "verso": "El hombre no espiritual no percibe las cosas del Espíritu de Dios, pues son necedad para él y no puede conocerlas, porque sólo se pueden enjuiciar según el Espíritu."
+        },
+        {
+          "numero": "15",
+          "verso": "Por el contrario, el hombre espiritual juzga de todo, y a él nadie es capaz de juzgarle."
+        },
+        {
+          "numero": "16",
+          "verso": "Porque ¿quién conoció la mente del Señor, para darle lecciones?\nPues bien, nosotros tenemos la mente de Cristo."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 145:8-14",
+      "lecturaNombreNormalizado": "Sal145,8-14",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "(Het) El Señor es clemente y compasivo, lento a la ira y rico en misericordia."
+        },
+        {
+          "numero": "9",
+          "verso": "(Tet) El Señor es bueno con todos y su misericordia se extiende a todas sus obras."
+        },
+        {
+          "numero": "10",
+          "verso": "(Yod) Que todas tus obras te den gracias, Señor, y tus fieles te bendigan."
+        },
+        {
+          "numero": "11",
+          "verso": "(Kaf) Que proclamen la gloria de tu reino y anuncien tu poder."
+        },
+        {
+          "numero": "12",
+          "verso": "(Lámed) Para mostrar tus proezas a los hijos de Adán y la gloria esplendorosa de tu reino."
+        },
+        {
+          "numero": "13",
+          "verso": "(Mem) Tu reino es un reino eterno y tu dominio, por todas las generaciones.\n(Nun) El Señor es fiel en todas sus palabras\ny piadoso en todas sus obras."
+        },
+        {
+          "numero": "14",
+          "verso": "(Sámek) El Señor sostiene a los que van a caer y endereza a los que se encorvan."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 4:31-37",
+      "lecturaNombreNormalizado": "Lc4,31-37",
+      "versos": [
+        {
+          "numero": "31",
+          "verso": "Bajó a Cafarnaún, ciudad de Galilea, y el sábado se puso a enseñarles."
+        },
+        {
+          "numero": "32",
+          "verso": "Y se quedaron admirados de su enseñanza, porque su palabra iba acompañada de potestad."
+        },
+        {
+          "numero": "33",
+          "verso": "Se encontraba en la sinagoga un hombre que tenía el espíritu de un demonio impuro, que gritó con gran voz:"
+        },
+        {
+          "numero": "34",
+          "verso": "—¡Déjanos!, ¿qué tenemos que ver contigo, Jesús Nazareno? ¿Has venido a perdernos? ¡Sé quién eres: el Santo de Dios!"
+        },
+        {
+          "numero": "35",
+          "verso": "Y Jesús le conminó: —¡Cállate, y sal de él!\nEntonces el demonio, arrojándolo al suelo, allí en medio, salió de él, sin hacerle daño alguno."
+        },
+        {
+          "numero": "36",
+          "verso": "Y todos se llenaron de estupor y se decían unos a otros: —¿Qué palabra es ésta, que con potestad y fuerza manda a los espíritus impuros y salen?"
+        },
+        {
+          "numero": "37",
+          "verso": "Y se divulgaba su fama por todos los lugares de la región."
+        }
+      ]
+    }
+  ]
+}

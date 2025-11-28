@@ -1,0 +1,103 @@
+{
+  "fecha": "2025-09-01",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Génesis 2:4-9, 15",
+      "lecturaNombreNormalizado": "Gn2,4-9,15",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "Éstos fueron los orígenes del cielo y de la tierra al ser creados. Cuando el Señor Dios hizo tierra y cielo,"
+        },
+        {
+          "numero": "5",
+          "verso": "aún no había en la tierra ningún arbusto silvestre, y aún no había brotado ninguna hierba del campo —pues el Señor Dios no había hecho llover sobre la tierra ni había nadie que trabajara el suelo—,"
+        },
+        {
+          "numero": "6",
+          "verso": "pero un manantial brotaba de la tierra y regaba toda la superficie del suelo."
+        },
+        {
+          "numero": "7",
+          "verso": "Entonces, el Señor Dios formó al hombre del polvo de la tierra, insufló en sus narices aliento de vida, y el hombre se convirtió en un ser vivo."
+        },
+        {
+          "numero": "8",
+          "verso": "El Señor Dios plantó un jardín en Edén, al oriente, y puso allí al hombre que había formado."
+        },
+        {
+          "numero": "9",
+          "verso": "El Señor Dios hizo brotar del suelo toda clase de árboles agradables a la vista y buenos para comer; y además, en medio del jardín, el árbol de la vida y el árbol de la ciencia del bien y del mal."
+        },
+        {
+          "numero": "15",
+          "verso": "El Señor Dios tomó al hombre y lo colocó en el jardín de Edén para que lo trabajara y lo guardara;"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 90:2-5, 12-14, 16",
+      "lecturaNombreNormalizado": "Sal90,2-5,12-14,16",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Antes de que fueran engendrados los montes y la tierra y el orbe fuesen formados,\ndesde siempre y para siempre,\nTú eres Dios."
+        },
+        {
+          "numero": "3",
+          "verso": "Al polvo haces volver al hombre, diciendo: «Volved, hijos de Adán»."
+        },
+        {
+          "numero": "4",
+          "verso": "Pues mil años a tus ojos son como un día de ayer, que pasó,\ncomo una vigilia de la noche."
+        },
+        {
+          "numero": "5",
+          "verso": "Tú los arrastras, son un sueño al amanecer, como hierba que brota:"
+        },
+        {
+          "numero": "12",
+          "verso": "Enséñanos a llevar buena cuenta de nuestros días, para que logremos un corazón sabio."
+        },
+        {
+          "numero": "13",
+          "verso": "¡Vuélvete, Señor! ¿Hasta cuándo…? Ten piedad con tus siervos."
+        },
+        {
+          "numero": "14",
+          "verso": "Sácianos de mañana con tu misericordia, exultaremos y nos alegraremos todos nuestros días."
+        },
+        {
+          "numero": "16",
+          "verso": "Que se muestre a tus siervos tu obra, y a tus hijos tu majestad."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 6:31-34",
+      "lecturaNombreNormalizado": "Mt6,31-34",
+      "versos": [
+        {
+          "numero": "31",
+          "verso": "Así pues, no andéis preocupados diciendo: ¿qué vamos a comer, qué vamos a beber, con qué nos vamos a vestir?"
+        },
+        {
+          "numero": "32",
+          "verso": "Por todas esas cosas se afanan los paganos. Bien sabe vuestro Padre celestial que de todo eso estáis necesitados."
+        },
+        {
+          "numero": "33",
+          "verso": "»Buscad primero el Reino de Dios y su justicia, y todas estas cosas se os añadirán."
+        },
+        {
+          "numero": "34",
+          "verso": "Por tanto, no os preocupéis por el mañana, porque el mañana traerá su propia preocupación. A cada día le basta su contrariedad."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-09-02",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Corintios 3:1-9",
+      "lecturaNombreNormalizado": "1Corintios3,1-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Por mi parte, hermanos, no pude hablaros como a espirituales, sino como a carnales, como a niños en Cristo."
+        },
+        {
+          "numero": "2",
+          "verso": "Os di a beber leche, no alimento sólido, pues todavía no podíais soportarlo; ni siquiera ahora podéis,"
+        },
+        {
+          "numero": "3",
+          "verso": "pues sois todavía carnales. Porque mientras haya entre vosotros envidias y discordias, ¿no continuáis siendo carnales y comportándoos a lo humano?"
+        },
+        {
+          "numero": "4",
+          "verso": "Porque cuando uno de vosotros dice: «Yo soy de Pablo»; y otro: «Yo, de Apolo», ¿no procedéis a lo humano?"
+        },
+        {
+          "numero": "5",
+          "verso": "¿Qué es Apolo? ¿Qué es Pablo? Ministros, por medio de los cuales habéis creído; cada uno según el Señor le ha concedido."
+        },
+        {
+          "numero": "6",
+          "verso": "Yo planté, Apolo regó, pero es Dios quien dio el crecimiento;"
+        },
+        {
+          "numero": "7",
+          "verso": "de tal modo que ni el que planta es nada, ni el que riega, sino el que da el crecimiento, Dios."
+        },
+        {
+          "numero": "8",
+          "verso": "El que planta y el que riega son una misma cosa; pero cada uno recibirá su propia recompensa según su trabajo."
+        },
+        {
+          "numero": "9",
+          "verso": "Porque nosotros somos colaboradores de Dios; vosotros sois campo de Dios, edificación de Dios."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 33:12-15, 20-21",
+      "lecturaNombreNormalizado": "Sal33,12-15,20-21",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Dichosa la nación cuyo Dios es el Señor, el pueblo que Él se eligió como heredad."
+        },
+        {
+          "numero": "13",
+          "verso": "El Señor mira desde los cielos, ve a todos los hijos de Adán."
+        },
+        {
+          "numero": "14",
+          "verso": "Desde el lugar de su morada observa a todos los habitantes de la tierra."
+        },
+        {
+          "numero": "15",
+          "verso": "Él modela el corazón de cada uno, Él conoce a fondo todas sus acciones."
+        },
+        {
+          "numero": "20",
+          "verso": "Nuestra alma espera en el Señor, Él es nuestro socorro y nuestro escudo;"
+        },
+        {
+          "numero": "21",
+          "verso": "en Él se alegra nuestro corazón, en su santo Nombre confiamos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 4:38-44",
+      "lecturaNombreNormalizado": "Lc4,38-44",
+      "versos": [
+        {
+          "numero": "38",
+          "verso": "Saliendo Jesús de la sinagoga, entró en casa de Simón. La suegra de Simón tenía una fiebre muy alta, y le rogaron por ella."
+        },
+        {
+          "numero": "39",
+          "verso": "E inclinándose hacia ella, conminó a la fiebre, y la fiebre desapareció. Y al instante, ella se levantó y se puso a servirles."
+        },
+        {
+          "numero": "40",
+          "verso": "Al ponerse el sol, todos los que tenían enfermos con diversas dolencias se los traían. Y él, poniendo las manos sobre cada uno, los curaba."
+        },
+        {
+          "numero": "41",
+          "verso": "De muchos salían demonios gritando y diciendo: —¡Tú eres el Hijo de Dios!\nY él, increpándoles, no les dejaba hablar porque sabían que él era el Cristo."
+        },
+        {
+          "numero": "42",
+          "verso": "Cuando se hizo de día, salió hacia un lugar solitario, y la multitud le buscaba. Llegaron hasta él, e intentaban detenerlo para que no se alejara de ellos."
+        },
+        {
+          "numero": "43",
+          "verso": "Pero él les dijo: —Es necesario que yo anuncie también a otras ciudades el Evangelio del Reino de Dios, porque para esto he sido enviado."
+        },
+        {
+          "numero": "44",
+          "verso": "E iba predicando por las sinagogas de Judea."
+        }
+      ]
+    }
+  ]
+}

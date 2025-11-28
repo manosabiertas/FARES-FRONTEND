@@ -1,0 +1,194 @@
+{
+  "fecha": "2026-02-22",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Génesis 2:7-9; 3:1-7",
+      "lecturaNombreNormalizado": "Gn2,7-9;3,1-7",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Entonces, el Señor Dios formó al hombre del polvo de la tierra, insufló en sus narices aliento de vida, y el hombre se convirtió en un ser vivo."
+        },
+        {
+          "numero": "8",
+          "verso": "El Señor Dios plantó un jardín en Edén, al oriente, y puso allí al hombre que había formado."
+        },
+        {
+          "numero": "9",
+          "verso": "El Señor Dios hizo brotar del suelo toda clase de árboles agradables a la vista y buenos para comer; y además, en medio del jardín, el árbol de la vida y el árbol de la ciencia del bien y del mal."
+        },
+        {
+          "numero": "1",
+          "verso": "La serpiente era el más astuto de todos los animales del campo que había hecho el Señor Dios, y dijo a la mujer: —¿De modo que os ha mandado Dios que no comáis de ningún árbol del jardín?"
+        },
+        {
+          "numero": "2",
+          "verso": "La mujer respondió a la serpiente: —Podemos comer del fruto de los árboles del jardín;"
+        },
+        {
+          "numero": "3",
+          "verso": "pero Dios nos ha mandado: «No comáis ni toquéis el fruto del árbol que está en medio del jardín, pues moriríais»."
+        },
+        {
+          "numero": "4",
+          "verso": "La serpiente dijo a la mujer: —No moriréis en modo alguno;"
+        },
+        {
+          "numero": "5",
+          "verso": "es que Dios sabe que el día que comáis de él se os abrirán los ojos y seréis como Dios, conocedores del bien y del mal."
+        },
+        {
+          "numero": "6",
+          "verso": "La mujer se fijó en que el árbol era bueno para comer, atractivo a la vista y que aquel árbol era apetecible para alcanzar sabiduría; tomó de su fruto, comió, y a su vez dio a su marido que también comió."
+        },
+        {
+          "numero": "7",
+          "verso": "Entonces se les abrieron los ojos y conocieron que estaban desnudos; entrelazaron hojas de higuera y se las ciñeron."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 51:3-6, 12-13, 17",
+      "lecturaNombreNormalizado": "Sal51,3-6,12-13,17",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Ten misericordia de mí, Dios mío, según tu bondad; según tu inmensa compasión\nborra mi delito."
+        },
+        {
+          "numero": "4",
+          "verso": "Lávame por completo de mi culpa, y purifícame de mi pecado."
+        },
+        {
+          "numero": "5",
+          "verso": "Pues yo reconozco mi delito, y mi pecado está de continuo ante mí."
+        },
+        {
+          "numero": "6",
+          "verso": "Contra Ti, contra Ti sólo he pecado, y he hecho lo que es malo a tus ojos.\nPor eso has de ser justo en tu sentencia,\nhas de tener razón en tu juicio."
+        },
+        {
+          "numero": "12",
+          "verso": "Crea en mí, Dios mío, un corazón puro, y renueva en mi interior un espíritu firme."
+        },
+        {
+          "numero": "13",
+          "verso": "No me arrojes de tu presencia, ni me retires tu santo Espíritu."
+        },
+        {
+          "numero": "17",
+          "verso": "Señor, abre mis labios y mi boca proclamará tu alabanza."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Romanos 5:12-19",
+      "lecturaNombreNormalizado": "Rom5,12-19",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Por tanto, así como por medio de un solo hombre entró el pecado en el mundo, y a través del pecado la muerte, y de esta forma la muerte llegó a todos los hombres, porque todos pecaron…"
+        },
+        {
+          "numero": "13",
+          "verso": "Pues, hasta la Ley, había pecado en el mundo, pero no se puede acusar de pecado cuando no existe ley;"
+        },
+        {
+          "numero": "14",
+          "verso": "con todo, la muerte reinó desde Adán hasta Moisés, incluso sobre aquellos que no cometieron una transgresión semejante a la de Adán, que es figura del que había de venir."
+        },
+        {
+          "numero": "15",
+          "verso": "Pero el don no es como la caída; porque si por la caída de uno solo murieron todos, cuánto más la gracia de Dios y el don que se da en la gracia de un solo hombre, Jesucristo, sobreabundó para todos."
+        },
+        {
+          "numero": "16",
+          "verso": "Y no ocurre lo mismo con el don que con el pecado de uno solo; pues la sentencia a partir de una sola caída acaba en condenación, mientras que la gracia a partir de muchos pecados acaba en justificación."
+        },
+        {
+          "numero": "17",
+          "verso": "Pues si por la caída de uno solo la muerte reinó por medio de uno solo, mucho más los que reciben la abundancia de la gracia y del don de la justicia reinarán en la vida por medio de uno solo, Jesucristo."
+        },
+        {
+          "numero": "18",
+          "verso": "Por consiguiente, como por la caída de uno solo la condenación afectó a todos los hombres, así también por la justicia de uno solo la justificación, que da la vida, alcanza a todos los hombres."
+        },
+        {
+          "numero": "19",
+          "verso": "Pues como por la desobediencia de un solo hombre todos fueron constituidos pecadores, así también por la obediencia de uno solo todos serán constituidos justos."
+        },
+        {
+          "numero": "12",
+          "verso": "Por tanto, así como por medio de un solo hombre entró el pecado en el mundo, y a través del pecado la muerte, y de esta forma la muerte llegó a todos los hombres, porque todos pecaron…"
+        },
+        {
+          "numero": "17",
+          "verso": "Pues si por la caída de uno solo la muerte reinó por medio de uno solo, mucho más los que reciben la abundancia de la gracia y del don de la justicia reinarán en la vida por medio de uno solo, Jesucristo."
+        },
+        {
+          "numero": "18",
+          "verso": "Por consiguiente, como por la caída de uno solo la condenación afectó a todos los hombres, así también por la justicia de uno solo la justificación, que da la vida, alcanza a todos los hombres."
+        },
+        {
+          "numero": "19",
+          "verso": "Pues como por la desobediencia de un solo hombre todos fueron constituidos pecadores, así también por la obediencia de uno solo todos serán constituidos justos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 4:1-11",
+      "lecturaNombreNormalizado": "Mt4,1-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Entonces fue conducido Jesús al desierto por el Espíritu para ser tentado por el diablo."
+        },
+        {
+          "numero": "2",
+          "verso": "Después de haber ayunado cuarenta días con cuarenta noches, sintió hambre."
+        },
+        {
+          "numero": "3",
+          "verso": "Y acercándose el tentador le dijo: —Si eres Hijo de Dios, di que estas piedras se conviertan en panes."
+        },
+        {
+          "numero": "4",
+          "verso": "Él respondió: —Escrito está:\nNo sólo de pan vivirá el hombre,\nsino de toda palabra que procede\nde la boca de Dios."
+        },
+        {
+          "numero": "5",
+          "verso": "Luego, el diablo lo llevó a la Ciudad Santa y lo puso sobre el pináculo del Templo."
+        },
+        {
+          "numero": "6",
+          "verso": "Y le dijo: —Si eres Hijo de Dios, arrójate abajo. Pues escrito está:\nDará órdenes a sus ángeles sobre ti,\npara que te lleven en sus manos,\nno sea que tropiece tu pie contra alguna piedra."
+        },
+        {
+          "numero": "7",
+          "verso": "Y le respondió Jesús: —Escrito está también: No tentarás al Señor tu Dios."
+        },
+        {
+          "numero": "8",
+          "verso": "De nuevo lo llevó el diablo a un monte muy alto y le mostró todos los reinos del mundo y su gloria,"
+        },
+        {
+          "numero": "9",
+          "verso": "y le dijo: —Todas estas cosas te daré si postrándote me adoras."
+        },
+        {
+          "numero": "10",
+          "verso": "Entonces le respondió Jesús: —Apártate, Satanás, pues escrito está:\nAl Señor tu Dios adorarás\ny solamente a Él darás culto."
+        },
+        {
+          "numero": "11",
+          "verso": "Entonces le dejó el diablo, y los ángeles vinieron y le servían."
+        }
+      ]
+    }
+  ]
+}

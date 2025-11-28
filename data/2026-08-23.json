@@ -1,0 +1,122 @@
+{
+  "fecha": "2026-08-23",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 22:19-23",
+      "lecturaNombreNormalizado": "Is22,19-23",
+      "versos": [
+        {
+          "numero": "19",
+          "verso": "Te depondré de tu cargo, te derrocaré de tu puesto”."
+        },
+        {
+          "numero": "20",
+          "verso": "Aquel día llamaré a mi siervo Eliaquim, hijo de Jilquías."
+        },
+        {
+          "numero": "21",
+          "verso": "Lo revestiré con tu túnica, le ceñiré con tu cinturón,\npondré en su mano tu poder,\ny será un padre para los habitantes de Jerusalén\ny para la casa de Judá."
+        },
+        {
+          "numero": "22",
+          "verso": "Pondré la llave de la casa de David sobre su hombro:\nabrirá y no habrá quien cierre,\ncerrará y no habrá quien abra."
+        },
+        {
+          "numero": "23",
+          "verso": "Lo hincaré como clavo en sitio firme, y será un trono de gloria para la casa de su padre."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 138:1-3, 6, 8",
+      "lecturaNombreNormalizado": "Sal138,1-3,6,8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Te doy gracias, Señor, de todo corazón,\nporque has escuchado las palabras de mi boca.\nDelante de los ángeles entonaré salmos para Ti."
+        },
+        {
+          "numero": "2",
+          "verso": "Me postraré hacia tu Templo santo, y daré gracias a tu Nombre\npor tu misericordia y tu fidelidad,\nporque has engrandecido tu promesa\npor encima de todo nombre."
+        },
+        {
+          "numero": "3",
+          "verso": "El día en que te invoqué, Tú me escuchaste, diste fuerza a mi alma."
+        },
+        {
+          "numero": "6",
+          "verso": "porque el Señor es excelso y se fija en el humilde,\npero al soberbio lo conoce de lejos."
+        },
+        {
+          "numero": "8",
+          "verso": "El Señor concluirá todo en favor mío. Señor, tu misericordia es eterna:\nno abandones la obra de tus manos."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Romanos 11:33-36",
+      "lecturaNombreNormalizado": "Rom11,33-36",
+      "versos": [
+        {
+          "numero": "33",
+          "verso": "¡Oh profundidad de la riqueza, de la sabiduría y de la ciencia de Dios! ¡Qué incomprensibles son sus juicios y qué inescrutables sus caminos!"
+        },
+        {
+          "numero": "34",
+          "verso": "Pues ¿quién conoció los designios del Señor?, o ¿quién llegó a ser su consejero?,"
+        },
+        {
+          "numero": "35",
+          "verso": "o ¿quién le dio primero algo, para poder recibir a cambio una recompensa?"
+        },
+        {
+          "numero": "36",
+          "verso": "Porque de Él, por Él y para Él son todas las cosas. A Él la gloria por los siglos. Amén."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 16:13-20",
+      "lecturaNombreNormalizado": "Mt16,13-20",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "Cuando llegó Jesús a la región de Cesarea de Filipo, comenzó a preguntar a sus discípulos: —¿Quién dicen los hombres que es el Hijo del Hombre?"
+        },
+        {
+          "numero": "14",
+          "verso": "Ellos respondieron: —Unos que Juan el Bautista, otros que Elías, y otros que Jeremías o alguno de los profetas."
+        },
+        {
+          "numero": "15",
+          "verso": "Él les dijo: —Y vosotros, ¿quién decís que soy yo?"
+        },
+        {
+          "numero": "16",
+          "verso": "Respondió Simón Pedro: —Tú eres el Cristo, el Hijo de Dios vivo."
+        },
+        {
+          "numero": "17",
+          "verso": "Jesús le respondió: —Bienaventurado eres, Simón, hijo de Juan, porque no te ha revelado eso ni la carne ni la sangre, sino mi Padre que está en los cielos."
+        },
+        {
+          "numero": "18",
+          "verso": "Y yo te digo que tú eres Pedro, y sobre esta piedra edificaré mi Iglesia, y las puertas del infierno no prevalecerán contra ella."
+        },
+        {
+          "numero": "19",
+          "verso": "Te daré las llaves del Reino de los Cielos; y todo lo que ates sobre la tierra quedará atado en los cielos, y todo lo que desates sobre la tierra quedará desatado en los cielos."
+        },
+        {
+          "numero": "20",
+          "verso": "Entonces ordenó a los discípulos que no dijeran a nadie que él era el Cristo."
+        }
+      ]
+    }
+  ]
+}

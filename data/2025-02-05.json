@@ -1,0 +1,111 @@
+{
+  "fecha": "2025-02-05",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hebreos 12:4-7, 11-15",
+      "lecturaNombreNormalizado": "Heb12,4-7,11-15",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "No habéis resistido todavía hasta la sangre al combatir contra el pecado"
+        },
+        {
+          "numero": "5",
+          "verso": "y habéis olvidado la exhortación dirigida a vosotros como a hijos: Hijo mío, no desprecies la corrección del Señor,\nni te desanimes cuando Él te reprenda;"
+        },
+        {
+          "numero": "6",
+          "verso": "porque el Señor corrige al que ama y azota a todo aquel que reconoce como hijo."
+        },
+        {
+          "numero": "7",
+          "verso": "Lo que sufrís sirve para vuestra corrección. Dios os trata como a hijos, ¿y qué hijo hay a quien su padre no corrija?"
+        },
+        {
+          "numero": "11",
+          "verso": "Toda corrección, al momento, no parece agradable sino penosa, pero luego produce fruto apacible de justicia en los que en ella se ejercitan."
+        },
+        {
+          "numero": "12",
+          "verso": "Por lo tanto, levantad las manos caídas y las rodillas debilitadas,"
+        },
+        {
+          "numero": "13",
+          "verso": "y dad pasos derechos con vuestros pies, para que los miembros cojos no se tuerzan, sino más bien se curen."
+        },
+        {
+          "numero": "14",
+          "verso": "Buscad la paz con todos y la santificación, sin la cual nadie puede ver a Dios."
+        },
+        {
+          "numero": "15",
+          "verso": "Vigilad para que a nadie le falte la gracia de Dios, no sea que brote alguna raíz amarga y os perturbe y llegue a contagiar a muchos;"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 103:1-2, 13-14, 17-18",
+      "lecturaNombreNormalizado": "Sal103,1-2,13-14,17-18",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Bendice, alma mía, al Señor,\ny todo mi ser a su Nombre santo."
+        },
+        {
+          "numero": "2",
+          "verso": "Bendice, alma mía, al Señor, no olvides ninguno de sus beneficios."
+        },
+        {
+          "numero": "13",
+          "verso": "Como se apiada un padre de sus hijos, así el Señor tiene piedad de los que le temen."
+        },
+        {
+          "numero": "14",
+          "verso": "Pues Él conoce de qué estamos hechos, recuerda que somos polvo."
+        },
+        {
+          "numero": "17",
+          "verso": "Pero la misericordia del Señor dura desde siempre y para siempre con los que le temen;\ny su justicia, con los hijos de los hijos,"
+        },
+        {
+          "numero": "18",
+          "verso": "con los que guardan su alianza y recuerdan sus mandatos y los cumplen."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 6:1-6",
+      "lecturaNombreNormalizado": "Mc6,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salió de allí y se fue a su ciudad, y le seguían sus discípulos."
+        },
+        {
+          "numero": "2",
+          "verso": "Y cuando llegó el sábado comenzó a enseñar en la sinagoga, y muchos de los que le oían decían admirados: —¿De dónde sabe éste estas cosas? ¿Y qué sabiduría es la que se le ha dado y estos milagros que se hacen por sus manos?"
+        },
+        {
+          "numero": "3",
+          "verso": "¿No es éste el artesano, el hijo de María, y hermano de Santiago y de José y de Judas y de Simón? ¿Y sus hermanas no viven aquí entre nosotros? Y se escandalizaban de él."
+        },
+        {
+          "numero": "4",
+          "verso": "Y les decía Jesús: —No hay profeta que sea menospreciado, si no es en su tierra, entre sus parientes y en su casa."
+        },
+        {
+          "numero": "5",
+          "verso": "Y no podía hacer allí ningún milagro; solamente sanó a unos pocos enfermos imponiéndoles las manos."
+        },
+        {
+          "numero": "6",
+          "verso": "Y se asombraba por su incredulidad. Y recorría las aldeas de los contornos enseñando."
+        }
+      ]
+    }
+  ]
+}

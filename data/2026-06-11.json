@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-06-11",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hechos 11:21-26; 13:1-3",
+      "lecturaNombreNormalizado": "Hch11,21-26;13,1-3",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "La mano del Señor estaba con ellos y un gran número creyó y se convirtió al Señor."
+        },
+        {
+          "numero": "22",
+          "verso": "Llegó esta noticia a oídos de la iglesia que había en Jerusalén, y enviaron a Bernabé a Antioquía."
+        },
+        {
+          "numero": "23",
+          "verso": "Cuando llegó y vio la gracia de Dios se alegró, y a todos les exhortaba a permanecer en el Señor con un corazón firme,"
+        },
+        {
+          "numero": "24",
+          "verso": "porque era un hombre bueno y lleno del Espíritu Santo y de fe. Y una gran muchedumbre se adhirió al Señor."
+        },
+        {
+          "numero": "25",
+          "verso": "Marchó Bernabé a Tarso para buscar a Saulo,"
+        },
+        {
+          "numero": "26",
+          "verso": "lo encontró y lo condujo a Antioquía. Estuvieron juntos en aquella iglesia un año entero y adoctrinaron a una gran muchedumbre. Fue en Antioquía donde los discípulos recibieron por primera vez el nombre de cristianos."
+        },
+        {
+          "numero": "1",
+          "verso": "En la iglesia de Antioquía había profetas y maestros: Bernabé y Simón, que era llamado el Negro, Lucio, el de Cirene, y Manahén, hermano de leche del tetrarca Herodes, y Saulo."
+        },
+        {
+          "numero": "2",
+          "verso": "Mientras celebraban el culto del Señor y ayunaban, dijo el Espíritu Santo: —Separadme a Bernabé y a Saulo para la obra que les he destinado."
+        },
+        {
+          "numero": "3",
+          "verso": "Y después de ayunar, orar e imponerles las manos, los despidieron."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 98:1-6",
+      "lecturaNombreNormalizado": "Sal98,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. Cantad al Señor un cántico nuevo\nporque ha hecho maravillas.\nSu diestra le ha salvado,\nsu santo brazo."
+        },
+        {
+          "numero": "2",
+          "verso": "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones."
+        },
+        {
+          "numero": "3",
+          "verso": "Se acordó de su misericordia y fidelidad con la casa de Israel.\nTodos los confines de la tierra han visto\nla salvación de nuestro Dios."
+        },
+        {
+          "numero": "4",
+          "verso": "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos."
+        },
+        {
+          "numero": "5",
+          "verso": "Entonad salmos al Señor con la cítara, con la cítara al son de la música;"
+        },
+        {
+          "numero": "6",
+          "verso": "con trompetas y el sonido del cuerno, aclamad ante el Rey y Señor."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 10:7-13",
+      "lecturaNombreNormalizado": "Mt10,7-13",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Id y predicad: «El Reino de los Cielos está al llegar»."
+        },
+        {
+          "numero": "8",
+          "verso": "Curad a los enfermos, resucitad a los muertos, sanad a los leprosos, expulsad los demonios. Gratuitamente lo recibisteis, dadlo gratuitamente."
+        },
+        {
+          "numero": "9",
+          "verso": "No llevéis oro, ni plata, ni dinero en vuestras bolsas,"
+        },
+        {
+          "numero": "10",
+          "verso": "ni alforja para el camino, ni dos túnicas, ni sandalias, ni bastón, porque el que trabaja merece su sustento."
+        },
+        {
+          "numero": "11",
+          "verso": "»En cualquier ciudad o aldea en que entréis, informaos sobre quién hay en ella que sea digno; y quedaos allí hasta que os vayáis."
+        },
+        {
+          "numero": "12",
+          "verso": "Al entrar en una casa dadle vuestro saludo."
+        },
+        {
+          "numero": "13",
+          "verso": "Si la casa fuera digna, venga vuestra paz sobre ella; pero si no fuera digna, que vuestra paz vuelva a vosotros."
+        }
+      ]
+    }
+  ]
+}

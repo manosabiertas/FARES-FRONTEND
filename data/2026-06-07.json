@@ -1,0 +1,118 @@
+{
+  "fecha": "2026-06-07",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Deuteronomio 8:2-3, 14-16",
+      "lecturaNombreNormalizado": "Dt8,2-3,14-16",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Debes recordar todo el camino que el Señor, tu Dios, te ha hecho recorrer por el desierto durante estos cuarenta años, para hacerte humilde, para probarte y conocer lo que hay en tu corazón, si guardas o no sus mandamientos."
+        },
+        {
+          "numero": "3",
+          "verso": "Te humilló y te hizo pasar hambre. Luego te alimentó con el maná, que desconocíais tú y tus padres, para enseñarte que no sólo de pan vive el hombre, sino de todo lo que sale de la boca del Señor."
+        },
+        {
+          "numero": "14",
+          "verso": "se engría tu corazón y te olvides del Señor, tu Dios. Él es el que te sacó del país de Egipto, de la casa de la esclavitud,"
+        },
+        {
+          "numero": "15",
+          "verso": "el que te ha conducido por el desierto grande y terrible, con serpientes venenosas y alacranes, por un secarral en el que no hay agua. Él es el que hizo brotar para ti agua de la roca de pedernal;"
+        },
+        {
+          "numero": "16",
+          "verso": "el que te alimentó en el desierto con el maná —que no habían conocido tus padres—, sometiéndote a la humillación y a la prueba para que seas feliz en tu porvenir,"
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 147:12-15, 19-20",
+      "lecturaNombreNormalizado": "Sal147,12-15,19-20",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Glorifica al Señor, Jerusalén, alaba a tu Dios, Sión."
+        },
+        {
+          "numero": "13",
+          "verso": "Porque ha reforzado los cerrojos de tus puertas, ha bendecido a tus hijos dentro de ti."
+        },
+        {
+          "numero": "14",
+          "verso": "Él ha puesto paz en tus fronteras, te sacia con la flor del trigo."
+        },
+        {
+          "numero": "15",
+          "verso": "Él envía su orden a la tierra, su palabra corre veloz."
+        },
+        {
+          "numero": "19",
+          "verso": "Él anuncia su palabra a Jacob, sus decretos y sus preceptos a Israel."
+        },
+        {
+          "numero": "20",
+          "verso": "No ha obrado así con ninguna otra nación, ni les ha dado a conocer sus preceptos.\n¡Aleluya!"
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "1 Corintios 10:16-17",
+      "lecturaNombreNormalizado": "1Corintios10,16-17",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "el cáliz de bendición que bendecimos ¿no es la comunión de la sangre de Cristo? El pan que partimos ¿no es la comunión del Cuerpo de Cristo?"
+        },
+        {
+          "numero": "17",
+          "verso": "Puesto que el pan es uno, muchos somos un solo cuerpo, porque todos participamos de un solo pan."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 6:51-58",
+      "lecturaNombreNormalizado": "Jn6,51-58",
+      "versos": [
+        {
+          "numero": "51",
+          "verso": "Yo soy el pan vivo que ha bajado del cielo. Si alguno come este pan vivirá eternamente; y el pan que yo daré es mi carne para la vida del mundo."
+        },
+        {
+          "numero": "52",
+          "verso": "Los judíos se pusieron a discutir entre ellos: —¿Cómo puede éste darnos a comer su carne?"
+        },
+        {
+          "numero": "53",
+          "verso": "Jesús les dijo: —En verdad, en verdad os digo que si no coméis la carne del Hijo del Hombre y no bebéis su sangre, no tendréis vida en vosotros."
+        },
+        {
+          "numero": "54",
+          "verso": "El que come mi carne y bebe mi sangre tiene vida eterna, y yo le resucitaré en el último día."
+        },
+        {
+          "numero": "55",
+          "verso": "Porque mi carne es verdadera comida y mi sangre es verdadera bebida."
+        },
+        {
+          "numero": "56",
+          "verso": "El que come mi carne y bebe mi sangre permanece en mí y yo en él."
+        },
+        {
+          "numero": "57",
+          "verso": "Igual que el Padre que me envió vive y yo vivo por el Padre, así, aquel que me come vivirá por mí."
+        },
+        {
+          "numero": "58",
+          "verso": "Éste es el pan que ha bajado del cielo, no como el que comieron los padres y murieron: quien come este pan vivirá eternamente."
+        }
+      ]
+    }
+  ]
+}

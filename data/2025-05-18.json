@@ -1,0 +1,126 @@
+{
+  "fecha": "2025-05-18",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hechos 14:21-27",
+      "lecturaNombreNormalizado": "Hch14,21-27",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "Después de predicar el Evangelio en aquella ciudad y hacer numerosos discípulos, se volvieron a Listra, Iconio y Antioquía,"
+        },
+        {
+          "numero": "22",
+          "verso": "confortando los ánimos de los discípulos y exhortándoles a perseverar en la fe, diciéndoles que es preciso que entremos en el Reino de Dios a través de muchas tribulaciones."
+        },
+        {
+          "numero": "23",
+          "verso": "Tras designar presbíteros en cada iglesia, haciendo oración y ayunando, les encomendaron al Señor, en quien habían creído."
+        },
+        {
+          "numero": "24",
+          "verso": "Atravesaron Pisidia y llegaron a Panfilia;"
+        },
+        {
+          "numero": "25",
+          "verso": "y después de predicar la palabra en Perge bajaron hasta Atalía."
+        },
+        {
+          "numero": "26",
+          "verso": "Desde allí navegaron hasta Antioquía, de donde habían salido encomendados a la gracia de Dios para la obra que habían realizado."
+        },
+        {
+          "numero": "27",
+          "verso": "Al llegar, reunieron a la iglesia y contaron todo lo que el Señor había hecho por mediación de ellos y cómo había abierto a los gentiles la puerta de la fe."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 145:8-13",
+      "lecturaNombreNormalizado": "Sal145,8-13",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "(Het) El Señor es clemente y compasivo, lento a la ira y rico en misericordia."
+        },
+        {
+          "numero": "9",
+          "verso": "(Tet) El Señor es bueno con todos y su misericordia se extiende a todas sus obras."
+        },
+        {
+          "numero": "10",
+          "verso": "(Yod) Que todas tus obras te den gracias, Señor, y tus fieles te bendigan."
+        },
+        {
+          "numero": "11",
+          "verso": "(Kaf) Que proclamen la gloria de tu reino y anuncien tu poder."
+        },
+        {
+          "numero": "12",
+          "verso": "(Lámed) Para mostrar tus proezas a los hijos de Adán y la gloria esplendorosa de tu reino."
+        },
+        {
+          "numero": "13",
+          "verso": "(Mem) Tu reino es un reino eterno y tu dominio, por todas las generaciones.\n(Nun) El Señor es fiel en todas sus palabras\ny piadoso en todas sus obras."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Apocalipsis 21:1-5",
+      "lecturaNombreNormalizado": "Ap21,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Vi un cielo nuevo y una tierra nueva, pues el primer cielo y la primera tierra desaparecieron, y el mar ya no existe."
+        },
+        {
+          "numero": "2",
+          "verso": "Vi también la ciudad santa, la nueva Jerusalén, que bajaba del cielo de parte de Dios, ataviada como una novia que se engalana para su esposo."
+        },
+        {
+          "numero": "3",
+          "verso": "Y oí una fuerte voz procedente del trono que decía: —Ésta es la morada de Dios con los hombres: Habitará con ellos y ellos serán su pueblo, y Dios, habitando realmente en medio de ellos, será su Dios."
+        },
+        {
+          "numero": "4",
+          "verso": "Y enjugará toda lágrima de sus ojos; y no habrá ya muerte, ni llanto, ni lamento, ni dolor, porque todo lo anterior ya pasó."
+        },
+        {
+          "numero": "5",
+          "verso": "El que estaba sentado en el trono dijo: —Mira, hago nuevas todas las cosas.\nY añadió:\n—Escribe: «Estas palabras son fidedignas y veraces»."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 13:31-33, 34-35",
+      "lecturaNombreNormalizado": "Jn13,31-33,34-35",
+      "versos": [
+        {
+          "numero": "31",
+          "verso": "Cuando salió, dijo Jesús: —Ahora es glorificado el Hijo del Hombre y Dios es glorificado en él."
+        },
+        {
+          "numero": "32",
+          "verso": "Si Dios es glorificado en él, también Dios le glorificará a él en sí mismo; y pronto le glorificará."
+        },
+        {
+          "numero": "33",
+          "verso": "»Hijos, todavía estoy un poco con vosotros. Me buscaréis y como les dije a los judíos: «Adonde yo voy, vosotros no podéis venir», lo mismo os digo ahora a vosotros."
+        },
+        {
+          "numero": "34",
+          "verso": "Un mandamiento nuevo os doy: que os améis unos a otros. Como yo os he amado, amaos también unos a otros."
+        },
+        {
+          "numero": "35",
+          "verso": "En esto conocerán todos que sois mis discípulos, si os tenéis amor unos a otros."
+        }
+      ]
+    }
+  ]
+}

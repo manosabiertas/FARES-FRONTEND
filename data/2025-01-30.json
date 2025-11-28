@@ -1,0 +1,99 @@
+{
+  "fecha": "2025-01-30",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hebreos 10:19-25",
+      "lecturaNombreNormalizado": "Heb10,19-25",
+      "versos": [
+        {
+          "numero": "19",
+          "verso": "Por tanto, hermanos, como tenemos la confianza de entrar en el Santuario por la sangre de Jesús"
+        },
+        {
+          "numero": "20",
+          "verso": "—por el camino reciente y vivo que él nos abrió a través del velo, es decir, de su carne—"
+        },
+        {
+          "numero": "21",
+          "verso": "y a un gran sacerdote al frente de la casa de Dios,"
+        },
+        {
+          "numero": "22",
+          "verso": "acerquémonos con un corazón sincero y una fe plena, después de purificar nuestros corazones de una mala conciencia y de lavar nuestro cuerpo con agua pura."
+        },
+        {
+          "numero": "23",
+          "verso": "Mantengamos firme la confesión de la esperanza, porque fiel es el que hizo la promesa,"
+        },
+        {
+          "numero": "24",
+          "verso": "y estemos pendientes unos de otros para estimularnos a la caridad y a las buenas obras,"
+        },
+        {
+          "numero": "25",
+          "verso": "sin abandonar nuestras propias reuniones, como acostumbran algunos, sino animándonos tanto más cuanto más cercano veis el día."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 24:1-6",
+      "lecturaNombreNormalizado": "Sal24,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Salmo. Del Señor es la tierra y cuanto hay en ella,\nel orbe y los que lo habitan."
+        },
+        {
+          "numero": "2",
+          "verso": "Él la cimentó sobre los mares y la asentó sobre los ríos."
+        },
+        {
+          "numero": "3",
+          "verso": "¿Quién podrá subir al monte del Señor? ¿Quién podrá estar en su lugar santo?"
+        },
+        {
+          "numero": "4",
+          "verso": "El de manos inocentes y de corazón puro,\nel que no dirige su alma a la vanidad,\nni jura en falso."
+        },
+        {
+          "numero": "5",
+          "verso": "Él recibirá la bendición del Señor, y la justificación de Dios, su Salvador."
+        },
+        {
+          "numero": "6",
+          "verso": "Tal es la estirpe de quienes le buscan, de los que buscan tu rostro, Dios de Jacob."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 4:21-25",
+      "lecturaNombreNormalizado": "Mc4,21-25",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "Y les decía: —¿Acaso se enciende la lámpara para ponerla debajo de un celemín o debajo de la cama? ¿No se pone sobre un candelero?"
+        },
+        {
+          "numero": "22",
+          "verso": "Pues no hay cosa escondida que no vaya a saberse, ni secreto que no acabe por hacerse público."
+        },
+        {
+          "numero": "23",
+          "verso": "Si alguno tiene oídos para oír, que oiga."
+        },
+        {
+          "numero": "24",
+          "verso": "Y les decía: —Prestad atención a lo que oís. Con la medida con que midáis se os medirá y hasta se os dará de más."
+        },
+        {
+          "numero": "25",
+          "verso": "Porque al que tiene se le dará; y al que no tiene incluso lo que tiene se le quitará."
+        }
+      ]
+    }
+  ]
+}

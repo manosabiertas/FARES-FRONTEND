@@ -1,0 +1,87 @@
+{
+  "fecha": "2026-05-26",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Pedro 1:10-16",
+      "lecturaNombreNormalizado": "1Pedro1,10-16",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "Sobre esta salvación investigaron e indagaron los profetas que vaticinaron sobre la gracia que recibiríais,"
+        },
+        {
+          "numero": "11",
+          "verso": "buscando a qué momento y a qué circunstancias se refería el Espíritu de Cristo que moraba en ellos, y testificaba de antemano los padecimientos reservados a Cristo y su posterior glorificación."
+        },
+        {
+          "numero": "12",
+          "verso": "Les fue revelado que eran servidores de estas realidades no para su provecho, sino para el vuestro: las mismas que os han sido anunciadas ahora por quienes os predicaron el Evangelio por el Espíritu Santo enviado desde el cielo, las mismas que los ángeles contemplan con avidez."
+        },
+        {
+          "numero": "13",
+          "verso": "Por lo cual, tened dispuesto el ánimo, vivid con sobriedad y poned toda vuestra esperanza en aquella gracia que os llegará con la manifestación de Jesucristo."
+        },
+        {
+          "numero": "14",
+          "verso": "Como hijos obedientes, no conforméis vuestra vida a las antiguas concupiscencias del tiempo de vuestra ignorancia,"
+        },
+        {
+          "numero": "15",
+          "verso": "sino que así como es santo el que os llamó, sed también vosotros santos en toda vuestra conducta,"
+        },
+        {
+          "numero": "16",
+          "verso": "conforme a lo que dice la Escritura: Sed santos, porque Yo soy santo."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 98:1-4",
+      "lecturaNombreNormalizado": "Sal98,1-4",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. Cantad al Señor un cántico nuevo\nporque ha hecho maravillas.\nSu diestra le ha salvado,\nsu santo brazo."
+        },
+        {
+          "numero": "2",
+          "verso": "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones."
+        },
+        {
+          "numero": "3",
+          "verso": "Se acordó de su misericordia y fidelidad con la casa de Israel.\nTodos los confines de la tierra han visto\nla salvación de nuestro Dios."
+        },
+        {
+          "numero": "4",
+          "verso": "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 10:28-31",
+      "lecturaNombreNormalizado": "Mc10,28-31",
+      "versos": [
+        {
+          "numero": "28",
+          "verso": "Comenzó Pedro a decirle: —Ya ves que nosotros lo hemos dejado todo y te hemos seguido."
+        },
+        {
+          "numero": "29",
+          "verso": "Jesús respondió: —En verdad os digo que no hay nadie que haya dejado casa, hermanos o hermanas, madre o padre, o hijos o campos por mí y por el Evangelio,"
+        },
+        {
+          "numero": "30",
+          "verso": "que no reciba en este mundo cien veces más en casas, hermanos, hermanas, madres, hijos y campos, con persecuciones; y, en el siglo venidero, la vida eterna."
+        },
+        {
+          "numero": "31",
+          "verso": "Porque muchos primeros serán últimos, y muchos últimos serán primeros."
+        }
+      ]
+    }
+  ]
+}

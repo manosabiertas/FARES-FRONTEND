@@ -1,0 +1,131 @@
+{
+  "fecha": "2026-04-13",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hechos 4:23-31",
+      "lecturaNombreNormalizado": "Hch4,23-31",
+      "versos": [
+        {
+          "numero": "23",
+          "verso": "Puestos en libertad, vinieron a los suyos y les contaron lo que los príncipes de los sacerdotes y los ancianos les habían dicho."
+        },
+        {
+          "numero": "24",
+          "verso": "Ellos, al oírlo, elevaron unánimes la voz a Dios y dijeron: —Señor, Tú eres el que hiciste el cielo y la tierra, el mar y todo lo que hay en ellos,"
+        },
+        {
+          "numero": "25",
+          "verso": "el que por el Espíritu Santo, por boca de nuestro padre David tu siervo, dijiste: ¿Por qué se han amotinado las naciones,\ny los pueblos han tramado empresas vanas?"
+        },
+        {
+          "numero": "26",
+          "verso": "Se han alzado los reyes de la tierra, y los príncipes se han aliado\ncontra el Señor y contra su Cristo."
+        },
+        {
+          "numero": "27",
+          "verso": "»Pues bien, en esta ciudad, Herodes y Poncio Pilato, con las naciones y los pueblos de Israel, se aliaron contra tu santo Hijo Jesús, al que ungiste,"
+        },
+        {
+          "numero": "28",
+          "verso": "para llevar a cabo cuanto tu mano y tu designio habían previsto que ocurriera."
+        },
+        {
+          "numero": "29",
+          "verso": "Ahora, Señor, mira sus amenazas y concede a tus servidores que puedan proclamar tu palabra con libertad;"
+        },
+        {
+          "numero": "30",
+          "verso": "y extiende la mano para que se realicen curaciones, milagros y prodigios por el nombre de tu santo Hijo Jesús."
+        },
+        {
+          "numero": "31",
+          "verso": "Cuando terminaron su oración, tembló el lugar en el que estaban reunidos y todos quedaron llenos del Espíritu Santo, y proclamaban la palabra de Dios con libertad."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 2:1-9",
+      "lecturaNombreNormalizado": "Sal2,1-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¿Por qué se sublevan las naciones y traman los pueblos vanos proyectos?"
+        },
+        {
+          "numero": "2",
+          "verso": "Se alzan los reyes de la tierra, y los príncipes se confabulan\ncontra el Señor y contra su Ungido:"
+        },
+        {
+          "numero": "3",
+          "verso": "«¡Rompamos sus cadenas, arrojemos de nosotros su yugo!»."
+        },
+        {
+          "numero": "4",
+          "verso": "El que está sentado en los cielos se ríe, se burla de ellos el Señor."
+        },
+        {
+          "numero": "5",
+          "verso": "Les habla en su ira, con su cólera los aterra:"
+        },
+        {
+          "numero": "6",
+          "verso": "«Yo mismo he ungido a mi Rey en Sión, mi monte santo»."
+        },
+        {
+          "numero": "7",
+          "verso": "Proclamaré el decreto del Señor. Él me ha dicho:\n«Tú eres mi hijo. Yo te he engendrado hoy."
+        },
+        {
+          "numero": "8",
+          "verso": "Pídeme y te daré en herencia las naciones, los confines de la tierra en propiedad."
+        },
+        {
+          "numero": "9",
+          "verso": "Los quebrantarás con barra de hierro; los romperás como vaso de alfarero»."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 3:1-8",
+      "lecturaNombreNormalizado": "Jn3,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Había entre los fariseos un hombre que se llamaba Nicodemo, judío influyente."
+        },
+        {
+          "numero": "2",
+          "verso": "Éste vino a él de noche y le dijo: —Rabbí, sabemos que has venido de parte de Dios como Maestro, pues nadie puede hacer los signos que tú haces si Dios no está con él."
+        },
+        {
+          "numero": "3",
+          "verso": "Contestó Jesús y le dijo: —En verdad, en verdad te digo que si uno no nace de lo alto no puede ver el Reino de Dios."
+        },
+        {
+          "numero": "4",
+          "verso": "Nicodemo le respondió: —¿Cómo puede un hombre nacer siendo viejo? ¿Acaso puede entrar otra vez en el seno de su madre y nacer?"
+        },
+        {
+          "numero": "5",
+          "verso": "Jesús contestó: —En verdad, en verdad te digo que si uno no nace del agua y del Espíritu no puede entrar en el Reino de Dios."
+        },
+        {
+          "numero": "6",
+          "verso": "Lo nacido de la carne, carne es; y lo nacido del Espíritu, espíritu es."
+        },
+        {
+          "numero": "7",
+          "verso": "No te sorprendas de que te haya dicho que debéis nacer de nuevo."
+        },
+        {
+          "numero": "8",
+          "verso": "El viento sopla donde quiere y oyes su voz pero no sabes de dónde viene ni adónde va. Así es todo el que ha nacido del Espíritu."
+        }
+      ]
+    }
+  ]
+}

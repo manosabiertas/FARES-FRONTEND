@@ -1,0 +1,103 @@
+{
+  "fecha": "2026-04-16",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hechos 5:27-33",
+      "lecturaNombreNormalizado": "Hch5,27-33",
+      "versos": [
+        {
+          "numero": "27",
+          "verso": "Los condujeron y presentaron al Sanedrín. El sumo sacerdote les interrogó:"
+        },
+        {
+          "numero": "28",
+          "verso": "—¿No os habíamos mandado expresamente que no enseñaseis en ese nombre? En cambio, vosotros habéis llenado Jerusalén con vuestra doctrina y queréis hacer recaer sobre nosotros la sangre de ese hombre."
+        },
+        {
+          "numero": "29",
+          "verso": "Pedro y los apóstoles respondieron: —Hay que obedecer a Dios antes que a los hombres."
+        },
+        {
+          "numero": "30",
+          "verso": "El Dios de nuestros padres ha resucitado a Jesús, al que vosotros matasteis colgándolo de un madero."
+        },
+        {
+          "numero": "31",
+          "verso": "A éste lo exaltó Dios a su derecha, como Príncipe y Salvador, para otorgar a Israel la conversión y el perdón de los pecados."
+        },
+        {
+          "numero": "32",
+          "verso": "Y de estas cosas somos testigos nosotros y el Espíritu Santo, que Dios ha dado a todos los que le obedecen."
+        },
+        {
+          "numero": "33",
+          "verso": "Al oír esto se enfurecieron y querían matarlos."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 34:2, 9, 17-20",
+      "lecturaNombreNormalizado": "Sal34,2,9,17-20",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "(Alef) Bendigo al Señor en todo tiempo; su alabanza está en mi boca de continuo."
+        },
+        {
+          "numero": "9",
+          "verso": "(Tet) Gustad y ved qué bueno es el Señor, dichoso el hombre que se refugia en Él."
+        },
+        {
+          "numero": "17",
+          "verso": "(Pe) El rostro del Señor está contra los malhechores para borrar de la tierra su memoria."
+        },
+        {
+          "numero": "18",
+          "verso": "(Sade) Claman y el Señor los escucha, y los libra de todas sus angustias."
+        },
+        {
+          "numero": "19",
+          "verso": "(Qof) El Señor está cerca de los contritos de corazón, y salva a los de espíritu abatido."
+        },
+        {
+          "numero": "20",
+          "verso": "(Resh) Muchas son las aflicciones del justo, pero el Señor le libra de todas;"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 3:31-36",
+      "lecturaNombreNormalizado": "Jn3,31-36",
+      "versos": [
+        {
+          "numero": "31",
+          "verso": "El que viene de lo alto está sobre todos. El que es de la tierra, de la tierra es y de la tierra habla. El que viene del cielo está sobre todos,"
+        },
+        {
+          "numero": "32",
+          "verso": "y da testimonio de lo que ha visto y oído, pero nadie recibe su testimonio."
+        },
+        {
+          "numero": "33",
+          "verso": "El que recibe su testimonio confirma que Dios es veraz;"
+        },
+        {
+          "numero": "34",
+          "verso": "pues aquel a quien Dios ha enviado habla las palabras de Dios, porque da el Espíritu sin medida."
+        },
+        {
+          "numero": "35",
+          "verso": "El Padre ama al Hijo y todo lo ha puesto en sus manos."
+        },
+        {
+          "numero": "36",
+          "verso": "El que cree en el Hijo tiene vida eterna, pero quien rehúsa creer en el Hijo no verá la vida, sino que la ira de Dios pesa sobre él."
+        }
+      ]
+    }
+  ]
+}

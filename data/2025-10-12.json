@@ -1,0 +1,126 @@
+{
+  "fecha": "2025-10-12",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Reyes 5:14-17",
+      "lecturaNombreNormalizado": "2Reyes5,14-17",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "Bajó y se metió siete veces en el Jordán, conforme a la palabra del hombre de Dios, y entonces su carne se volvió como la carne de un niño, y quedó limpio."
+        },
+        {
+          "numero": "15",
+          "verso": "Volvió con todo su acompañamiento adonde estaba el hombre de Dios, entró y se detuvo ante él diciendo: —Reconozco ciertamente que no hay otro Dios en toda la tierra sino el Dios de Israel. Ahora, por favor, recibe un regalo de tu siervo."
+        },
+        {
+          "numero": "16",
+          "verso": "Le respondió: —Vive el Señor en cuya presencia estoy, que no lo aceptaré.\nLe insistió para que lo aceptase, pero él rehusó."
+        },
+        {
+          "numero": "17",
+          "verso": "Dijo entonces Naamán: —Pues si no, que se le conceda a tu siervo la carga de tierra de un par de mulas, pues tu siervo no ha de ofrecer holocausto ni sacrificio alguno a otros dioses, sino al Señor."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 98:1-4",
+      "lecturaNombreNormalizado": "Sal98,1-4",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. Cantad al Señor un cántico nuevo\nporque ha hecho maravillas.\nSu diestra le ha salvado,\nsu santo brazo."
+        },
+        {
+          "numero": "2",
+          "verso": "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones."
+        },
+        {
+          "numero": "3",
+          "verso": "Se acordó de su misericordia y fidelidad con la casa de Israel.\nTodos los confines de la tierra han visto\nla salvación de nuestro Dios."
+        },
+        {
+          "numero": "4",
+          "verso": "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "2 Timoteo 2:8-13",
+      "lecturaNombreNormalizado": "2Timoteo2,8-13",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "Acuérdate de Jesucristo resucitado de entre los muertos, descendiente de David, como predico en mi evangelio,"
+        },
+        {
+          "numero": "9",
+          "verso": "por el que estoy sufriendo hasta verme entre cadenas como un malhechor: ¡pero la palabra de Dios no está encadenada!"
+        },
+        {
+          "numero": "10",
+          "verso": "Por eso, todo lo soporto por los elegidos, para que también ellos alcancen la salvación, que está en Cristo Jesús, junto con la gloria eterna."
+        },
+        {
+          "numero": "11",
+          "verso": "Podéis estar seguros: Si morimos con él, también viviremos con él;"
+        },
+        {
+          "numero": "12",
+          "verso": "si perseveramos, también reinaremos con él; si lo negamos, también él nos negará;"
+        },
+        {
+          "numero": "13",
+          "verso": "si no somos fieles, él permanece fiel, pues no puede negarse a sí mismo."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 17:11-19",
+      "lecturaNombreNormalizado": "Lc17,11-19",
+      "versos": [
+        {
+          "numero": "11",
+          "verso": "Al ir de camino a Jerusalén, atravesaba los confines de Samaría y Galilea;"
+        },
+        {
+          "numero": "12",
+          "verso": "y, cuando iba a entrar en un pueblo, le salieron al paso diez leprosos, que se detuvieron a distancia"
+        },
+        {
+          "numero": "13",
+          "verso": "y le dijeron gritando: —¡Jesús, Maestro, ten piedad de nosotros!"
+        },
+        {
+          "numero": "14",
+          "verso": "Al verlos, les dijo: —Id y presentaos a los sacerdotes.\nY mientras iban quedaron limpios."
+        },
+        {
+          "numero": "15",
+          "verso": "Uno de ellos, al verse curado, se volvió glorificando a Dios a gritos,"
+        },
+        {
+          "numero": "16",
+          "verso": "y fue a postrarse a sus pies dándole gracias. Y éste era samaritano."
+        },
+        {
+          "numero": "17",
+          "verso": "Ante lo cual dijo Jesús: —¿No son diez los que han quedado limpios? Los otros nueve, ¿dónde están?"
+        },
+        {
+          "numero": "18",
+          "verso": "¿No ha habido quien volviera a dar gloria a Dios más que este extranjero?"
+        },
+        {
+          "numero": "19",
+          "verso": "Y le dijo: —Levántate y vete; tu fe te ha salvado."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "fecha": "2026-09-13",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Eclesiástico 27:30--28:9",
+      "lecturaNombreNormalizado": "Eclo27,30--28,9",
+      "versos": [
+        {
+          "numero": "33",
+          "verso": "Rencor y cólera, ambos son detestables, y el hombre pecador los tendrá dentro."
+        },
+        {
+          "numero": "1",
+          "verso": "El que es vengativo, hallará venganza del Señor; Él le tendrá siempre presentes sus pecados."
+        },
+        {
+          "numero": "2",
+          "verso": "Perdona a tu prójimo la ofensa, y así, por tu oración, te serán perdonados los pecados."
+        },
+        {
+          "numero": "3",
+          "verso": "Hombre que a hombre guarda rencor, ¿cómo osará pedir al Señor la curación?"
+        },
+        {
+          "numero": "4",
+          "verso": "El hombre que no tiene misericordia con su semejante, ¿cómo se atreve a rezar por sus propios pecados?"
+        },
+        {
+          "numero": "5",
+          "verso": "Si él, siendo mortal, guarda rencor, ¿quién le perdonará sus pecados?\n¿Y pide a Dios la reconciliación?"
+        },
+        {
+          "numero": "6",
+          "verso": "Recuerda tus postrimerías y dejarás de odiar:"
+        },
+        {
+          "numero": "7",
+          "verso": "son corrupción y muerte; así cumplirás los mandatos."
+        },
+        {
+          "numero": "8",
+          "verso": "Recuerda los preceptos, y no te enojes con el prójimo;"
+        },
+        {
+          "numero": "9",
+          "verso": "recuerda la alianza del Altísimo, y no tengas en cuenta los errores del prójimo."
+        },
+        {
+          "numero": "10",
+          "verso": "Abstente de disputas y disminuirás los pecados,"
+        },
+        {
+          "numero": "11",
+          "verso": "pues un hombre apasionado enciende riñas; el hombre pecador perturba a los amigos\ny siembra enemistad entre los que están en paz."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 103:1-4, 9-12",
+      "lecturaNombreNormalizado": "Sal103,1-4,9-12",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Bendice, alma mía, al Señor,\ny todo mi ser a su Nombre santo."
+        },
+        {
+          "numero": "2",
+          "verso": "Bendice, alma mía, al Señor, no olvides ninguno de sus beneficios."
+        },
+        {
+          "numero": "3",
+          "verso": "Él es quien perdona tus culpas, quien sana tus enfermedades."
+        },
+        {
+          "numero": "4",
+          "verso": "Quien rescata tu vida de la fosa, quien te corona de misericordia y compasión."
+        },
+        {
+          "numero": "9",
+          "verso": "No dura siempre su querella, ni guarda rencor perpetuamente."
+        },
+        {
+          "numero": "10",
+          "verso": "No nos trata según nuestros pecados, ni nos paga según nuestras culpas."
+        },
+        {
+          "numero": "11",
+          "verso": "Pues cuanto se elevan los cielos sobre la tierra, así prevalece su misericordia con los que le temen."
+        },
+        {
+          "numero": "12",
+          "verso": "Cuanto dista el oriente del occidente, así aleja de nosotros nuestras iniquidades."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Romanos 14:7-9",
+      "lecturaNombreNormalizado": "Rom14,7-9",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Pues ninguno de nosotros vive para sí mismo, ni ninguno muere para sí mismo;"
+        },
+        {
+          "numero": "8",
+          "verso": "pues si vivimos, vivimos para el Señor; y si morimos, morimos para el Señor; porque vivamos o muramos, somos del Señor."
+        },
+        {
+          "numero": "9",
+          "verso": "Para esto Cristo murió y volvió a la vida, para dominar sobre muertos y vivos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 18:21-35",
+      "lecturaNombreNormalizado": "Mt18,21-35",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "Entonces, se acercó Pedro a preguntarle: —Señor, ¿cuántas veces tengo que perdonar a mi hermano cuando peque contra mí? ¿Hasta siete?"
+        },
+        {
+          "numero": "22",
+          "verso": "Jesús le respondió: —No te digo que hasta siete veces, sino hasta setenta veces siete."
+        },
+        {
+          "numero": "23",
+          "verso": "Por eso el Reino de los Cielos viene a ser como un rey que quiso arreglar cuentas con sus siervos."
+        },
+        {
+          "numero": "24",
+          "verso": "Puesto a hacer cuentas, le presentaron uno que le debía diez mil talentos."
+        },
+        {
+          "numero": "25",
+          "verso": "Como no podía pagar, el señor mandó que fuese vendido él con su mujer y sus hijos y todo lo que tenía, y que así pagase."
+        },
+        {
+          "numero": "26",
+          "verso": "Entonces el siervo se echó a sus pies y le suplicaba: «Ten paciencia conmigo y te pagaré todo»."
+        },
+        {
+          "numero": "27",
+          "verso": "El señor, compadecido de aquel siervo, lo mandó soltar y le perdonó la deuda."
+        },
+        {
+          "numero": "28",
+          "verso": "Al salir aquel siervo, encontró a uno de sus compañeros que le debía cien denarios y, agarrándole, lo ahogaba y le decía: «Págame lo que me debes»."
+        },
+        {
+          "numero": "29",
+          "verso": "Su compañero, se echó a sus pies y se puso a rogarle: «Ten paciencia conmigo y te pagaré»."
+        },
+        {
+          "numero": "30",
+          "verso": "Pero él no quiso, sino que fue y lo hizo meter en la cárcel, hasta que pagase la deuda."
+        },
+        {
+          "numero": "31",
+          "verso": "Al ver sus compañeros lo ocurrido, se disgustaron mucho y fueron a contar a su señor lo que había pasado."
+        },
+        {
+          "numero": "32",
+          "verso": "Entonces su señor lo mandó llamar y le dijo: «Siervo malvado, yo te he perdonado toda la deuda porque me lo has suplicado."
+        },
+        {
+          "numero": "33",
+          "verso": "¿No debías tú también tener compasión de tu compañero, como yo la he tenido de ti?»"
+        },
+        {
+          "numero": "34",
+          "verso": "Y su señor, irritado, lo entregó a los verdugos, hasta que pagase toda la deuda."
+        },
+        {
+          "numero": "35",
+          "verso": "Del mismo modo hará con vosotros mi Padre celestial, si cada uno no perdona de corazón a su hermano."
+        }
+      ]
+    }
+  ]
+}

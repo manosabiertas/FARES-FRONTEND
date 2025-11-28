@@ -1,0 +1,146 @@
+{
+  "fecha": "2025-11-16",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Malaquías 3:19-20",
+      "lecturaNombreNormalizado": "Mal3,19-20",
+      "versos": [
+        {
+          "numero": "19",
+          "verso": "Ved que llega el día, ardiente como un horno,\nen que todos los arrogantes\ny los que practican la impiedad\nserán como paja:\nel día que ha de venir los abrasará\n—dice el Señor de los ejércitos—,\nhasta que no les quede\nni raíz ni rama."
+        },
+        {
+          "numero": "20",
+          "verso": "Mas para vosotros, los que teméis mi Nombre, se elevará el sol de justicia,\nque trae la salud en sus alas;\ny saldréis brincando\ncomo becerros cebados."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 98:5-9",
+      "lecturaNombreNormalizado": "Sal98,5-9",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "Entonad salmos al Señor con la cítara, con la cítara al son de la música;"
+        },
+        {
+          "numero": "6",
+          "verso": "con trompetas y el sonido del cuerno, aclamad ante el Rey y Señor."
+        },
+        {
+          "numero": "7",
+          "verso": "Brame el mar y cuanto lo llena, el orbe y sus habitantes."
+        },
+        {
+          "numero": "8",
+          "verso": "Aplaudan los ríos, festejen a una las montañas"
+        },
+        {
+          "numero": "9",
+          "verso": "ante el Señor, que ya viene a juzgar la tierra: juzgará al orbe con justicia,\ny a los pueblos con rectitud."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "2 Tesalonicenses 3:7-12",
+      "lecturaNombreNormalizado": "2Tesalonicenses3,7-12",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Pues vosotros sabéis bien cómo debéis imitarnos, porque entre vosotros no estuvimos ociosos;"
+        },
+        {
+          "numero": "8",
+          "verso": "y no comimos gratis el pan de nadie, sino que trabajamos día y noche con esfuerzo y fatiga, para no ser gravosos a ninguno."
+        },
+        {
+          "numero": "9",
+          "verso": "No porque no tuviéramos derecho, sino para mostrarnos ante vosotros como modelo que imitar."
+        },
+        {
+          "numero": "10",
+          "verso": "Pues también cuando estábamos con vosotros os dábamos esta norma: «Si alguno no quiere trabajar, que no coma»."
+        },
+        {
+          "numero": "11",
+          "verso": "Pues oímos que hay algunos que andan ociosos entre vosotros sin hacer nada pero curioseándolo todo."
+        },
+        {
+          "numero": "12",
+          "verso": "A esos les ordenamos y exhortamos en el Señor Jesucristo a que coman su propio pan trabajando con serenidad."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 21:5-19",
+      "lecturaNombreNormalizado": "Lc21,5-19",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "Como algunos le hablaban del Templo, que estaba adornado con bellas piedras y ofrendas votivas, dijo:"
+        },
+        {
+          "numero": "6",
+          "verso": "—Vendrán días en los que de esto que veis no quedará piedra sobre piedra que no sea destruida."
+        },
+        {
+          "numero": "7",
+          "verso": "Le preguntaron: —Maestro, ¿cuándo ocurrirán estas cosas y cuál será la señal de que están a punto de suceder?"
+        },
+        {
+          "numero": "8",
+          "verso": "Él dijo: —Mirad, no os dejéis engañar; porque vendrán en mi nombre muchos diciendo: «Yo soy», y «el momento está próximo». No les sigáis."
+        },
+        {
+          "numero": "9",
+          "verso": "Cuando oigáis hablar de guerras y de revoluciones, no os aterréis, porque es necesario que sucedan primero estas cosas. Pero el fin no es inmediato."
+        },
+        {
+          "numero": "10",
+          "verso": "Entonces les decía: —Se alzará pueblo contra pueblo y reino contra reino;"
+        },
+        {
+          "numero": "11",
+          "verso": "habrá grandes terremotos y hambre y peste en diversos lugares; habrá cosas aterradoras y grandes señales en el cielo."
+        },
+        {
+          "numero": "12",
+          "verso": "Pero antes de todas estas cosas os echarán mano y os perseguirán, entregándoos a las sinagogas y a las cárceles, llevándoos ante reyes y gobernadores por causa de mi nombre:"
+        },
+        {
+          "numero": "13",
+          "verso": "esto os sucederá para dar testimonio."
+        },
+        {
+          "numero": "14",
+          "verso": "Así pues, convenceos de que no debéis tener preparado de antemano cómo os vais a defender;"
+        },
+        {
+          "numero": "15",
+          "verso": "porque yo os daré palabras y sabiduría que no podrán resistir ni contradecir todos vuestros adversarios."
+        },
+        {
+          "numero": "16",
+          "verso": "Seréis entregados incluso por padres y hermanos, parientes y amigos, y matarán a algunos de vosotros,"
+        },
+        {
+          "numero": "17",
+          "verso": "y seréis odiados por todos a causa de mi nombre."
+        },
+        {
+          "numero": "18",
+          "verso": "Pero ni un cabello de vuestra cabeza perecerá."
+        },
+        {
+          "numero": "19",
+          "verso": "Con vuestra perseverancia salvaréis vuestras almas."
+        }
+      ]
+    }
+  ]
+}

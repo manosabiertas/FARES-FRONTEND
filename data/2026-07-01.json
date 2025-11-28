@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-07-01",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Amós 5:14-15, 21-24",
+      "lecturaNombreNormalizado": "Am5,14-15,21-24",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "Buscad el bien y no el mal, para que viváis,\ny así esté con vosotros el Señor, Dios de los ejércitos,\ncomo decís vosotros."
+        },
+        {
+          "numero": "15",
+          "verso": "Odiad el mal, amad el bien, e implantad el derecho en la puerta:\nasí quizá se apiade el Señor, Dios de los ejércitos,\ndel resto de José."
+        },
+        {
+          "numero": "21",
+          "verso": "«Aborrezco, detesto vuestras fiestas, no resisto oler vuestras reuniones de culto."
+        },
+        {
+          "numero": "22",
+          "verso": "Si me ofrecéis holocaustos y oblaciones, no me complazco en ellos,\nni miro el sacrificio de vuestros animales cebados."
+        },
+        {
+          "numero": "23",
+          "verso": "¡Aparta de Mí el ruido de tus cánticos! ¡No quiero oír el son de tus liras!"
+        },
+        {
+          "numero": "24",
+          "verso": "Sino que el derecho fluya como agua, y la justicia como arroyo perenne."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 50:7-13, 16-17",
+      "lecturaNombreNormalizado": "Sal50,7-13,16-17",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Escucha, pueblo mío, voy a hablar. Contra ti, Israel, voy a dar testimonio:\nYo, Dios, soy tu Dios."
+        },
+        {
+          "numero": "8",
+          "verso": "No te reprendo por tus sacrificios, pues tus holocaustos están siempre ante Mí."
+        },
+        {
+          "numero": "9",
+          "verso": "No tomaré de tu casa ni un ternero, ni un cabrito de tus apriscos;"
+        },
+        {
+          "numero": "10",
+          "verso": "porque mías son todas las fieras de la selva, y los miles de animales en mis collados;"
+        },
+        {
+          "numero": "11",
+          "verso": "conozco todas las aves del cielo, me pertenece todo lo que se mueve por el campo."
+        },
+        {
+          "numero": "12",
+          "verso": "Si tuviese hambre, no tendría que decírtelo, pues mío es el orbe y cuanto lo llena."
+        },
+        {
+          "numero": "13",
+          "verso": "¿Es que voy a comer carne de toros y a beber sangre de machos cabríos?"
+        },
+        {
+          "numero": "16",
+          "verso": "Dios dice al impío: «¿Por qué repites mis preceptos\ny tienes en tu boca mi alianza,"
+        },
+        {
+          "numero": "17",
+          "verso": "tú, que aborreces mi doctrina y postergas mis mandatos?"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 8:28-34",
+      "lecturaNombreNormalizado": "Mt8,28-34",
+      "versos": [
+        {
+          "numero": "28",
+          "verso": "Al llegar a la orilla opuesta, a la región de los gadarenos, vinieron a su encuentro dos endemoniados, que salían de los sepulcros, tan furiosos que nadie podía transitar por aquel camino."
+        },
+        {
+          "numero": "29",
+          "verso": "Y en esto, se pusieron a gritar diciendo: —¿Qué tenemos que ver contigo, Hijo de Dios? ¿Has venido aquí antes de tiempo para atormentarnos?"
+        },
+        {
+          "numero": "30",
+          "verso": "Había no lejos de ellos una gran piara de cerdos paciendo."
+        },
+        {
+          "numero": "31",
+          "verso": "Los demonios le suplicaban: —Si nos expulsas, envíanos a la piara de cerdos."
+        },
+        {
+          "numero": "32",
+          "verso": "Les respondió: —Id.\nY ellos salieron y entraron en los cerdos. Entonces toda la piara se lanzó corriendo por la pendiente hacia el mar y pereció en el agua."
+        },
+        {
+          "numero": "33",
+          "verso": "Los porqueros huyeron y, al llegar a la ciudad, contaron todas estas cosas, y lo sucedido a los endemoniados."
+        },
+        {
+          "numero": "34",
+          "verso": "Así que toda la ciudad vino al encuentro de Jesús y, cuando le vieron, le rogaron que se alejara de su región."
+        }
+      ]
+    }
+  ]
+}

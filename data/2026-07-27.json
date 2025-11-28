@@ -1,0 +1,107 @@
+{
+  "fecha": "2026-07-27",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Jeremías 13:1-11",
+      "lecturaNombreNormalizado": "Jer13,1-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Esto me dijo el Señor: —Vete a comprarte un ceñidor de lino y póntelo a la cintura, pero no lo metas en agua."
+        },
+        {
+          "numero": "2",
+          "verso": "Compré el ceñidor de acuerdo con la palabra del Señor y me lo puse a la cintura."
+        },
+        {
+          "numero": "3",
+          "verso": "La palabra del Señor se dirigió a mí de nuevo diciendo:"
+        },
+        {
+          "numero": "4",
+          "verso": "—Toma el ceñidor que compraste y que llevas a la cintura, levántate y vete al Éufrates y escóndelo allí, en la hendidura de una roca."
+        },
+        {
+          "numero": "5",
+          "verso": "Fui y lo escondí junto al Éufrates, de acuerdo con lo que me había ordenado el Señor."
+        },
+        {
+          "numero": "6",
+          "verso": "Al cabo de muchos días me dijo el Señor: —Levántate, vete al Éufrates y toma el ceñidor que te ordené esconder allí."
+        },
+        {
+          "numero": "7",
+          "verso": "Fui al Éufrates, escarbé y tomé el ceñidor del sitio donde lo había escondido, pero el ceñidor estaba podrido, no servía para nada."
+        },
+        {
+          "numero": "8",
+          "verso": "La palabra del Señor se dirigió a mí diciendo:"
+        },
+        {
+          "numero": "9",
+          "verso": "—Esto dijo el Señor: «Así haré Yo que se pudra la soberbia de Judá y la enorme soberbia de Jerusalén."
+        },
+        {
+          "numero": "10",
+          "verso": "Ese pueblo malvado, que rehúsa escuchar mis palabras, que se conduce siguiendo a su corazón obstinado y anda en pos de otros dioses para rendirles culto y postrarse ante ellos, será como este ceñidor que no vale para nada."
+        },
+        {
+          "numero": "11",
+          "verso": "Porque como se agarra el ceñidor a la cintura del hombre, así quise que se agarrase a mí toda la casa de Israel y toda la casa de Judá —oráculo del Señor—, para que fuesen mi pueblo, mi renombre, mi alabanza y mi gloria, pero no me escucharon»."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Deuteronomio 32:18-21",
+      "lecturaNombreNormalizado": "Dt32,18-21",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "En cambio, desprecias a la Roca que te engendró, te olvidas de Dios, que te dio a luz."
+        },
+        {
+          "numero": "19",
+          "verso": "Pero el Señor lo ha visto, se ha irritado, se ha enojado con sus hijos e hijas."
+        },
+        {
+          "numero": "20",
+          "verso": "Y ha dicho: «Les esconderé mi rostro, veré cómo terminan,\npues son una generación perversa,\nhijos muy desleales."
+        },
+        {
+          "numero": "21",
+          "verso": "Me han dado celos con un no–dios, me han provocado a la ira con sus ídolos vanos.\nPues yo también les daré celos con un no–pueblo,\nYo les provocaré a la ira con una vil nación."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 13:31-35",
+      "lecturaNombreNormalizado": "Mt13,31-35",
+      "versos": [
+        {
+          "numero": "31",
+          "verso": "Les propuso otra parábola: —El Reino de los Cielos es como un grano de mostaza que tomó un hombre y lo sembró en su campo;"
+        },
+        {
+          "numero": "32",
+          "verso": "es, sin duda, la más pequeña de todas las semillas, pero cuando ha crecido es la mayor de las hortalizas, y llega a hacerse como un árbol, hasta el punto de que los pájaros del cielo acuden a anidar en sus ramas."
+        },
+        {
+          "numero": "33",
+          "verso": "Les dijo otra parábola: —El Reino de los Cielos es como la levadura que tomó una mujer y la mezcló con tres medidas de harina, hasta que fermentó todo."
+        },
+        {
+          "numero": "34",
+          "verso": "Todas estas cosas habló Jesús a las multitudes con parábolas y no les solía hablar nada sin parábolas,"
+        },
+        {
+          "numero": "35",
+          "verso": "para que se cumpliese lo dicho por medio del Profeta: Abriré mi boca con parábolas,\nproclamaré las cosas que estaban ocultas\ndesde la creación del mundo."
+        }
+      ]
+    }
+  ]
+}

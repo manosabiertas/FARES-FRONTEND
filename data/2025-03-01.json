@@ -1,0 +1,119 @@
+{
+  "fecha": "2025-03-01",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Eclesiástico 17:1-15",
+      "lecturaNombreNormalizado": "Eclo17,1-15",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Así actuará el que teme al Señor; y quien se aferra a la Ley alcanzará la sabiduría."
+        },
+        {
+          "numero": "2",
+          "verso": "Ella le saldrá al encuentro como una madre respetable, le recibirá como una esposa virgen."
+        },
+        {
+          "numero": "3",
+          "verso": "Le alimentará con el pan de vida y de inteligencia, y le dará a beber el agua de la sabiduría.\nSe apoyará en ella y no vacilará,"
+        },
+        {
+          "numero": "4",
+          "verso": "confiará en ella y no quedará avergonzado. Ella le encumbrará por encima de sus prójimos,"
+        },
+        {
+          "numero": "5",
+          "verso": "y en medio de la asamblea le hará abrir su boca, le llenará de espíritu de sabiduría y de inteligencia\ny le cubrirá de un manto de gloria."
+        },
+        {
+          "numero": "6",
+          "verso": "Le colmará de alegría y de corona de gozo, y heredará un renombre eterno."
+        },
+        {
+          "numero": "7",
+          "verso": "Los insensatos nunca la alcanzarán, pero los sensatos le saldrán al encuentro;\nlos pecadores no la contemplarán jamás.\nEstá lejos de la soberbia y del dolo:"
+        },
+        {
+          "numero": "8",
+          "verso": "los mentirosos no se acuerdan de ella, pero los hombres veraces la encontrarán,\ny tendrán éxito cuando los visite el Señor."
+        },
+        {
+          "numero": "9",
+          "verso": "La alabanza no es adecuada en boca de pecador,"
+        },
+        {
+          "numero": "10",
+          "verso": "porque el Señor no se la concedió: la alabanza de Dios se ha de proclamar con sabiduría,\nen la boca del sabio se pronuncia la alabanza,\ny es el Señor quien la guía."
+        },
+        {
+          "numero": "11",
+          "verso": "No digas: «Me aparté por causa del Señor», porque lo que Él detesta, Él no lo hace."
+        },
+        {
+          "numero": "12",
+          "verso": "No digas: «Él me extravió», pues Él no necesita de hombres pecadores."
+        },
+        {
+          "numero": "13",
+          "verso": "El Señor odia toda abominación, y tampoco es querida por los que le temen."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 103:13-18",
+      "lecturaNombreNormalizado": "Sal103,13-18",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "Como se apiada un padre de sus hijos, así el Señor tiene piedad de los que le temen."
+        },
+        {
+          "numero": "14",
+          "verso": "Pues Él conoce de qué estamos hechos, recuerda que somos polvo."
+        },
+        {
+          "numero": "15",
+          "verso": "¡El hombre! Como el heno son sus días: florece como flor silvestre;"
+        },
+        {
+          "numero": "16",
+          "verso": "sobre él pasa el viento y no subsiste, ni se reconoce más su sitio."
+        },
+        {
+          "numero": "17",
+          "verso": "Pero la misericordia del Señor dura desde siempre y para siempre con los que le temen;\ny su justicia, con los hijos de los hijos,"
+        },
+        {
+          "numero": "18",
+          "verso": "con los que guardan su alianza y recuerdan sus mandatos y los cumplen."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 10:13-16",
+      "lecturaNombreNormalizado": "Mc10,13-16",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "Le presentaban unos niños para que los tomara en sus brazos; pero los discípulos les reñían."
+        },
+        {
+          "numero": "14",
+          "verso": "Al verlo Jesús se enfadó y les dijo: —Dejad que los niños vengan a mí, y no se lo impidáis, porque de los que son como ellos es el Reino de Dios."
+        },
+        {
+          "numero": "15",
+          "verso": "En verdad os digo: quien no reciba el Reino de Dios como un niño no entrará en él."
+        },
+        {
+          "numero": "16",
+          "verso": "Y abrazándolos, los bendecía imponiéndoles las manos."
+        }
+      ]
+    }
+  ]
+}

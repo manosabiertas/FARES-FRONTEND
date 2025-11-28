@@ -1,0 +1,146 @@
+{
+  "fecha": "2025-10-19",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Éxodo 17:8-13",
+      "lecturaNombreNormalizado": "Ex17,8-13",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "Vino entonces Amalec y atacó a Israel en Refidim."
+        },
+        {
+          "numero": "9",
+          "verso": "Moisés dijo a Josué: —Elige unos hombres y sal a combatir contra Amalec. Yo estaré de pie en la cima del monte con el bastón de Dios en la mano."
+        },
+        {
+          "numero": "10",
+          "verso": "Hizo Josué como Moisés le había ordenado y combatió contra Amalec; mientras, Moisés, Aarón y Jur subieron a la cima del monte."
+        },
+        {
+          "numero": "11",
+          "verso": "Resultó que cuando Moisés alzaba las manos, vencía Israel, pero cuando las dejaba caer, vencía Amalec."
+        },
+        {
+          "numero": "12",
+          "verso": "Como se le cansaban las manos a Moisés, acercaron una piedra, se la pusieron debajo y se sentó sobre ella, en tanto que Aarón y Jur le sujetaban las manos, cada uno por un lado. Y así sus manos se mantuvieron en alto hasta la puesta del sol."
+        },
+        {
+          "numero": "13",
+          "verso": "Josué derrotó a Amalec y a su pueblo a filo de espada."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 121:1-8",
+      "lecturaNombreNormalizado": "Sal121,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. Alzo mis ojos a los montes:\n¿de dónde me llegará el auxilio?"
+        },
+        {
+          "numero": "2",
+          "verso": "Mi auxilio me viene del Señor, que hizo los cielos y la tierra."
+        },
+        {
+          "numero": "3",
+          "verso": "No permitirá que tropiece tu pie, no duerme el que te guarda."
+        },
+        {
+          "numero": "4",
+          "verso": "No, no dormita, no se duerme el que guarda a Israel."
+        },
+        {
+          "numero": "5",
+          "verso": "El Señor es tu guardián, el Señor, a tu derecha,\nes tu sombra protectora."
+        },
+        {
+          "numero": "6",
+          "verso": "De día no te dañará el sol, ni la luna de noche."
+        },
+        {
+          "numero": "7",
+          "verso": "El Señor te guarda de todo mal, guarda tu alma."
+        },
+        {
+          "numero": "8",
+          "verso": "El Señor guarda tus salidas y entradas, desde ahora y por siempre."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "2 Timoteo 3:14--4:2",
+      "lecturaNombreNormalizado": "2Timoteo3,14--4,2",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "Pero tú, permanece firme en lo que has aprendido y creído, ya que sabes de quiénes lo aprendiste,"
+        },
+        {
+          "numero": "15",
+          "verso": "y porque desde niño conoces la Sagrada Escritura, que puede darte la sabiduría que conduce a la salvación por medio de la fe en Cristo Jesús."
+        },
+        {
+          "numero": "16",
+          "verso": "Toda la Escritura es inspirada por Dios y útil para enseñar, para argumentar, para corregir y para educar en la justicia,"
+        },
+        {
+          "numero": "17",
+          "verso": "con el fin de que el hombre de Dios esté bien dispuesto, preparado para toda obra buena."
+        },
+        {
+          "numero": "1",
+          "verso": "En la presencia de Dios y de Cristo Jesús, que va a juzgar a vivos y muertos, por su manifestación y por su reino, te advierto seriamente:"
+        },
+        {
+          "numero": "2",
+          "verso": "predica la palabra, insiste con ocasión y sin ella, reprende, reprocha y exhorta siempre con paciencia y doctrina."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 18:1-8",
+      "lecturaNombreNormalizado": "Lc18,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Les proponía una parábola sobre la necesidad de orar siempre y no desfallecer,"
+        },
+        {
+          "numero": "2",
+          "verso": "diciendo: —Había en una ciudad un juez que no temía a Dios ni respetaba a los hombres."
+        },
+        {
+          "numero": "3",
+          "verso": "También había en aquella ciudad una viuda, que acudía a él diciendo: «Hazme justicia ante mi adversario»."
+        },
+        {
+          "numero": "4",
+          "verso": "Y durante mucho tiempo no quiso. Sin embargo, al final se dijo a sí mismo: «Aunque no temo a Dios ni respeto a los hombres,"
+        },
+        {
+          "numero": "5",
+          "verso": "como esta viuda está molestándome, le haré justicia, para que no siga viniendo a importunarme»."
+        },
+        {
+          "numero": "6",
+          "verso": "Concluyó el Señor: —Prestad atención a lo que dice el juez injusto."
+        },
+        {
+          "numero": "7",
+          "verso": "¿Acaso Dios no hará justicia a sus elegidos que claman a Él día y noche, y les hará esperar?"
+        },
+        {
+          "numero": "8",
+          "verso": "Os aseguro que les hará justicia sin tardanza. Pero cuando venga el Hijo del Hombre, ¿encontrará fe sobre la tierra?"
+        }
+      ]
+    }
+  ]
+}

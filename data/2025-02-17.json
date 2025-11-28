@@ -1,0 +1,127 @@
+{
+  "fecha": "2025-02-17",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Génesis 4:1-15, 25",
+      "lecturaNombreNormalizado": "Gn4,1-15,25",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Adán conoció a Eva, su mujer, que concibió y dio a luz a Caín. Y dijo: —He adquirido un varón gracias al Señor."
+        },
+        {
+          "numero": "2",
+          "verso": "Después dio a luz a su hermano Abel. Abel fue pastor de ganado menor, y Caín, labrador."
+        },
+        {
+          "numero": "3",
+          "verso": "Al cabo de algún tiempo Caín ofreció al Señor frutos del campo;"
+        },
+        {
+          "numero": "4",
+          "verso": "y Abel, por su parte, los primogénitos y la grasa de su ganado. El Señor miró complacido a Abel y su ofrenda,"
+        },
+        {
+          "numero": "5",
+          "verso": "pero no a Caín y la suya. Por esto Caín se irritó en gran manera y andaba cabizbajo."
+        },
+        {
+          "numero": "6",
+          "verso": "Entonces dijo el Señor a Caín: —¿Por qué estás irritado? ¿Por qué andas cabizbajo?"
+        },
+        {
+          "numero": "7",
+          "verso": "¿No llevarías el rostro alto si obraras bien? Pero si no obras bien, el pecado acecha a la puerta; no obstante, tú podrás dominarlo."
+        },
+        {
+          "numero": "8",
+          "verso": "Caín dijo a su hermano Abel: —Vamos al campo.\nY cuando estaban en el campo, Caín se alzó contra su hermano Abel, y lo mató."
+        },
+        {
+          "numero": "9",
+          "verso": "Entonces el Señor dijo a Caín: —¿Dónde está tu hermano Abel?\nÉl respondió:\n—No lo sé. ¿Acaso soy yo el guardián de mi hermano?"
+        },
+        {
+          "numero": "10",
+          "verso": "El Señor le dijo: —¿Qué has hecho? La voz de la sangre de tu hermano clama hacia mí desde la tierra."
+        },
+        {
+          "numero": "11",
+          "verso": "Ahora, maldito seas, márchate de esta tierra que ha abierto su boca para recibir la sangre que has derramado de tu hermano."
+        },
+        {
+          "numero": "12",
+          "verso": "Aunque la trabajes, no volverá a darte su fruto; vivirás errante y vagabundo por la tierra."
+        },
+        {
+          "numero": "13",
+          "verso": "Caín contestó al Señor: —Grande es mi culpa para soportarla."
+        },
+        {
+          "numero": "14",
+          "verso": "Me expulsas hoy de esta tierra; tendré que ocultarme de tu rostro, vivir errante y vagabundo por la tierra, y cualquiera que me encuentre me matará."
+        },
+        {
+          "numero": "15",
+          "verso": "El Señor le dijo: —No será así; el que mate a Caín será castigado siete veces.\nY el Señor puso una marca a Caín para que si alguien lo encontrara no lo matase."
+        },
+        {
+          "numero": "25",
+          "verso": "Adán conoció de nuevo a su mujer, y ella dio a luz un hijo al que puso por nombre Set, pues se dijo: «Dios me ha concedido otro descendiente en lugar de Abel, ya que lo mató Caín»."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 50:1, 8, 16-17, 20-21",
+      "lecturaNombreNormalizado": "Sal50,1,8,16-17,20-21",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. De Asaf. El Dios de los dioses, el Señor, habla\ny convoca a la tierra\ndesde la salida del sol hasta su ocaso."
+        },
+        {
+          "numero": "8",
+          "verso": "No te reprendo por tus sacrificios, pues tus holocaustos están siempre ante Mí."
+        },
+        {
+          "numero": "16",
+          "verso": "Dios dice al impío: «¿Por qué repites mis preceptos\ny tienes en tu boca mi alianza,"
+        },
+        {
+          "numero": "17",
+          "verso": "tú, que aborreces mi doctrina y postergas mis mandatos?"
+        },
+        {
+          "numero": "20",
+          "verso": "Tomas asiento para hablar mal de tu hermano y propalas calumnias contra el hijo de tu madre."
+        },
+        {
+          "numero": "21",
+          "verso": "Tú has hecho estas cosas y Yo me he callado.\nPensabas que soy como tú.\nPero Yo te acusaré y te reprocharé cara a cara."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 8:11-13",
+      "lecturaNombreNormalizado": "Mc8,11-13",
+      "versos": [
+        {
+          "numero": "11",
+          "verso": "Salieron los fariseos y comenzaron a discutir con él, pidiéndole, para tentarle, una señal del cielo."
+        },
+        {
+          "numero": "12",
+          "verso": "Suspirando desde lo profundo de si espíritu, dijo: —¿Por qué esta generación pide una señal? En verdad os digo que a esta generación no se le dará ninguna señal."
+        },
+        {
+          "numero": "13",
+          "verso": "Y dejándolos, subió de nuevo a la barca y se marchó a la otra orilla."
+        }
+      ]
+    }
+  ]
+}

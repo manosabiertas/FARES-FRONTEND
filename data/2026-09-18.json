@@ -1,0 +1,95 @@
+{
+  "fecha": "2026-09-18",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Corintios 15:12-20",
+      "lecturaNombreNormalizado": "1Corintios15,12-20",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "Pero si se predica que Cristo ha resucitado de entre los muertos, ¿cómo es que algunos de entre vosotros dicen que no hay resurrección de los muertos?"
+        },
+        {
+          "numero": "13",
+          "verso": "Si no hay resurrección de los muertos, tampoco Cristo ha resucitado."
+        },
+        {
+          "numero": "14",
+          "verso": "Y si Cristo no ha resucitado, inútil es nuestra predicación, inútil es también vuestra fe."
+        },
+        {
+          "numero": "15",
+          "verso": "Resultamos ser además falsos testigos de Dios, porque, en contra de Dios, testimoniamos que resucitó a Cristo, a quien no resucitó, si de verdad los muertos no resucitan."
+        },
+        {
+          "numero": "16",
+          "verso": "Pues si los muertos no resucitan, tampoco Cristo ha resucitado;"
+        },
+        {
+          "numero": "17",
+          "verso": "pero si Cristo no ha resucitado, vana es vuestra fe, todavía estáis en vuestros pecados."
+        },
+        {
+          "numero": "18",
+          "verso": "E incluso los que han muerto en Cristo perecieron."
+        },
+        {
+          "numero": "19",
+          "verso": "Y si tenemos puesta la esperanza en Cristo sólo para esta vida, somos los más miserables de todos los hombres."
+        },
+        {
+          "numero": "20",
+          "verso": "Ahora bien, Cristo ha resucitado de entre los muertos, como primer fruto de los que mueren."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 17:1, 6-8, 15",
+      "lecturaNombreNormalizado": "Sal17,1,6-8,15",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Oración. De David. Escucha, Señor, mi demanda,\natiende a mi clamor,\npresta oído a mi súplica,\nque en mis labios no hay engaño."
+        },
+        {
+          "numero": "6",
+          "verso": "Yo te invoco porque Tú me escuchas, Dios mío. Inclina tu oído hacia mí,\nescucha mis palabras."
+        },
+        {
+          "numero": "7",
+          "verso": "Muestra tu misericordia, Tú que salvas de los adversarios\na los que se refugian en tu diestra."
+        },
+        {
+          "numero": "8",
+          "verso": "Guárdame como la niña de tus ojos; a la sombra de tus alas escóndeme"
+        },
+        {
+          "numero": "15",
+          "verso": "Pero yo, en justicia, contemplaré tu rostro, y, al despertar, me saciaré de tu presencia."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 8:1-3",
+      "lecturaNombreNormalizado": "Lc8,1-3",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Sucedió, después, que él pasaba por ciudades y aldeas predicando y anunciando el Evangelio del Reino de Dios. Le acompañaban los doce"
+        },
+        {
+          "numero": "2",
+          "verso": "y algunas mujeres que habían sido libradas de espíritus malignos y de enfermedades: María, llamada Magdalena, de la que habían salido siete demonios;"
+        },
+        {
+          "numero": "3",
+          "verso": "y Juana, mujer de Cusa, administrador de Herodes; y Susana, y otras muchas que les asistían con sus bienes."
+        }
+      ]
+    }
+  ]
+}

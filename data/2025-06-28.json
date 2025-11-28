@@ -1,0 +1,163 @@
+{
+  "fecha": "2025-06-28",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Génesis 18:1-15",
+      "lecturaNombreNormalizado": "Gn18,1-15",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El Señor se manifestó a Abrahán junto a la encina de Mambré, cuando estaba sentado a la puerta de la tienda en lo más caluroso del día."
+        },
+        {
+          "numero": "2",
+          "verso": "Abrahán alzó la vista y vio que tres hombres estaban de pie junto a él. Apenas los vio, corrió a su encuentro desde la puerta de la tienda y se postró en tierra"
+        },
+        {
+          "numero": "3",
+          "verso": "diciendo: —Mi Señor, si he hallado gracia a tus ojos, no pases sin detenerte junto a tu siervo."
+        },
+        {
+          "numero": "4",
+          "verso": "Haré que traigan un poco de agua para que os lavéis los pies, y descansaréis bajo el árbol;"
+        },
+        {
+          "numero": "5",
+          "verso": "entretanto, traeré un trozo de pan para que reparéis vuestras fuerzas, y luego seguiréis adelante, pues por algo habéis pasado junto a vuestro siervo. Contestaron:\n—Sí, haz como has dicho."
+        },
+        {
+          "numero": "6",
+          "verso": "Abrahán corrió a la tienda donde estaba Sara y le dijo: —Date prisa, amasa tres seim de flor de harina y haz unas tortas."
+        },
+        {
+          "numero": "7",
+          "verso": "Él fue corriendo a la vacada, tomó un hermoso ternero recental y lo entregó a su siervo que se dio prisa en prepararlo."
+        },
+        {
+          "numero": "8",
+          "verso": "Luego tomó cuajada, leche, y el ternero que había preparado, y lo sirvió ante ellos; y permaneció en pie a su lado, bajo el árbol, mientras ellos comían."
+        },
+        {
+          "numero": "9",
+          "verso": "Después le preguntaron: —¿Dónde está Sara, tu mujer?\nÉl contestó:\n—Ahí en la tienda."
+        },
+        {
+          "numero": "10",
+          "verso": "Y uno le dijo: —Sin falta volveré a ti la próxima primavera, y Sara tu mujer habrá tenido un hijo.\nSara lo oyó desde la entrada de la tienda, pues estaba detrás del que hablaba."
+        },
+        {
+          "numero": "11",
+          "verso": "Abrahán y Sara eran ancianos, de edad avanzada, y a Sara le había cesado la regla de las mujeres."
+        },
+        {
+          "numero": "12",
+          "verso": "Sara se sonrió por dentro, diciendo: «¿Después de estar consumida, y con mi marido anciano, voy a sentir placer?»"
+        },
+        {
+          "numero": "13",
+          "verso": "El Señor dijo a Abrahán: —¿Por qué se ha reído Sara, diciendo: «¿De veras voy a dar a luz siendo anciana?»."
+        },
+        {
+          "numero": "14",
+          "verso": "¿Es que hay algo difícil para el Señor? En el tiempo señalado, la próxima primavera, volveré a ti y Sara habrá tenido un hijo."
+        },
+        {
+          "numero": "15",
+          "verso": "Sara lo negó diciendo: —No me he reído —pues tenía miedo.\nPero Él le contestó:\n—No es cierto, te has reído."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Lucas 1:46-50, 53-55",
+      "lecturaNombreNormalizado": "Lc1,46-50,53-55",
+      "versos": [
+        {
+          "numero": "46",
+          "verso": "María exclamó: —Engrandece mi alma al Señor,"
+        },
+        {
+          "numero": "47",
+          "verso": "y se alegra mi espíritu en Dios mi Salvador:"
+        },
+        {
+          "numero": "48",
+          "verso": "porque ha puesto los ojos en la humildad de su esclava;\npor eso desde ahora me llamarán bienaventurada\ntodas las generaciones."
+        },
+        {
+          "numero": "49",
+          "verso": "Porque ha hecho en mí cosas grandes el Todopoderoso,\ncuyo nombre es Santo;"
+        },
+        {
+          "numero": "50",
+          "verso": "su misericordia se derrama de generación en generación\nsobre los que le temen."
+        },
+        {
+          "numero": "53",
+          "verso": "Colmó de bienes a los hambrientos y a los ricos los despidió vacíos."
+        },
+        {
+          "numero": "54",
+          "verso": "Auxilió a Israel su siervo, recordando su misericordia,"
+        },
+        {
+          "numero": "55",
+          "verso": "como había prometido a nuestros padres, Abrahán y su descendencia para siempre."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 2:41-51",
+      "lecturaNombreNormalizado": "Lc2,41-51",
+      "versos": [
+        {
+          "numero": "41",
+          "verso": "Sus padres iban todos los años a Jerusalén para la fiesta de la Pascua."
+        },
+        {
+          "numero": "42",
+          "verso": "Y cuando tuvo doce años, subieron a la fiesta, como era costumbre."
+        },
+        {
+          "numero": "43",
+          "verso": "Pasados aquellos días, al regresar, el niño Jesús se quedó en Jerusalén sin que lo advirtiesen sus padres."
+        },
+        {
+          "numero": "44",
+          "verso": "Suponiendo que iba en la caravana, hicieron un día de camino buscándolo entre los parientes y conocidos,"
+        },
+        {
+          "numero": "45",
+          "verso": "y al no encontrarlo, volvieron a Jerusalén en su busca."
+        },
+        {
+          "numero": "46",
+          "verso": "Y al cabo de tres días lo encontraron en el Templo, sentado en medio de los doctores, escuchándoles y preguntándoles."
+        },
+        {
+          "numero": "47",
+          "verso": "Cuantos le oían quedaban admirados de su sabiduría y de sus respuestas."
+        },
+        {
+          "numero": "48",
+          "verso": "Al verlo se maravillaron, y le dijo su madre: —Hijo, ¿por qué nos has hecho esto? Mira que tu padre y yo, angustiados, te buscábamos."
+        },
+        {
+          "numero": "49",
+          "verso": "Y él les dijo: —¿Por qué me buscabais? ¿No sabíais que es necesario que yo esté en las cosas de mi Padre?"
+        },
+        {
+          "numero": "50",
+          "verso": "Pero ellos no comprendieron lo que les dijo."
+        },
+        {
+          "numero": "51",
+          "verso": "Bajó con ellos, vino a Nazaret y les estaba sujeto. Y su madre guardaba todas estas cosas en su corazón."
+        }
+      ]
+    }
+  ]
+}

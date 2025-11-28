@@ -1,0 +1,130 @@
+{
+  "fecha": "2025-09-14",
+  "color": "rojo",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Números 21:4-9",
+      "lecturaNombreNormalizado": "Nm21,4-9",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "Partieron desde el monte Hor camino del Mar Rojo rodeando la tierra de Edom, y en el camino desfalleció el ánimo del pueblo."
+        },
+        {
+          "numero": "5",
+          "verso": "El pueblo habló contra Dios y contra Moisés: —¿Por qué nos habéis hecho subir de Egipto para morir en este desierto, donde no hay pan ni agua y nuestra alma no puede más con este alimento tan ligero?"
+        },
+        {
+          "numero": "6",
+          "verso": "El Señor les envió serpientes venenosas que mordieron al pueblo, y murió mucha gente de Israel."
+        },
+        {
+          "numero": "7",
+          "verso": "Entonces el pueblo vino a Moisés y dijo: —Hemos pecado porque hemos hablado contra el Señor y contra ti. Ruega al Señor que aparte de nosotros las serpientes.\nY Moisés oró por el pueblo."
+        },
+        {
+          "numero": "8",
+          "verso": "El Señor dijo a Moisés: —Haz una serpiente venenosa y ponla sobre un mástil, y todo el que haya sido mordido y la mire, vivirá."
+        },
+        {
+          "numero": "9",
+          "verso": "Moisés hizo una serpiente de bronce y la puso sobre un mástil, y si alguien había sido mordido por una serpiente, miraba fijamente la serpiente de bronce y vivía."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 78:1-2, 34-38",
+      "lecturaNombreNormalizado": "Sal78,1-2,34-38",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Masquil. De Asaf. Atiende a mi Ley, pueblo mío,\ninclina el oído a los dichos de mi boca."
+        },
+        {
+          "numero": "2",
+          "verso": "Abriré mi boca con parábolas, proferiré los misterios de antaño."
+        },
+        {
+          "numero": "34",
+          "verso": "Cuando los hacía perecer, lo buscaban, se convertían e iban a Dios de madrugada."
+        },
+        {
+          "numero": "35",
+          "verso": "Se acordaban de que Dios es su Roca, el Dios Altísimo, su Redentor."
+        },
+        {
+          "numero": "36",
+          "verso": "Le halagaban con la boca, pero le mentían con la lengua."
+        },
+        {
+          "numero": "37",
+          "verso": "Su corazón no era sincero con Él, ni se mantenían fieles a su alianza."
+        },
+        {
+          "numero": "38",
+          "verso": "En cambio, Él, que es compasivo, perdonaba su culpa y no los destruía.\nUna y otra vez retiraba su ira,\nsin encender todo su furor,"
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Filipenses 2:6-11",
+      "lecturaNombreNormalizado": "Flp2,6-11",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "el cual, siendo de condición divina, no consideró como presa codiciable\nel ser igual a Dios,"
+        },
+        {
+          "numero": "7",
+          "verso": "sino que se anonadó a sí mismo tomando la forma de siervo,\nhecho semejante a los hombres;\ny, mostrándose igual que los demás hombres,"
+        },
+        {
+          "numero": "8",
+          "verso": "se humilló a sí mismo haciéndose obediente hasta la muerte,\ny muerte de cruz."
+        },
+        {
+          "numero": "9",
+          "verso": "Y por eso Dios lo exaltó y le otorgó el nombre\nque está sobre todo nombre;"
+        },
+        {
+          "numero": "10",
+          "verso": "para que al nombre de Jesús toda rodilla se doble en los cielos, en la tierra y en los abismos,"
+        },
+        {
+          "numero": "11",
+          "verso": "y toda lengua confiese: «¡Jesucristo es el Señor!»,\npara gloria de Dios Padre."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 3:13-17",
+      "lecturaNombreNormalizado": "Jn3,13-17",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "Pues nadie ha subido al cielo, sino el que bajó del cielo, el Hijo del Hombre."
+        },
+        {
+          "numero": "14",
+          "verso": "Igual que Moisés levantó la serpiente en el desierto, así debe ser levantado el Hijo del Hombre,"
+        },
+        {
+          "numero": "15",
+          "verso": "para que todo el que crea tenga vida eterna en él."
+        },
+        {
+          "numero": "16",
+          "verso": "Tanto amó Dios al mundo que le entregó a su Hijo Unigénito, para que todo el que cree en él no perezca, sino que tenga vida eterna."
+        },
+        {
+          "numero": "17",
+          "verso": "Pues Dios no envió a su Hijo al mundo para juzgar al mundo, sino para que el mundo se salve por él."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "fecha": "2026-05-31",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Éxodo 34:4-6, 8-9",
+      "lecturaNombreNormalizado": "Ex34,4-6,8-9",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "Así pues, Moisés talló dos tablas de piedra como las primeras, madrugó y subió temprano al monte Sinaí, como le había ordenado el Señor, llevando en su mano las dos tablas de piedra."
+        },
+        {
+          "numero": "5",
+          "verso": "Descendió el Señor en la nube y se colocó junto a él e invocó el nombre del Señor."
+        },
+        {
+          "numero": "6",
+          "verso": "El Señor pasó delante de él proclamando: —Señor, Señor, Dios compasivo y misericordioso, lento a la cólera y rico en misericordia y fidelidad;"
+        },
+        {
+          "numero": "8",
+          "verso": "Moisés, al instante, se postró en tierra y le adoró,"
+        },
+        {
+          "numero": "9",
+          "verso": "diciendo: —Señor mío, si he hallado gracia a tus ojos, camina, Señor, en medio de nosotros; cierto que éste es un pueblo de dura cerviz, pero tú, perdona nuestra culpa y nuestro pecado y recíbenos como heredad tuya."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Daniel 3:52-55",
+      "lecturaNombreNormalizado": "Dn3,52-55",
+      "versos": [
+        {
+          "numero": "52",
+          "verso": "—Bendito eres, Señor, Dios de nuestros padres, digno de alabanza y ensalzado por los siglos.\nBendito el santo Nombre de tu gloria,\nmuy digno de alabanza y ensalzado por los siglos."
+        },
+        {
+          "numero": "53",
+          "verso": "Bendito eres en el Templo de tu santa gloria, muy digno de alabanza y glorioso por los siglos."
+        },
+        {
+          "numero": "54",
+          "verso": "Bendito eres sobre el trono de tu reino: muy digno de alabanza y ensalzado por los siglos."
+        },
+        {
+          "numero": "55",
+          "verso": "Bendito eres Tú, que sondeas los abismos sentado sobre querubines, digno de alabanza y ensalzado por los siglos."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "2 Corintios 13:11-13",
+      "lecturaNombreNormalizado": "2Corintios13,11-13",
+      "versos": [
+        {
+          "numero": "11",
+          "verso": "Por lo demás, hermanos, alegraos, sed perfectos, exhortaos, tened un mismo sentir, vivid en paz, y el Dios de la caridad y de la paz estará con vosotros."
+        },
+        {
+          "numero": "12",
+          "verso": "Saludaos unos a otros con el beso santo. Todos los santos os saludan."
+        },
+        {
+          "numero": "13",
+          "verso": "La gracia del Señor Jesucristo y el amor de Dios y la comunión del Espíritu Santo estén con todos vosotros."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 3:16-18",
+      "lecturaNombreNormalizado": "Jn3,16-18",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "Tanto amó Dios al mundo que le entregó a su Hijo Unigénito, para que todo el que cree en él no perezca, sino que tenga vida eterna."
+        },
+        {
+          "numero": "17",
+          "verso": "Pues Dios no envió a su Hijo al mundo para juzgar al mundo, sino para que el mundo se salve por él."
+        },
+        {
+          "numero": "18",
+          "verso": "El que cree en él no es juzgado; pero quien no cree ya está juzgado, porque no cree en el nombre del Hijo Unigénito de Dios."
+        }
+      ]
+    }
+  ]
+}

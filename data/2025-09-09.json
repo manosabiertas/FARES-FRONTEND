@@ -1,0 +1,123 @@
+{
+  "fecha": "2025-09-09",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Colosenses 2:6-15",
+      "lecturaNombreNormalizado": "Col2,6-15",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "Por tanto, así como habéis recibido a Cristo Jesús, el Señor, vivid en él,"
+        },
+        {
+          "numero": "7",
+          "verso": "enraizados y edificados sobre él, permaneciendo fuertes en la fe, tal como aprendisteis, y manifestando generosamente vuestro agradecimiento."
+        },
+        {
+          "numero": "8",
+          "verso": "Vigilad para que nadie os seduzca por medio de vanas filosofías y falacias, fundadas en la tradición de los hombres y en los elementos del mundo, pero no en Cristo."
+        },
+        {
+          "numero": "9",
+          "verso": "Porque en él habita toda la plenitud de la divinidad corporalmente,"
+        },
+        {
+          "numero": "10",
+          "verso": "y por él, que es cabeza de todo principado y potestad, habéis alcanzado la plenitud."
+        },
+        {
+          "numero": "11",
+          "verso": "Por él fuisteis también circuncidados con una circuncisión no hecha por mano que mutila el cuerpo carnal, sino con la circuncisión de Cristo."
+        },
+        {
+          "numero": "12",
+          "verso": "Sepultados con él por medio del Bautismo, también fuisteis resucitados con él mediante la fe en el poder de Dios, que lo resucitó de entre los muertos."
+        },
+        {
+          "numero": "13",
+          "verso": "Y a vosotros, que estabais muertos por los delitos y por la falta de circuncisión de vuestra carne, os vivificó con él, y perdonó gratuitamente todos nuestros delitos,"
+        },
+        {
+          "numero": "14",
+          "verso": "al borrar el pliego de cargos que nos era adverso, y que canceló clavándolo en la cruz."
+        },
+        {
+          "numero": "15",
+          "verso": "Habiendo despojado a los principados y potestades, los exhibió en público llevándolos en su cortejo triunfal."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 145:1-2, 8-11",
+      "lecturaNombreNormalizado": "Sal145,1-2,8-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Laude. De David. (Alef) Te ensalzaré, Dios mío, mi Rey,\nbendeciré tu Nombre por siempre sin fin."
+        },
+        {
+          "numero": "2",
+          "verso": "(Bet) Cada día te bendeciré y alabaré tu Nombre por siempre sin fin."
+        },
+        {
+          "numero": "8",
+          "verso": "(Het) El Señor es clemente y compasivo, lento a la ira y rico en misericordia."
+        },
+        {
+          "numero": "9",
+          "verso": "(Tet) El Señor es bueno con todos y su misericordia se extiende a todas sus obras."
+        },
+        {
+          "numero": "10",
+          "verso": "(Yod) Que todas tus obras te den gracias, Señor, y tus fieles te bendigan."
+        },
+        {
+          "numero": "11",
+          "verso": "(Kaf) Que proclamen la gloria de tu reino y anuncien tu poder."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 6:12-19",
+      "lecturaNombreNormalizado": "Lc6,12-19",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "En aquellos días salió al monte a orar y pasó toda la noche en oración a Dios."
+        },
+        {
+          "numero": "13",
+          "verso": "Cuando se hizo de día, llamó a sus discípulos y de entre ellos eligió a doce, a los que denominó apóstoles:"
+        },
+        {
+          "numero": "14",
+          "verso": "a Simón, a quien también llamó Pedro, y a su hermano Andrés, a Santiago, a Juan, a Felipe, a Bartolomé,"
+        },
+        {
+          "numero": "15",
+          "verso": "a Mateo, a Tomás, a Santiago de Alfeo, a Simón, llamado Zelotes,"
+        },
+        {
+          "numero": "16",
+          "verso": "a Judas de Santiago y a Judas Iscariote, que fue el traidor."
+        },
+        {
+          "numero": "17",
+          "verso": "Bajando con ellos, se detuvo en un lugar llano. Y había una multitud de sus discípulos, y una gran muchedumbre del pueblo procedente de toda Judea y de Jerusalén y del litoral de Tiro y Sidón,"
+        },
+        {
+          "numero": "18",
+          "verso": "que vinieron a oírle y a ser curados de sus enfermedades. Y los que estaban atormentados por espíritus impuros quedaban curados."
+        },
+        {
+          "numero": "19",
+          "verso": "Toda la multitud intentaba tocarle, porque salía de él una fuerza que sanaba a todos."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-06-17",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Reyes 2:1, 6-14",
+      "lecturaNombreNormalizado": "2Reyes2,1,6-14",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Cuando el Señor iba a arrebatar a Elías a los cielos en un torbellino, Elías y Eliseo habían partido de Guilgal."
+        },
+        {
+          "numero": "6",
+          "verso": "Le dijo otra vez Elías: —Quédate aquí, porque el Señor me envía al Jordán.\nContestó Eliseo:\n—Por vida del Señor y por tu misma vida, que no te he de abandonar.\nMarcharon los dos."
+        },
+        {
+          "numero": "7",
+          "verso": "Cincuenta discípulos de los profetas marcharon también y se quedaron lejos, frente a ellos. Ellos dos se detuvieron junto al Jordán."
+        },
+        {
+          "numero": "8",
+          "verso": "Elías se quitó el manto, lo dobló y golpeó las aguas, que se separaron a un lado y a otro; y los dos pasaron por tierra seca."
+        },
+        {
+          "numero": "9",
+          "verso": "Cuando hubieron pasado dijo Elías a Eliseo: —Pide qué he de hacer por ti antes de que sea arrebatado de tu lado.\nContestó Eliseo:\n—Por favor, que yo reciba doble de tu espíritu."
+        },
+        {
+          "numero": "10",
+          "verso": "Él contestó: —Has pedido algo muy difícil. Si me ves cuando sea arrebatado de tu lado, se te concederá; y si no, no sucederá."
+        },
+        {
+          "numero": "11",
+          "verso": "Ellos iban andando y hablando y de pronto un carro de fuego con caballos de fuego se interpuso entre ambos, y Elías fue arrebatado a los cielos en un torbellino."
+        },
+        {
+          "numero": "12",
+          "verso": "Eliseo lo veía y gritaba: —¡Padre mío, padre mío, carro y auriga de Israel!\nY ya no lo vio más. Entonces agarró sus propias vestiduras y las rasgó en dos pedazos."
+        },
+        {
+          "numero": "13",
+          "verso": "Luego recogió el manto de Elías que se le había caído a éste de encima. Volvió y se detuvo a la orilla del Jordán."
+        },
+        {
+          "numero": "14",
+          "verso": "Tomó el manto de Elías que se le había caído de encima y golpeó las aguas diciendo: —¿Dónde está el Señor, Dios de Elías?\nEntonces golpeó las aguas, que se retiraron a un lado y a otro, y Eliseo pasó."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 31:20-21, 24",
+      "lecturaNombreNormalizado": "Sal31,20-21,24",
+      "versos": [
+        {
+          "numero": "20",
+          "verso": "Qué grande es tu bondad, la que has reservado para los que te temen,\npreparado para los que se refugian en Ti,\na la vista de los hijos de los hombres."
+        },
+        {
+          "numero": "21",
+          "verso": "En lo secreto de tu presencia los ocultas de las intrigas humanas;\nen tu tienda los escondes\nde las lenguas pendencieras."
+        },
+        {
+          "numero": "24",
+          "verso": "Amad al Señor todos sus fieles, que el Señor protege a los leales,\npero castiga con dureza al que obra con orgullo."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 6:1-6, 16-18",
+      "lecturaNombreNormalizado": "Mt6,1-6,16-18",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "»Guardaos de hacer vuestra justicia delante de los hombres con el fin de que os vean; de otro modo no tendréis recompensa de vuestro Padre que está en los cielos."
+        },
+        {
+          "numero": "2",
+          "verso": "»Por lo tanto, cuando des limosna no lo vayas pregonando, como hacen los hipócritas en las sinagogas y en las calles, con el fin de que los alaben los hombres. En verdad os digo que ya recibieron su recompensa."
+        },
+        {
+          "numero": "3",
+          "verso": "Tú, por el contrario, cuando des limosna, que tu mano izquierda no sepa lo que hace tu mano derecha,"
+        },
+        {
+          "numero": "4",
+          "verso": "para que tu limosna quede en lo oculto; de este modo, tu Padre, que ve en lo oculto, te recompensará."
+        },
+        {
+          "numero": "5",
+          "verso": "»Cuando oréis, no seáis como los hipócritas, que son amigos de orar puestos de pie en las sinagogas y en las esquinas de las plazas, para exhibirse delante de los hombres; en verdad os digo que ya recibieron su recompensa."
+        },
+        {
+          "numero": "6",
+          "verso": "Tú, por el contrario, cuando te pongas a orar, entra en tu aposento y, con la puerta cerrada, ora a tu Padre, que está en lo oculto; y tu Padre, que ve en lo oculto, te recompensará."
+        },
+        {
+          "numero": "16",
+          "verso": "»Cuando ayunéis no os finjáis tristes como los hipócritas, que desfiguran su rostro para que los hombres noten que ayunan. En verdad os digo que ya recibieron su recompensa."
+        },
+        {
+          "numero": "17",
+          "verso": "Tú, en cambio, cuando ayunes, perfuma tu cabeza y lávate la cara,"
+        },
+        {
+          "numero": "18",
+          "verso": "para que no adviertan los hombres que ayunas, sino tu Padre, que está en lo oculto; y tu Padre, que ve en lo oculto, te recompensará."
+        }
+      ]
+    }
+  ]
+}

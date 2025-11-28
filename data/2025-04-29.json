@@ -1,0 +1,99 @@
+{
+  "fecha": "2025-04-29",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hechos 4:32-37",
+      "lecturaNombreNormalizado": "Hch4,32-37",
+      "versos": [
+        {
+          "numero": "32",
+          "verso": "La multitud de los creyentes tenía un solo corazón y una sola alma, y nadie consideraba como suyo lo que poseía, sino que compartían todas las cosas."
+        },
+        {
+          "numero": "33",
+          "verso": "Con gran poder los apóstoles daban testimonio de la resurrección del Señor Jesús; y en todos ellos había abundancia de gracia."
+        },
+        {
+          "numero": "34",
+          "verso": "No había entre ellos ningún necesitado, porque los que eran dueños de campos o casas los vendían, llevaban el precio de la venta"
+        },
+        {
+          "numero": "35",
+          "verso": "y lo ponían a los pies de los apóstoles; luego se repartía a cada uno según sus necesidades."
+        },
+        {
+          "numero": "36",
+          "verso": "Así, José, a quien los apóstoles dieron el sobrenombre de Bernabé —que significa «Hijo de la consolación»—, levita y chipriota de nacimiento,"
+        },
+        {
+          "numero": "37",
+          "verso": "tenía un campo, lo vendió, trajo el dinero y lo puso a los pies de los apóstoles."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 93:1-2, 5",
+      "lecturaNombreNormalizado": "Sal93,1-2,5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El Señor reina. Vestido está de majestad. El Señor está vestido, ceñido de poder.\nPor eso el orbe se mantiene firme;\nno vacilará."
+        },
+        {
+          "numero": "2",
+          "verso": "Tu trono está firme desde antiguo. Tú eres desde siempre."
+        },
+        {
+          "numero": "5",
+          "verso": "Tus preceptos son firmes. Tu Casa, Señor, exige la santidad,\npor días sin término."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 3:7-15",
+      "lecturaNombreNormalizado": "Jn3,7-15",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "No te sorprendas de que te haya dicho que debéis nacer de nuevo."
+        },
+        {
+          "numero": "8",
+          "verso": "El viento sopla donde quiere y oyes su voz pero no sabes de dónde viene ni adónde va. Así es todo el que ha nacido del Espíritu."
+        },
+        {
+          "numero": "9",
+          "verso": "Respondió Nicodemo y le dijo: —¿Y eso cómo puede ser?"
+        },
+        {
+          "numero": "10",
+          "verso": "Contestó Jesús: —¿Tú eres maestro en Israel y lo ignoras?"
+        },
+        {
+          "numero": "11",
+          "verso": "En verdad, en verdad te digo que hablamos de lo que sabemos, y damos testimonio de lo que hemos visto, pero no recibís nuestro testimonio."
+        },
+        {
+          "numero": "12",
+          "verso": "Si os he hablado de cosas terrenas y no creéis, ¿cómo ibais a creer si os hablara de cosas celestiales?"
+        },
+        {
+          "numero": "13",
+          "verso": "Pues nadie ha subido al cielo, sino el que bajó del cielo, el Hijo del Hombre."
+        },
+        {
+          "numero": "14",
+          "verso": "Igual que Moisés levantó la serpiente en el desierto, así debe ser levantado el Hijo del Hombre,"
+        },
+        {
+          "numero": "15",
+          "verso": "para que todo el que crea tenga vida eterna en él."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1041 @@
+{
+  "fecha": "2025-04-19",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Génesis 1:1--2:2",
+      "lecturaNombreNormalizado": "Gn1,1--2,2",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "En el principio creó Dios el cielo y la tierra."
+        },
+        {
+          "numero": "2",
+          "verso": "La tierra era caos y vacío, la tiniebla cubría la faz del abismo y el espíritu de Dios se cernía sobre la superficie de las aguas."
+        },
+        {
+          "numero": "3",
+          "verso": "Dijo Dios: —Haya luz.\nY hubo luz."
+        },
+        {
+          "numero": "4",
+          "verso": "Vio Dios que la luz era buena, y separó Dios la luz de la tiniebla."
+        },
+        {
+          "numero": "5",
+          "verso": "Dios llamó a la luz día, y a la tiniebla llamó noche. Hubo tarde y hubo mañana: día primero."
+        },
+        {
+          "numero": "6",
+          "verso": "Dijo Dios: —Haya un firmamento en medio de las aguas que separe unas aguas de las otras."
+        },
+        {
+          "numero": "7",
+          "verso": "Dios hizo el firmamento y separó las aguas de debajo del firmamento de las aguas de encima del firmamento. Y así fue."
+        },
+        {
+          "numero": "8",
+          "verso": "Dios llamó al firmamento cielo. Hubo tarde y hubo mañana: día segundo."
+        },
+        {
+          "numero": "9",
+          "verso": "Dijo Dios: —Que se reúnan las aguas de debajo del cielo en un solo lugar, y aparezca lo seco.\nY así fue."
+        },
+        {
+          "numero": "10",
+          "verso": "Llamó Dios a lo seco tierra, y a la reunión de aguas la llamó mares. Y vio Dios que era bueno."
+        },
+        {
+          "numero": "11",
+          "verso": "Dijo Dios: —Produzca la tierra hierba verde, plantas con semilla, y árboles frutales sobre la tierra que den fruto según su especie, con semilla dentro. Y así fue."
+        },
+        {
+          "numero": "12",
+          "verso": "La tierra produjo hierba verde, plantas con semilla según su especie, y árboles que dan fruto con semilla, según su especie. Y vio Dios que era bueno."
+        },
+        {
+          "numero": "13",
+          "verso": "Hubo tarde y hubo mañana: día tercero."
+        },
+        {
+          "numero": "14",
+          "verso": "Dijo Dios: —Haya lumbreras en el firmamento del cielo para separar el día de la noche, y que sirvan de señales para las estaciones, los días y los años;"
+        },
+        {
+          "numero": "15",
+          "verso": "que haya lumbreras en el firmamento del cielo para alumbrar la tierra. Y así fue."
+        },
+        {
+          "numero": "16",
+          "verso": "Dios hizo las dos grandes lumbreras —la lumbrera mayor para regir el día, y la lumbrera menor para regir la noche— y las estrellas."
+        },
+        {
+          "numero": "17",
+          "verso": "Y Dios las puso en el firmamento de los cielos para alumbrar la tierra,"
+        },
+        {
+          "numero": "18",
+          "verso": "para regir el día y la noche, y para separar la luz de la oscuridad. Y vio Dios que era bueno."
+        },
+        {
+          "numero": "19",
+          "verso": "Hubo tarde y hubo mañana: día cuarto."
+        },
+        {
+          "numero": "20",
+          "verso": "Dijo Dios: —Que las aguas se llenen de seres vivos, y que vuelen las aves sobre la tierra surcando el firmamento del cielo."
+        },
+        {
+          "numero": "21",
+          "verso": "Y Dios creó los grandes cetáceos y todos los seres vivos que serpean y llenan las aguas según su especie, y todas las aves aladas según su especie. Y vio Dios que era bueno."
+        },
+        {
+          "numero": "22",
+          "verso": "Y los bendijo Dios diciendo: —Creced, multiplicaos y llenad las aguas de los mares; y que las aves se multipliquen en la tierra."
+        },
+        {
+          "numero": "23",
+          "verso": "Hubo tarde y hubo mañana: día quinto."
+        },
+        {
+          "numero": "24",
+          "verso": "Dijo Dios: —Produzca la tierra seres vivos según su especie, ganados, reptiles y animales salvajes según su especie.\nY así fue."
+        },
+        {
+          "numero": "25",
+          "verso": "Dios hizo los animales salvajes según su especie, los ganados según su especie y todos los reptiles del campo según su especie. Y vio Dios que era bueno."
+        },
+        {
+          "numero": "26",
+          "verso": "Dijo Dios: —Hagamos al hombre a nuestra imagen, según nuestra semejanza. Que dominen sobre los peces del mar, las aves del cielo, los ganados, sobre todos los animales salvajes y todos los reptiles que se mueven por la tierra."
+        },
+        {
+          "numero": "27",
+          "verso": "Y creó Dios al hombre a su imagen, a imagen de Dios lo creó;\nvarón y mujer los creó."
+        },
+        {
+          "numero": "28",
+          "verso": "Y los bendijo Dios, y les dijo: —Creced, multiplicaos, llenad la tierra y sometedla; dominad sobre los peces del mar, las aves del cielo y todos los animales que reptan por la tierra."
+        },
+        {
+          "numero": "29",
+          "verso": "Y dijo Dios: —He aquí que os he dado todas las plantas portadoras de semilla que hay en toda la superficie de la tierra, y todos los árboles que dan fruto con semilla; esto os servirá de alimento."
+        },
+        {
+          "numero": "30",
+          "verso": "A todas las fieras, a todas las aves del cielo y a todos los reptiles de la tierra, a todo ser vivo, la hierba verde le servirá de alimento. Y así fue."
+        },
+        {
+          "numero": "31",
+          "verso": "Y vio Dios todo lo que había hecho; y he aquí que era muy bueno. Hubo tarde y hubo mañana: día sexto."
+        },
+        {
+          "numero": "1",
+          "verso": "Y quedaron concluidos el cielo, la tierra y todo su ornato."
+        },
+        {
+          "numero": "2",
+          "verso": "Terminó Dios en el día séptimo la obra que había hecho, y descansó en el día séptimo de toda la obra que había hecho."
+        },
+        {
+          "numero": "1",
+          "verso": "En el principio creó Dios el cielo y la tierra."
+        },
+        {
+          "numero": "26",
+          "verso": "Dijo Dios: —Hagamos al hombre a nuestra imagen, según nuestra semejanza. Que dominen sobre los peces del mar, las aves del cielo, los ganados, sobre todos los animales salvajes y todos los reptiles que se mueven por la tierra."
+        },
+        {
+          "numero": "27",
+          "verso": "Y creó Dios al hombre a su imagen, a imagen de Dios lo creó;\nvarón y mujer los creó."
+        },
+        {
+          "numero": "28",
+          "verso": "Y los bendijo Dios, y les dijo: —Creced, multiplicaos, llenad la tierra y sometedla; dominad sobre los peces del mar, las aves del cielo y todos los animales que reptan por la tierra."
+        },
+        {
+          "numero": "29",
+          "verso": "Y dijo Dios: —He aquí que os he dado todas las plantas portadoras de semilla que hay en toda la superficie de la tierra, y todos los árboles que dan fruto con semilla; esto os servirá de alimento."
+        },
+        {
+          "numero": "30",
+          "verso": "A todas las fieras, a todas las aves del cielo y a todos los reptiles de la tierra, a todo ser vivo, la hierba verde le servirá de alimento. Y así fue."
+        },
+        {
+          "numero": "31",
+          "verso": "Y vio Dios todo lo que había hecho; y he aquí que era muy bueno. Hubo tarde y hubo mañana: día sexto."
+        }
+      ]
+    },
+    {
+      "titulo": "Primer Salmo",
+      "lecturaNombre": "Salmo 104:1-2, 5-6, 10, 12-14, 24, 35",
+      "lecturaNombreNormalizado": "Sal104,1-2,5-6,10,12-14,24,35",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Bendice, alma mía, al Señor. ¡Señor, Dios mío, qué grande eres!\nTe vistes de majestad y esplendor."
+        },
+        {
+          "numero": "2",
+          "verso": "Te envuelves de luz como de un manto, extiendes los cielos como una tienda."
+        },
+        {
+          "numero": "5",
+          "verso": "Asentaste la tierra sobre sus bases: no vacilará jamás."
+        },
+        {
+          "numero": "6",
+          "verso": "El abismo la cubría como un vestido; sobre los montes permanecían las aguas;"
+        },
+        {
+          "numero": "10",
+          "verso": "Tú haces afluir las fuentes en los arroyos, y a través de los montes se abren camino las aguas."
+        },
+        {
+          "numero": "12",
+          "verso": "Sobre ellas habitan las aves del cielo, que emiten sus trinos entre la fronda."
+        },
+        {
+          "numero": "13",
+          "verso": "Tú, de tus altas cámaras, irrigas los montes: del fruto de tus obras se sacia la tierra."
+        },
+        {
+          "numero": "14",
+          "verso": "Haces germinar hierba para el ganado, y plantas para que sirvan al hombre\ny pueda sacar el pan de la tierra,"
+        },
+        {
+          "numero": "24",
+          "verso": "¡Qué numerosas son tus obras, Señor! Todas las hiciste con sabiduría.\nLlena está la tierra de tus criaturas."
+        },
+        {
+          "numero": "35",
+          "verso": "Que desaparezcan de la tierra los pecadores, que no existan más los impíos.\nBendice, alma mía, al Señor.\n¡Aleluya!"
+        },
+        {
+          "numero": "4",
+          "verso": "La palabra del Señor es recta, y hace con fidelidad todas sus obras."
+        },
+        {
+          "numero": "5",
+          "verso": "Él ama la justicia y el derecho: la tierra está llena de su misericordia."
+        },
+        {
+          "numero": "6",
+          "verso": "Por la palabra del Señor fueron hechos los cielos, y por el aliento de su boca todos sus ejércitos."
+        },
+        {
+          "numero": "7",
+          "verso": "Reunió las aguas del mar como en un odre, metió en depósitos las aguas del abismo."
+        },
+        {
+          "numero": "12",
+          "verso": "Dichosa la nación cuyo Dios es el Señor, el pueblo que Él se eligió como heredad."
+        },
+        {
+          "numero": "13",
+          "verso": "El Señor mira desde los cielos, ve a todos los hijos de Adán."
+        },
+        {
+          "numero": "20",
+          "verso": "Nuestra alma espera en el Señor, Él es nuestro socorro y nuestro escudo;"
+        },
+        {
+          "numero": "21",
+          "verso": "en Él se alegra nuestro corazón, en su santo Nombre confiamos."
+        },
+        {
+          "numero": "22",
+          "verso": "Que tu misericordia, Señor, esté sobre nosotros, que hemos puesto en Ti nuestra esperanza."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Génesis 22:1-18",
+      "lecturaNombreNormalizado": "Gn22,1-18",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Después de estos sucesos, Dios puso a prueba a Abrahán. Y le llamó: —¡Abrahán!\nÉste respondió:\n—Aquí estoy."
+        },
+        {
+          "numero": "2",
+          "verso": "Entonces le dijo: —Toma a tu hijo, a tu único hijo, al que tú amas, a Isaac, y vete a la región de Moria. Allí lo ofrecerás en sacrificio, sobre un monte que yo te indicaré."
+        },
+        {
+          "numero": "3",
+          "verso": "Muy de mañana Abrahán se levantó, aparejó su asno, se llevó consigo a dos siervos y a su hijo Isaac, cortó la leña del sacrificio, se puso en camino y se dirigió al lugar que le había dicho Dios."
+        },
+        {
+          "numero": "4",
+          "verso": "Al tercer día, Abrahán alzó la vista y divisó el lugar a lo lejos."
+        },
+        {
+          "numero": "5",
+          "verso": "Entonces dijo Abrahán a sus siervos: —Quedaos aquí con el asno mientras el muchacho y yo vamos hasta allí para adorar a Dios; luego volveremos con vosotros."
+        },
+        {
+          "numero": "6",
+          "verso": "Tomó Abrahán la leña del sacrificio y se la cargó a su hijo Isaac, mientras él llevaba en la mano el fuego y el cuchillo; y se pusieron en marcha los dos juntos."
+        },
+        {
+          "numero": "7",
+          "verso": "Isaac dijo a su padre Abrahán: —¡Padre!\nÉl respondió:\n—Sí, hijo mío.\nY el muchacho preguntó:\n—Aquí está el fuego y la leña, pero ¿dónde está el cordero para el sacrificio?"
+        },
+        {
+          "numero": "8",
+          "verso": "Respondió Abrahán: —Dios proveerá el cordero para el sacrificio, hijo mío.\nCaminando juntos"
+        },
+        {
+          "numero": "9",
+          "verso": "llegaron al lugar que Dios le había dicho; construyó allí Abrahán el altar y colocó la leña; luego ató a su hijo Isaac y lo puso sobre el altar encima de la leña."
+        },
+        {
+          "numero": "10",
+          "verso": "Abrahán alargó la mano y empuñó el cuchillo para inmolar a su hijo."
+        },
+        {
+          "numero": "11",
+          "verso": "Pero entonces el ángel del Señor le llamó desde el cielo: —¡Abrahán, Abrahán!\nÉl contestó:\n—Aquí estoy."
+        },
+        {
+          "numero": "12",
+          "verso": "Y Dios le dijo: —No extiendas tu mano hacia el muchacho ni le hagas nada, pues ahora he comprobado que temes a Dios y no me has negado a tu hijo, a tu único hijo."
+        },
+        {
+          "numero": "13",
+          "verso": "Abrahán levantó la vista y vio detrás un carnero enredado en la maleza por los cuernos. Fue Abrahán, tomó el carnero y lo ofreció en sacrificio en vez de su hijo."
+        },
+        {
+          "numero": "14",
+          "verso": "Abrahán llamó a aquel lugar «El Señor provee», tal como se dice hoy: «en la montaña del Señor provee»."
+        },
+        {
+          "numero": "15",
+          "verso": "El ángel del Señor llamó por segunda vez a Abrahán desde el cielo"
+        },
+        {
+          "numero": "16",
+          "verso": "y le dijo: —Juro por mí mismo, oráculo del Señor, que por haber hecho una cosa así, y no haberme negado a tu hijo, a tu único hijo,"
+        },
+        {
+          "numero": "17",
+          "verso": "te colmaré de bendiciones y multiplicaré tu descendencia como las estrellas del cielo y como la arena de las playas; y tu descendencia se adueñará de las ciudades de sus enemigos."
+        },
+        {
+          "numero": "18",
+          "verso": "En tu descendencia serán bendecidos todos los pueblos de la tierra porque has obedecido mi voz."
+        },
+        {
+          "numero": "1",
+          "verso": "Después de estos sucesos, Dios puso a prueba a Abrahán. Y le llamó: —¡Abrahán!\nÉste respondió:\n—Aquí estoy."
+        },
+        {
+          "numero": "2",
+          "verso": "Entonces le dijo: —Toma a tu hijo, a tu único hijo, al que tú amas, a Isaac, y vete a la región de Moria. Allí lo ofrecerás en sacrificio, sobre un monte que yo te indicaré."
+        },
+        {
+          "numero": "9",
+          "verso": "llegaron al lugar que Dios le había dicho; construyó allí Abrahán el altar y colocó la leña; luego ató a su hijo Isaac y lo puso sobre el altar encima de la leña."
+        },
+        {
+          "numero": "10",
+          "verso": "Abrahán alargó la mano y empuñó el cuchillo para inmolar a su hijo."
+        },
+        {
+          "numero": "11",
+          "verso": "Pero entonces el ángel del Señor le llamó desde el cielo: —¡Abrahán, Abrahán!\nÉl contestó:\n—Aquí estoy."
+        },
+        {
+          "numero": "12",
+          "verso": "Y Dios le dijo: —No extiendas tu mano hacia el muchacho ni le hagas nada, pues ahora he comprobado que temes a Dios y no me has negado a tu hijo, a tu único hijo."
+        },
+        {
+          "numero": "13",
+          "verso": "Abrahán levantó la vista y vio detrás un carnero enredado en la maleza por los cuernos. Fue Abrahán, tomó el carnero y lo ofreció en sacrificio en vez de su hijo."
+        },
+        {
+          "numero": "15",
+          "verso": "El ángel del Señor llamó por segunda vez a Abrahán desde el cielo"
+        },
+        {
+          "numero": "16",
+          "verso": "y le dijo: —Juro por mí mismo, oráculo del Señor, que por haber hecho una cosa así, y no haberme negado a tu hijo, a tu único hijo,"
+        },
+        {
+          "numero": "17",
+          "verso": "te colmaré de bendiciones y multiplicaré tu descendencia como las estrellas del cielo y como la arena de las playas; y tu descendencia se adueñará de las ciudades de sus enemigos."
+        },
+        {
+          "numero": "18",
+          "verso": "En tu descendencia serán bendecidos todos los pueblos de la tierra porque has obedecido mi voz."
+        }
+      ]
+    },
+    {
+      "titulo": "Segundo Salmo",
+      "lecturaNombre": "Salmo 16:5, 8-11",
+      "lecturaNombreNormalizado": "Sal16,5,8-11",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "Señor, Tú eres el lote de mi heredad y de mi copa: Tú sostienes mi parte."
+        },
+        {
+          "numero": "8",
+          "verso": "Pongo ante mí al Señor sin cesar; con Él a mi derecha, no vacilo."
+        },
+        {
+          "numero": "9",
+          "verso": "Por eso se alegra mi corazón, se goza mi alma,\nhasta mi carne descansa en la esperanza."
+        },
+        {
+          "numero": "10",
+          "verso": "Porque no abandonarás mi alma en el sheol, ni dejarás a tu fiel ver la corrupción."
+        },
+        {
+          "numero": "11",
+          "verso": "Me enseñas la senda de la vida, saciedad de gozo en tu presencia,\ndicha perpetua a tu derecha."
+        }
+      ]
+    },
+    {
+      "titulo": "Tercera Lectura",
+      "lecturaNombre": "Éxodo 14:15--15:1",
+      "lecturaNombreNormalizado": "Ex14,15--15,1",
+      "versos": [
+        {
+          "numero": "15",
+          "verso": "El Señor dijo a Moisés: —¿Por qué clamas hacia mí? Di a los hijos de Israel que se pongan en camino."
+        },
+        {
+          "numero": "16",
+          "verso": "Y tú, alza tu bastón y extiende tu mano hacia el mar y divídelo para que los hijos de Israel pasen por medio del mar como por tierra seca."
+        },
+        {
+          "numero": "17",
+          "verso": "Yo, por mi parte, voy a endurecer el corazón de los egipcios para que entren tras ellos; así manifestaré mi gloria a costa del Faraón y de todo su ejército, de sus carros y de sus guerreros."
+        },
+        {
+          "numero": "18",
+          "verso": "Y sabrán los egipcios que yo soy el Señor, cuando yo muestre mi gloria a costa del Faraón, de sus carros y de sus guerreros."
+        },
+        {
+          "numero": "19",
+          "verso": "El ángel de Dios, que iba delante del campamento de Israel, se puso en marcha y se situó tras ellos. Se puso en marcha también la columna de nube que iba delante de ellos y se situó detrás,"
+        },
+        {
+          "numero": "20",
+          "verso": "interponiéndose entre el campamento de los egipcios y el campamento de Israel; la nube era tan oscura por un lado y tan luminosa por otro, que no pudieron acercarse unos a otros en toda la noche."
+        },
+        {
+          "numero": "21",
+          "verso": "Moisés extendió su mano sobre el mar, y el Señor, mediante un viento solano que sopló toda la noche, empujó el mar hasta que se secó, y se dividieron las aguas."
+        },
+        {
+          "numero": "22",
+          "verso": "Los hijos de Israel entraron por medio del mar como por lo seco y las aguas formaban como una muralla a derecha e izquierda."
+        },
+        {
+          "numero": "23",
+          "verso": "Los egipcios los persiguieron con todos los caballos del Faraón, los carros y los guerreros, entrando tras ellos hasta el medio del mar."
+        },
+        {
+          "numero": "24",
+          "verso": "Al romper el alba el Señor observó desde la columna de nube y fuego los campamentos de los egipcios y los desbarató."
+        },
+        {
+          "numero": "25",
+          "verso": "Hizo que se trabaran las ruedas de sus carros, de modo que avanzaran con dificultad. Entonces los egipcios se dijeron: —Huyamos de delante de Israel porque el Señor combate a su favor en contra de los egipcios."
+        },
+        {
+          "numero": "26",
+          "verso": "El Señor dijo a Moisés: —Extiende tu mano sobre el mar y las aguas se volverán sobre los egipcios, sobre sus carros y sus guerreros."
+        },
+        {
+          "numero": "27",
+          "verso": "Extendió Moisés su mano sobre el mar y éste volvió a su estado habitual al rayar el día. Los egipcios al huir, se encontraron con las aguas y así el Señor precipitó a los egipcios al medio del mar."
+        },
+        {
+          "numero": "28",
+          "verso": "Las aguas volvieron, y cubrieron los carros y los guerreros de todo el ejército del Faraón, que había entrado tras ellos en el mar. No escapó ni uno solo."
+        },
+        {
+          "numero": "29",
+          "verso": "Los hijos de Israel pasaron por medio del mar como por lo seco y las aguas formaban como una muralla a derecha e izquierda."
+        },
+        {
+          "numero": "30",
+          "verso": "Así el Señor salvó aquel día a Israel de la mano de los egipcios, e Israel pudo ver a los egipcios muertos a la orilla del mar."
+        },
+        {
+          "numero": "31",
+          "verso": "Israel vio la mano poderosa con la que el Señor trató a Egipto, y el pueblo temió al Señor y creyó en el Señor y en Moisés, su siervo."
+        },
+        {
+          "numero": "1",
+          "verso": "Entonces Moisés y los hijos de Israel entonaron este cántico al Señor. Y decían: —Quiero cantar al Señor, vencedor excelso:\ncaballos y caballeros al mar ha precipitado."
+        }
+      ]
+    },
+    {
+      "titulo": "Tercer Salmo",
+      "lecturaNombre": "Éxodo 15:1-6, 17-18",
+      "lecturaNombreNormalizado": "Ex15,1-6,17-18",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Entonces Moisés y los hijos de Israel entonaron este cántico al Señor. Y decían: —Quiero cantar al Señor, vencedor excelso:\ncaballos y caballeros al mar ha precipitado."
+        },
+        {
+          "numero": "2",
+          "verso": "El Señor es mi fuerza y mi vigor, Él me ha salvado.\nÉl es mi Dios, quiero alabarlo;\nel Dios de mi padre, quiero ensalzarlo."
+        },
+        {
+          "numero": "3",
+          "verso": "El Señor es un fuerte guerrero, su nombre es el Señor."
+        },
+        {
+          "numero": "4",
+          "verso": "Los carros del Faraón, todo su ejército, los ha precipitado en el mar;\nlos mejores guerreros\nbajo el Mar Rojo han sucumbido."
+        },
+        {
+          "numero": "5",
+          "verso": "Los ha sepultado el abismo, como piedras llegaron hasta el fondo."
+        },
+        {
+          "numero": "6",
+          "verso": "Tu diestra, Señor, reverbera en su poder; tu diestra, Señor, doblega al enemigo."
+        },
+        {
+          "numero": "17",
+          "verso": "Los llevarás y los plantarás en el monte de tu heredad, el lugar que tú, Señor, te has preparado como trono,\nen el Santuario que han fundado tus manos, Señor."
+        },
+        {
+          "numero": "18",
+          "verso": "El Señor reina por siempre jamás."
+        }
+      ]
+    },
+    {
+      "titulo": "Cuarta Lectura",
+      "lecturaNombre": "Isaías 54:5-14",
+      "lecturaNombreNormalizado": "Is54,5-14",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "Porque será esposo tuyo tu Hacedor, cuyo Nombre es el Señor de los ejércitos,\ny Redentor tuyo, el Santo de Israel,\nque se llama Dios de toda la tierra."
+        },
+        {
+          "numero": "6",
+          "verso": "Como a mujer abandonada y afligida de espíritu te ha llamado el Señor.\nLa esposa de la juventud ¿cómo va a ser repudiada?\n—dice tu Dios—."
+        },
+        {
+          "numero": "7",
+          "verso": "Por un breve instante te abandoné, pero con grandes ternuras te recogeré."
+        },
+        {
+          "numero": "8",
+          "verso": "En un arrebato de ira te oculté mi rostro un momento,\npero con amor eterno me he apiadado de ti,\ndice tu Redentor, el Señor."
+        },
+        {
+          "numero": "9",
+          "verso": "Esto es para Mí como en los días de Noé: como juré que las aguas de Noé no inundarían más la tierra,\nasí juro no enojarme contigo\nni amenazarte."
+        },
+        {
+          "numero": "10",
+          "verso": "Aunque se aparten los montes y vacilen las colinas,\nmi amor no se apartará de ti,\nni vacilará mi alianza de paz,\ndice el que se apiada de ti, el Señor."
+        },
+        {
+          "numero": "11",
+          "verso": "¡Pobrecilla, azotada por la tempestad y desconsolada! Mira que voy a asentar tus piedras en azabache\ny tus cimientos sobre zafiros."
+        },
+        {
+          "numero": "12",
+          "verso": "Te pondré almenas de rubí, tus puertas de cuarzo\ny todas tus murallas de piedras preciosas."
+        },
+        {
+          "numero": "13",
+          "verso": "Todos tus hijos serán discípulos del Señor, y será grande la paz de tus hijos."
+        },
+        {
+          "numero": "14",
+          "verso": "Estarás cimentada en la justicia, lejos de la opresión, que no habrás de temer,\ny del terror, que no se te acercará."
+        }
+      ]
+    },
+    {
+      "titulo": "Cuarto Salmo",
+      "lecturaNombre": "Salmo 30:2, 4-6, 11-13",
+      "lecturaNombreNormalizado": "Sal30,2,4-6,11-13",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Te ensalzaré, Señor, porque me has librado, no has dejado a mis enemigos alegrarse a mi costa."
+        },
+        {
+          "numero": "4",
+          "verso": "Señor, sacaste mi alma del sheol, me hiciste revivir cuando bajaba a la tumba."
+        },
+        {
+          "numero": "5",
+          "verso": "Entonad, fieles, salmos al Señor, alabad su santo Nombre,"
+        },
+        {
+          "numero": "6",
+          "verso": "porque su ira dura un instante, su bondad, toda la vida;\nal atardecer se hospeda el llanto,\nal amanecer, el júbilo."
+        },
+        {
+          "numero": "11",
+          "verso": "Escucha, Señor, ten piedad de mí. Señor, sé mi socorro."
+        },
+        {
+          "numero": "12",
+          "verso": "Has cambiado mi llanto en danza, has desatado mi saco y me has vestido de alegría."
+        },
+        {
+          "numero": "13",
+          "verso": "Por eso mi corazón te entona salmos sin cesar. Señor, Dios mío, te alabaré por siempre."
+        }
+      ]
+    },
+    {
+      "titulo": "Quinta Lectura",
+      "lecturaNombre": "Isaías 55:1-11",
+      "lecturaNombreNormalizado": "Is55,1-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Todos los sedientos, venid a las aguas! Y los que no tengáis dinero, ¡venid! Comprad y comed. Venid. Comprad, sin dinero\ny sin nada a cambio, vino y leche."
+        },
+        {
+          "numero": "2",
+          "verso": "¿Por qué gastáis dinero en lo que no es pan, y vuestros salarios en lo que no sacia?\nEscuchadme con atención y comeréis cosa buena,\ny os deleitaréis con manjares substanciosos."
+        },
+        {
+          "numero": "3",
+          "verso": "Prestad oído y venid a Mí. Escuchad y vivirá vuestra alma.\nSellaré con vosotros una alianza eterna,\nlas misericordias fieles prometidas a David."
+        },
+        {
+          "numero": "4",
+          "verso": "Mirad: lo he constituido testigo para los pueblos, jefe y maestro de las naciones."
+        },
+        {
+          "numero": "5",
+          "verso": "Llamarás a una nación que no conocías; naciones que no te conocían correrán hacia ti,\npor el Señor, tu Dios,\npor el Santo de Israel que te ha enaltecido."
+        },
+        {
+          "numero": "6",
+          "verso": "Buscad al Señor mientras se le puede encontrar. Invocadle mientras está cerca."
+        },
+        {
+          "numero": "7",
+          "verso": "Que el impío deje su camino, y el hombre inicuo sus pensamientos;\nque se convierta al Señor y se compadecerá de él,\na nuestro Dios, que es pródigo en perdonar."
+        },
+        {
+          "numero": "8",
+          "verso": "Porque mis pensamientos no son vuestros pensamientos, ni vuestros caminos, mis caminos —oráculo del Señor—."
+        },
+        {
+          "numero": "9",
+          "verso": "Tan elevados como son los cielos sobre la tierra, así son mis caminos sobre vuestros caminos\ny mis pensamientos sobre vuestros pensamientos."
+        },
+        {
+          "numero": "10",
+          "verso": "Como la lluvia y la nieve descienden de los cielos, y no vuelven allá,\nsino que riegan la tierra, la fecundan,\nla hacen germinar,\ny dan simiente al sembrador y pan a quien ha de comer,"
+        },
+        {
+          "numero": "11",
+          "verso": "así será la palabra que sale de mi boca: no volverá a mí de vacío,\nsino que hará lo que Yo quiero\ny realizará la misión que le haya confiado."
+        }
+      ]
+    },
+    {
+      "titulo": "Quinto Salmo",
+      "lecturaNombre": "Isaías 12:2-6",
+      "lecturaNombreNormalizado": "Is12,2-6",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Éste es el Dios de mi salvación: confío y no temo,\nporque el Señor es mi fuerza y mi canción,\ny Él me ha salvado»."
+        },
+        {
+          "numero": "3",
+          "verso": "Sacaréis aguas con gozo de las fuentes de la salvación;"
+        },
+        {
+          "numero": "4",
+          "verso": "y aquel día diréis: «Alabad al Señor, invocad su Nombre,\ncontad a los pueblos sus hazañas,\nrecordad que su Nombre es excelso."
+        },
+        {
+          "numero": "5",
+          "verso": "Cantad al Señor, porque ha hecho proezas ¡que sean conocidas en toda la tierra!"
+        },
+        {
+          "numero": "6",
+          "verso": "¡Exulta y grita de júbilo, tú que habitas en Sión, que es grande en medio de ti el Santo de Israel!»."
+        }
+      ]
+    },
+    {
+      "titulo": "Sexta Lectura",
+      "lecturaNombre": "Baruc 3:9-15, 32--4:4",
+      "lecturaNombreNormalizado": "Bar3,9-15,32--4,4",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "Escucha, Israel, los mandamientos de vida, prestad oído para aprender la prudencia."
+        },
+        {
+          "numero": "10",
+          "verso": "¿Por qué, Israel, por qué estás en tierra enemiga? Has envejecido en tierra extranjera,"
+        },
+        {
+          "numero": "11",
+          "verso": "te has contaminado con los muertos, eres contado con los que bajan al hades."
+        },
+        {
+          "numero": "12",
+          "verso": "¡Has abandonado la fuente de la sabiduría!"
+        },
+        {
+          "numero": "13",
+          "verso": "Si hubieras andado por el camino de Dios, habitarías para siempre en paz."
+        },
+        {
+          "numero": "14",
+          "verso": "Aprende dónde está la prudencia, dónde la fortaleza, dónde la sensatez,\npara conocer juntamente dónde están la longevidad y la vida,\ndónde la luz de los ojos y la paz."
+        },
+        {
+          "numero": "15",
+          "verso": "¿Quién encontró el lugar donde reside, quién entró donde están sus tesoros?"
+        },
+        {
+          "numero": "32",
+          "verso": "Pero Aquel que todo lo sabe, la conoce, y la encontró con su entendimiento;\nAquel que asentó la tierra para siempre\ny la llenó de bestias cuadrúpedas;"
+        },
+        {
+          "numero": "33",
+          "verso": "Aquel que envía la luz, y ésta viaja, la llama, y obedece con temblor."
+        },
+        {
+          "numero": "34",
+          "verso": "Las estrellas resplandecen en sus puestos y se alegran;"
+        },
+        {
+          "numero": "35",
+          "verso": "las llama y dicen: «Aquí estamos»; resplandecen con alegría para su Hacedor."
+        },
+        {
+          "numero": "36",
+          "verso": "Éste es nuestro Dios, no hay otro que pueda comparársele."
+        },
+        {
+          "numero": "37",
+          "verso": "Él encontró todos los caminos de la ciencia y la concedió a Jacob, su siervo,\na Israel, su amado."
+        },
+        {
+          "numero": "38",
+          "verso": "Luego, fue vista sobre la tierra y ha convivido entre los hombres."
+        },
+        {
+          "numero": "1",
+          "verso": "Ella es el libro de los mandamientos de Dios y la Ley que permanece para siempre. Todos los que la observen tendrán vida,\nlos que la abandonen morirán."
+        },
+        {
+          "numero": "2",
+          "verso": "Conviértete, Jacob, y aférrala, camina al resplandor de su luz."
+        },
+        {
+          "numero": "3",
+          "verso": "No des a otro tu gloria, ni tus privilegios a una nación extranjera."
+        },
+        {
+          "numero": "4",
+          "verso": "¡Dichosos somos nosotros, Israel, porque nos ha sido revelado lo que place a Dios!"
+        }
+      ]
+    },
+    {
+      "titulo": "Sexto Salmo",
+      "lecturaNombre": "Salmo 19:8-11",
+      "lecturaNombreNormalizado": "Sal19,8-11",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "La Ley del Señor es perfecta; reconforta el alma. El mandato del Señor es firme,\ninstruye al sencillo."
+        },
+        {
+          "numero": "9",
+          "verso": "Los preceptos del Señor son rectos, alegran el corazón.\nLos mandamientos del Señor son puros,\ndan luz a los ojos."
+        },
+        {
+          "numero": "10",
+          "verso": "El temor del Señor es limpio, dura por siempre.\nLos juicios del Señor son veraces,\nson enteramente justos,"
+        },
+        {
+          "numero": "11",
+          "verso": "más preciosos que el oro, que el oro más fino, más dulces que la miel que destila el panal."
+        }
+      ]
+    },
+    {
+      "titulo": "Séptima Lectura",
+      "lecturaNombre": "Ezequiel 36:16-28",
+      "lecturaNombreNormalizado": "Ez36,16-28",
+      "versos": [
+        {
+          "numero": "16",
+          "verso": "Me fue dirigida la palabra del Señor, diciendo:"
+        },
+        {
+          "numero": "17",
+          "verso": "—Hijo de hombre, cuando la casa de Israel habitaba sobre su tierra, la hicieron impura con su conducta y sus acciones. Su conducta era en mi presencia como la mancha de una mujer en menstruación."
+        },
+        {
+          "numero": "18",
+          "verso": "Entonces derramé mi cólera sobre ellos por la sangre que habían derramado sobre el país, por los ídolos que lo habían contaminado."
+        },
+        {
+          "numero": "19",
+          "verso": "Los dispersé entre las naciones y los esparcí entre los pueblos. Dicté sentencia contra ellos según su conducta y sus acciones."
+        },
+        {
+          "numero": "20",
+          "verso": "Llegaron a las naciones en las que entraron y profanaron mi santo Nombre, porque decían de ellos: «Éstos son el pueblo del Señor; han salido de su tierra»."
+        },
+        {
+          "numero": "21",
+          "verso": "Pero he tenido compasión por mi santo Nombre, que la casa de Israel profanaba entre las naciones a las que llegaron."
+        },
+        {
+          "numero": "22",
+          "verso": "»Por eso, di a la casa de Israel: «Esto dice el Señor Dios: “No hago esto por vosotros, casa de Israel, sino por mi santo Nombre, profanado entre las naciones a las que habéis llegado."
+        },
+        {
+          "numero": "23",
+          "verso": "Voy a santificar mi gran Nombre, que ha sido profanado entre las naciones, porque lo habéis profanado en medio de ellas. Y sabrán las naciones que Yo soy el Señor, oráculo del Señor Dios, cuando ante sus ojos haga resplandecer mi santidad en vosotros."
+        },
+        {
+          "numero": "24",
+          "verso": "Voy a tomaros de entre las naciones, voy a reuniros de entre los pueblos y os haré entrar en vuestra tierra."
+        },
+        {
+          "numero": "25",
+          "verso": "»Rociaré sobre vosotros agua pura y quedaréis purificados de todas vuestras impurezas. De todos vuestros ídolos voy a purificaros."
+        },
+        {
+          "numero": "26",
+          "verso": "Os daré un corazón nuevo y pondré en vuestro interior un espíritu nuevo. Arrancaré de vuestra carne el corazón de piedra y os daré un corazón de carne."
+        },
+        {
+          "numero": "27",
+          "verso": "Pondré mi espíritu en vuestro interior y haré que caminéis según mis preceptos, y guardaréis y cumpliréis mis normas."
+        },
+        {
+          "numero": "28",
+          "verso": "Habitaréis en la tierra que di a vuestros padres. Vosotros seréis mi pueblo y Yo seré vuestro Dios."
+        }
+      ]
+    },
+    {
+      "titulo": "Séptimo Salmo",
+      "lecturaNombre": "Salmo 42:3, 5; 43:3-4",
+      "lecturaNombreNormalizado": "Sal42,3,5;43,3-4",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Mi alma está sedienta de Dios, del Dios vivo. ¿Cuándo podré ir a ver el rostro de Dios?"
+        },
+        {
+          "numero": "5",
+          "verso": "Recordando estas cosas me lleno de nostalgia: ¡cómo marchaba en el cortejo\ny desfilaba hacia la Casa de Dios,\nentre clamores de júbilo y de alabanza,\nen medio de la multitud en fiesta!"
+        },
+        {
+          "numero": "3",
+          "verso": "Envía tu luz y tu verdad; que ellas me guíen y me conduzcan\na tu monte santo, a tus moradas;"
+        },
+        {
+          "numero": "4",
+          "verso": "Y me acercaré al altar de Dios, al Dios de mi alegría y de mi gozo,\ny te alabaré con la cítara,\n¡oh Dios, Dios mío!"
+        },
+        {
+          "numero": "2",
+          "verso": "Éste es el Dios de mi salvación: confío y no temo,\nporque el Señor es mi fuerza y mi canción,\ny Él me ha salvado»."
+        },
+        {
+          "numero": "3",
+          "verso": "Sacaréis aguas con gozo de las fuentes de la salvación;"
+        },
+        {
+          "numero": "4",
+          "verso": "y aquel día diréis: «Alabad al Señor, invocad su Nombre,\ncontad a los pueblos sus hazañas,\nrecordad que su Nombre es excelso."
+        },
+        {
+          "numero": "5",
+          "verso": "Cantad al Señor, porque ha hecho proezas ¡que sean conocidas en toda la tierra!"
+        },
+        {
+          "numero": "6",
+          "verso": "¡Exulta y grita de júbilo, tú que habitas en Sión, que es grande en medio de ti el Santo de Israel!»."
+        },
+        {
+          "numero": "12",
+          "verso": "Crea en mí, Dios mío, un corazón puro, y renueva en mi interior un espíritu firme."
+        },
+        {
+          "numero": "13",
+          "verso": "No me arrojes de tu presencia, ni me retires tu santo Espíritu."
+        },
+        {
+          "numero": "14",
+          "verso": "Devuélveme el gozo de tu salvación y afírmame con un espíritu noble."
+        },
+        {
+          "numero": "15",
+          "verso": "Enseñaré a los malvados tus caminos, y se convertirán a Ti los pecadores."
+        },
+        {
+          "numero": "18",
+          "verso": "No te complaces en los sacrificios, y si te ofreciera un holocausto, no te agradaría."
+        },
+        {
+          "numero": "19",
+          "verso": "El sacrificio grato a Dios es un espíritu contrito: un corazón contrito y humillado,\nDios mío, no lo desprecias."
+        }
+      ]
+    },
+    {
+      "titulo": "Octava Lectura",
+      "lecturaNombre": "Romanos 6:3-11",
+      "lecturaNombreNormalizado": "Rom6,3-11",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "¿No sabéis que cuantos hemos sido bautizados en Cristo Jesús hemos sido bautizados para unirnos a su muerte?"
+        },
+        {
+          "numero": "4",
+          "verso": "Pues fuimos sepultados juntamente con él mediante el bautismo para unirnos a su muerte, para que, así como Cristo fue resucitado de entre los muertos por la gloria del Padre, así también nosotros caminemos en una vida nueva."
+        },
+        {
+          "numero": "5",
+          "verso": "Porque si hemos sido injertados en él con una muerte como la suya, también lo seremos con una resurrección como la suya,"
+        },
+        {
+          "numero": "6",
+          "verso": "sabiendo esto: que nuestro hombre viejo fue crucificado con él, para que fuera destruido el cuerpo del pecado, a fin de que ya nunca más sirvamos al pecado."
+        },
+        {
+          "numero": "7",
+          "verso": "Quien muere queda libre del pecado."
+        },
+        {
+          "numero": "8",
+          "verso": "Y si hemos muerto con Cristo, creemos que también viviremos con él,"
+        },
+        {
+          "numero": "9",
+          "verso": "porque sabemos que Cristo, resucitado de entre los muertos, ya no muere más: la muerte ya no tiene dominio sobre él."
+        },
+        {
+          "numero": "10",
+          "verso": "Porque lo que murió, murió de una vez para siempre al pecado; pero lo que vive, vive para Dios."
+        },
+        {
+          "numero": "11",
+          "verso": "De la misma manera, también vosotros debéis consideraros muertos al pecado, pero vivos para Dios en Cristo Jesús."
+        }
+      ]
+    },
+    {
+      "titulo": "Octavo Salmo",
+      "lecturaNombre": "Salmo 118:1-2, 16-17, 22-23",
+      "lecturaNombreNormalizado": "Sal118,1-2,16-17,22-23",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "¡Aleluya! Dad gracias al Señor porque es bueno,\nporque es eterna su misericordia."
+        },
+        {
+          "numero": "2",
+          "verso": "Diga Israel: «El Señor es bueno. Eterna es su misericordia»."
+        },
+        {
+          "numero": "16",
+          "verso": "la diestra del Señor se ha alzado, la diestra del Señor hace proezas»."
+        },
+        {
+          "numero": "17",
+          "verso": "No he de morir, viviré para anunciar las obras del Señor."
+        },
+        {
+          "numero": "22",
+          "verso": "La piedra que desecharon los constructores ésta ha llegado a ser la piedra angular."
+        },
+        {
+          "numero": "23",
+          "verso": "Es el Señor quien ha hecho esto y es admirable a nuestros ojos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 24:1-12",
+      "lecturaNombreNormalizado": "Lc24,1-12",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El día siguiente al sábado, todavía muy de mañana, llegaron al sepulcro llevando los aromas que habían preparado;"
+        },
+        {
+          "numero": "2",
+          "verso": "y se encontraron con que la piedra había sido removida del sepulcro."
+        },
+        {
+          "numero": "3",
+          "verso": "Pero al entrar, no encontraron el cuerpo del Señor Jesús."
+        },
+        {
+          "numero": "4",
+          "verso": "Estaban desconcertadas por este motivo, cuando se les presentaron dos varones con vestidura refulgente."
+        },
+        {
+          "numero": "5",
+          "verso": "Como estaban llenas de temor y con los rostros inclinados hacia tierra, ellos les dijeron: —¿Por qué buscáis entre los muertos al que está vivo?"
+        },
+        {
+          "numero": "6",
+          "verso": "No está aquí, sino que ha resucitado; recordad cómo os habló cuando aún estaba en Galilea"
+        },
+        {
+          "numero": "7",
+          "verso": "diciendo que convenía que el Hijo del Hombre fuera entregado en manos de hombres pecadores, y fuera crucificado y resucitase al tercer día."
+        },
+        {
+          "numero": "8",
+          "verso": "Entonces ellas se acordaron de sus palabras."
+        },
+        {
+          "numero": "9",
+          "verso": "Y al regresar del sepulcro anunciaron todo esto a los once y a todos los demás."
+        },
+        {
+          "numero": "10",
+          "verso": "Eran María Magdalena, Juana y María la de Santiago; también las otras que estaban con ellas contaban estas cosas a los apóstoles."
+        },
+        {
+          "numero": "11",
+          "verso": "Y les pareció como un desvarío lo que contaban, y no les creían."
+        },
+        {
+          "numero": "12",
+          "verso": "Pedro, no obstante, se levantó y echó a correr hacia el sepulcro; y al inclinarse vio sólo los lienzos. Entonces se marchó a casa, admirándose de lo ocurrido."
+        }
+      ]
+    }
+  ]
+}

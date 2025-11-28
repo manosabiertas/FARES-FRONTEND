@@ -1,0 +1,107 @@
+{
+  "fecha": "2026-09-05",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Corintios 4:6-15",
+      "lecturaNombreNormalizado": "1Corintios4,6-15",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "Estas cosas, hermanos, las he aplicado a mí mismo y a Apolo por vuestra causa, para que en nosotros aprendáis aquello de «no ir más allá de lo escrito», para que nadie se enorgullezca a favor de uno en contra de otro."
+        },
+        {
+          "numero": "7",
+          "verso": "Porque ¿quién te enaltece? ¿Qué tienes que no hayas recibido? Y si lo recibiste, ¿por qué te glorías, como si no lo hubieras recibido?"
+        },
+        {
+          "numero": "8",
+          "verso": "Ya estáis satisfechos, ya os habéis enriquecido, sin nosotros habéis llegado a reinar. ¡Ojalá reinaseis, para que también nosotros reináramos con vosotros!"
+        },
+        {
+          "numero": "9",
+          "verso": "Porque pienso que Dios, a nosotros los apóstoles, nos ha puesto los últimos, como condenados a muerte, pues nos hemos convertido en espectáculo para el mundo, para los ángeles y para los hombres."
+        },
+        {
+          "numero": "10",
+          "verso": "Nosotros, necios por Cristo; vosotros, prudentes en Cristo; nosotros débiles, vosotros fuertes; vosotros honrados, nosotros despreciados."
+        },
+        {
+          "numero": "11",
+          "verso": "Hasta el momento presente pasamos hambre, sed, desnudez, somos abofeteados, andamos errantes,"
+        },
+        {
+          "numero": "12",
+          "verso": "y nos esforzamos trabajando con nuestras propias manos; nos maldicen y bendecimos, nos persiguen y lo soportamos,"
+        },
+        {
+          "numero": "13",
+          "verso": "nos ultrajan y respondemos con bondad. Hemos venido a ser hasta ahora como la basura del mundo, el desecho de todos."
+        },
+        {
+          "numero": "14",
+          "verso": "No os escribo esto para avergonzaros, sino para amonestaros como a hijos míos queridísimos."
+        },
+        {
+          "numero": "15",
+          "verso": "Pues aunque tengáis diez mil pedagogos en Cristo, no tenéis muchos padres, porque yo os engendré en Cristo Jesús por medio del Evangelio."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 145:17-21",
+      "lecturaNombreNormalizado": "Sal145,17-21",
+      "versos": [
+        {
+          "numero": "17",
+          "verso": "(Sade) El Señor es justo en todos sus caminos, misericordioso en todas sus acciones."
+        },
+        {
+          "numero": "18",
+          "verso": "(Qof) El Señor está cerca de los que le invocan, de cuantos le invocan de verdad."
+        },
+        {
+          "numero": "19",
+          "verso": "(Resh) Cumple el deseo de quienes le temen, escucha sus gritos y los salva."
+        },
+        {
+          "numero": "20",
+          "verso": "(Shin) El Señor guarda a todos los que le aman, pero destruye a los impíos."
+        },
+        {
+          "numero": "21",
+          "verso": "(Tav) Pronuncie mi boca la alabanza del Señor. Toda carne bendiga su Nombre Santo\npor siempre sin fin."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 6:1-5",
+      "lecturaNombreNormalizado": "Lc6,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Un sábado pasaba él por entre unos sembrados, y sus discípulos arrancaban espigas, las desgranaban con las manos y se las comían."
+        },
+        {
+          "numero": "2",
+          "verso": "Algunos fariseos les dijeron: —¿Por qué hacéis en sábado lo que no es lícito?"
+        },
+        {
+          "numero": "3",
+          "verso": "Y Jesús respondiéndoles dijo: —¿No habéis leído lo que hizo David, cuando tuvieron hambre él y los que le acompañaban?"
+        },
+        {
+          "numero": "4",
+          "verso": "¿Cómo entró en la Casa de Dios, tomó los panes de la proposición y comió y dio a los que le acompañaban, a pesar de que sólo a los sacerdotes les es lícito comerlos?"
+        },
+        {
+          "numero": "5",
+          "verso": "Y les decía: —El Hijo del Hombre es señor del sábado."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "fecha": "2025-03-17",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Daniel 9:4-10",
+      "lecturaNombreNormalizado": "Dn9,4-10",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "Rogué al Señor, mi Dios, y confesé ante Él: —¡Ay, mi Señor, Dios grande y terrible, que guarda la alianza y la misericordia con los que le aman y cumplen sus mandamientos!"
+        },
+        {
+          "numero": "5",
+          "verso": "Hemos pecado, hemos cometido iniquidades y hemos delinquido, nos hemos rebelado apartándonos de tus mandatos y preceptos."
+        },
+        {
+          "numero": "6",
+          "verso": "No escuchamos a tus siervos, los profetas, que hablaban en tu Nombre a nuestros reyes, a nuestros príncipes, a nuestros padres y a todo el pueblo llano."
+        },
+        {
+          "numero": "7",
+          "verso": "Tuya, mi Señor, es la justicia; nuestra, la vergüenza en el rostro, tal como sucede hoy a los hombres de Judá, a los habitantes de Jerusalén y a todo Israel, a los de cerca y a los de lejos, en todos los países por donde los dispersaste a causa de los delitos que cometieron contra Ti."
+        },
+        {
+          "numero": "8",
+          "verso": "Señor, la vergüenza en el rostro es nuestra, de nuestros reyes, príncipes y padres, porque hemos pecado contra Ti."
+        },
+        {
+          "numero": "9",
+          "verso": "»Pero, mi Señor, nuestro Dios, es compasivo y perdona, porque nos hemos rebelado contra Él."
+        },
+        {
+          "numero": "10",
+          "verso": "No obedecimos la voz del Señor, nuestro Dios, siguiendo las normas que nos daba por medio de sus siervos, los profetas."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 79:8-9, 11, 13",
+      "lecturaNombreNormalizado": "Sal79,8-9,11,13",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "No nos recuerdes nuestras culpas antiguas, que pronto nos preceda tu compasión,\npues estamos en miseria extrema."
+        },
+        {
+          "numero": "9",
+          "verso": "Socórrenos, oh Dios, Salvador nuestro, por la gloria de tu Nombre;\nsálvanos, borra nuestros pecados,\npor amor de tu Nombre."
+        },
+        {
+          "numero": "11",
+          "verso": "Llegue a tu presencia el gemido del cautivo. Conforme a la grandeza de tu brazo,\nlibra a los destinados a la muerte."
+        },
+        {
+          "numero": "13",
+          "verso": "Nosotros, tu pueblo, ovejas de tu rebaño, te daremos gracias por siempre,\ny proclamaremos tu alabanza\nde generación en generación."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 6:36-38",
+      "lecturaNombreNormalizado": "Lc6,36-38",
+      "versos": [
+        {
+          "numero": "36",
+          "verso": "Sed misericordiosos como vuestro Padre es misericordioso."
+        },
+        {
+          "numero": "37",
+          "verso": "»No juzguéis y no seréis juzgados; no condenéis y no seréis condenados. Perdonad y seréis perdonados;"
+        },
+        {
+          "numero": "38",
+          "verso": "dad y se os dará; echarán en vuestro regazo una buena medida, apretada, colmada, rebosante: porque con la misma medida con que midáis se os medirá."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "fecha": "2026-10-11",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 25:6-10",
+      "lecturaNombreNormalizado": "Is25,6-10",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "El Señor de los ejércitos ofrecerá a todos los pueblos, en este monte,\nun banquete de sabrosos manjares,\nun banquete de vinos añejos,\nmanjares suculentos,\ny vinos exquisitos."
+        },
+        {
+          "numero": "7",
+          "verso": "Y eliminará en este monte el velo que cubre el rostro de todos los pueblos,\ny el manto que recubre todas las naciones."
+        },
+        {
+          "numero": "8",
+          "verso": "Eliminará para siempre la muerte. El Señor Dios enjugará las lágrimas de todos los rostros,\ny apartará el oprobio de su pueblo en toda la tierra,\nporque ha hablado el Señor."
+        },
+        {
+          "numero": "9",
+          "verso": "Aquel día se dirá: «Aquí está nuestro Dios. En Él esperábamos para que nos salvara;\nes el Señor, en quien esperábamos:\nexultemos y gocémonos de su salvación»."
+        },
+        {
+          "numero": "10",
+          "verso": "Porque la mano del Señor descansará en este monte. Pero Moab será pisado allá donde está,\ncomo se pisa la paja en el estercolero."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 23:1-6",
+      "lecturaNombreNormalizado": "Sal23,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. De David. El Señor es mi pastor, nada me falta."
+        },
+        {
+          "numero": "2",
+          "verso": "En verdes prados me hace reposar; hacia aguas tranquilas me guía;"
+        },
+        {
+          "numero": "3",
+          "verso": "reconforta mi alma, me conduce por sendas rectas\npor honor de su Nombre."
+        },
+        {
+          "numero": "4",
+          "verso": "Aunque camine por valles oscuros, no temo ningún mal, porque Tú estás conmigo;\ntu vara y tu cayado me sosiegan."
+        },
+        {
+          "numero": "5",
+          "verso": "Preparas una mesa para mí frente a mis adversarios.\nUnges con óleo mi cabeza,\nmi copa rebosa."
+        },
+        {
+          "numero": "6",
+          "verso": "Tu bondad y misericordia me acompañan todos los días de mi vida;\ny habitaré en la Casa del Señor\npor dilatados días."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Filipenses 4:12-14, 19-20",
+      "lecturaNombreNormalizado": "Flp4,12-14,19-20",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "he aprendido a vivir en la pobreza, he aprendido a vivir en la abundancia, estoy acostumbrado a todo en todo lugar, a la hartura y a la escasez, a la riqueza y a la pobreza."
+        },
+        {
+          "numero": "13",
+          "verso": "Todo lo puedo en Aquel que me conforta."
+        },
+        {
+          "numero": "14",
+          "verso": "No obstante, habéis hecho bien al compartir mi tribulación."
+        },
+        {
+          "numero": "19",
+          "verso": "Mi Dios colmará todas vuestras necesidades, generosamente según su riqueza, con la gloria por Cristo Jesús."
+        },
+        {
+          "numero": "20",
+          "verso": "A Dios y Padre nuestro la gloria por los siglos de los siglos. Amén."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 22:1-14",
+      "lecturaNombreNormalizado": "Mt22,1-14",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Jesús les habló de nuevo con parábolas y dijo:"
+        },
+        {
+          "numero": "2",
+          "verso": "—El Reino de los Cielos es como un rey que celebró las bodas de su hijo,"
+        },
+        {
+          "numero": "3",
+          "verso": "y envió a sus siervos a llamar a los invitados a las bodas; pero éstos no querían acudir."
+        },
+        {
+          "numero": "4",
+          "verso": "Nuevamente envió a otros siervos diciéndoles: «Decid a los invitados: mirad que tengo preparado ya mi banquete, se ha hecho la matanza de mis terneros y mis reses cebadas, y todo está a punto; venid a las bodas»."
+        },
+        {
+          "numero": "5",
+          "verso": "Pero ellos, sin hacer caso, se marcharon: quien a su campo, quien a su negocio."
+        },
+        {
+          "numero": "6",
+          "verso": "Los demás echaron mano a los siervos, los maltrataron y los mataron."
+        },
+        {
+          "numero": "7",
+          "verso": "El rey se encolerizó, y envió a sus tropas a acabar con aquellos homicidas y prendió fuego a su ciudad."
+        },
+        {
+          "numero": "8",
+          "verso": "Luego les dijo a sus siervos: «Las bodas están preparadas pero los invitados no eran dignos."
+        },
+        {
+          "numero": "9",
+          "verso": "Así que marchad a los cruces de los caminos y llamad a las bodas a cuantos encontréis»."
+        },
+        {
+          "numero": "10",
+          "verso": "Los siervos salieron a los caminos y reunieron a todos los que encontraron, malos y buenos; y se llenó de comensales la sala de bodas."
+        },
+        {
+          "numero": "11",
+          "verso": "Entró el rey para ver a los comensales, y se fijó en un hombre que no vestía traje de boda;"
+        },
+        {
+          "numero": "12",
+          "verso": "y le dijo: «Amigo, ¿cómo has entrado aquí sin llevar traje de boda?» Pero él enmudeció."
+        },
+        {
+          "numero": "13",
+          "verso": "Entonces el rey les dijo a los servidores: «Atadlo de pies y manos y echadlo a las tinieblas de afuera; allí habrá llanto y rechinar de dientes»."
+        },
+        {
+          "numero": "14",
+          "verso": "Porque muchos son los llamados, pero pocos los elegidos."
+        },
+        {
+          "numero": "1",
+          "verso": "Jesús les habló de nuevo con parábolas y dijo:"
+        },
+        {
+          "numero": "2",
+          "verso": "—El Reino de los Cielos es como un rey que celebró las bodas de su hijo,"
+        },
+        {
+          "numero": "3",
+          "verso": "y envió a sus siervos a llamar a los invitados a las bodas; pero éstos no querían acudir."
+        },
+        {
+          "numero": "4",
+          "verso": "Nuevamente envió a otros siervos diciéndoles: «Decid a los invitados: mirad que tengo preparado ya mi banquete, se ha hecho la matanza de mis terneros y mis reses cebadas, y todo está a punto; venid a las bodas»."
+        },
+        {
+          "numero": "5",
+          "verso": "Pero ellos, sin hacer caso, se marcharon: quien a su campo, quien a su negocio."
+        },
+        {
+          "numero": "6",
+          "verso": "Los demás echaron mano a los siervos, los maltrataron y los mataron."
+        },
+        {
+          "numero": "7",
+          "verso": "El rey se encolerizó, y envió a sus tropas a acabar con aquellos homicidas y prendió fuego a su ciudad."
+        },
+        {
+          "numero": "8",
+          "verso": "Luego les dijo a sus siervos: «Las bodas están preparadas pero los invitados no eran dignos."
+        },
+        {
+          "numero": "9",
+          "verso": "Así que marchad a los cruces de los caminos y llamad a las bodas a cuantos encontréis»."
+        },
+        {
+          "numero": "10",
+          "verso": "Los siervos salieron a los caminos y reunieron a todos los que encontraron, malos y buenos; y se llenó de comensales la sala de bodas."
+        }
+      ]
+    }
+  ]
+}

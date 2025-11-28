@@ -1,0 +1,123 @@
+{
+  "fecha": "2026-04-28",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hechos 11:19-26",
+      "lecturaNombreNormalizado": "Hch11,19-26",
+      "versos": [
+        {
+          "numero": "19",
+          "verso": "Los que se habían dispersado por la tribulación surgida por lo de Esteban llegaron hasta Fenicia, Chipre y Antioquía, predicando la palabra sólo a los judíos."
+        },
+        {
+          "numero": "20",
+          "verso": "Entre ellos había algunos chipriotas y cirenenses, que, cuando entraron en Antioquía, hablaban también a los griegos, anunciándoles el Evangelio del Señor Jesús."
+        },
+        {
+          "numero": "21",
+          "verso": "La mano del Señor estaba con ellos y un gran número creyó y se convirtió al Señor."
+        },
+        {
+          "numero": "22",
+          "verso": "Llegó esta noticia a oídos de la iglesia que había en Jerusalén, y enviaron a Bernabé a Antioquía."
+        },
+        {
+          "numero": "23",
+          "verso": "Cuando llegó y vio la gracia de Dios se alegró, y a todos les exhortaba a permanecer en el Señor con un corazón firme,"
+        },
+        {
+          "numero": "24",
+          "verso": "porque era un hombre bueno y lleno del Espíritu Santo y de fe. Y una gran muchedumbre se adhirió al Señor."
+        },
+        {
+          "numero": "25",
+          "verso": "Marchó Bernabé a Tarso para buscar a Saulo,"
+        },
+        {
+          "numero": "26",
+          "verso": "lo encontró y lo condujo a Antioquía. Estuvieron juntos en aquella iglesia un año entero y adoctrinaron a una gran muchedumbre. Fue en Antioquía donde los discípulos recibieron por primera vez el nombre de cristianos."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 87:1-7",
+      "lecturaNombreNormalizado": "Sal87,1-7",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De los hijos de Coré. Salmo. Cántico. En los montes santos están sus cimientos."
+        },
+        {
+          "numero": "2",
+          "verso": "El Señor ama las puertas de Sión más que todas las moradas de Jacob."
+        },
+        {
+          "numero": "3",
+          "verso": "¡Grandezas se dicen de ti, ciudad de Dios!"
+        },
+        {
+          "numero": "4",
+          "verso": "Contaré a Rahab y Babilonia entre los que me reconocen.\nFilistea, Tiro y Etiopía\nhan nacido allí."
+        },
+        {
+          "numero": "5",
+          "verso": "Y de Sión se dirá: «Éste hombre y aquél han nacido en ella».\nEl propio Altísimo la erigió."
+        },
+        {
+          "numero": "6",
+          "verso": "El Señor escribirá en el registro de los pueblos: «Éste ha nacido allí»."
+        },
+        {
+          "numero": "7",
+          "verso": "Cantores y músicos entonarán: «En ti están todas mis fuentes»."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 10:22-30",
+      "lecturaNombreNormalizado": "Jn10,22-30",
+      "versos": [
+        {
+          "numero": "22",
+          "verso": "Se celebraba por aquel tiempo en Jerusalén la fiesta de la Dedicación. Era invierno."
+        },
+        {
+          "numero": "23",
+          "verso": "Paseaba Jesús por el Templo, en el pórtico de Salomón."
+        },
+        {
+          "numero": "24",
+          "verso": "Entonces le rodearon los judíos y comenzaron a decirle: —¿Hasta cuándo nos vas a tener en vilo? Si tú eres el Cristo, dínoslo claramente."
+        },
+        {
+          "numero": "25",
+          "verso": "Les respondió Jesús: —Os lo he dicho y no lo creéis; las obras que hago en nombre de mi Padre son las que dan testimonio de mí."
+        },
+        {
+          "numero": "26",
+          "verso": "Pero vosotros no creéis porque no sois de mis ovejas."
+        },
+        {
+          "numero": "27",
+          "verso": "Mis ovejas escuchan mi voz, yo las conozco y me siguen."
+        },
+        {
+          "numero": "28",
+          "verso": "Yo les doy vida eterna; no perecerán jamás y nadie las arrebatará de mi mano."
+        },
+        {
+          "numero": "29",
+          "verso": "Mi Padre, que me las dio, es mayor que todos; y nadie puede arrebatarlas de la mano del Padre."
+        },
+        {
+          "numero": "30",
+          "verso": "Yo y el Padre somos uno."
+        }
+      ]
+    }
+  ]
+}

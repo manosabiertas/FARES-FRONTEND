@@ -1,0 +1,119 @@
+{
+  "fecha": "2025-03-14",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Ezequiel 18:21-28",
+      "lecturaNombreNormalizado": "Ez18,21-28",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "»Pero si el impío se convierte de todos los pecados que cometió, guarda todos mis preceptos y obra justicia y derecho, ciertamente vivirá, no morirá."
+        },
+        {
+          "numero": "22",
+          "verso": "No le será recordado ninguno de los delitos que cometió. Vivirá por la justicia que ha practicado."
+        },
+        {
+          "numero": "23",
+          "verso": "¿Acaso me agrada la muerte del impío, oráculo del Señor Dios, y no que se convierta de sus caminos y viva?"
+        },
+        {
+          "numero": "24",
+          "verso": "»Pero si el justo se aparta de su justicia y comete la iniquidad según las abominaciones que suele cometer el impío, ¿podrá vivir? Las obras justas que practicó no le serán recordadas. Por las rebeldías en que haya incurrido y por el pecado que haya cometido, morirá."
+        },
+        {
+          "numero": "25",
+          "verso": "Y decís: “No son rectos los caminos del Señor”. Escucha, casa de Israel: ¿no son rectos mis caminos, o más bien, vuestros caminos son malos?"
+        },
+        {
+          "numero": "26",
+          "verso": "Si el justo se aparta de su justicia y comete la iniquidad, morirá. Por la injusticia que haya cometido, morirá."
+        },
+        {
+          "numero": "27",
+          "verso": "Y si el impío se aparta de la impiedad que había obrado y hace justicia y derecho, él mismo se dará la vida."
+        },
+        {
+          "numero": "28",
+          "verso": "Si se arrepiente y se aparta de todos los delitos que había cometido, ciertamente, vivirá, no morirá."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 130:1-8",
+      "lecturaNombreNormalizado": "Sal130,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. Desde lo más profundo, Te invoco, Señor."
+        },
+        {
+          "numero": "2",
+          "verso": "Señor, escucha mi clamor; estén atentos tus oídos a la voz de mi súplica."
+        },
+        {
+          "numero": "3",
+          "verso": "Si llevas cuenta de las culpas, Señor, Señor mío, ¿quién podrá quedar en pie?"
+        },
+        {
+          "numero": "4",
+          "verso": "Pero en Ti está el perdón, y así mantenemos tu temor."
+        },
+        {
+          "numero": "5",
+          "verso": "Espero en Ti, Señor. Mi alma espera en su palabra;"
+        },
+        {
+          "numero": "6",
+          "verso": "mi alma espera en el Señor más que los centinelas la aurora."
+        },
+        {
+          "numero": "7",
+          "verso": "Los centinelas esperan la aurora, pero tú, Israel, espera en el Señor;\npues en el Señor está la misericordia,\nen Él, la redención abundante."
+        },
+        {
+          "numero": "8",
+          "verso": "Él redimirá a Israel de todas sus culpas."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 5:20-26",
+      "lecturaNombreNormalizado": "Mt5,20-26",
+      "versos": [
+        {
+          "numero": "20",
+          "verso": "Os digo, pues, que si vuestra justicia no es mayor que la de los escribas y fariseos, no entraréis en el Reino de los Cielos."
+        },
+        {
+          "numero": "21",
+          "verso": "»Habéis oído que se dijo a los antiguos: No matarás, y el que mate será reo de juicio."
+        },
+        {
+          "numero": "22",
+          "verso": "Pero yo os digo: todo el que se llene de ira contra su hermano será reo de juicio; y el que insulte a su hermano será reo ante el Sanedrín; y el que le maldiga será reo del fuego del infierno."
+        },
+        {
+          "numero": "23",
+          "verso": "Por lo tanto, si al llevar tu ofrenda al altar recuerdas que tu hermano tiene algo contra ti,"
+        },
+        {
+          "numero": "24",
+          "verso": "deja allí tu ofrenda delante del altar, vete primero a reconciliarte con tu hermano, y vuelve después para presentar tu ofrenda."
+        },
+        {
+          "numero": "25",
+          "verso": "Ponte de acuerdo cuanto antes con tu adversario mientras vas de camino con él; no sea que tu adversario te entregue al juez y el juez al alguacil y te metan en la cárcel."
+        },
+        {
+          "numero": "26",
+          "verso": "Te aseguro que no saldrás de allí hasta que restituyas la última moneda."
+        }
+      ]
+    }
+  ]
+}

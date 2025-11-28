@@ -1,0 +1,139 @@
+{
+  "fecha": "2025-05-02",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hechos 5:34-42",
+      "lecturaNombreNormalizado": "Hch5,34-42",
+      "versos": [
+        {
+          "numero": "34",
+          "verso": "Pero un fariseo llamado Gamaliel, maestro de la Ley y estimado por todo el pueblo, se levantó en el Sanedrín y mandó hacer salir un momento a aquellos hombres."
+        },
+        {
+          "numero": "35",
+          "verso": "Y les dijo: —Israelitas, tened cuidado de lo que vais a hacer con estos hombres."
+        },
+        {
+          "numero": "36",
+          "verso": "Porque hace poco se levantó Teudas, que decía ser alguien, y se le unieron unos cuatrocientos hombres; lo mataron y todos sus seguidores se disgregaron y quedaron en nada."
+        },
+        {
+          "numero": "37",
+          "verso": "Después de él se levantó Judas el Galileo en los días del empadronamiento, y arrastró al pueblo tras de sí; murió también y todos sus seguidores se dispersaron."
+        },
+        {
+          "numero": "38",
+          "verso": "Así pues, os digo ahora: desentendeos de estos hombres y dejadlos, porque si este designio o esta obra procede de hombres se disolverá;"
+        },
+        {
+          "numero": "39",
+          "verso": "pero si procede de Dios no podréis acabar con ellos; no sea que os vayáis a encontrar combatiendo contra Dios. Ellos se mostraron de acuerdo con él."
+        },
+        {
+          "numero": "40",
+          "verso": "Entonces llamaron a los apóstoles, los azotaron, les ordenaron no hablar en el nombre de Jesús y los soltaron."
+        },
+        {
+          "numero": "41",
+          "verso": "Ellos salían gozosos de la presencia del Sanedrín, porque habían sido dignos de ser ultrajados a causa del Nombre."
+        },
+        {
+          "numero": "42",
+          "verso": "Todos los días, en el Templo y en las casas, no cesaban de enseñar y anunciar el Evangelio de Cristo Jesús."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 27:1, 4, 13-14",
+      "lecturaNombreNormalizado": "Sal27,1,4,13-14",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. El Señor es mi luz y mi salvación:\n¿a quién temeré?\nEl Señor es el refugio de mi vida:\n¿de quién tendré miedo?"
+        },
+        {
+          "numero": "4",
+          "verso": "Una cosa pido al Señor, ésta sólo busco:\nhabitar en la Casa del Señor\ntodos los días de mi vida,\npara gozar de las delicias del Señor\ny contemplar su Templo."
+        },
+        {
+          "numero": "13",
+          "verso": "Seguro estoy de ver la bondad del Señor en la tierra de los vivos."
+        },
+        {
+          "numero": "14",
+          "verso": "Espera en el Señor, sé recio, que se reanime tu corazón.\n¡Espera en el Señor!"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 6:1-15",
+      "lecturaNombreNormalizado": "Jn6,1-15",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Después de esto partió Jesús a la otra orilla del mar de Galilea, el de Tiberíades."
+        },
+        {
+          "numero": "2",
+          "verso": "Le seguía una gran muchedumbre porque veían los signos que hacía con los enfermos."
+        },
+        {
+          "numero": "3",
+          "verso": "Jesús subió al monte y se sentó allí con sus discípulos."
+        },
+        {
+          "numero": "4",
+          "verso": "Pronto iba a ser la Pascua, la fiesta de los judíos."
+        },
+        {
+          "numero": "5",
+          "verso": "Jesús, al levantar la mirada y ver que venía hacia él una gran muchedumbre, le dijo a Felipe: —¿Dónde vamos a comprar pan para que coman éstos?"
+        },
+        {
+          "numero": "6",
+          "verso": "—lo decía para probarle, pues él sabía lo que iba a hacer."
+        },
+        {
+          "numero": "7",
+          "verso": "Felipe le respondió: —Doscientos denarios de pan no bastan ni para que cada uno coma un poco."
+        },
+        {
+          "numero": "8",
+          "verso": "Uno de sus discípulos, Andrés, el hermano de Simón Pedro, le dijo:"
+        },
+        {
+          "numero": "9",
+          "verso": "—Aquí hay un muchacho que tiene cinco panes de cebada y dos peces; pero, ¿qué es esto para tantos?"
+        },
+        {
+          "numero": "10",
+          "verso": "Jesús dijo: —Mandad a la gente que se siente —había en aquel lugar hierba abundante.\nY se sentaron un total de unos cinco mil hombres."
+        },
+        {
+          "numero": "11",
+          "verso": "Jesús tomó los panes y, después de dar gracias, los repartió a los que estaban sentados, e igualmente les dio cuantos peces quisieron."
+        },
+        {
+          "numero": "12",
+          "verso": "Cuando quedaron saciados, les dijo a sus discípulos: —Recoged los trozos que han sobrado para que no se pierda nada."
+        },
+        {
+          "numero": "13",
+          "verso": "Y los recogieron, y llenaron doce cestos con los trozos de los cinco panes de cebada que sobraron a los que habían comido."
+        },
+        {
+          "numero": "14",
+          "verso": "Aquellos hombres, viendo el signo que Jesús había hecho, decían: —Éste es verdaderamente el Profeta que viene al mundo."
+        },
+        {
+          "numero": "15",
+          "verso": "Jesús, conociendo que estaban dispuestos a llevárselo para hacerle rey, se retiró otra vez al monte él solo."
+        }
+      ]
+    }
+  ]
+}

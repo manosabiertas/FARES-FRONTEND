@@ -1,0 +1,162 @@
+{
+  "fecha": "2026-09-20",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 55:6-9",
+      "lecturaNombreNormalizado": "Is55,6-9",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "Buscad al Señor mientras se le puede encontrar. Invocadle mientras está cerca."
+        },
+        {
+          "numero": "7",
+          "verso": "Que el impío deje su camino, y el hombre inicuo sus pensamientos;\nque se convierta al Señor y se compadecerá de él,\na nuestro Dios, que es pródigo en perdonar."
+        },
+        {
+          "numero": "8",
+          "verso": "Porque mis pensamientos no son vuestros pensamientos, ni vuestros caminos, mis caminos —oráculo del Señor—."
+        },
+        {
+          "numero": "9",
+          "verso": "Tan elevados como son los cielos sobre la tierra, así son mis caminos sobre vuestros caminos\ny mis pensamientos sobre vuestros pensamientos."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 145:2-3, 8-9, 17-18",
+      "lecturaNombreNormalizado": "Sal145,2-3,8-9,17-18",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "(Bet) Cada día te bendeciré y alabaré tu Nombre por siempre sin fin."
+        },
+        {
+          "numero": "3",
+          "verso": "(Guímel) Grande es el Señor y digno de toda alabanza, su grandeza es insondable."
+        },
+        {
+          "numero": "8",
+          "verso": "(Het) El Señor es clemente y compasivo, lento a la ira y rico en misericordia."
+        },
+        {
+          "numero": "9",
+          "verso": "(Tet) El Señor es bueno con todos y su misericordia se extiende a todas sus obras."
+        },
+        {
+          "numero": "17",
+          "verso": "(Sade) El Señor es justo en todos sus caminos, misericordioso en todas sus acciones."
+        },
+        {
+          "numero": "18",
+          "verso": "(Qof) El Señor está cerca de los que le invocan, de cuantos le invocan de verdad."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Filipenses 1:20-24, 27",
+      "lecturaNombreNormalizado": "Flp1,20-24,27",
+      "versos": [
+        {
+          "numero": "20",
+          "verso": "Así es mi expectación y esperanza, de que en nada seré defraudado, sino que con toda seguridad, ahora como siempre, Cristo será glorificado en mi cuerpo, tanto en mi vida como en mi muerte."
+        },
+        {
+          "numero": "21",
+          "verso": "Porque para mí, el vivir es Cristo, y el morir una ganancia."
+        },
+        {
+          "numero": "22",
+          "verso": "Pero si vivir en la carne me supone trabajar con fruto, entonces no sé qué escoger."
+        },
+        {
+          "numero": "23",
+          "verso": "Me siento apremiado por los dos extremos: el deseo que tengo de morir para estar con Cristo, lo cual es muchísimo mejor,"
+        },
+        {
+          "numero": "24",
+          "verso": "o permanecer en la carne, que es más necesario para vosotros."
+        },
+        {
+          "numero": "27",
+          "verso": "Sólo importa una cosa: que llevéis una vida digna del Evangelio de Cristo, para que, tanto si voy a veros como si estoy ausente, sepa que estáis firmes en un solo Espíritu, luchando unánimes por la fe del Evangelio,"
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 20:1-16",
+      "lecturaNombreNormalizado": "Mt20,1-16",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "»El Reino de los Cielos es como un hombre, dueño de una propiedad, que salió al amanecer a contratar obreros para su viña."
+        },
+        {
+          "numero": "2",
+          "verso": "Después de haber convenido con los obreros en un denario al día, los envió a su viña."
+        },
+        {
+          "numero": "3",
+          "verso": "Salió también hacia la hora tercia y vio a otros que estaban en la plaza parados,"
+        },
+        {
+          "numero": "4",
+          "verso": "y les dijo: «Id también vosotros a mi viña y os daré lo que sea justo»."
+        },
+        {
+          "numero": "5",
+          "verso": "Ellos marcharon. De nuevo salió hacia la hora sexta y de nona e hizo lo mismo."
+        },
+        {
+          "numero": "6",
+          "verso": "Hacia la hora undécima volvió a salir y todavía encontró a otros parados, y les dijo: «¿Cómo es que estáis aquí todo el día ociosos?»"
+        },
+        {
+          "numero": "7",
+          "verso": "Le contestaron: «Porque nadie nos ha contratado». Les dijo: «Id también vosotros a mi viña»."
+        },
+        {
+          "numero": "8",
+          "verso": "A la caída de la tarde le dijo el amo de la viña a su administrador: «Llama a los obreros y dales el jornal, empezando por los últimos hasta llegar a los primeros»."
+        },
+        {
+          "numero": "9",
+          "verso": "Vinieron los de la hora undécima y percibieron un denario cada uno."
+        },
+        {
+          "numero": "10",
+          "verso": "Y cuando llegaron los primeros pensaron que cobrarían más, pero también ellos recibieron un denario cada uno."
+        },
+        {
+          "numero": "11",
+          "verso": "Al recibirlo, se pusieron a murmurar contra el dueño:"
+        },
+        {
+          "numero": "12",
+          "verso": "«A estos últimos que han trabajado sólo una hora los has hecho iguales a nosotros, que hemos soportado el peso del día y del calor»."
+        },
+        {
+          "numero": "13",
+          "verso": "Él le respondió a uno de ellos: «Amigo, no te hago ninguna injusticia; ¿acaso no conviniste conmigo en un denario?"
+        },
+        {
+          "numero": "14",
+          "verso": "Toma lo tuyo y vete; quiero dar a este último lo mismo que a ti."
+        },
+        {
+          "numero": "15",
+          "verso": "¿No puedo yo hacer con lo mío lo que quiero? ¿O es que vas a ver con malos ojos que yo sea bueno?»"
+        },
+        {
+          "numero": "16",
+          "verso": "Así los últimos serán primeros y los primeros últimos."
+        }
+      ]
+    }
+  ]
+}

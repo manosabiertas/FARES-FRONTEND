@@ -1,0 +1,151 @@
+{
+  "fecha": "2025-12-24",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Samuel 7:1-5, 8-12, 14, 16",
+      "lecturaNombreNormalizado": "2Samuel7,1-5,8-12,14,16",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Cuando el rey se estableció en su casa y el Señor le concedió la paz con los enemigos de alrededor,"
+        },
+        {
+          "numero": "2",
+          "verso": "dijo el rey al profeta Natán: —Mira, yo habito en una casa de cedro, mientras que el arca del Señor habita en una tienda de lona."
+        },
+        {
+          "numero": "3",
+          "verso": "Natán respondió al rey: —Vete y haz lo que te dicta el corazón, porque el Señor está contigo."
+        },
+        {
+          "numero": "4",
+          "verso": "Pero esa misma noche la palabra del Señor llegó sobre Natán en estos términos:"
+        },
+        {
+          "numero": "5",
+          "verso": "—Vete y dile a mi siervo David: «Así dice el Señor: “¿Eres tú el que va a edificar una casa para que Yo habite en ella?"
+        },
+        {
+          "numero": "8",
+          "verso": "»Y ahora así dirás a mi siervo David: «Así dice el Señor de los ejércitos: “Yo te he tomado del aprisco, de detrás del rebaño para que seas príncipe sobre mi pueblo Israel;"
+        },
+        {
+          "numero": "9",
+          "verso": "he estado contigo en todas tus andanzas, he eliminado a todos tus enemigos ante ti y he hecho tu nombre grande entre los grandes de la tierra."
+        },
+        {
+          "numero": "10",
+          "verso": "Asignaré un lugar para mi pueblo Israel y lo plantaré para que habite allí y nadie le moleste; los malvados no volverán a oprimirlo como antes,"
+        },
+        {
+          "numero": "11",
+          "verso": "cuando constituí jueces sobre mi pueblo Israel. Te concederé la paz con todos tus enemigos. El Señor te anuncia que Él te edificará una casa."
+        },
+        {
+          "numero": "12",
+          "verso": "Cuando hayas completado los días de tu vida y descanses con tus padres, suscitaré después de ti un linaje salido de tus entrañas y consolidaré su reino."
+        },
+        {
+          "numero": "14",
+          "verso": "Yo seré para él un padre y él será para mí un hijo; si algo hace mal le castigaré con vara de hombres y con golpes humanos."
+        },
+        {
+          "numero": "16",
+          "verso": "tu casa y tu reino permanecerán para siempre en mi presencia y tu trono será firme también para siempre”»."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 89:2-5, 27, 29",
+      "lecturaNombreNormalizado": "Sal89,2-5,27,29",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Las misericordias del Señor cantaré eternamente; de generación en generación\nanunciaré con mi boca tu fidelidad."
+        },
+        {
+          "numero": "3",
+          "verso": "Pues he dicho: «La misericordia está edificada para siempre;\ntu fidelidad está firme en los cielos»."
+        },
+        {
+          "numero": "4",
+          "verso": "«Una alianza sellé con mi elegido, juré a David, mi siervo:"
+        },
+        {
+          "numero": "5",
+          "verso": "“Afirmaré tu descendencia para siempre, construiré tu trono por todas las generaciones”». (Pausa)"
+        },
+        {
+          "numero": "27",
+          "verso": "Él me invocará: “Tú eres mi Padre, mi Dios, la Roca de mi salvación”."
+        },
+        {
+          "numero": "29",
+          "verso": "Le guardaré por siempre mi misericordia, mi alianza con él será firme."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 1:67-79",
+      "lecturaNombreNormalizado": "Lc1,67-79",
+      "versos": [
+        {
+          "numero": "67",
+          "verso": "Y Zacarías, su padre, quedó lleno del Espíritu Santo y profetizó diciendo:"
+        },
+        {
+          "numero": "68",
+          "verso": "—Bendito sea el Señor, Dios de Israel, porque ha visitado y redimido a su pueblo,"
+        },
+        {
+          "numero": "69",
+          "verso": "y ha suscitado para nosotros el poder salvador en la casa de David su siervo,"
+        },
+        {
+          "numero": "70",
+          "verso": "como lo había anunciado desde antiguo por boca de sus santos profetas;"
+        },
+        {
+          "numero": "71",
+          "verso": "para salvarnos de nuestros enemigos y de la mano de cuantos nos odian:"
+        },
+        {
+          "numero": "72",
+          "verso": "ejerciendo su misericordia con nuestros padres, y acordándose de su santa alianza,"
+        },
+        {
+          "numero": "73",
+          "verso": "y del juramento que hizo a Abrahán, nuestro padre,"
+        },
+        {
+          "numero": "74",
+          "verso": "para concedernos que, libres de la mano de los enemigos,\nle sirvamos sin temor,"
+        },
+        {
+          "numero": "75",
+          "verso": "con santidad y justicia en su presencia todos los días de nuestra vida."
+        },
+        {
+          "numero": "76",
+          "verso": "Y tú, niño, serás llamado Profeta del Altísimo: porque irás delante del Señor\na preparar sus caminos,"
+        },
+        {
+          "numero": "77",
+          "verso": "enseñando a su pueblo la salvación para el perdón de sus pecados;"
+        },
+        {
+          "numero": "78",
+          "verso": "por las entrañas de misericordia de nuestro Dios, el Sol naciente nos visitará desde lo alto,"
+        },
+        {
+          "numero": "79",
+          "verso": "para iluminar a los que yacen en tinieblas y en sombra de muerte,\ny guiar nuestros pasos por el camino de la paz."
+        }
+      ]
+    }
+  ]
+}

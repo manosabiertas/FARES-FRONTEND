@@ -1,0 +1,83 @@
+{
+  "fecha": "2025-09-27",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Zacarías 2:5-9, 14-15",
+      "lecturaNombreNormalizado": "Zac2,5-9,14-15",
+      "versos": [
+        {
+          "numero": "5",
+          "verso": "Alcé los ojos y tuve una visión: era un hombre con una cuerda de medir en su mano."
+        },
+        {
+          "numero": "6",
+          "verso": "Le pregunté: —¿Adónde vas?\nMe contestó:\n—A medir Jerusalén para ver cuál es su anchura y su longitud."
+        },
+        {
+          "numero": "7",
+          "verso": "En esto se adelantó el ángel que hablaba conmigo, mientras otro ángel salió a su encuentro"
+        },
+        {
+          "numero": "8",
+          "verso": "y le dijo: —Corre a decirle a ese joven:\n«Jerusalén será habitada sin murallas,\npor los muchos hombres y animales que alojará."
+        },
+        {
+          "numero": "9",
+          "verso": "Yo le serviré —oráculo del Señor— de muralla de fuego a su alrededor,\ny de gloria en su interior."
+        },
+        {
+          "numero": "14",
+          "verso": "Grita de gozo y alégrate, hija de Sión,\nporque vengo a habitar dentro de ti\n—oráculo del Señor—."
+        },
+        {
+          "numero": "15",
+          "verso": "Aquel día seguirán al Señor muchas naciones y serán pueblo mío.\nYo habitaré en medio de ti,\ny sabrás que el Señor de los ejércitos a ti me envió."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Jeremías 31:10-13",
+      "lecturaNombreNormalizado": "Jer31,10-13",
+      "versos": [
+        {
+          "numero": "10",
+          "verso": "¡Naciones! Escuchad la palabra del Señor. Anunciadla en las islas remotas, diciendo:\n“El que dispersó a Israel lo reunirá,\ny lo guardará como pastor a su rebaño,"
+        },
+        {
+          "numero": "11",
+          "verso": "pues el Señor redimió a Jacob, lo rescató de una mano más fuerte”."
+        },
+        {
+          "numero": "12",
+          "verso": "Vendrán y gritarán de júbilo en lo alto de Sión, correrán hacia los bienes del Señor:\nel trigo, el vino y el aceite,\nlos corderos y terneros.\nSus almas serán como huertos regados,\ny nunca más desfallecerán."
+        },
+        {
+          "numero": "13",
+          "verso": "Entonces reirá la doncella en el baile, jóvenes y viejos unidos,\ntrocaré su duelo en gozo,\nlos consolaré y alegraré su pena."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 9:43-45",
+      "lecturaNombreNormalizado": "Lc9,43-45",
+      "versos": [
+        {
+          "numero": "43",
+          "verso": "Todos quedaron asombrados de la grandeza de Dios. Y estando todos admirados por cuantas cosas hacía, les dijo a sus discípulos:"
+        },
+        {
+          "numero": "44",
+          "verso": "—Grabad en vuestros oídos estas palabras: el Hijo del Hombre va a ser entregado en manos de los hombres."
+        },
+        {
+          "numero": "45",
+          "verso": "Pero ellos no entendían este lenguaje, y les resultaba tan oscuro, que no lo comprendían; y temían preguntarle sobre este asunto."
+        }
+      ]
+    }
+  ]
+}

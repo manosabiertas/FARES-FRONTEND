@@ -1,0 +1,99 @@
+{
+  "fecha": "2026-05-09",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hechos 16:1-10",
+      "lecturaNombreNormalizado": "Hch16,1-10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Llegó a Derbe y Listra, donde había un discípulo que se llamaba Timoteo, hijo de mujer judía creyente y de padre griego,"
+        },
+        {
+          "numero": "2",
+          "verso": "que contaba con el testimonio de los hermanos de Listra e Iconio."
+        },
+        {
+          "numero": "3",
+          "verso": "Pablo quiso que marchara con él. Se lo trajo y le circuncidó a causa de los judíos de aquellos lugares, porque todos sabían que su padre era griego."
+        },
+        {
+          "numero": "4",
+          "verso": "Conforme atravesaban las ciudades, les entregaban, para que las observasen, las decisiones dictadas por los apóstoles y los presbíteros de Jerusalén."
+        },
+        {
+          "numero": "5",
+          "verso": "Las iglesias se robustecían en la fe y aumentaban en número día a día."
+        },
+        {
+          "numero": "6",
+          "verso": "Atravesaron Frigia y la región de Galacia, porque el Espíritu Santo les había impedido predicar la palabra en Asia."
+        },
+        {
+          "numero": "7",
+          "verso": "Llegados cerca de Misia, intentaron ir a Bitinia, pero el Espíritu de Jesús no se lo permitió."
+        },
+        {
+          "numero": "8",
+          "verso": "Entonces atravesaron Misia y bajaron hasta Tróade."
+        },
+        {
+          "numero": "9",
+          "verso": "Esa noche Pablo tuvo una visión: un macedonio estaba de pie y le suplicaba diciendo: «Ven a Macedonia y ayúdanos»."
+        },
+        {
+          "numero": "10",
+          "verso": "En cuanto tuvo la visión, intentamos inmediatamente pasar a Macedonia, convencidos de que Dios nos había llamado para anunciarles el Evangelio."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 100:1-3, 5",
+      "lecturaNombreNormalizado": "Sal100,1-3,5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. De alabanza. Aclamad al Señor, la tierra entera;"
+        },
+        {
+          "numero": "2",
+          "verso": "servid al Señor con alegría, entrad a su presencia con júbilo."
+        },
+        {
+          "numero": "3",
+          "verso": "Sabed que el Señor es Dios: Él nos hizo y somos suyos,\nsomos su pueblo y ovejas que Él apacienta."
+        },
+        {
+          "numero": "5",
+          "verso": "Porque el Señor es bueno: su misericordia es eterna,\ny su fidelidad, por todas las generaciones."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 15:18-21",
+      "lecturaNombreNormalizado": "Jn15,18-21",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "»Si el mundo os odia, sabed que antes que a vosotros me ha odiado a mí."
+        },
+        {
+          "numero": "19",
+          "verso": "Si fuerais del mundo, el mundo os amaría como cosa suya; pero como no sois del mundo, sino que yo os escogí del mundo, por eso el mundo os odia."
+        },
+        {
+          "numero": "20",
+          "verso": "Acordaos de las palabras que os he dicho: no es el siervo más que su señor. Si me han perseguido a mí, también a vosotros os perseguirán. Si han guardado mi doctrina, también guardarán la vuestra."
+        },
+        {
+          "numero": "21",
+          "verso": "Pero os harán todas estas cosas a causa de mi nombre, porque no conocen al que me ha enviado."
+        }
+      ]
+    }
+  ]
+}

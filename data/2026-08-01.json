@@ -1,0 +1,127 @@
+{
+  "fecha": "2026-08-01",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Jeremías 26:11-16, 24",
+      "lecturaNombreNormalizado": "Jer26,11-16,24",
+      "versos": [
+        {
+          "numero": "11",
+          "verso": "Entonces, los sacerdotes y los profetas se dirigieron a los nobles y a todo el pueblo diciéndoles: —¡Sentencia de muerte para este hombre, porque ha profetizado contra esta ciudad como habéis escuchado con vuestros oídos!"
+        },
+        {
+          "numero": "12",
+          "verso": "Jeremías respondió a todos los nobles y al pueblo entero: —El Señor me ha enviado a profetizar sobre este Templo y sobre esta ciudad todas las palabras que habéis oído."
+        },
+        {
+          "numero": "13",
+          "verso": "Ahora, rectificad vuestros caminos y vuestras obras, y escuchad la voz del Señor, vuestro Dios, y el Señor se arrepentirá del mal que ha dicho contra vosotros."
+        },
+        {
+          "numero": "14",
+          "verso": "En cuanto a mí, en vuestras manos me tenéis: haced de mí lo que parezca bueno y recto a vuestros ojos."
+        },
+        {
+          "numero": "15",
+          "verso": "Sin embargo, habéis de saber que, si vosotros me dais muerte, echaréis sangre inocente sobre vosotros mismos, sobre esta ciudad y sobre sus habitantes, porque en verdad el Señor me envió a vosotros para decir en vuestros oídos todas estas palabras."
+        },
+        {
+          "numero": "16",
+          "verso": "Entonces, los nobles y el pueblo entero dijeron a los sacerdotes y a los profetas: —Este hombre no merece sentencia de muerte, porque nos ha hablado en Nombre del Señor, nuestro Dios."
+        },
+        {
+          "numero": "24",
+          "verso": "Pero la mano de Ajicam, hijo de Safán, estuvo a favor de Jeremías, para que no fuese entregado en manos del pueblo y le dieran muerte."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 69:15-16, 30-31, 33-34",
+      "lecturaNombreNormalizado": "Sal69,15-16,30-31,33-34",
+      "versos": [
+        {
+          "numero": "15",
+          "verso": "Sácame del fango, no dejes que me hunda, líbrame de los que me odian,\ny de las profundidades del agua."
+        },
+        {
+          "numero": "16",
+          "verso": "Que no me sumerja la corriente de las aguas, que no me trague el abismo,\nque el pozo no cierre tras de mí su boca."
+        },
+        {
+          "numero": "30",
+          "verso": "Yo soy un pobre y afligido, que tu salvación, Dios mío, me proteja."
+        },
+        {
+          "numero": "31",
+          "verso": "Ensalzaré el Nombre de Dios con un cántico, y proclamaré su grandeza con la acción de gracias,"
+        },
+        {
+          "numero": "33",
+          "verso": "Que lo vean los pobres y se alegren. Los que buscáis a Dios, reanimad vuestro corazón."
+        },
+        {
+          "numero": "34",
+          "verso": "Porque el Señor escucha a los necesitados, no desdeña a sus cautivos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 14:1-12",
+      "lecturaNombreNormalizado": "Mt14,1-12",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "En aquel entonces oyó el tetrarca Herodes la fama de Jesús,"
+        },
+        {
+          "numero": "2",
+          "verso": "y les dijo a sus cortesanos: —Éste es Juan el Bautista, que ha resucitado de entre los muertos, y por eso actúan en él esos poderes."
+        },
+        {
+          "numero": "3",
+          "verso": "Herodes, en efecto, había apresado a Juan, lo había encadenado y lo había metido en la cárcel a causa de Herodías, la mujer de su hermano Filipo,"
+        },
+        {
+          "numero": "4",
+          "verso": "porque Juan le decía: «No te es lícito tenerla»."
+        },
+        {
+          "numero": "5",
+          "verso": "Y aunque quería matarlo, tenía miedo del pueblo porque lo consideraban un profeta."
+        },
+        {
+          "numero": "6",
+          "verso": "El día del cumpleaños de Herodes salió a bailar la hija de Herodías y le gustó tanto a Herodes,"
+        },
+        {
+          "numero": "7",
+          "verso": "que juró darle cualquier cosa que pidiese."
+        },
+        {
+          "numero": "8",
+          "verso": "Ella, instigada por su madre, dijo: —Dame aquí, en una bandeja, la cabeza de Juan el Bautista."
+        },
+        {
+          "numero": "9",
+          "verso": "El rey se entristeció, pero por el juramento y por los comensales ordenó dársela."
+        },
+        {
+          "numero": "10",
+          "verso": "Y mandó decapitar a Juan en la cárcel."
+        },
+        {
+          "numero": "11",
+          "verso": "Trajeron su cabeza en una bandeja y se la dieron a la muchacha, que la entregó a su madre."
+        },
+        {
+          "numero": "12",
+          "verso": "Acudieron luego sus discípulos, tomaron el cuerpo muerto, lo enterraron y fueron a dar la noticia a Jesús."
+        }
+      ]
+    }
+  ]
+}

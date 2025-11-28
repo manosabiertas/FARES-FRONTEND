@@ -1,0 +1,123 @@
+{
+  "fecha": "2025-08-28",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Tesalonicenses 3:7-13",
+      "lecturaNombreNormalizado": "1Tesalonicenses3,7-13",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "Por eso hemos recibido de vuestra parte, hermanos, gracias a vuestra fe, un gran consuelo en medio de todas nuestras adversidades y tribulaciones:"
+        },
+        {
+          "numero": "8",
+          "verso": "ahora sí vivimos, ya que permanecéis firmes en el Señor."
+        },
+        {
+          "numero": "9",
+          "verso": "¿Y cómo podremos dar gracias suficientes a Dios por toda la alegría que nos proporcionáis y con la que nos gozamos por vosotros ante nuestro Dios?"
+        },
+        {
+          "numero": "10",
+          "verso": "Le rogamos noche y día, sin cesar, que podamos veros y completar lo que falta a vuestra fe."
+        },
+        {
+          "numero": "11",
+          "verso": "Que Dios mismo, nuestro Padre, y nuestro Señor Jesús, dirija nuestro camino para poder veros;"
+        },
+        {
+          "numero": "12",
+          "verso": "y que el Señor os colme y os haga rebosar en la caridad de unos con otros y en la caridad hacia todos, como es la nuestra hacia vosotros,"
+        },
+        {
+          "numero": "13",
+          "verso": "para que se confirmen vuestros corazones en una santidad sin tacha ante Dios, nuestro Padre, el día de la venida de nuestro Señor Jesús con todos sus santos. Amén."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 90:3-5, 12-14, 17",
+      "lecturaNombreNormalizado": "Sal90,3-5,12-14,17",
+      "versos": [
+        {
+          "numero": "3",
+          "verso": "Al polvo haces volver al hombre, diciendo: «Volved, hijos de Adán»."
+        },
+        {
+          "numero": "4",
+          "verso": "Pues mil años a tus ojos son como un día de ayer, que pasó,\ncomo una vigilia de la noche."
+        },
+        {
+          "numero": "5",
+          "verso": "Tú los arrastras, son un sueño al amanecer, como hierba que brota:"
+        },
+        {
+          "numero": "12",
+          "verso": "Enséñanos a llevar buena cuenta de nuestros días, para que logremos un corazón sabio."
+        },
+        {
+          "numero": "13",
+          "verso": "¡Vuélvete, Señor! ¿Hasta cuándo…? Ten piedad con tus siervos."
+        },
+        {
+          "numero": "14",
+          "verso": "Sácianos de mañana con tu misericordia, exultaremos y nos alegraremos todos nuestros días."
+        },
+        {
+          "numero": "17",
+          "verso": "El esplendor del Señor, nuestro Dios, esté con nosotros. Haz prósperas las obras de nuestras manos,\nlas obras de nuestras manos hazlas prósperas."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 24:42-51",
+      "lecturaNombreNormalizado": "Mt24,42-51",
+      "versos": [
+        {
+          "numero": "42",
+          "verso": "»Por eso: velad, porque no sabéis en qué día vendrá vuestro Señor."
+        },
+        {
+          "numero": "43",
+          "verso": "Sabed esto: si el dueño de la casa supiera a qué hora de la noche va a llegar el ladrón, estaría ciertamente velando y no dejaría que se horadase su casa."
+        },
+        {
+          "numero": "44",
+          "verso": "Por tanto, estad también vosotros preparados, porque a la hora que menos penséis vendrá el Hijo del Hombre."
+        },
+        {
+          "numero": "45",
+          "verso": "»¿Quién es, pues, el siervo fiel y prudente, a quien el amo puso al frente de la servidumbre, para darles el alimento a la hora debida?"
+        },
+        {
+          "numero": "46",
+          "verso": "Dichoso aquel siervo a quien su amo cuando vuelva encuentre obrando así."
+        },
+        {
+          "numero": "47",
+          "verso": "En verdad os digo que le pondrá al frente de toda su hacienda."
+        },
+        {
+          "numero": "48",
+          "verso": "Pero si ese siervo fuese malo y dijera en sus adentros: «Mi amo tarda»,"
+        },
+        {
+          "numero": "49",
+          "verso": "y comenzase a golpear a sus compañeros y a comer y beber con los borrachos,"
+        },
+        {
+          "numero": "50",
+          "verso": "llegará el amo de aquel siervo el día menos pensado, a una hora imprevista,"
+        },
+        {
+          "numero": "51",
+          "verso": "lo castigará duramente y le dará el pago de los hipócritas. Allí habrá llanto y rechinar de dientes."
+        }
+      ]
+    }
+  ]
+}

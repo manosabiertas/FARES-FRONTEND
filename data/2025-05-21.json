@@ -1,0 +1,103 @@
+{
+  "fecha": "2025-05-21",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hechos 15:1-6",
+      "lecturaNombreNormalizado": "Hch15,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Algunos que bajaron de Judea enseñaban a los hermanos: —Si no os circuncidáis según la costumbre mosaica no podéis salvaros."
+        },
+        {
+          "numero": "2",
+          "verso": "Se produjo entonces una conmoción y controversia no pequeña de Pablo y Bernabé contra ellos. Decidieron que Pablo y Bernabé, con algunos otros, acudieran a los apóstoles y presbíteros de Jerusalén, para tratar esta cuestión."
+        },
+        {
+          "numero": "3",
+          "verso": "Así pues, ellos, enviados por la Iglesia, atravesaron Fenicia y Samaría, narrando detalladamente la conversión de los gentiles y causando gran alegría a todos los hermanos."
+        },
+        {
+          "numero": "4",
+          "verso": "Cuando llegaron a Jerusalén fueron recibidos por la Iglesia, por los apóstoles y los presbíteros, y contaron lo que Dios había realizado por mediación de ellos."
+        },
+        {
+          "numero": "5",
+          "verso": "Pero se levantaron algunos de la secta de los fariseos que habían creído y dijeron: —Es necesario circuncidarles y ordenar que cumplan la Ley de Moisés."
+        },
+        {
+          "numero": "6",
+          "verso": "Los apóstoles y los presbíteros se reunieron para examinar esta cuestión."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 122:1-5",
+      "lecturaNombreNormalizado": "Sal122,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. De David. Qué alegría cuando me dijeron:\n«¡Vamos a la Casa del Señor!"
+        },
+        {
+          "numero": "2",
+          "verso": "Ya se han parado nuestros pies a tus puertas, Jerusalén»."
+        },
+        {
+          "numero": "3",
+          "verso": "Jerusalén, bien cimentada, ciudad sólida y unida."
+        },
+        {
+          "numero": "4",
+          "verso": "Allí suben las tribus, las tribus del Señor.\nEs un precepto de Israel,\npara alabar el Nombre del Señor."
+        },
+        {
+          "numero": "5",
+          "verso": "Pues allí está la sede de justicia, la sede de la casa de David."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 15:1-8",
+      "lecturaNombreNormalizado": "Jn15,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "»Yo soy la vid verdadera y mi Padre es el labrador."
+        },
+        {
+          "numero": "2",
+          "verso": "Todo sarmiento que en mí no da fruto lo corta, y todo el que da fruto lo poda para que dé más fruto."
+        },
+        {
+          "numero": "3",
+          "verso": "Vosotros ya estáis limpios por la palabra que os he hablado."
+        },
+        {
+          "numero": "4",
+          "verso": "Permaneced en mí y yo en vosotros. Como el sarmiento no puede dar fruto por sí mismo si no permanece en la vid, así tampoco vosotros si no permanecéis en mí."
+        },
+        {
+          "numero": "5",
+          "verso": "Yo soy la vid, vosotros los sarmientos. El que permanece en mí y yo en él, ése da mucho fruto, porque sin mí no podéis hacer nada."
+        },
+        {
+          "numero": "6",
+          "verso": "Si alguno no permanece en mí es arrojado fuera, como los sarmientos, y se seca; luego los recogen, los arrojan al fuego y arden."
+        },
+        {
+          "numero": "7",
+          "verso": "Si permanecéis en mí y mis palabras permanecen en vosotros, pedid lo que queráis y se os concederá."
+        },
+        {
+          "numero": "8",
+          "verso": "En esto es glorificado mi Padre, en que deis mucho fruto y seáis discípulos míos."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "fecha": "2025-03-23",
+  "color": "morado",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Éxodo 3:1-8, 13-15",
+      "lecturaNombreNormalizado": "Ex3,1-8,13-15",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Moisés apacentaba el rebaño de su suegro Jetró, sacerdote de Madián; solía conducirlo al interior del desierto, llegando hasta el Horeb, el monte de Dios."
+        },
+        {
+          "numero": "2",
+          "verso": "El ángel del Señor se le manifestó en forma de llama de fuego en medio de una zarza. Moisés miró: la zarza ardía pero no se consumía."
+        },
+        {
+          "numero": "3",
+          "verso": "Y se dijo Moisés: «Voy a acercarme y comprobar esta visión prodigiosa: por qué no se consume la zarza»."
+        },
+        {
+          "numero": "4",
+          "verso": "Vio el Señor que Moisés se acercaba a mirar y lo llamó de entre la zarza: —¡Moisés, Moisés!\nY respondió él:\n—Heme aquí."
+        },
+        {
+          "numero": "5",
+          "verso": "Y dijo Dios: —No te acerques aquí; quítate las sandalias de los pies, porque el lugar que pisas es tierra sagrada."
+        },
+        {
+          "numero": "6",
+          "verso": "Y añadió: —Yo soy el Dios de tu padre, el Dios de Abrahán, el Dios de Isaac y el Dios de Jacob.\nMoisés se cubrió el rostro por temor a contemplar a Dios."
+        },
+        {
+          "numero": "7",
+          "verso": "Luego dijo el Señor: —He observado la opresión de mi pueblo en Egipto, he escuchado su clamor por la dureza de sus opresores, y he comprendido sus sufrimientos."
+        },
+        {
+          "numero": "8",
+          "verso": "He bajado para librarlos del poder de Egipto y para hacerlos subir de ese país a una tierra buena y espaciosa, a una tierra que mana leche y miel, al país de los cananeos, los hititas, los amorreos, los perezeos, jeveos y jebuseos."
+        },
+        {
+          "numero": "13",
+          "verso": "Moisés replicó: —Cuando me acerque a los hijos de Israel y les diga: «El Dios de vuestros padres me envía a vosotros», y me pregunten cuál es su nombre, ¿qué he de decirles?"
+        },
+        {
+          "numero": "14",
+          "verso": "Y le dijo Dios a Moisés: —Yo soy el que soy.\nY añadió:\n—Así dirás a los hijos de Israel: «Yo soy» me ha enviado a vosotros."
+        },
+        {
+          "numero": "15",
+          "verso": "Y le dijo más: —Así dirás a los hijos de Israel: «El Señor, el Dios de vuestros padres, el Dios de Abrahán, el Dios de Isaac, el Dios de Jacob, me envía a vosotros». Éste es mi nombre para siempre; así seré invocado de generación en generación."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 103:1-4, 6-8, 11",
+      "lecturaNombreNormalizado": "Sal103,1-4,6-8,11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Bendice, alma mía, al Señor,\ny todo mi ser a su Nombre santo."
+        },
+        {
+          "numero": "2",
+          "verso": "Bendice, alma mía, al Señor, no olvides ninguno de sus beneficios."
+        },
+        {
+          "numero": "3",
+          "verso": "Él es quien perdona tus culpas, quien sana tus enfermedades."
+        },
+        {
+          "numero": "4",
+          "verso": "Quien rescata tu vida de la fosa, quien te corona de misericordia y compasión."
+        },
+        {
+          "numero": "6",
+          "verso": "El Señor hace obras justas y justicia a todos los oprimidos."
+        },
+        {
+          "numero": "7",
+          "verso": "Él mostró sus caminos a Moisés, sus hazañas, a los hijos de Israel."
+        },
+        {
+          "numero": "8",
+          "verso": "El Señor es compasivo y misericordioso, lento a la ira y rico en misericordia."
+        },
+        {
+          "numero": "11",
+          "verso": "Pues cuanto se elevan los cielos sobre la tierra, así prevalece su misericordia con los que le temen."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "1 Corintios 10:1-6, 10-12",
+      "lecturaNombreNormalizado": "1Corintios10,1-6,10-12",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "No quiero que ignoréis, hermanos, que nuestros padres estuvieron todos bajo la nube, y todos cruzaron el mar,"
+        },
+        {
+          "numero": "2",
+          "verso": "y para unirse a Moisés todos fueron bautizados en la nube y en el mar,"
+        },
+        {
+          "numero": "3",
+          "verso": "y todos comieron el mismo alimento espiritual,"
+        },
+        {
+          "numero": "4",
+          "verso": "y todos bebieron la misma bebida espiritual; porque bebían de la roca espiritual que los seguía, y la roca era Cristo."
+        },
+        {
+          "numero": "5",
+          "verso": "Pero la mayoría de ellos no agradó a Dios, puesto que cayeron muertos en el desierto."
+        },
+        {
+          "numero": "6",
+          "verso": "Estas cosas sucedieron como en figura para nosotros, para que no codiciemos lo malo como lo codiciaron ellos."
+        },
+        {
+          "numero": "10",
+          "verso": "ni murmuréis, como algunos de ellos murmuraron, y perecieron a manos del exterminador."
+        },
+        {
+          "numero": "11",
+          "verso": "Todas estas cosas les sucedían como en figura; y fueron escritas para escarmiento nuestro, para quienes ha llegado la plenitud de los tiempos."
+        },
+        {
+          "numero": "12",
+          "verso": "Por tanto, el que piense estar en pie, que tenga cuidado de no caer."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 13:1-9",
+      "lecturaNombreNormalizado": "Lc13,1-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Estaban presentes en aquel momento unos que le contaban lo de los galileos, cuya sangre mezcló Pilato con la de sus sacrificios."
+        },
+        {
+          "numero": "2",
+          "verso": "Y en respuesta les dijo: —¿Pensáis que estos galileos eran más pecadores que todos los galileos, porque padecieron tales cosas?"
+        },
+        {
+          "numero": "3",
+          "verso": "No, os lo aseguro; pero si no os convertís, todos pereceréis igualmente."
+        },
+        {
+          "numero": "4",
+          "verso": "O aquellos dieciocho sobre los que cayó la torre de Siloé y los mató, ¿pensáis que eran más culpables que todos los hombres que vivían en Jerusalén?"
+        },
+        {
+          "numero": "5",
+          "verso": "No, os lo aseguro; pero si no os convertís, todos pereceréis igualmente."
+        },
+        {
+          "numero": "6",
+          "verso": "Les decía esta parábola: —Un hombre tenía una higuera plantada en su viña y fue a buscar en ella fruto y no lo encontró."
+        },
+        {
+          "numero": "7",
+          "verso": "Entonces le dijo al viñador: «Mira, hace tres años que vengo a buscar fruto en esta higuera sin encontrarlo; córtala, ¿para qué va a ocupar terreno en balde?»"
+        },
+        {
+          "numero": "8",
+          "verso": "Pero él le respondió: «Señor, déjala también este año hasta que cave a su alrededor y eche estiércol,"
+        },
+        {
+          "numero": "9",
+          "verso": "por si produce fruto; si no, ya la cortarás»."
+        }
+      ]
+    }
+  ]
+}

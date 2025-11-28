@@ -1,0 +1,103 @@
+{
+  "fecha": "2025-07-17",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Éxodo 3:13-20",
+      "lecturaNombreNormalizado": "Ex3,13-20",
+      "versos": [
+        {
+          "numero": "13",
+          "verso": "Moisés replicó: —Cuando me acerque a los hijos de Israel y les diga: «El Dios de vuestros padres me envía a vosotros», y me pregunten cuál es su nombre, ¿qué he de decirles?"
+        },
+        {
+          "numero": "14",
+          "verso": "Y le dijo Dios a Moisés: —Yo soy el que soy.\nY añadió:\n—Así dirás a los hijos de Israel: «Yo soy» me ha enviado a vosotros."
+        },
+        {
+          "numero": "15",
+          "verso": "Y le dijo más: —Así dirás a los hijos de Israel: «El Señor, el Dios de vuestros padres, el Dios de Abrahán, el Dios de Isaac, el Dios de Jacob, me envía a vosotros». Éste es mi nombre para siempre; así seré invocado de generación en generación."
+        },
+        {
+          "numero": "16",
+          "verso": "»Ve, reúne a los ancianos de Israel y diles: «Se me ha manifestado el Señor, el Dios de vuestros padres, el Dios de Abrahán, de Isaac y de Jacob y me ha dicho: “Os he visitado y he visto lo que os hacen en Egipto;"
+        },
+        {
+          "numero": "17",
+          "verso": "he resuelto sacaros de la opresión egipcia y subiros al país de los cananeos, de los amorreos, de los perezeos, de los jeveos y de los jebuseos, a una tierra que mana leche y miel”."
+        },
+        {
+          "numero": "18",
+          "verso": "Ellos te escucharán; luego, tú y los ancianos de Israel iréis al rey de Egipto y le diréis: “El Señor, Dios de los hebreos, se nos ha manifestado; tenemos que hacer un viaje de tres días por el desierto para ofrecer sacrificios al Señor, nuestro Dios”."
+        },
+        {
+          "numero": "19",
+          "verso": "Yo sé que el rey de Egipto no os permitirá marchar si no es con mano poderosa;"
+        },
+        {
+          "numero": "20",
+          "verso": "pero yo extenderé mi mano y heriré a Egipto con toda clase de prodigios que obraré en medio de ellos; después de esto, os dejará salir."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 105:1, 5, 8-9, 24-27",
+      "lecturaNombreNormalizado": "Sal105,1,5,8-9,24-27",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Dad gracias al Señor, invocad su Nombre, anunciad entre los pueblos sus hazañas."
+        },
+        {
+          "numero": "5",
+          "verso": "¡Recordad las maravillas que hizo, sus prodigios, las sentencias de su boca,"
+        },
+        {
+          "numero": "8",
+          "verso": "Él recuerda siempre su alianza, la palabra que ordenó por mil generaciones,"
+        },
+        {
+          "numero": "9",
+          "verso": "que selló con Abrahán; el juramento hecho a Isaac,"
+        },
+        {
+          "numero": "24",
+          "verso": "E hizo numeroso a su pueblo, más fuerte que sus adversarios."
+        },
+        {
+          "numero": "25",
+          "verso": "Cambió el corazón de éstos, de modo que odiaran a su pueblo,\ny actuaran con dolo contra sus siervos."
+        },
+        {
+          "numero": "26",
+          "verso": "Pero envió a Moisés, su siervo, y a Aarón, al que había elegido."
+        },
+        {
+          "numero": "27",
+          "verso": "Hizo entre ellos signos prodigiosos, y portentos en la tierra de Cam."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 11:28-30",
+      "lecturaNombreNormalizado": "Mt11,28-30",
+      "versos": [
+        {
+          "numero": "28",
+          "verso": "»Venid a mí todos los fatigados y agobiados, y yo os aliviaré."
+        },
+        {
+          "numero": "29",
+          "verso": "Llevad mi yugo sobre vosotros y aprended de mí que soy manso y humilde de corazón, y encontraréis descanso para vuestras almas:"
+        },
+        {
+          "numero": "30",
+          "verso": "porque mi yugo es suave y mi carga es ligera."
+        }
+      ]
+    }
+  ]
+}

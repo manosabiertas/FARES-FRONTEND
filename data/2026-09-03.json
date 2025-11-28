@@ -1,0 +1,119 @@
+{
+  "fecha": "2026-09-03",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Corintios 3:18-23",
+      "lecturaNombreNormalizado": "1Corintios3,18-23",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "Nadie se engañe: si alguno de vosotros se tiene por sabio según el mundo, que se haga necio para llegar a ser sabio."
+        },
+        {
+          "numero": "19",
+          "verso": "Pues la sabiduría de este mundo es necedad delante de Dios. Porque está escrito: Él atrapa a los sabios en su astucia."
+        },
+        {
+          "numero": "20",
+          "verso": "Y en otro lugar: El Señor conoce los pensamientos de los sabios,\ny sabe que son vanos."
+        },
+        {
+          "numero": "21",
+          "verso": "Por tanto, que nadie se gloríe en los hombres; porque todas las cosas son vuestras:"
+        },
+        {
+          "numero": "22",
+          "verso": "ya sea Pablo o Apolo o Cefas; ya sea el mundo, la vida o la muerte; ya sea lo presente o lo futuro; todas las cosas son vuestras,"
+        },
+        {
+          "numero": "23",
+          "verso": "vosotros sois de Cristo, y Cristo de Dios."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 24:1-6",
+      "lecturaNombreNormalizado": "Sal24,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. Salmo. Del Señor es la tierra y cuanto hay en ella,\nel orbe y los que lo habitan."
+        },
+        {
+          "numero": "2",
+          "verso": "Él la cimentó sobre los mares y la asentó sobre los ríos."
+        },
+        {
+          "numero": "3",
+          "verso": "¿Quién podrá subir al monte del Señor? ¿Quién podrá estar en su lugar santo?"
+        },
+        {
+          "numero": "4",
+          "verso": "El de manos inocentes y de corazón puro,\nel que no dirige su alma a la vanidad,\nni jura en falso."
+        },
+        {
+          "numero": "5",
+          "verso": "Él recibirá la bendición del Señor, y la justificación de Dios, su Salvador."
+        },
+        {
+          "numero": "6",
+          "verso": "Tal es la estirpe de quienes le buscan, de los que buscan tu rostro, Dios de Jacob."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 5:1-11",
+      "lecturaNombreNormalizado": "Lc5,1-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Estaba Jesús junto al lago de Genesaret y la multitud se agolpaba a su alrededor para oír la palabra de Dios."
+        },
+        {
+          "numero": "2",
+          "verso": "Y vio dos barcas que estaban a la orilla del lago; los pescadores habían bajado de ellas y estaban lavando las redes."
+        },
+        {
+          "numero": "3",
+          "verso": "Entonces, subiendo a una de las barcas, que era de Simón, le rogó que la apartase un poco de tierra. Y, sentado, enseñaba a la multitud desde la barca."
+        },
+        {
+          "numero": "4",
+          "verso": "Cuando terminó de hablar, le dijo a Simón: —Guía mar adentro, y echad vuestras redes para la pesca."
+        },
+        {
+          "numero": "5",
+          "verso": "Simón le contestó: —Maestro, hemos estado bregando durante toda la noche y no hemos pescado nada; pero sobre tu palabra echaré las redes."
+        },
+        {
+          "numero": "6",
+          "verso": "Lo hicieron y recogieron gran cantidad de peces. Tantos, que las redes se rompían."
+        },
+        {
+          "numero": "7",
+          "verso": "Entonces hicieron señas a los compañeros que estaban en la otra barca, para que vinieran y les ayudasen. Vinieron, y llenaron las dos barcas, de modo que casi se hundían."
+        },
+        {
+          "numero": "8",
+          "verso": "Cuando lo vio Simón Pedro, se arrojó a los pies de Jesús, diciendo: —Apártate de mí, Señor, que soy un hombre pecador."
+        },
+        {
+          "numero": "9",
+          "verso": "Pues el asombro se había apoderado de él y de cuantos estaban con él, por la gran cantidad de peces que habían pescado."
+        },
+        {
+          "numero": "10",
+          "verso": "Lo mismo sucedía a Santiago y a Juan, hijos de Zebedeo, que eran compañeros de Simón. Entonces Jesús le dijo a Simón: —No temas; desde ahora serán hombres los que pescarás."
+        },
+        {
+          "numero": "11",
+          "verso": "Y ellos, sacando las barcas a tierra, dejadas todas las cosas, le siguieron."
+        }
+      ]
+    }
+  ]
+}

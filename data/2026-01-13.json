@@ -1,0 +1,131 @@
+{
+  "fecha": "2026-01-13",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Samuel 1:9-20",
+      "lecturaNombreNormalizado": "1Samuel1,9-20",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "En una ocasión, después de haber comido y bebido en Siló, Ana se levantó y se puso ante el Señor. El sacerdote Elí estaba sentado en su sede junto a las jambas del Santuario del Señor."
+        },
+        {
+          "numero": "10",
+          "verso": "Ella, con el alma llena de amargura, rogaba al Señor llorando sin cesar"
+        },
+        {
+          "numero": "11",
+          "verso": "y decidió hacer un voto diciendo: —Señor de los ejércitos, si te dignas mirar la aflicción de tu sierva y te acuerdas de mí; si no te olvidas de tu sierva y me concedes un hijo varón, lo dedicaré al Señor por todos los días de su vida de modo que nunca la navaja tocará su cabeza."
+        },
+        {
+          "numero": "12",
+          "verso": "Como se demoraba en sus ruegos al Señor, Elí se puso a observar el movimiento de su boca."
+        },
+        {
+          "numero": "13",
+          "verso": "Ana hablaba para sí y sus labios se movían sin que se oyera su voz, por lo que Elí supuso que estaba ebria,"
+        },
+        {
+          "numero": "14",
+          "verso": "y le dijo: —¿Hasta cuando vas a estar ebria? Arroja el vino que llevas dentro."
+        },
+        {
+          "numero": "15",
+          "verso": "Pero Ana contestó: —No, mi señor. Yo soy una mujer angustiada. No he probado ni vino ni bebida embriagante; simplemente abría mi alma ante el Señor."
+        },
+        {
+          "numero": "16",
+          "verso": "Así que no consideres a tu sierva como una perdida, pues por mi gran dolor y angustia he hablado así."
+        },
+        {
+          "numero": "17",
+          "verso": "Elí le respondió: —Vete en paz. Que el Dios de Israel te conceda lo que le has pedido."
+        },
+        {
+          "numero": "18",
+          "verso": "Y dijo ella: —Que tu sierva encuentre gracia a tus ojos.\nEntonces se marchó la mujer, comió, y su rostro ya no volvió a ser el mismo."
+        },
+        {
+          "numero": "19",
+          "verso": "Se levantaron muy temprano, se postraron ante el Señor y regresaron a su casa en Ramá. Elcaná conoció a su mujer Ana, el Señor se acordó de ella,"
+        },
+        {
+          "numero": "20",
+          "verso": "y al cabo del tiempo Ana concibió y dio a luz un hijo al que puso por nombre Samuel, pues dijo: «Lo he pedido al Señor»."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "1 Samuel 2:1, 4-8",
+      "lecturaNombreNormalizado": "1Samuel2,1,4-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Entonces Ana recitó esta oración: —Mi corazón exulta en el Señor,\nmi frente se enaltece en el Señor,\nmi boca se ríe de mis enemigos\npues me gozo con tu salvación."
+        },
+        {
+          "numero": "4",
+          "verso": "Se ha quebrado el arco de los héroes y los débiles se han ceñido de vigor."
+        },
+        {
+          "numero": "5",
+          "verso": "Los hartos se alquilan por pan, y los hambrientos han cesado en sus fatigas.\nLa estéril da a luz siete hijos,\ny la que tiene muchos se marchita."
+        },
+        {
+          "numero": "6",
+          "verso": "El Señor da muerte y vida, hace bajar al sheol y de allí los hace retornar."
+        },
+        {
+          "numero": "7",
+          "verso": "El Señor da la pobreza y la riqueza, Él humilla y enaltece."
+        },
+        {
+          "numero": "8",
+          "verso": "Levanta del polvo al indigente, del estiércol levanta al pobre\npara sentarlo con los príncipes\ny hacer que herede un trono de gloria.\nDel Señor son los pilares de la tierra\ny sobre ellos se ha afirmado el orbe."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 1:21-28",
+      "lecturaNombreNormalizado": "Mc1,21-28",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "Entraron en Cafarnaún y, en cuanto llegó el sábado, fue a la sinagoga y se puso a enseñar."
+        },
+        {
+          "numero": "22",
+          "verso": "Y se quedaron admirados de su enseñanza, porque les enseñaba como quien tiene potestad y no como los escribas."
+        },
+        {
+          "numero": "23",
+          "verso": "Se encontraba entonces en la sinagoga un hombre poseído por un espíritu impuro,"
+        },
+        {
+          "numero": "24",
+          "verso": "que comenzó a gritar: —¿Qué tenemos que ver contigo, Jesús Nazareno? ¿Has venido a perdernos? ¡Sé quién eres: el Santo de Dios!"
+        },
+        {
+          "numero": "25",
+          "verso": "Y Jesús le conminó: —¡Cállate, y sal de él!"
+        },
+        {
+          "numero": "26",
+          "verso": "Entonces, el espíritu impuro, zarandeándolo y dando una gran voz, salió de él."
+        },
+        {
+          "numero": "27",
+          "verso": "Y se quedaron todos estupefactos, de modo que se preguntaban entre ellos: —¿Qué es esto? Una enseñanza nueva con potestad. Manda incluso a los espíritus impuros y le obedecen."
+        },
+        {
+          "numero": "28",
+          "verso": "Y su fama corrió pronto por todas partes, en toda la región de Galilea."
+        }
+      ]
+    }
+  ]
+}

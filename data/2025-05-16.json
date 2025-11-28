@@ -1,0 +1,107 @@
+{
+  "fecha": "2025-05-16",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hechos 13:26-33",
+      "lecturaNombreNormalizado": "Hch13,26-33",
+      "versos": [
+        {
+          "numero": "26",
+          "verso": "»Hermanos, hijos de Abrahán y los que entre vosotros sois temerosos de Dios: a nosotros se nos ha enviado esta palabra de Salvación."
+        },
+        {
+          "numero": "27",
+          "verso": "Los habitantes de Jerusalén y sus jefes le ignoraron y, al condenarle, cumplieron las palabras de los Profetas que se leen todos los sábados."
+        },
+        {
+          "numero": "28",
+          "verso": "Y sin haber encontrado causa alguna de muerte, pidieron a Pilato que le hiciera morir."
+        },
+        {
+          "numero": "29",
+          "verso": "Cuando cumplieron todo lo que sobre él estaba escrito, le bajaron del madero y lo pusieron en el sepulcro."
+        },
+        {
+          "numero": "30",
+          "verso": "Pero Dios le resucitó de entre los muertos:"
+        },
+        {
+          "numero": "31",
+          "verso": "se apareció muchos días a los que habían subido con él de Galilea a Jerusalén, los mismos que ahora son sus testigos ante el pueblo."
+        },
+        {
+          "numero": "32",
+          "verso": "»También nosotros os anunciamos la buena nueva de que la promesa hecha a nuestros padres"
+        },
+        {
+          "numero": "33",
+          "verso": "la ha cumplido Dios en nosotros, sus hijos, al resucitar a Jesús, como estaba escrito en el Salmo segundo: Tú eres mi Hijo,\nyo te he engendrado hoy."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 2:6-11",
+      "lecturaNombreNormalizado": "Sal2,6-11",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "«Yo mismo he ungido a mi Rey en Sión, mi monte santo»."
+        },
+        {
+          "numero": "7",
+          "verso": "Proclamaré el decreto del Señor. Él me ha dicho:\n«Tú eres mi hijo. Yo te he engendrado hoy."
+        },
+        {
+          "numero": "8",
+          "verso": "Pídeme y te daré en herencia las naciones, los confines de la tierra en propiedad."
+        },
+        {
+          "numero": "9",
+          "verso": "Los quebrantarás con barra de hierro; los romperás como vaso de alfarero»."
+        },
+        {
+          "numero": "10",
+          "verso": "Ahora, reyes, sed juiciosos. Escarmentad los que gobernáis la tierra."
+        },
+        {
+          "numero": "11",
+          "verso": "Servid al Señor con temor y aclamadle con temblor."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Juan 14:1-6",
+      "lecturaNombreNormalizado": "Jn14,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "»No se turbe vuestro corazón. Creéis en Dios, creed también en mí."
+        },
+        {
+          "numero": "2",
+          "verso": "En la casa de mi Padre hay muchas moradas. De lo contrario, ¿os hubiera dicho que voy a prepararos un lugar?"
+        },
+        {
+          "numero": "3",
+          "verso": "Cuando me haya marchado y os haya preparado un lugar, de nuevo vendré y os llevaré junto a mí, para que, donde yo estoy, estéis también vosotros."
+        },
+        {
+          "numero": "4",
+          "verso": "Y adonde yo voy, ya sabéis el camino."
+        },
+        {
+          "numero": "5",
+          "verso": "Tomás le dijo: —Señor, no sabemos adónde vas, ¿cómo podremos saber el camino?"
+        },
+        {
+          "numero": "6",
+          "verso": "—Yo soy el Camino, la Verdad y la Vida —le respondió Jesús—; nadie va al Padre si no es a través de mí."
+        }
+      ]
+    }
+  ]
+}

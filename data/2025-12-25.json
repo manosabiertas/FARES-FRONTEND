@@ -1,0 +1,154 @@
+{
+  "fecha": "2025-12-25",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Isaías 9:1-6",
+      "lecturaNombreNormalizado": "Is9,1-6",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "El pueblo que caminaba en tinieblas vio una gran luz; a los que habitaban en tierra de sombras de muerte,\nles ha brillado una luz."
+        },
+        {
+          "numero": "2",
+          "verso": "Multiplicaste el gozo, aumentaste la alegría.\nSe alegran en tu presencia\ncon la alegría de la siega,\ncomo se gozan al repartirse el botín."
+        },
+        {
+          "numero": "3",
+          "verso": "Porque el yugo que los cargaba, la vara de su hombro,\nel cetro que los oprimía,\nlos quebraste como en el día de Madián."
+        },
+        {
+          "numero": "4",
+          "verso": "Pues toda bota militar que taconea con estrépito, y todo manto restregado en sangre,\nestán destinados a arder, a ser pasto del fuego."
+        },
+        {
+          "numero": "5",
+          "verso": "Porque un niño nos ha nacido, un hijo se nos ha dado.\nSobre sus hombros está el imperio,\ny lleva por nombre:\nConsejero maravilloso, Dios fuerte,\nPadre sempiterno, Príncipe de la paz."
+        },
+        {
+          "numero": "6",
+          "verso": "El imperio será engrandecido, y la paz no tendrá fin\nsobre el trono de David\ny sobre su reino,\npara sostenerlo y consolidarlo\ncon el derecho y la justicia,\ndesde ahora y para siempre.\nEl celo del Señor de los ejércitos lo hará."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 96:1-3, 11-13",
+      "lecturaNombreNormalizado": "Sal96,1-3,11-13",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Cantad al Señor un cántico nuevo, cantad al Señor, la tierra entera."
+        },
+        {
+          "numero": "2",
+          "verso": "Cantad al Señor, bendecid su Nombre, anunciad, día tras día, su salvación."
+        },
+        {
+          "numero": "3",
+          "verso": "Proclamad su gloria a las naciones, sus maravillas a todos los pueblos."
+        },
+        {
+          "numero": "11",
+          "verso": "Alégrense los cielos y exulte la tierra, brame el mar y cuanto lo llena;"
+        },
+        {
+          "numero": "12",
+          "verso": "que se gocen los campos y cuanto hay en ellos. Entonces exultarán todos los árboles del bosque"
+        },
+        {
+          "numero": "13",
+          "verso": "ante el Señor, que ya viene, que viene a juzgar la tierra:\njuzgará al mundo con justicia\ny a los pueblos con rectitud."
+        }
+      ]
+    },
+    {
+      "titulo": "Segunda Lectura",
+      "lecturaNombre": "Tito 2:11-14",
+      "lecturaNombreNormalizado": "Tit2,11-14",
+      "versos": [
+        {
+          "numero": "11",
+          "verso": "Pues se ha manifestado la gracia de Dios, portadora de salvación para todos los hombres,"
+        },
+        {
+          "numero": "12",
+          "verso": "educándonos para que renunciemos a la impiedad y a las concupiscencias mundanas, y vivamos con prudencia, justicia y piedad en este mundo,"
+        },
+        {
+          "numero": "13",
+          "verso": "aguardando la esperanza bienaventurada y la manifestación de la gloria del gran Dios y Salvador nuestro, Jesucristo,"
+        },
+        {
+          "numero": "14",
+          "verso": "que se entregó a sí mismo por nosotros para redimirnos de toda iniquidad, y para purificar para sí un pueblo escogido, celoso por hacer el bien."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 2:1-14",
+      "lecturaNombreNormalizado": "Lc2,1-14",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "En aquellos días se promulgó un edicto de César Augusto, para que se empadronase todo el mundo."
+        },
+        {
+          "numero": "2",
+          "verso": "Este primer empadronamiento se hizo cuando Quirino era gobernador de Siria."
+        },
+        {
+          "numero": "3",
+          "verso": "Todos iban a inscribirse, cada uno a su ciudad."
+        },
+        {
+          "numero": "4",
+          "verso": "José, como era de la casa y familia de David, subió desde Nazaret, ciudad de Galilea, a la ciudad de David llamada Belén, en Judea,"
+        },
+        {
+          "numero": "5",
+          "verso": "para empadronarse con María, su esposa, que estaba encinta."
+        },
+        {
+          "numero": "6",
+          "verso": "Y cuando ellos se encontraban allí, le llegó la hora del parto,"
+        },
+        {
+          "numero": "7",
+          "verso": "y dio a luz a su hijo primogénito; lo envolvió en pañales y lo recostó en un pesebre, porque no había lugar para ellos en el aposento."
+        },
+        {
+          "numero": "8",
+          "verso": "Había unos pastores por aquellos contornos, que dormían al raso y vigilaban por turno su rebaño durante la noche."
+        },
+        {
+          "numero": "9",
+          "verso": "De improviso un ángel del Señor se les presentó, y la gloria del Señor los rodeó de luz. Y se llenaron de un gran temor."
+        },
+        {
+          "numero": "10",
+          "verso": "El ángel les dijo: —No temáis. Mirad, voy a anunciaros una gran alegría, que lo será para todo el pueblo:"
+        },
+        {
+          "numero": "11",
+          "verso": "hoy os ha nacido, en la ciudad de David, el Salvador, que es el Cristo, el Señor;"
+        },
+        {
+          "numero": "12",
+          "verso": "y esto os servirá de señal: encontraréis a un niño envuelto en pañales y reclinado en un pesebre."
+        },
+        {
+          "numero": "13",
+          "verso": "De pronto apareció junto al ángel una muchedumbre de la milicia celestial, que alababa a Dios diciendo:"
+        },
+        {
+          "numero": "14",
+          "verso": "«Gloria a Dios en las alturas y paz en la tierra\na los hombres en los que Él se complace»."
+        }
+      ]
+    }
+  ]
+}

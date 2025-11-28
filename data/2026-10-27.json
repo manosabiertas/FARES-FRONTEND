@@ -1,0 +1,115 @@
+{
+  "fecha": "2026-10-27",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Efesios 5:21-33",
+      "lecturaNombreNormalizado": "Ef5,21-33",
+      "versos": [
+        {
+          "numero": "21",
+          "verso": "Estad sujetos unos a otros en el temor de Cristo."
+        },
+        {
+          "numero": "22",
+          "verso": "Las mujeres a sus maridos como al Señor,"
+        },
+        {
+          "numero": "23",
+          "verso": "porque el marido es cabeza de la mujer, así como Cristo es cabeza de la Iglesia, que es su cuerpo, del cual él es el salvador."
+        },
+        {
+          "numero": "24",
+          "verso": "Pues como la Iglesia está sujeta a Cristo, así también las mujeres a sus maridos en todo."
+        },
+        {
+          "numero": "25",
+          "verso": "Maridos: amad a vuestras mujeres como Cristo amó a la Iglesia y se entregó a sí mismo por ella"
+        },
+        {
+          "numero": "26",
+          "verso": "para santificarla, purificándola mediante el baño del agua por la palabra,"
+        },
+        {
+          "numero": "27",
+          "verso": "para mostrar ante sí mismo a la Iglesia resplandeciente, sin mancha, arruga o cosa parecida, sino para que sea santa e inmaculada."
+        },
+        {
+          "numero": "28",
+          "verso": "Así deben los maridos amar a sus mujeres, como a su propio cuerpo. El que ama a su mujer, a sí mismo se ama,"
+        },
+        {
+          "numero": "29",
+          "verso": "pues nadie aborrece nunca su propia carne, sino que la alimenta y la cuida, como Cristo a la Iglesia,"
+        },
+        {
+          "numero": "30",
+          "verso": "porque somos miembros de su cuerpo."
+        },
+        {
+          "numero": "31",
+          "verso": "Por esto dejará el hombre a su padre y a su madre y se unirá a su mujer, y serán los dos una sola carne."
+        },
+        {
+          "numero": "32",
+          "verso": "Gran misterio es éste, pero yo lo digo en relación a Cristo y a la Iglesia."
+        },
+        {
+          "numero": "33",
+          "verso": "En todo caso, que cada uno de vosotros ame a su mujer como a sí mismo, y que la mujer reverencie al marido."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 128:1-5",
+      "lecturaNombreNormalizado": "Sal128,1-5",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Canto de las subidas. Dichoso el que teme al Señor\ny anda por sus caminos."
+        },
+        {
+          "numero": "2",
+          "verso": "Del trabajo de tus manos comerás; serás dichoso, y te irá bien."
+        },
+        {
+          "numero": "3",
+          "verso": "Tu mujer será como viña fecunda paredes adentro de tu casa.\nTus hijos, como brotes de olivos,\nen torno a tu mesa."
+        },
+        {
+          "numero": "4",
+          "verso": "Pues así es bendecido el hombre que teme al Señor."
+        },
+        {
+          "numero": "5",
+          "verso": "Que el Señor te bendiga desde Sión. Que veas el bienestar de Jerusalén\ntodos los días de tu vida."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 13:18-21",
+      "lecturaNombreNormalizado": "Lc13,18-21",
+      "versos": [
+        {
+          "numero": "18",
+          "verso": "Y decía: —¿A qué se parece el Reino de Dios y con qué lo compararé?"
+        },
+        {
+          "numero": "19",
+          "verso": "Es como un grano de mostaza, que tomó un hombre y lo echó en su huerto, y creció y llegó a hacerse un árbol, y las aves del cielo anidaron en sus ramas."
+        },
+        {
+          "numero": "20",
+          "verso": "Y dijo también: —¿Con qué compararé el Reino de Dios?"
+        },
+        {
+          "numero": "21",
+          "verso": "Es como la levadura que tomó una mujer y la mezcló con tres medidas de harina hasta que fermentó todo."
+        }
+      ]
+    }
+  ]
+}

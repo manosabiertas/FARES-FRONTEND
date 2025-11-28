@@ -1,0 +1,103 @@
+{
+  "fecha": "2025-06-16",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Corintios 6:1-10",
+      "lecturaNombreNormalizado": "2Corintios6,1-10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Como colaboradores suyos os exhortamos también a que no recibáis en vano la gracia de Dios."
+        },
+        {
+          "numero": "2",
+          "verso": "Porque dice: En el tiempo favorable te escuché.\nY en el día de la salvación te ayudé.\nMirad, ahora es el tiempo favorable, ahora es el día de la salvación."
+        },
+        {
+          "numero": "3",
+          "verso": "A nadie damos motivo alguno de escándalo, para que no sea desacreditado nuestro ministerio,"
+        },
+        {
+          "numero": "4",
+          "verso": "sino que en todo nos acreditamos como ministros de Dios: con mucha paciencia, en tribulaciones, necesidades y angustias;"
+        },
+        {
+          "numero": "5",
+          "verso": "en azotes, prisiones y tumultos; en fatigas, desvelos y ayunos;"
+        },
+        {
+          "numero": "6",
+          "verso": "con pureza, con ciencia, con longanimidad, con bondad, en el Espíritu Santo, con caridad sincera,"
+        },
+        {
+          "numero": "7",
+          "verso": "con la palabra de la verdad, con el poder de Dios; mediante las armas de la justicia, en la derecha y en la izquierda;"
+        },
+        {
+          "numero": "8",
+          "verso": "en honra y deshonra, en calumnia y en buena fama; como impostores, siendo veraces;"
+        },
+        {
+          "numero": "9",
+          "verso": "como desconocidos, siendo bien conocidos; como moribundos, y ya veis que vivimos; como castigados, pero no muertos;"
+        },
+        {
+          "numero": "10",
+          "verso": "como tristes, pero siempre alegres; como pobres, pero enriqueciendo a muchos; como quienes nada tienen, aunque poseyéndolo todo."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 98:1-4",
+      "lecturaNombreNormalizado": "Sal98,1-4",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Salmo. Cantad al Señor un cántico nuevo\nporque ha hecho maravillas.\nSu diestra le ha salvado,\nsu santo brazo."
+        },
+        {
+          "numero": "2",
+          "verso": "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones."
+        },
+        {
+          "numero": "3",
+          "verso": "Se acordó de su misericordia y fidelidad con la casa de Israel.\nTodos los confines de la tierra han visto\nla salvación de nuestro Dios."
+        },
+        {
+          "numero": "4",
+          "verso": "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 5:38-42",
+      "lecturaNombreNormalizado": "Mt5,38-42",
+      "versos": [
+        {
+          "numero": "38",
+          "verso": "»Habéis oído que se dijo: Ojo por ojo y diente por diente."
+        },
+        {
+          "numero": "39",
+          "verso": "Pero yo os digo: no repliquéis al malvado; por el contrario, si alguien te golpea en la mejilla derecha, preséntale también la otra."
+        },
+        {
+          "numero": "40",
+          "verso": "Al que quiera entrar en pleito contigo para quitarte la túnica, déjale también el manto."
+        },
+        {
+          "numero": "41",
+          "verso": "A quien te fuerce a andar una milla, vete con él dos."
+        },
+        {
+          "numero": "42",
+          "verso": "A quien te pida, dale; y no rehúyas al que quiera de ti algo prestado."
+        }
+      ]
+    }
+  ]
+}

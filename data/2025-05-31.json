@@ -1,0 +1,171 @@
+{
+  "fecha": "2025-05-31",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Sofonías 3:14-18",
+      "lecturaNombreNormalizado": "Sof3,14-18",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "Canta de gozo, hija de Sión, alborózate, Israel,\nalégrate y disfruta de todo corazón,\nhija de Jerusalén."
+        },
+        {
+          "numero": "15",
+          "verso": "El Señor revocó tu sentencia, echó afuera a tus enemigos;\nel Señor, Rey de Israel,\nestá en medio de ti;\nno temerás más la desgracia."
+        },
+        {
+          "numero": "16",
+          "verso": "Aquel día se dirá a Jerusalén: «¡No temas, Sión,\nno desfallezcan tus manos!"
+        },
+        {
+          "numero": "17",
+          "verso": "El Señor, tu Dios, está en medio de ti\ncomo poderoso Salvador.\nÉl disfrutará de ti con alegría,\nte renovará su amor,\nse regocijará en ti con canto alegre,"
+        },
+        {
+          "numero": "18",
+          "verso": "como en los días de fiesta». «Reuniré de ti a los que están en agobio\npara quitarles la deshonra."
+        },
+        {
+          "numero": "9",
+          "verso": "Que la caridad esté libre de hipocresía, abominando el mal, adhiriéndoos al bien;"
+        },
+        {
+          "numero": "10",
+          "verso": "amándoos de corazón unos a otros con el amor fraterno, honrando cada uno a los otros más que a sí mismo;"
+        },
+        {
+          "numero": "11",
+          "verso": "diligentes en el deber, fervorosos en el espíritu, servidores del Señor;"
+        },
+        {
+          "numero": "12",
+          "verso": "alegres en la esperanza, pacientes en la tribulación; constantes en la oración;"
+        },
+        {
+          "numero": "13",
+          "verso": "compartiendo las necesidades de los santos, procurando practicar la hospitalidad."
+        },
+        {
+          "numero": "14",
+          "verso": "Bendecid a los que os persiguen; bendecidlos y no los maldigáis."
+        },
+        {
+          "numero": "15",
+          "verso": "Alegraos con los que se alegran, llorad con los que lloran."
+        },
+        {
+          "numero": "16",
+          "verso": "Tened los mismos sentimientos los unos hacia los otros, sin dejaros llevar por pensamientos soberbios, sino acomodándoos a las cosas humildes. No os tengáis por sabios ante vosotros mismos."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Isaías 12:2-6",
+      "lecturaNombreNormalizado": "Is12,2-6",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Éste es el Dios de mi salvación: confío y no temo,\nporque el Señor es mi fuerza y mi canción,\ny Él me ha salvado»."
+        },
+        {
+          "numero": "3",
+          "verso": "Sacaréis aguas con gozo de las fuentes de la salvación;"
+        },
+        {
+          "numero": "4",
+          "verso": "y aquel día diréis: «Alabad al Señor, invocad su Nombre,\ncontad a los pueblos sus hazañas,\nrecordad que su Nombre es excelso."
+        },
+        {
+          "numero": "5",
+          "verso": "Cantad al Señor, porque ha hecho proezas ¡que sean conocidas en toda la tierra!"
+        },
+        {
+          "numero": "6",
+          "verso": "¡Exulta y grita de júbilo, tú que habitas en Sión, que es grande en medio de ti el Santo de Israel!»."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 1:39-56",
+      "lecturaNombreNormalizado": "Lc1,39-56",
+      "versos": [
+        {
+          "numero": "39",
+          "verso": "Por aquellos días, María se levantó y marchó deprisa a la montaña, a una ciudad de Judá;"
+        },
+        {
+          "numero": "40",
+          "verso": "y entró en casa de Zacarías y saludó a Isabel."
+        },
+        {
+          "numero": "41",
+          "verso": "Y cuando oyó Isabel el saludo de María, el niño saltó en su seno, e Isabel quedó llena del Espíritu Santo;"
+        },
+        {
+          "numero": "42",
+          "verso": "y exclamando en voz alta, dijo: —Bendita tú entre las mujeres y bendito es el fruto de tu vientre."
+        },
+        {
+          "numero": "43",
+          "verso": "¿De dónde a mí tanto bien, que venga la madre de mi Señor a visitarme?"
+        },
+        {
+          "numero": "44",
+          "verso": "Pues en cuanto llegó tu saludo a mis oídos, el niño saltó de gozo en mi seno;"
+        },
+        {
+          "numero": "45",
+          "verso": "y bienaventurada la que ha creído, porque se cumplirán las cosas que se le han dicho de parte del Señor."
+        },
+        {
+          "numero": "46",
+          "verso": "María exclamó: —Engrandece mi alma al Señor,"
+        },
+        {
+          "numero": "47",
+          "verso": "y se alegra mi espíritu en Dios mi Salvador:"
+        },
+        {
+          "numero": "48",
+          "verso": "porque ha puesto los ojos en la humildad de su esclava;\npor eso desde ahora me llamarán bienaventurada\ntodas las generaciones."
+        },
+        {
+          "numero": "49",
+          "verso": "Porque ha hecho en mí cosas grandes el Todopoderoso,\ncuyo nombre es Santo;"
+        },
+        {
+          "numero": "50",
+          "verso": "su misericordia se derrama de generación en generación\nsobre los que le temen."
+        },
+        {
+          "numero": "51",
+          "verso": "Manifestó el poder de su brazo, dispersó a los soberbios de corazón."
+        },
+        {
+          "numero": "52",
+          "verso": "Derribó de su trono a los poderosos y ensalzó a los humildes."
+        },
+        {
+          "numero": "53",
+          "verso": "Colmó de bienes a los hambrientos y a los ricos los despidió vacíos."
+        },
+        {
+          "numero": "54",
+          "verso": "Auxilió a Israel su siervo, recordando su misericordia,"
+        },
+        {
+          "numero": "55",
+          "verso": "como había prometido a nuestros padres, Abrahán y su descendencia para siempre."
+        },
+        {
+          "numero": "56",
+          "verso": "María permaneció con ella unos tres meses, y se volvió a su casa."
+        }
+      ]
+    }
+  ]
+}

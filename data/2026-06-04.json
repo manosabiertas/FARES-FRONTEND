@@ -1,0 +1,111 @@
+{
+  "fecha": "2026-06-04",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "2 Timoteo 2:8-15",
+      "lecturaNombreNormalizado": "2Timoteo2,8-15",
+      "versos": [
+        {
+          "numero": "8",
+          "verso": "Acuérdate de Jesucristo resucitado de entre los muertos, descendiente de David, como predico en mi evangelio,"
+        },
+        {
+          "numero": "9",
+          "verso": "por el que estoy sufriendo hasta verme entre cadenas como un malhechor: ¡pero la palabra de Dios no está encadenada!"
+        },
+        {
+          "numero": "10",
+          "verso": "Por eso, todo lo soporto por los elegidos, para que también ellos alcancen la salvación, que está en Cristo Jesús, junto con la gloria eterna."
+        },
+        {
+          "numero": "11",
+          "verso": "Podéis estar seguros: Si morimos con él, también viviremos con él;"
+        },
+        {
+          "numero": "12",
+          "verso": "si perseveramos, también reinaremos con él; si lo negamos, también él nos negará;"
+        },
+        {
+          "numero": "13",
+          "verso": "si no somos fieles, él permanece fiel, pues no puede negarse a sí mismo."
+        },
+        {
+          "numero": "14",
+          "verso": "Esto has de enseñar, advirtiendo encarecidamente en la presencia de Dios que no se discuta sobre palabras, que no vale para nada, más que para la perdición de quienes lo están escuchando."
+        },
+        {
+          "numero": "15",
+          "verso": "Esmérate por presentarte ante Dios como un hombre honrado, trabajador que no tiene de qué avergonzarse, que expone con rectitud la doctrina verdadera."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 25:4-5, 8-10, 14",
+      "lecturaNombreNormalizado": "Sal25,4-5,8-10,14",
+      "versos": [
+        {
+          "numero": "4",
+          "verso": "(Dálet) Muéstrame, Señor, tus caminos, enséñame tus sendas."
+        },
+        {
+          "numero": "5",
+          "verso": "(He) Hazme caminar en tu fidelidad, instrúyeme, pues Tú eres mi Dios salvador,\n(Vav) y en Ti espero todo el día."
+        },
+        {
+          "numero": "8",
+          "verso": "(Tet) El Señor es bueno y recto; por eso muestra el camino a los pecadores,"
+        },
+        {
+          "numero": "9",
+          "verso": "(Yod) guía a los mansos en la justicia, enseña su camino a los humildes."
+        },
+        {
+          "numero": "10",
+          "verso": "(Kaf) Las sendas del Señor son amor y fidelidad para los que guardan su alianza y sus preceptos."
+        },
+        {
+          "numero": "14",
+          "verso": "(Sámek) El Señor es amigo de quienes le temen, a ellos les da a conocer su alianza."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 12:28-34",
+      "lecturaNombreNormalizado": "Mc12,28-34",
+      "versos": [
+        {
+          "numero": "28",
+          "verso": "Se acercó uno de los escribas, que había oído la discusión y, al ver lo bien que les había respondido, le preguntó: —¿Cuál es el primero de todos los mandamientos?"
+        },
+        {
+          "numero": "29",
+          "verso": "Jesús respondió: —El primero es: Escucha, Israel, el Señor Dios nuestro es el único Señor;"
+        },
+        {
+          "numero": "30",
+          "verso": "y amarás al Señor tu Dios con todo tu corazón y con toda tu alma y con toda tu mente y con todas tus fuerzas."
+        },
+        {
+          "numero": "31",
+          "verso": "El segundo es éste: Amarás a tu prójimo como a ti mismo. No hay otro mandamiento mayor que éstos."
+        },
+        {
+          "numero": "32",
+          "verso": "Y le dijo el escriba: —¡Bien, Maestro! Con verdad has dicho que Dios es uno solo y no hay otro fuera de Él;"
+        },
+        {
+          "numero": "33",
+          "verso": "y amarle con todo el corazón y con toda la inteligencia y con toda la fuerza, y amar al prójimo como a sí mismo, vale más que todos los holocaustos y sacrificios."
+        },
+        {
+          "numero": "34",
+          "verso": "Viendo Jesús que le había respondido con sensatez, le dijo: —No estás lejos del Reino de Dios.\nY ninguno se atrevía ya a hacerle preguntas."
+        }
+      ]
+    }
+  ]
+}

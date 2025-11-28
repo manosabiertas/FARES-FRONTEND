@@ -1,0 +1,143 @@
+{
+  "fecha": "2026-08-21",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Ezequiel 37:1-14",
+      "lecturaNombreNormalizado": "Ez37,1-14",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "La mano del Señor vino sobre mí y me sacó en el espíritu del Señor y me puso en medio de la vega, que estaba llena de huesos."
+        },
+        {
+          "numero": "2",
+          "verso": "Me hizo pasar entre ellos y dar vueltas alrededor, y vi que eran muchos sobre la superficie de la vega y que estaban completamente secos."
+        },
+        {
+          "numero": "3",
+          "verso": "Y me dijo: —Hijo de hombre, ¿podrán vivir esos huesos?\nContesté:\n—Señor Dios, Tú lo sabes."
+        },
+        {
+          "numero": "4",
+          "verso": "Me dijo: —Profetiza sobre estos huesos y diles: «Huesos secos, escuchad la palabra del Señor."
+        },
+        {
+          "numero": "5",
+          "verso": "Esto dice el Señor Dios a estos huesos: “Voy a infundir en vosotros el espíritu y viviréis."
+        },
+        {
+          "numero": "6",
+          "verso": "Pondré sobre vosotros nervios, haré crecer carne sobre vosotros, os recubriré de piel, infundiré en vosotros el espíritu y viviréis, y sabréis que Yo soy el Señor”»."
+        },
+        {
+          "numero": "7",
+          "verso": "Profeticé como me había sido mandado y, a la voz de mi profecía, hubo un rumor y luego un gran temblor, y los huesos se juntaron uno con otro."
+        },
+        {
+          "numero": "8",
+          "verso": "Miré y vi que había nervios sobre ellos, que les crecía carne y se recubrían de piel. Pero no había espíritu en ellos."
+        },
+        {
+          "numero": "9",
+          "verso": "Y me dijo: —Profetiza sobre el espíritu, profetiza, hijo de hombre y di al espíritu: «Esto dice el Señor Dios: “Ven, espíritu, desde los cuatro vientos y alienta sobre estos muertos para que vuelvan a vivir”»."
+        },
+        {
+          "numero": "10",
+          "verso": "Profeticé según me mandó y vino sobre ellos el espíritu y vivieron. Y se alzaron sobre sus pies: un ejército extremadamente grande."
+        },
+        {
+          "numero": "11",
+          "verso": "Y me dijo: —Hijo de hombre: estos huesos son toda la casa de Israel. Dicen: «Están secos nuestros huesos y destruida nuestra esperanza. Estamos destruidos»."
+        },
+        {
+          "numero": "12",
+          "verso": "Por eso, profetiza y diles: «Esto dice el Señor Dios: “¡Pueblo mío! Voy a abrir vuestros sepulcros, os haré salir de vuestros sepulcros y os haré entrar en la tierra de Israel."
+        },
+        {
+          "numero": "13",
+          "verso": "Y sabréis que Yo soy el Señor cuando abra vuestros sepulcros y os haga salir de vuestros sepulcros, ¡pueblo mío!"
+        },
+        {
+          "numero": "14",
+          "verso": "Infundiré mi espíritu en vosotros y viviréis, y os estableceré en vuestra tierra y sabréis que Yo, el Señor, lo he dicho y lo hago, oráculo del Señor Dios”»."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 107:2-9",
+      "lecturaNombreNormalizado": "Sal107,2-9",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "Que lo digan los redimidos del Señor, los que ha redimido de la mano del adversario,"
+        },
+        {
+          "numero": "3",
+          "verso": "y ha congregado de los países del Oriente y del Occidente,\ndel Septentrión y del Mar."
+        },
+        {
+          "numero": "4",
+          "verso": "Vagaron errantes por el desierto, por la estepa, sin encontrar el camino de una ciudad donde habitar."
+        },
+        {
+          "numero": "5",
+          "verso": "Hambrientos y sedientos, desfallecían sus almas."
+        },
+        {
+          "numero": "6",
+          "verso": "En su angustia clamaron al Señor, y los libró de sus tribulaciones."
+        },
+        {
+          "numero": "7",
+          "verso": "Los condujo por camino recto, hasta llegar a una ciudad donde habitar."
+        },
+        {
+          "numero": "8",
+          "verso": "Den gracias al Señor por su misericordia, por sus maravillas con los hijos de Adán."
+        },
+        {
+          "numero": "9",
+          "verso": "Porque sació al alma sedienta, y a la hambrienta la llenó de bienes."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 22:34-40",
+      "lecturaNombreNormalizado": "Mt22,34-40",
+      "versos": [
+        {
+          "numero": "34",
+          "verso": "Los fariseos, al oír que había hecho callar a los saduceos, se pusieron de acuerdo,"
+        },
+        {
+          "numero": "35",
+          "verso": "y uno de ellos, doctor de la ley, le preguntó para tentarle:"
+        },
+        {
+          "numero": "36",
+          "verso": "—Maestro, ¿cuál es el mandamiento principal de la Ley?"
+        },
+        {
+          "numero": "37",
+          "verso": "Él le respondió: —Amarás al Señor tu Dios con todo tu corazón y con toda tu alma y con toda tu mente."
+        },
+        {
+          "numero": "38",
+          "verso": "Éste es el mayor y el primer mandamiento."
+        },
+        {
+          "numero": "39",
+          "verso": "El segundo es como éste: Amarás a tu prójimo como a ti mismo."
+        },
+        {
+          "numero": "40",
+          "verso": "De estos dos mandamientos dependen toda la Ley y los Profetas."
+        }
+      ]
+    }
+  ]
+}

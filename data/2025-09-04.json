@@ -1,0 +1,115 @@
+{
+  "fecha": "2025-09-04",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Colosenses 1:9-14",
+      "lecturaNombreNormalizado": "Col1,9-14",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "Por eso también nosotros, desde el día en que nos enteramos, no cesamos de rezar y pedir por vosotros, para que alcancéis un pleno conocimiento de su voluntad con toda sabiduría y entendimiento espiritual."
+        },
+        {
+          "numero": "10",
+          "verso": "Rezamos para que viváis de una manera digna del Señor, agradándole en todo, dando como fruto toda clase de obras buenas y creciendo en el conocimiento de Dios."
+        },
+        {
+          "numero": "11",
+          "verso": "Así seréis fortalecidos con toda la fuerza propia de su glorioso poder para tener en todo paciencia y longanimidad, con alegría,"
+        },
+        {
+          "numero": "12",
+          "verso": "dando gracias al Padre, que os hizo dignos de participar en la herencia de los santos en la luz."
+        },
+        {
+          "numero": "13",
+          "verso": "Él nos arrebató del poder de las tinieblas y nos trasladó al reino del Hijo de su amor,"
+        },
+        {
+          "numero": "14",
+          "verso": "en quien tenemos la redención, el perdón de los pecados."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 98:2-6",
+      "lecturaNombreNormalizado": "Sal98,2-6",
+      "versos": [
+        {
+          "numero": "2",
+          "verso": "El Señor ha dado a conocer su salvación; ha revelado su justicia a los ojos de las naciones."
+        },
+        {
+          "numero": "3",
+          "verso": "Se acordó de su misericordia y fidelidad con la casa de Israel.\nTodos los confines de la tierra han visto\nla salvación de nuestro Dios."
+        },
+        {
+          "numero": "4",
+          "verso": "Aclamad al Señor, la tierra entera; gritad, cantad, entonad salmos."
+        },
+        {
+          "numero": "5",
+          "verso": "Entonad salmos al Señor con la cítara, con la cítara al son de la música;"
+        },
+        {
+          "numero": "6",
+          "verso": "con trompetas y el sonido del cuerno, aclamad ante el Rey y Señor."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Lucas 5:1-11",
+      "lecturaNombreNormalizado": "Lc5,1-11",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Estaba Jesús junto al lago de Genesaret y la multitud se agolpaba a su alrededor para oír la palabra de Dios."
+        },
+        {
+          "numero": "2",
+          "verso": "Y vio dos barcas que estaban a la orilla del lago; los pescadores habían bajado de ellas y estaban lavando las redes."
+        },
+        {
+          "numero": "3",
+          "verso": "Entonces, subiendo a una de las barcas, que era de Simón, le rogó que la apartase un poco de tierra. Y, sentado, enseñaba a la multitud desde la barca."
+        },
+        {
+          "numero": "4",
+          "verso": "Cuando terminó de hablar, le dijo a Simón: —Guía mar adentro, y echad vuestras redes para la pesca."
+        },
+        {
+          "numero": "5",
+          "verso": "Simón le contestó: —Maestro, hemos estado bregando durante toda la noche y no hemos pescado nada; pero sobre tu palabra echaré las redes."
+        },
+        {
+          "numero": "6",
+          "verso": "Lo hicieron y recogieron gran cantidad de peces. Tantos, que las redes se rompían."
+        },
+        {
+          "numero": "7",
+          "verso": "Entonces hicieron señas a los compañeros que estaban en la otra barca, para que vinieran y les ayudasen. Vinieron, y llenaron las dos barcas, de modo que casi se hundían."
+        },
+        {
+          "numero": "8",
+          "verso": "Cuando lo vio Simón Pedro, se arrojó a los pies de Jesús, diciendo: —Apártate de mí, Señor, que soy un hombre pecador."
+        },
+        {
+          "numero": "9",
+          "verso": "Pues el asombro se había apoderado de él y de cuantos estaban con él, por la gran cantidad de peces que habían pescado."
+        },
+        {
+          "numero": "10",
+          "verso": "Lo mismo sucedía a Santiago y a Juan, hijos de Zebedeo, que eran compañeros de Simón. Entonces Jesús le dijo a Simón: —No temas; desde ahora serán hombres los que pescarás."
+        },
+        {
+          "numero": "11",
+          "verso": "Y ellos, sacando las barcas a tierra, dejadas todas las cosas, le siguieron."
+        }
+      ]
+    }
+  ]
+}

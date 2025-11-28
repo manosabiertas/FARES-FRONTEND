@@ -1,0 +1,143 @@
+{
+  "fecha": "2025-02-07",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Hebreos 13:1-8",
+      "lecturaNombreNormalizado": "Heb13,1-8",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Mantened el amor fraterno."
+        },
+        {
+          "numero": "2",
+          "verso": "No olvidéis la hospitalidad, gracias a la cual algunos, sin saberlo, hospedaron a ángeles."
+        },
+        {
+          "numero": "3",
+          "verso": "Acordaos de los encarcelados, como si estuvierais en prisión con ellos, y de los que sufren, pues también vosotros vivís en un cuerpo."
+        },
+        {
+          "numero": "4",
+          "verso": "Que todos honren el matrimonio y guarden inmaculado el lecho conyugal, porque Dios juzgará a fornicarios y adúlteros."
+        },
+        {
+          "numero": "5",
+          "verso": "Que vuestra conducta esté libre de avaricia; contentaos con lo que tengáis, porque Él ha dicho: No te dejaré ni abandonaré,"
+        },
+        {
+          "numero": "6",
+          "verso": "de modo que podamos decir confiadamente: El Señor es mi auxilio y no temeré;\n¿qué podrá hacerme el hombre?"
+        },
+        {
+          "numero": "7",
+          "verso": "Acordaos de vuestros pastores, que os proclamaron la palabra de Dios, e imitad su fe, considerando el buen final de su conducta."
+        },
+        {
+          "numero": "8",
+          "verso": "Jesucristo es el mismo ayer y hoy, y por los siglos."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 27:1, 3, 5, 8-9",
+      "lecturaNombreNormalizado": "Sal27,1,3,5,8-9",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "De David. El Señor es mi luz y mi salvación:\n¿a quién temeré?\nEl Señor es el refugio de mi vida:\n¿de quién tendré miedo?"
+        },
+        {
+          "numero": "3",
+          "verso": "Aunque acampe contra mí un ejército, mi corazón no teme.\nAunque se levante contra mí la guerra,\nme siento seguro."
+        },
+        {
+          "numero": "5",
+          "verso": "Él me ocultará en su tienda en los días aciagos;\nme esconderá en lo secreto de su morada,\nme subirá a lo alto de una roca."
+        },
+        {
+          "numero": "8",
+          "verso": "De ti piensa mi corazón: «Busca su rostro».\nTu rostro, Señor, buscaré."
+        },
+        {
+          "numero": "9",
+          "verso": "No me escondas tu rostro. No rechaces con ira a tu siervo.\nTú eres mi auxilio:\nno me rechaces, no me abandones,\nDios de mi salvación."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 6:14-29",
+      "lecturaNombreNormalizado": "Mc6,14-29",
+      "versos": [
+        {
+          "numero": "14",
+          "verso": "Llegó esto a oídos del rey Herodes, pues su nombre se había hecho famoso, y decía: —Juan el Bautista ha resucitado de entre los muertos, y por eso actúan en él unos poderes."
+        },
+        {
+          "numero": "15",
+          "verso": "Otros decían: —Es Elías.\nOtros, en fin, decían:\n—Es un profeta, igual que los demás profetas."
+        },
+        {
+          "numero": "16",
+          "verso": "Pero cuando lo oyó Herodes decía: —Éste es Juan, a quien yo decapité, que ha resucitado."
+        },
+        {
+          "numero": "17",
+          "verso": "En efecto, el propio Herodes había mandado apresar a Juan y le había encadenado en la cárcel a causa de Herodías, la mujer de su hermano Filipo; porque se había casado con ella"
+        },
+        {
+          "numero": "18",
+          "verso": "y Juan le decía a Herodes: «No te es lícito tener a la mujer de tu hermano»."
+        },
+        {
+          "numero": "19",
+          "verso": "Herodías le odiaba y quería matarlo, pero no podía:"
+        },
+        {
+          "numero": "20",
+          "verso": "porque Herodes tenía miedo de Juan, ya que se daba cuenta de que era un hombre justo y santo. Y le protegía y al oírlo le entraban muchas dudas; y le escuchaba con gusto."
+        },
+        {
+          "numero": "21",
+          "verso": "Cuando llegó un día propicio, en el que Herodes por su cumpleaños dio un banquete a sus magnates, a los tribunos y a los principales de Galilea,"
+        },
+        {
+          "numero": "22",
+          "verso": "entró la hija de la propia Herodías, bailó y gustó a Herodes y a los que con él estaban a la mesa. Le dijo el rey a la muchacha: —Pídeme lo que quieras y te lo daré."
+        },
+        {
+          "numero": "23",
+          "verso": "Y le juró varias veces: —Cualquier cosa que me pidas te daré, aunque sea la mitad de mi reino."
+        },
+        {
+          "numero": "24",
+          "verso": "Y, saliendo, le dijo a su madre: —¿Qué le pido?\n—La cabeza de Juan el Bautista —contestó ella."
+        },
+        {
+          "numero": "25",
+          "verso": "Y al instante, entrando deprisa donde estaba el rey, le pidió: —Quiero que enseguida me des en una bandeja la cabeza de Juan el Bautista."
+        },
+        {
+          "numero": "26",
+          "verso": "El rey se entristeció, pero por el juramento y por los comensales no quiso contrariarla."
+        },
+        {
+          "numero": "27",
+          "verso": "Y enseguida el rey envió a un verdugo con la orden de traer su cabeza. Éste se marchó, lo decapitó en la cárcel"
+        },
+        {
+          "numero": "28",
+          "verso": "y trajo su cabeza en una bandeja, y se la dio a la muchacha y la muchacha la entregó a su madre."
+        },
+        {
+          "numero": "29",
+          "verso": "Cuando se enteraron sus discípulos, vinieron, tomaron su cuerpo muerto y lo pusieron en un sepulcro."
+        }
+      ]
+    }
+  ]
+}

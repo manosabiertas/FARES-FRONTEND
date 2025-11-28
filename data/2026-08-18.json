@@ -1,0 +1,123 @@
+{
+  "fecha": "2026-08-18",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Ezequiel 28:1-10",
+      "lecturaNombreNormalizado": "Ez28,1-10",
+      "versos": [
+        {
+          "numero": "1",
+          "verso": "Me fue dirigida la palabra del Señor, diciendo:"
+        },
+        {
+          "numero": "2",
+          "verso": "—Hijo de hombre, di al príncipe de Tiro: «Esto dice el Señor Dios: “Has ensoberbecido tu corazón\ny has dicho: ‘Soy un dios,\nsobre el trono de los dioses me siento,\nen el corazón de los mares’.\nSiendo un hombre y no un dios,\nhas querido igualar tu corazón con el corazón de Dios."
+        },
+        {
+          "numero": "3",
+          "verso": "Siendo más sabio que Daniel, ningún secreto te es desconocido,"
+        },
+        {
+          "numero": "4",
+          "verso": "y con tu sabiduría y tu prudencia has acrecentado tu poder\ny adquirido oro y plata para tus tesoros."
+        },
+        {
+          "numero": "5",
+          "verso": "Por tu gran sabiduría y por tu actividad has acrecentado tu poder,\nde modo que se ha ensoberbecido tu corazón por tus riquezas”."
+        },
+        {
+          "numero": "6",
+          "verso": "Por eso, esto dice el Señor Dios: “Porque has querido igualar tu corazón con el corazón de Dios,"
+        },
+        {
+          "numero": "7",
+          "verso": "he aquí que voy a atraer contra ti a los extranjeros más crueles de entre las naciones.\nDesnudarán sus espadas contra la hermosura de tu sabiduría\ny profanarán tu esplendor."
+        },
+        {
+          "numero": "8",
+          "verso": "Te harán bajar a la fosa y morirás con la violencia de los que mueren en el corazón de los mares."
+        },
+        {
+          "numero": "9",
+          "verso": "¿Seguirás diciendo entonces: ‘Soy un dios’, ante los que te maten,\ncuando aparezcas como hombre y no como dios,\nen manos de tus asesinos?"
+        },
+        {
+          "numero": "10",
+          "verso": "Morirás con muerte de incircunciso a manos de extranjeros,\nporque Yo he hablado,\noráculo del Señor Dios”»."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Deuteronomio 32:26-28, 30, 35-36",
+      "lecturaNombreNormalizado": "Dt32,26-28,30,35-36",
+      "versos": [
+        {
+          "numero": "26",
+          "verso": "Yo había dicho: los reduciría a polvo, borraría su recuerdo entre los hombres,"
+        },
+        {
+          "numero": "27",
+          "verso": "si no fuera por la arrogancia del enemigo: no sea que juzguen al revés sus adversarios y digan:\n“¡Nuestra mano ha vencido,\nno es el Señor quien hace todo esto!”"
+        },
+        {
+          "numero": "28",
+          "verso": "Son un pueblo que ha perdido el juicio, que no tiene inteligencia."
+        },
+        {
+          "numero": "30",
+          "verso": "¿cómo uno podría poner en fuga a mil, y dos ahuyentar a diez mil?\n¿No es porque su Roca los ha vendido,\ny el Señor los ha entregado?»"
+        },
+        {
+          "numero": "35",
+          "verso": "Mía es la venganza y el castigo para el momento en que sus pies vacilen;\npróximo está ya el día de su ruina,\ny se apresura su destino."
+        },
+        {
+          "numero": "36",
+          "verso": "Pues el Señor hará justicia a su pueblo y de sus siervos tendrá misericordia,\npues verá que se extinguió su fuerza\ny no queda ni cautivo ni libre."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 19:23-30",
+      "lecturaNombreNormalizado": "Mt19,23-30",
+      "versos": [
+        {
+          "numero": "23",
+          "verso": "Jesús les dijo entonces a sus discípulos: —En verdad os digo: difícilmente entrará un rico en el Reino de los Cielos."
+        },
+        {
+          "numero": "24",
+          "verso": "Es más, os digo que es más fácil a un camello pasar por el ojo de una aguja, que a un rico entrar en el Reino de Dios."
+        },
+        {
+          "numero": "25",
+          "verso": "Cuando oyeron esto sus discípulos, se quedaron muy asombrados y decían: —Entonces, ¿quién puede salvarse?"
+        },
+        {
+          "numero": "26",
+          "verso": "Jesús, con la mirada fija en ellos, les dijo: —Para el hombre esto es imposible; para Dios, sin embargo, todo es posible."
+        },
+        {
+          "numero": "27",
+          "verso": "Entonces Pedro tomó la palabra y le dijo: —Ya ves que nosotros lo hemos dejado todo y te hemos seguido, ¿qué recompensa tendremos?"
+        },
+        {
+          "numero": "28",
+          "verso": "Jesús les respondió: —En verdad os digo que en la regeneración, cuando el Hijo del Hombre se siente en su trono de gloria, vosotros, los que me habéis seguido, también os sentaréis sobre doce tronos para juzgar a las doce tribus de Israel."
+        },
+        {
+          "numero": "29",
+          "verso": "Y todo el que haya dejado casa, hermanos o hermanas, padre o madre, o hijos, o campos, por causa de mi nombre, recibirá el ciento por uno y heredará la vida eterna."
+        },
+        {
+          "numero": "30",
+          "verso": "Porque muchos primeros serán últimos y muchos últimos serán primeros."
+        }
+      ]
+    }
+  ]
+}

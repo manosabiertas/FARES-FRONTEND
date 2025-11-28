@@ -1,0 +1,95 @@
+{
+  "fecha": "2025-08-27",
+  "color": "blanco",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "1 Tesalonicenses 2:9-13",
+      "lecturaNombreNormalizado": "1Tesalonicenses2,9-13",
+      "versos": [
+        {
+          "numero": "9",
+          "verso": "Pues recordáis, hermanos, nuestro esfuerzo y nuestra fatiga: trabajando día y noche, para no ser gravosos a ninguno de vosotros, os predicamos el Evangelio de Dios."
+        },
+        {
+          "numero": "10",
+          "verso": "Testigos sois, y Dios también, de que nuestra conducta entre vosotros, los creyentes, fue santa, justa e irreprochable."
+        },
+        {
+          "numero": "11",
+          "verso": "Como un padre a sus hijos —lo sabéis bien—, a cada uno"
+        },
+        {
+          "numero": "12",
+          "verso": "os alentábamos y os consolábamos, exhortándoos a que vivierais de una manera digna de Dios, que os llama a su Reino y a su gloria."
+        },
+        {
+          "numero": "13",
+          "verso": "Y por eso también nosotros damos gracias a Dios sin cesar, porque, cuando recibisteis la palabra que os predicamos, la acogisteis no como palabra humana, sino como lo que es en verdad: palabra divina, que actúa eficazmente en vosotros, los creyentes."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 139:7-12",
+      "lecturaNombreNormalizado": "Sal139,7-12",
+      "versos": [
+        {
+          "numero": "7",
+          "verso": "¿Adónde alejarme de tu espíritu? ¿Adónde huir de tu presencia?"
+        },
+        {
+          "numero": "8",
+          "verso": "Si subo al cielo, allí estás Tú; si bajo hasta el sheol, allí te encuentras."
+        },
+        {
+          "numero": "9",
+          "verso": "Si monto en las alas de la aurora y habito en los confines del mar,"
+        },
+        {
+          "numero": "10",
+          "verso": "también allí me guiará tu mano, me sujetará tu diestra."
+        },
+        {
+          "numero": "11",
+          "verso": "Si digo: «¡Que al menos me cubran las tinieblas y la luz se haga noche en torno a mí!»."
+        },
+        {
+          "numero": "12",
+          "verso": "Tampoco las tinieblas son para ti oscuras, pues la noche brilla como el día,\nlas tinieblas, como la luz."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Mateo 23:27-32",
+      "lecturaNombreNormalizado": "Mt23,27-32",
+      "versos": [
+        {
+          "numero": "27",
+          "verso": "»¡Ay de vosotros, escribas y fariseos hipócritas, que os parecéis a sepulcros blanqueados, que por fuera aparecen hermosos, pero por dentro están llenos de huesos de muertos y de toda podredumbre!"
+        },
+        {
+          "numero": "28",
+          "verso": "Así también vosotros por fuera os mostráis justos ante los hombres, pero por dentro estáis llenos de hipocresía y de iniquidad."
+        },
+        {
+          "numero": "29",
+          "verso": "»¡Ay de vosotros, escribas y fariseos hipócritas, que edificáis las tumbas de los profetas y adornáis los sepulcros de los justos,"
+        },
+        {
+          "numero": "30",
+          "verso": "y decís: «Si hubiéramos vivido en tiempos de nuestros padres, no habríamos sido sus cómplices en la sangre de los profetas!»."
+        },
+        {
+          "numero": "31",
+          "verso": "Así pues, atestiguáis contra vosotros mismos que sois hijos de los que mataron a los profetas."
+        },
+        {
+          "numero": "32",
+          "verso": "Y vosotros, colmad la medida de vuestros padres."
+        }
+      ]
+    }
+  ]
+}

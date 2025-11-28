@@ -1,0 +1,115 @@
+{
+  "fecha": "2025-02-19",
+  "color": "verde",
+  "lecturas": [
+    {
+      "titulo": "Primera Lectura",
+      "lecturaNombre": "Génesis 8:6-13, 20-22",
+      "lecturaNombreNormalizado": "Gn8,6-13,20-22",
+      "versos": [
+        {
+          "numero": "6",
+          "verso": "Al cabo de cuarenta días abrió Noé la ventana que había hecho en el arca"
+        },
+        {
+          "numero": "7",
+          "verso": "y soltó un cuervo; éste estuvo yendo y viniendo hasta que se secaron las aguas sobre la tierra."
+        },
+        {
+          "numero": "8",
+          "verso": "Luego soltó una paloma para ver si ya habían menguado las aguas sobre la faz de la tierra."
+        },
+        {
+          "numero": "9",
+          "verso": "Pero la paloma, al no hallar donde posar su pie, volvió a él, al arca, porque aún había agua sobre toda la faz de la tierra; y él, extendiendo la mano, la recogió y la metió consigo en el arca."
+        },
+        {
+          "numero": "10",
+          "verso": "Esperó siete días más y volvió a soltar la paloma fuera del arca."
+        },
+        {
+          "numero": "11",
+          "verso": "Al atardecer, la paloma regresó a él, y traía en su pico una rama verde de olivo; por ello conoció Noé que las aguas habían disminuido sobre la tierra."
+        },
+        {
+          "numero": "12",
+          "verso": "Aún esperó otros siete días y soltó la paloma, que ya no volvió más a él."
+        },
+        {
+          "numero": "13",
+          "verso": "Así pues, el año seiscientos uno, el día uno del primer mes, se secaron las aguas de encima de la tierra. Noé retiró la cubierta del arca, miró y vio que la superficie de la tierra estaba seca."
+        },
+        {
+          "numero": "20",
+          "verso": "Entonces construyó Noé un altar al Señor y, escogiendo de entre todos los ganados puros y de todas las aves puras, ofreció holocaustos sobre el altar."
+        },
+        {
+          "numero": "21",
+          "verso": "Al aspirar el Señor el suave aroma, dijo en su corazón: —No volveré más a maldecir la tierra por causa del hombre, pues la inclinación del corazón humano es mala desde su juventud; y no volveré más a destruir a todos los seres vivos como acabo de hacer."
+        },
+        {
+          "numero": "22",
+          "verso": "»Sementera y siega, frío y calor,\nverano e invierno,\ndía y noche,\nno cesarán\nmientras dure la tierra."
+        }
+      ]
+    },
+    {
+      "titulo": "Salmo Responsorial",
+      "lecturaNombre": "Salmo 116:12-15, 18-19",
+      "lecturaNombreNormalizado": "Sal116,12-15,18-19",
+      "versos": [
+        {
+          "numero": "12",
+          "verso": "¿Cómo pagaré al Señor todo el bien que me ha dado?"
+        },
+        {
+          "numero": "13",
+          "verso": "Alzaré la copa de la salvación e invocaré el Nombre del Señor."
+        },
+        {
+          "numero": "14",
+          "verso": "Cumpliré al Señor mis votos en presencia de todo su pueblo."
+        },
+        {
+          "numero": "15",
+          "verso": "Preciosa es a los ojos del Señor la muerte de sus fieles."
+        },
+        {
+          "numero": "18",
+          "verso": "Cumpliré al Señor mis votos en presencia de todo su pueblo,"
+        },
+        {
+          "numero": "19",
+          "verso": "en los atrios de la Casa del Señor, en medio de ti, Jerusalén."
+        }
+      ]
+    },
+    {
+      "titulo": "Evangelio",
+      "lecturaNombre": "Marcos 8:22-26",
+      "lecturaNombreNormalizado": "Mc8,22-26",
+      "versos": [
+        {
+          "numero": "22",
+          "verso": "Llegan a Betsaida y le traen un ciego suplicándole que lo toque."
+        },
+        {
+          "numero": "23",
+          "verso": "Tomando de la mano al ciego lo sacó fuera de la aldea y, poniendo saliva en sus ojos, le impuso las manos y le preguntó: —¿Ves algo?"
+        },
+        {
+          "numero": "24",
+          "verso": "Y alzando la mirada dijo: —Veo a hombres como árboles que andan."
+        },
+        {
+          "numero": "25",
+          "verso": "Después le puso otra vez las manos sobre los ojos, y comenzó a ver y quedó curado, de manera que veía con claridad todas las cosas."
+        },
+        {
+          "numero": "26",
+          "verso": "Y lo envió a su casa diciéndole: —No entres ni siquiera en la aldea."
+        }
+      ]
+    }
+  ]
+}
