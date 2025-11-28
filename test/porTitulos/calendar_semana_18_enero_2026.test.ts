@@ -1,4 +1,4 @@
-import { traerContemplacionesSemana } from '../lib/calendar_title_based'
+import { traerContemplacionesSemana } from '../../lib/calendar_title_based'
 
 describe('traerContemplacionesSemana - Semana 18 al 24 de enero de 2026', () => {
   it('devuelve solo las contemplaciones correctas para el evangelio de Juan 1, 29-34 el 18-01-2026', () => {

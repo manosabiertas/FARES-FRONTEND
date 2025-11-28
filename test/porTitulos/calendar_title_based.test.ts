@@ -25,7 +25,7 @@ describe('traerContemplacionesSemana - ids presentes en fechas específicas', ()
     })
   })
 })
-import { traerContemplacionesSemana } from '../lib/calendar_title_based'
+import { traerContemplacionesSemana } from '../../lib/calendar_title_based'
 
 // En los casos de domingos del Tiempo Ordinario y fiestas fijas, los IDs se ajustan para reflejar los que devuelve la lógica real
 // según celebration_index_ciclos.json y la lógica de precedencia litúrgica.

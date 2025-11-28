@@ -1,7 +1,7 @@
 // Test para cada fiesta y ciclo según celebration_index_ciclos.json
-import { traerContemplacionesSemana } from '../lib/calendar_title_based'
+import { traerContemplacionesSemana } from '../../lib/calendar_title_based'
 
-import celebrationIndex from '../lib/celebration_index_ciclos.json'
+import celebrationIndex from '../../lib/celebration_index_ciclos.json'
 
 // Utilidades para calcular fechas litúrgicas
 import {
@@ -14,7 +14,7 @@ import {
   getLiturgicalSeason,
   getDomingoDeEstaSemana,
   getCelebracionClave
-} from '../lib/calendar_title_based'
+} from '../../lib/calendar_title_based'
 
 // Mapeo de claves a funciones de fecha
 const fechaPorClave: Record<string, (año: number) => Date> = {

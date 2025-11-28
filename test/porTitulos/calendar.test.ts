@@ -12,7 +12,7 @@ import {
   type Season,
   type Contemplacion,
   type ContemplacionesSemana
-} from '../lib/calendar_title_based'
+} from '../../lib/calendar_title_based'
 
 // Simple test runner
 class TestRunner {

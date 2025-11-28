@@ -1,4 +1,4 @@
-import { traerContemplacionesSemana } from "../lib/calendar_title_based";
+import { traerContemplacionesSemana } from "../../lib/calendar_title_based";
 
 describe("Semana del 8 al 14 de febrero de 2026", () => {
   it("devuelve solo las contemplaciones correctas para Mt 5,13-16", () => {

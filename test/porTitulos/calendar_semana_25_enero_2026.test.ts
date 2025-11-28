@@ -1,4 +1,4 @@
-import { traerContemplacionesSemana } from '../lib/calendar_title_based'
+import { traerContemplacionesSemana } from '../../lib/calendar_title_based'
 
 describe('traerContemplacionesSemana - Semana 25 al 31 de enero de 2026', () => {
   it('devuelve solo las contemplaciones correctas para el evangelio de Mateo 4, 12-23 el 25-01-2026', () => {
