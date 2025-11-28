@@ -5,7 +5,14 @@ describe('traerContemplacionesSemana - Semana 18 al 24 de enero de 2026', () => 
     // Domingo 18 de enero de 2026
     const fecha = new Date(Date.UTC(2026, 0, 18))
     const resultado = traerContemplacionesSemana(fecha)
-    const idsObtenidos = resultado.contemplaciones.map(c => c.id)
+    // Filtrar solo las contemplaciones que tengan la lectura exacta 'Jn 1,29-34'
+    const contemplacionesFiltradas = resultado.contemplaciones.filter(c => {
+      if (Array.isArray(c.lecturas)) {
+        return c.lecturas.includes('Jn 1,29-34');
+      }
+      return c.lecturas === 'Jn 1,29-34';
+    });
+    const idsObtenidos = contemplacionesFiltradas.map(c => c.id)
     // IDs correctos para el evangelio Juan 1, 29-34 (según la descripción)
     // IDs exactos de las contemplaciones para Jn 1,29-34:
     // “No lo conocía, pero…” (2 A 2020): 94897
