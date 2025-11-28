@@ -60,12 +60,10 @@ function esPrimerDomingoDespuesDeNavidad(fechaDomingo: Date): boolean {
 }
 
 import contemplacionesDataRaw from './contemplaciones.json'
-import celebrationIndexCiclosRaw from './celebration_index_ciclos.json'
 import gospelIndexRaw from './gospel_index.json'
 
 // Verificar que los datos se cargaron correctamente
 const contemplacionesData = contemplacionesDataRaw as any
-const celebrationIndex = celebrationIndexCiclosRaw as Record<string, number[]>
 const gospelIndex = gospelIndexRaw as Record<string, number[]>
 if (!contemplacionesData) {
   console.error('ERROR: contemplaciones.json no se cargó correctamente')
@@ -567,48 +565,45 @@ function calcularDomingoNavidad(fecha: Date, seasonInfo: SeasonInfo): string | n
  * Obtiene las contemplaciones para la semana actual basándose en la celebración litúrgica.
  * Usa el índice de celebraciones del JSON limpio para búsqueda eficiente.
  */
+import fs from 'fs';
+import path from 'path';
+
 export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana {
-  //const celebracionesFijas: Contemplacion[] = [];
-  //const entries = contemplacionesData;
-  //inicializa la datos de tiempo 
-  const hoy = fecha || new Date()
-  //calcular la temporada 
-  const seasonInfo = getLiturgicalSeason(hoy)
-  //calcula el año en base al calendario liturgico
-  const year = liturgicalYearForDate(hoy)
-  //calcula el ciclo del año liturgico 
-  const ciclo = getCicloLiturgico(year)
-  // Calcular el domingo correspondiente
-  const fechaDomingo = getDomingoDeEstaSemana(hoy)
-  const fechaDomingoFormateada = formatearFechaEspanol(fechaDomingo)
-  const año = fechaDomingo.getUTCFullYear()
-  const mes = fechaDomingo.getUTCMonth() + 1
-  const dia = fechaDomingo.getUTCDate()
-  // Por fecha exacta
-  let idsEncontrados: number[] = [];
+  const hoy = fecha || new Date();
+  const seasonInfo = getLiturgicalSeason(hoy);
+  const year = liturgicalYearForDate(hoy);
+  const ciclo = getCicloLiturgico(year);
+  const fechaDomingo = getDomingoDeEstaSemana(hoy);
+  const fechaDomingoFormateada = formatearFechaEspanol(fechaDomingo);
   const celebracionClave = getCelebracionClave(fechaDomingo, seasonInfo, ciclo);
 
-  // IDs de ciclo del domingo
-  let idsCiclo: number[] = [];
-  if (celebracionClave) {
-    idsCiclo = celebrationIndex[`${celebracionClave}`] || [];
-  }
-
-  // IDs de contemplaciones de toda la semana (no solo fijas, sino también por ciclo para cada día)
+  // IDs de contemplaciones de toda la semana usando data/YYYY-MM-DD.json y gospel_index
   const diasSemana: Date[] = [];
   for (let i = 0; i < 7; i++) {
     diasSemana.push(addDays(fechaDomingo, i));
   }
   let idsSemana: number[] = [];
   for (const d of diasSemana) {
-    // Por ciclo (si el día es domingo, usar celebracion_clave; si no, calcular la clave para ese día)
-    let claveDia: string | null = null;
-    const seasonInfoDia = getLiturgicalSeason(d);
-    const cicloDia = getCicloLiturgico(liturgicalYearForDate(d));
-    claveDia = getCelebracionClave(d, seasonInfoDia, cicloDia);
-    if (claveDia && celebrationIndex[claveDia]) {
-      idsSemana.push(...celebrationIndex[claveDia]);
+    const yyyy = d.getUTCFullYear();
+    const mm = String(d.getUTCMonth() + 1).padStart(2, '0');
+    const dd = String(d.getUTCDate()).padStart(2, '0');
+    const filePath = path.join(__dirname, '../data', `${yyyy}-${mm}-${dd}.json`);
+    let idsEvangelio: number[] = [];
+    try {
+      if (fs.existsSync(filePath)) {
+        const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        const evangelio = (data.lecturas || []).find((l: any) => l.titulo && l.titulo.toLowerCase().includes('evangelio'));
+        if (evangelio && evangelio.lecturaNombreNormalizado) {
+          const clave = evangelio.lecturaNombreNormalizado.trim();
+          if (gospelIndex[clave]) {
+            idsEvangelio = gospelIndex[clave];
+          }
+        }
+      }
+    } catch (e) {
+      // Si hay error, no agrega nada
     }
+    idsSemana.push(...idsEvangelio);
     // Por fecha exacta (fiestas fijas)
     const m = d.getUTCMonth() + 1;
     const day = d.getUTCDate();
@@ -617,27 +612,15 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
   }
   // Eliminar duplicados manteniendo el primer orden de aparición
   idsSemana = Array.from(new Set(idsSemana));
-  console.log('Paso 1: idsSemana:', idsSemana);
+  //console.log('Paso 1: idsSemana:', idsSemana);
   // Ordenar las contemplaciones según el orden de idsSemana
   const contemplaciones: Contemplacion[] = idsSemana
     .map((id) => {
-      const c = contemplacionesData.find((c: any) => c.id === id)
-      return c ? { ...c, fecha: fechaDomingoFormateada } : null
+      const c = contemplacionesData.find((c: any) => c.id === id);
+      return c ? { ...c, fecha: fechaDomingoFormateada } : null;
     })
-    .filter((c): c is Contemplacion => c !== null)
-  console.log('Paso 2: contemplaciones:', contemplaciones.map(c => ({ id: c.id, titulo: c.titulo, lecturas: c.lecturas })));
-
-  // Filtrar por lecturas en gospel_index
-  // Importar dinámicamente para evitar ciclo de dependencias
-  let contemplacionesFiltradas = [];
-  try {
-    // eslint-disable-next-line @typescript-eslint/no-var-requires
-    const { filtrarPorLecturaEnGospelIndex } = require('./filtrar_por_lectura_gospel_index');
-    contemplacionesFiltradas = filtrarPorLecturaEnGospelIndex(idsSemana);
-    console.log('Paso 3: contemplaciones filtradas por gospel_index:', contemplacionesFiltradas);
-  } catch (e) {
-    console.warn('No se pudo importar o ejecutar filtrarPorLecturaEnGospelIndex:', e);
-  }
+    .filter((c): c is Contemplacion => c !== null);
+  //console.log('Paso 2: contemplaciones:', contemplaciones.map(c => ({ id: c.id, titulo: c.titulo, lecturas: c.lecturas })));
 
   return {
     fecha: hoy,
@@ -645,9 +628,8 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
     temporada: seasonInfo.season,
     ciclo,
     celebracion_clave: celebracionClave,
-    contemplaciones,
-    contemplacionesFiltradasPorLectura: contemplacionesFiltradas
-  }
+    contemplaciones
+  };
 }
 
 /** La funcion acepta los ids encontrados ,  separa las lecturas tomando los valores desde contemplaciones json 
