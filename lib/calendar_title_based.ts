@@ -88,10 +88,13 @@ export interface SeasonInfo {
 export interface Contemplacion {
   id: number
   titulo: string
+  ciclo:string
   resumen: string
   link: string
   fecha?: string
   lecturas?: string[] | string
+  dominical:boolean, 
+  tiempo_liturgico:string
 }
 
 export type Ciclo = 'A' | 'B' | 'C';
@@ -103,6 +106,8 @@ export interface ContemplacionesSemana {
   ciclo: Ciclo
   celebracion_clave: string | null
   contemplaciones: Contemplacion[]
+  /** Contemplaciones filtradas por lectura según gospel_index (opcional, solo para debug) */
+  contemplacionesFiltradasPorLectura?: { id: number, titulo: string, lecturas: string[] | string }[]
 }
 
 /**
@@ -612,6 +617,7 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
   }
   // Eliminar duplicados manteniendo el primer orden de aparición
   idsSemana = Array.from(new Set(idsSemana));
+  console.log('Paso 1: idsSemana:', idsSemana);
   // Ordenar las contemplaciones según el orden de idsSemana
   const contemplaciones: Contemplacion[] = idsSemana
     .map((id) => {
@@ -619,15 +625,36 @@ export function traerContemplacionesSemana(fecha?: Date): ContemplacionesSemana 
       return c ? { ...c, fecha: fechaDomingoFormateada } : null
     })
     .filter((c): c is Contemplacion => c !== null)
+  console.log('Paso 2: contemplaciones:', contemplaciones.map(c => ({ id: c.id, titulo: c.titulo, lecturas: c.lecturas })));
+
+  // Filtrar por lecturas en gospel_index
+  // Importar dinámicamente para evitar ciclo de dependencias
+  let contemplacionesFiltradas = [];
+  try {
+    // eslint-disable-next-line @typescript-eslint/no-var-requires
+    const { filtrarPorLecturaEnGospelIndex } = require('./filtrar_por_lectura_gospel_index');
+    contemplacionesFiltradas = filtrarPorLecturaEnGospelIndex(idsSemana);
+    console.log('Paso 3: contemplaciones filtradas por gospel_index:', contemplacionesFiltradas);
+  } catch (e) {
+    console.warn('No se pudo importar o ejecutar filtrarPorLecturaEnGospelIndex:', e);
+  }
+
   return {
     fecha: hoy,
     fechaDomingo: fechaDomingoFormateada,
     temporada: seasonInfo.season,
     ciclo,
     celebracion_clave: celebracionClave,
-    contemplaciones
+    contemplaciones,
+    contemplacionesFiltradasPorLectura: contemplacionesFiltradas
   }
 }
+
+/** La funcion acepta los ids encontrados ,  separa las lecturas tomando los valores desde contemplaciones json 
+ * normaliza las lecturas , obtiene los ids de las contemplaciones que estan indicadas en  gospel_inde.json tomando como indice 
+ * la lectura normalizada y  filtra los id de las contemplaciones dejando solo los que encuentra coinciden con los encontrados en 
+ * gospel_index.json 
+ */
 
 
 /**
