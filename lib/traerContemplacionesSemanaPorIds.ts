@@ -4,24 +4,27 @@
  * @returns Array de IDs de contemplaciones
  */
 
-import calendarIds from './calendar_ids';
 
-function getWeekKey(date: Date): string {
-  const year = date.getUTCFullYear();
-  const jan1 = new Date(Date.UTC(year, 0, 1));
-  const getSunday = (d: Date) => {
-    const copy = new Date(Date.UTC(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()));
-    copy.setUTCDate(copy.getUTCDate() - copy.getUTCDay());
-    return copy;
-  };
-  const firstWeekSunday = getSunday(jan1);
-  let weekNumber = Math.floor((getSunday(date).getTime() - firstWeekSunday.getTime()) / (7 * 86400000)) + 1;
-  if (getSunday(date) < firstWeekSunday) weekNumber = 1;
-  return `${year}-${String(weekNumber).padStart(2, '0')}`;
-}
 
-export function traerContemplacionesSemanaPorIds(fecha: Date): number[] {
+import idsData from './ids.json';
+import contemplacionesData from './contemplaciones.json';
+import { Contemplacion } from './calendar_title_based';
+
+/**
+ * Devuelve las contemplaciones para una fecha específica, incluyendo la fecha por la que fue elegida.
+ * @param fecha Fecha a consultar
+ * @returns Array de objetos { id: number, fecha: string }
+ */
+export function traerContemplacionesSemanaPorIds(fecha: Date):Contemplacion[]{
   const year = String(fecha.getUTCFullYear());
-  const weekKey = getWeekKey(fecha);
-  return (calendarIds[year] && calendarIds[year][weekKey]) ? calendarIds[year][weekKey] : [];
+  const month = String(fecha.getUTCMonth() + 1).padStart(2, '0');
+  const day = String(fecha.getUTCDate()).padStart(2, '0');
+  const diaData = idsData[year]?.[month]?.[day];
+  if (diaData && Array.isArray(diaData.contemplaciones)) {
+    return diaData.contemplaciones.map((id: number) => {
+      const contem = (contemplacionesData as any[]).find(c => c.id === id);
+      return contem ? { ...contem, fecha: `${year}-${month}-${day}` } : { id, fecha: `${year}-${month}-${day}` };
+    });
+  }
+  return [];
 }
