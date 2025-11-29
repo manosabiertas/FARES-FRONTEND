@@ -7,12 +7,26 @@
 
 
 
-import idsData from './ids.json';
+type IdsDataType = {
+  [year: string]: {
+    [month: string]: {
+      [day: string]: {
+        lectura: string;
+        lecturaNormalizada: string;
+        contemplaciones: number[];
+        celebracion_clave?: string;
+      };
+    };
+  };
+};
+
+import idsDataJson from './ids.json';
 import contemplacionesData from './contemplaciones.json';
+
+const idsData: IdsDataType = idsDataJson as unknown as IdsDataType;
 
 // === FUNCIONES AUXILIARES COPIADAS DE base.tsx ===
 export type Season = 'Advent' | 'Christmas' | 'Lent' | 'Easter' | 'Ordinary Time' | 'Triduum';
-export type Ciclo = 'A' | 'B' | 'C';
 
 function addDays(d: Date, days: number): Date {
   const nd = new Date(d.getTime());
@@ -148,7 +162,6 @@ function getDomingoDeEstaSemana(fecha: Date): Date {
 }
 
 
-export type Season = 'Advent' | 'Christmas' | 'Lent' | 'Easter' | 'Ordinary Time' | 'Triduum'
 
 
 export interface SeasonInfo {
