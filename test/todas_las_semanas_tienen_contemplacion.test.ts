@@ -1,4 +1,4 @@
-import { traerContemplacionesSemana } from '../../lib/traerContemplacionesSemanaPorIds';
+import { traerContemplacionesSemana } from '../lib/traerContemplacionesSemanaPorIds';
 
 describe('Todas las semanas entre 2025-01-01 y 2026-10-01 tienen al menos una contemplación', () => {
   // Buscar el primer domingo igual o posterior a 2025-01-01

@@ -1,4 +1,4 @@
-import { traerContemplacionesSemana } from '../../lib/traerContemplacionesSemanaPorIds';
+import { traerContemplacionesSemana } from '../lib/traerContemplacionesSemanaPorIds';
 
 describe('Fiesta fija 12-8', () => {
   const idsEsperados = [66726, 17615];

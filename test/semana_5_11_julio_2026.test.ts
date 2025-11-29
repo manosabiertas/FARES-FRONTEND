@@ -1,4 +1,4 @@
-import { traerContemplacionesSemana } from '../../lib/traerContemplacionesSemanaPorIds';
+import { traerContemplacionesSemana } from '../lib/traerContemplacionesSemanaPorIds';
 
 describe('Contemplaciones del 5 de julio de 2026', () => {
   const fecha = new Date(Date.UTC(2026, 6, 5));

@@ -1,4 +1,4 @@
-import { traerContemplacionesSemana } from '../../lib/traerContemplacionesSemanaPorIds';
+import { traerContemplacionesSemana } from '../lib/traerContemplacionesSemanaPorIds';
 
 
 describe('Contemplaciones del 01-02-2026: solo deben estar los ids correctos para el evangelio Mateo 5, 1-12', () => {

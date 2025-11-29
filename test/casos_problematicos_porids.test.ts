@@ -1,5 +1,5 @@
-import { traerContemplacionesSemana } from '../../lib/traerContemplacionesSemanaPorIds';
-import contemplacionesData from '../../lib/contemplaciones.json';
+import { traerContemplacionesSemana } from '../lib/traerContemplacionesSemanaPorIds';
+import contemplacionesData from '../lib/contemplaciones.json';
 
 describe('Casos problemáticos de contemplaciones por semana (porIds)', () => {
   it('23-11-2025: No debe traer "Parábola de un Dios velocísimo, que socorre y hace justicia en abrires y cerrares de ojos (29 C 2016)"', () => {
