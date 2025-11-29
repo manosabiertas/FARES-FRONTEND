@@ -1,7 +1,7 @@
 "use client"
 import { ChevronLeft, ChevronRight, Calendar as CalendarIcon, BookOpen, ExternalLink } from "lucide-react"
 import { useState, useEffect } from "react"
-import { traerContemplacionesSemana, type Contemplacion, type Season } from "@/lib/calendar_title_based"
+import { traerContemplacionesSemana, type Contemplacion, type Season } from "@/lib/traerContemplacionesSemanaPorIds"
 
 // Mapeo de colores para las temporadas litúrgicas
 const seasonColors: Record<Season, string> = {

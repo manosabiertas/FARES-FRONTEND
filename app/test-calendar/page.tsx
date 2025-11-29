@@ -1,7 +1,7 @@
 "use client"
 
 import { useEffect, useState } from 'react'
-import { traerContemplacionesSemana } from '@/lib/calendar_title_based'
+import { traerContemplacionesSemana } from '@/lib/traerContemplacionesSemanaPorIds'
 
 export default function TestCalendar() {
   const [resultado, setResultado] = useState<any>(null)
