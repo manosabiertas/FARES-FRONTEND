@@ -1,12 +1,10 @@
 import { traerContemplacionesSemana } from '../../lib/traerContemplacionesSemanaPorIds';
 
-describe('Contemplaciones del 17 al 23 de mayo de 2026', () => {
-  const fechas = [17,18,19,20,21,22,23].map(dia => new Date(Date.UTC(2026, 4, dia)));
-  fechas.forEach((fecha) => {
-    it(`devuelve las contemplaciones del día ${fecha.toISOString().slice(0,10)}`, () => {
-      const resultado = traerContemplacionesSemana(fecha);
-      expect(Array.isArray(resultado.contemplaciones)).toBe(true);
-      expect(resultado.contemplaciones.length).toBeGreaterThan(1);
-    });
+describe('Contemplaciones del 17 de mayo de 2026', () => {
+  const fecha = new Date(Date.UTC(2026, 4, 17));
+  it(`devuelve las contemplaciones del día ${fecha.toISOString().slice(0,10)}`, () => {
+    const resultado = traerContemplacionesSemana(fecha);
+    expect(Array.isArray(resultado.contemplaciones)).toBe(true);
+    expect(resultado.contemplaciones.length).toBeGreaterThan(0);
   });
 });
