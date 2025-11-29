@@ -195,11 +195,7 @@ export interface ContemplacionesSemana {
   contemplaciones: Contemplacion[]
 }
 
-/**
- * Devuelve las contemplaciones para una fecha específica, incluyendo la fecha por la que fue elegida.
- * @param fecha Fecha a consultar
- * @returns Array de objetos { id: number, fecha: string }
- */
+
 export function traerContemplacionesSemana(fecha: Date): ContemplacionesSemana {
   // Lógica real basada en base.tsx
   const hoy = fecha || new Date();
@@ -207,24 +203,44 @@ export function traerContemplacionesSemana(fecha: Date): ContemplacionesSemana {
   const yearLit = liturgicalYearForDate(hoy);
   const ciclo = getCicloLiturgico(yearLit);
   const fechaDomingo = getDomingoDeEstaSemana(hoy);
-  const year = String(hoy.getUTCFullYear());
-  const month = String(hoy.getUTCMonth() + 1).padStart(2, '0');
-  const day = String(hoy.getUTCDate()).padStart(2, '0');
-  const diaData = idsData[year]?.[month]?.[day];
-  let contemplaciones: Contemplacion[] = [];
-  if (diaData && Array.isArray(diaData.contemplaciones)) {
-    contemplaciones = diaData.contemplaciones.map((id: number) => {
-      const contem = (contemplacionesData as any[]).find(c => c.id === id);
-      return contem ? { ...contem, fecha: `${year}-${month}-${day}` } : { id, fecha: `${year}-${month}-${day}` };
-    });
+  // Calcular fechas de la semana (domingo a sábado)
+  const diasSemana: Date[] = [];
+  for (let i = 0; i < 7; i++) {
+    diasSemana.push(addDays(fechaDomingo, i));
   }
-  // Celebracion clave: por ahora solo lo que venga de ids.json
+  let contemplaciones: Contemplacion[] = [];
+  let celebracion_clave: string | null = null;
+  diasSemana.forEach(dia => {
+    const year = String(dia.getUTCFullYear());
+    const month = String(dia.getUTCMonth() + 1).padStart(2, '0');
+    const day = String(dia.getUTCDate()).padStart(2, '0');
+    const diaData = idsData[year]?.[month]?.[day];
+    if (diaData && Array.isArray(diaData.contemplaciones)) {
+      contemplaciones = contemplaciones.concat(
+        diaData.contemplaciones.map((id: number) => {
+          const contem = (contemplacionesData as any[]).find(c => c.id === id);
+          return contem ? { ...contem, fecha: `${year}-${month}-${day}` } : { id, fecha: `${year}-${month}-${day}` };
+        })
+      );
+      // Si la fecha original coincide, guardar celebracion_clave
+      if (isSameDay(dia, hoy) && diaData.celebracion_clave) {
+        celebracion_clave = diaData.celebracion_clave;
+      }
+    }
+  });
+  // Eliminar ids duplicados
+  const idsVistos = new Set<number>();
+  const contemplacionesUnicas = contemplaciones.filter(c => {
+    if (idsVistos.has(c.id)) return false;
+    idsVistos.add(c.id);
+    return true;
+  });
   return {
     fecha: hoy,
     fechaDomingo: fechaDomingo.toISOString().slice(0, 10),
     temporada: seasonInfo.season,
     ciclo,
-    celebracion_clave: diaData?.celebracion_clave ?? null,
-    contemplaciones
+    celebracion_clave,
+    contemplaciones: contemplacionesUnicas
   };
 }
