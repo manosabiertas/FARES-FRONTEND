@@ -3,6 +3,7 @@ import { GeistSans } from 'geist/font/sans'
 import { GeistMono } from 'geist/font/mono'
 import { Playfair_Display, Lato } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
+import GoogleAnalytics from '@/components/GoogleAnalytics'
 import './globals.css'
 
 const playfairDisplay = Playfair_Display({
@@ -39,6 +40,7 @@ export default function RootLayout({
       <body className={`font-sans ${GeistSans.variable} ${GeistMono.variable} ${playfairDisplay.variable} ${lato.variable}`}>
         {children}
         <Analytics />
+        <GoogleAnalytics />
       </body>
     </html>
   )
