@@ -46,3 +46,6 @@ scripts/separar_celebration_index_por_ciclo.js
 test/test_buscarContemplacionesPorFecha.js
 test/Calendario Fares Lecturas.docx
 test/contemplaciones_semana_18_enero_2026.md
+
+# macos
+.DS_Store
